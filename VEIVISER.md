@@ -39,11 +39,12 @@ Teksten fra PDF-en har et merke, `[Side N]`, der hver side begynner. Lenken til 
 
 <!-- AUTO-START: lages av verktoy/kudos_hent.py, rediger ikke for hånd -->
 
-### NOU (50)
+### NOU (51)
 
 | År | Tittel | Innhold | Fil |
 |---|---|---|---|
 | 2026 | NOU 2026: 5 Grunnlaget for inntektsoppgjørene 2026 (TBU-rapporten 2026) | Dette er rapporten fra Det tekniske beregningsutvalget for inntektsoppgjørene til Arbeids- og inkluderingsdepartementet med grunnlagsmateriale for inntektsoppgjørene 2026. Rapporten gir oversikt over lønnsutvikling, innt | `dokumenter/nou/2026/9cea47c9-nou-2026-5.md` |
+| 2026 | NOU 2026: 14 | Denne NOU vurderer muligheter og utfordringer ved bruk og integrasjon av kunstig intelligens (KI) i norsk høyere utdanning. Den analyserer konsekvenser for hva og hvordan studenter skal lære, vurderingsformer, institusjo | `dokumenter/nou/2026/ac335adc-nou-2026-14.md` |
 | 2026 | NOU 2026: 10 Fellesskolen (Fellesskoleutvalget) | Denne NOU-en vurderer fellesskolens rolle og oppdrag i framtidens samfunn og gir en helhetlig utredning med vurderinger og forslag. Den beskriver utviklingstrekk, kunnskapsgrunnlag og utfordringer knyttet til læringsresu | `dokumenter/nou/2026/27c3811b-nou-2026-10.md` |
 | 2025 | NOU 2025: 5 Kvinners arbeidshelse (Kvinnearbeidshelseutvalget) | Kvinnearbeidshelseutvalget har utarbeidet et helhetlig kunnskapsgrunnlag om kvinners arbeidshelse. På grunnlag av kunnskapsgrunnlaget har utvalget videre foreslå tiltak som kan bidra til bedre arbeidshelse og redusert fr | `dokumenter/nou/2025/f0f29cae-nou-2025-5.md` |
 | 2025 | NOU 2025: 4 Grunnlaget for inntektsoppgjørene 2025 (TBU-rapporten 2025) |  | `dokumenter/nou/2025/2f09cbc4-nou-2025-4.md` |
