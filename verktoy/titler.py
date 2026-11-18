@@ -25,7 +25,7 @@ ROT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TYPER = ("NOU", "Melding til Stortinget", "Proposisjon til Stortinget")
 STOPP = re.compile(r"^(Utredning fra|Utgreiing frå|Tilråding|Tilråding frå|Det kongelige|Avgitt til|Til .*departementet|\(Regjeringen|\[Side|Innstilling|Meld\. St|Prop\. |NOU \d|\(\d{4}|Melding til Stortinget|Proposisjon til Stortinget|Omslag|Offentlige institusjoner|Departementenes sikkerhets|Bestilling|Internett|Telefon|E-post|.*www\.)", re.I)
 HOPP = re.compile(r"^(\(\d{4}\s*[–-]\s*\d{4}\)|Melding til Stortinget|Proposisjon til Stortinget.*|Norges offentlige utredninger|\d{4}: ?\d+)$", re.I)
-UTVALG = re.compile(r"\b([A-ZÆØÅ][a-zæøå-]+(?:utvalget|kommisjonen|ekspertgruppen|gruppen))\b(?: \([^)]*\))? (?:ble|vart|blei) oppnevnt")
+UTVALG = re.compile(r"\b((?:[A-ZÆØÅ][a-zæøå]+- og [a-zæøå-]+|[A-ZÆØÅ][a-zæøå-]+)(?:utvalget|kommisjonen|ekspertgruppen|gruppen))\b(?: \([^)]*\))? (?:ble|vart|blei) oppnevnt")
 
 
 def rens(linje):
