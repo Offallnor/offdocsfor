@@ -1,938 +1,270 @@
-# NOU 2026: 14, del 7 av 18 (side 79–89)
+# NOU 2026: 14, del 7 av 20
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/ac335adc-nou-2026-14.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-14/id3191187/
 - Original-PDF: https://www.regjeringen.no/contentassets/31691eb451e941e2b75fdc346978628f/no/pdfs/nou202620260014000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 20 figurer, 57 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-18, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 79]
+# Hva skal vi lære?
 
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
+## Innledning
 
-veiledende funksjon. Den eneste kjente reguleringen av KI-kompetanse er i EUs KI-forordning. KIforordningen (art. 4) stiller krav om at leverandører og idriftsettere av KI-systemer treffer tiltak for
-å sikre et tilstrekkelig nivå av KI-kompetanse hos
-sine ansatte. Tiltakene skal ta hensyn til de ansattes tekniske kunnskap, erfaring, utdanning og
-opplæring, den konkrete sammenhengen KIsystemene skal brukes i, og sluttbrukernes (for
-eksempel studentenes) behov. Dette innebærer at
-institusjonene må sørge for en trygg og ansvarlig
-brukskontekst, og at studenter bør få nødvendig
-veiledning om risikoer og begrensninger, og retningslinjer for KI-bruk som ivaretar akademisk
-integritet.
+Utviklingen av kunstig intelligens (KI) påvirker hva det er formålstjenlig å lære. I ytterste konsekvens kan KI-systemer erstatte mennesker i løsningen av visse oppgaver. Det reduserer nytteverdien av den kunnskapen og de ferdighetene som tidligere var nødvendige for å løse oppgavene. Samtidig kan mange ferdigheter og typer kunnskap bli mer verdifulle som følge av teknologiutviklingen, for eksempel ved at de gjør oss bedre i samspill med KI, at de setter oss i stand til å løse nye oppgaver som teknologien skaper, eller til å unngå teknologiens mulige skadevirkninger. Med riktig sammensetning av kunnskap og ferdigheter blir vi bedre posisjonert både til å utløse potensialet av KI og til å begrense risikoene teknologien bærer med seg.
 
-5.4.2 Utvalgets vurdering
-I tråd med at KI i økende grad kommer til å prege
-fagene, arbeidslivet og samfunnet i årene fremover, er det behov for mer kunnskap om og ferdigheter med teknologien. Uten det kan vi ikke aktivt
-forsøke å unngå risikoene ved teknologien, styrke
-vår evne til teknologisk selvbestemmelse eller
-utnytte KIs potensial for produktivitetsvekst. For å
-ivareta målene om faglig kvalitet og samfunns- og
-arbeidslivsrelevans, bør derfor studietilbudene i
-høyere utdanning gi kunnskap om og ferdigheter
-med KI. Man kan også argumentere for at KIkompetanse blir en stadig viktigere del av hva det
-vil si å være dannet i vår tid.
-KI-kompetanser kan ikke løsrives helt fra
-andre typer læringsutbytte, i to betydninger. For
-det første kan læringsutbytter som ikke egentlig
-dreier seg om KI, være forutsetninger for å utøve
-visse former for KI-kompetanse. Man kan for
-eksempel vanskelig gjøre kritiske vurderinger av
-KI-generert innhold uten et fundament av fagkunnskap og ferdigheter i kritisk tenkning. I dette
-tilfellet fungerer fagkunnskap og kritisk tenkning
-som det kompetansebehovsutvalget (2025, s. 59)
-kaller muliggjørende kompetanser.
-For det andre kan det være uklare grenser for
-hva man skal regne som KI-kompetanse og hva
-man skal regne som annen kompetanse. Når en
-jusstudent utvikler kunnskap om hvor godt ulike
-KI-systemer ivaretar personvernet, så kan vi på ett
-plan forstå det som en anvendelse av kunnskap
-hun allerede har, om personvern. På et annet plan
-utvikler hun et stykke kunnskap om KI. Det fremstår riktigst å si at det er begge deler. Studenter
-lærer både om, med og gjennom KI når teknologien tas i bruk i fagene.
-De ulike formene for KI-kompetanse er altså
-ikke fundamentale stykker med kunnskap som
+Kapittelet er organisert som følger.
 
-77
+De første to underkapitlene gir premisser for de påfølgende vurderingene og resonnementene: Kapittel 5.2 beskriver hvilke formål utvalgets vurderinger retter seg etter, og kapittel 5.3 gir uttrykk for hva utvalget antar om teknologiske og samfunnsmessige utviklingstrekk.
 
-Kapittel 5
+Et av spørsmålene som treffer universiteter, høyskoler og sentrale utdanningsmyndigheter, er hva slags kompetanse om og med KI som blir viktig å utvikle. Utvalget gir sitt svar på dette spørsmålet i kapittel 5.4. Et annet spørsmål er hvordan KI-utviklingen påvirker bredden av ulike læringsutbytter, fra fagkunnskap til programmeringsferdigheter og kritisk tenkning. Kapittel 5.5 beskriver forholdet mellom KI og menneskelig kompetanse, og gir en vurdering av hva slags utfordring KI reiser for etablert læringsinnhold. Implikasjonene KI-utviklingen har for et utvalg av viktige og spesielt berørte typer læringsutbytte blir vurdert i kapittel 5.6.
 
-man kan besitte uavhengig av andre stykker med
-kunnskap. De behøver heller ikke være uavhengig av andre former for KI-kompetanse. Dette er
-tydelig ut fra hvordan DECs rammeverk for KIkompetanse skjelner mellom ulike kompetanseområder: Skal man forstå hvilke styrker og svakheter et KI-system har – en ferdighet som blir sortert under «kritisk tenkning og dømmekraft»
-(Digital Education Council, 2025a, s. 12) – kan det
-forutsette kunnskaper og ferdigheter fra alle kompetanseområdene.
-Som nevnt, vurderer utvalget DECs rammeverk for KI-kompetanse som det nyttigste av
-kjente, etablerte rammeverk for å tenke om KIkompetanse i høyere utdanning. Utvalget vil likevel ikke anbefale at rammeverket brukes som noe
-mer enn et nyttig utgangspunkt. En utfordring
-med alle rammeverk for KI-kompetanse er at de
-ikke er laget for å fange inn fagforskjeller. For
-eksempel er kunnskap om KI og personvern viktigere for sykepleiere enn det er for bygningsingeniører. En annen utfordring er at rammeverkene
-er statiske verktøy i møte med en teknologi i rask
-utvikling. Det å identifisere hva slags KI-relatert
-læringsinnhold som fortjener plass i det enkelte
-studietilbud, er derfor et arbeid som er nødt til å
-skje løpende og som ideelt sett innebærer fagtilpasning.
-Utvalget har ikke prioritert å selv utvikle et
-rammeverk for KI-kompetanse. I stedet følger
-konkrete vurderinger av noen bestemte typer
-kunnskap om og ferdigheter med teknologien
-som det er behov for å styrke, og av hvilken rolle
-høyere utdanning har i dette. Vurderingene er
-sortert under kategoriene generell KI-kompetanse og fagspesifikk KI-kompetanse.6
+Kapittel 5.7 beskriver og vurderer dagens regulering av læringsutbytte. Kapittel 5.8 viser hvordan KI-utviklingen samlet sett kan gi behov for et mer avansert læringsutbytte. Kapittel 5.9 gir anbefalinger på grunnlag av vurderingene som er gjort i kapittelet.[^31]
 
-5.4.2.1 Generell KI-kompetanse
-Generell KI-kompetanse er den kunnskapen om
-KI og de ferdighetene med KI som er felles for
-ulike fagområder. De fire første kompetanseområdene i DECs rammeverk er alle ulike dimensjoner
-av generell KI-kompetanse.
-Det er rimelig å forvente at fremtidens studentkull vil ha mer forhåndskunnskap om KI, i
-takt med at KI tar mer plass som tema i skolen og
-i det offentlige ordskiftet. Høyere utdanning har
-likevel en viktig rolle i å løfte kunnskapsnivået
-6
+## Formål
 
-Utvalget tar ikke for seg såkalt spesialisert KI-kompetanse –
-den kunnskapen og de ferdighetene som kreves for å
-utvikle og drifte KI-systemer. Fagmiljøene som til daglig
-jobber med å utvikle spesialistkompetanse er i en bedre
-posisjon enn utvalget til å bedømme hva slags KI-kompetanse deres studenter har behov for.
+Formålene med høyere utdanning legger føringer for hvordan vi kan vurdere hva som er formålstjenlig å lære (jf. kap. 2.2). Læringsutbyttet skal komme både en selv og samfunnet til gode. Læringsutbyttet kan ha en instrumentell verdi, for eksempel som en forutsetning for å løse en økonomisk verdifull oppgave eller styrke rasjonaliteten i det offentlige ordskiftet, og det kan være verdifullt for sin egen skyld, for eksempel som en berikelse for den som tilegner seg det.
 
-[Side 80]
+Utvalgets vurderinger av hvordan KI påvirker hva vi skal lære tar nærmere bestemt utgangspunkt i tre overlappende målsettinger:
 
-78
+- *Faglig kvalitet*: Høyere utdanning er konstituert av fag med ulike metoder, begrepsapparater, kunnskapsgrunnlag og praksisfelt. Å studere et fag innebærer å lære seg å tenke som en utøver av faget. Man skal lære seg å tenke som en historiker, som en økonom, som en matematiker, som en sykepleier osv. KI påvirker hva det betyr å være en god fagutøver, blant annet gjennom å endre på hvilke metoder og teknikker man har størst nytte av å beherske. KI kan også påvirke forutsetningene for å lære seg å tenke som en kyndig fagutøver.
 
-Kapittel 5
+- *Samfunns- og arbeidslivsrelevans*: KI-utviklingen påvirker samfunnet og arbeidslivet på mange ulike måter. For at utdanningstilbudene skal holdes relevante, må de blant annet møte endrede kompetansebehov. Dette handler ikke bare om å holde tritt med en utvikling som skjer utenfor universitetene og høyskolene, men også om at kandidater fra høyere utdanning skal kunne forme fremtidens samfunn og arbeidsliv (Meld. St. 5 (2022–2023), s. 22–23).
 
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
+- *Dannelse*: Høyere utdanning skal bidra til å forme oss som tenkende individer, blant annet ved at vi kultiverer holdninger og intellektuelle vaner. Gjennom å lære oss å tenke selvstendig, og gjennom å få kjennskap til ideene som våre demokratiske og kulturelle praksiser bygger på, blir vi også i bedre stand til å ta del i og forme disse praksisene.
 
-videre, og det er i høyere utdanning man har tilgang på de faglig sett sterkeste undervisningsressursene på området.
-Utvalget vil fremheve følgende kompetanser
-som særlig viktige. Intensjonen er ikke å gi en
-uttømmende liste, men et utvalg av viktige kompetanseområder med verdi for alle studenter i høyere utdanning.
+## Antakelser om fremtiden
+
+Utviklingen av kunstig intelligent teknologi går raskt. Det er usikkert hva slags teknologi vi vil ha tilgjengelig om fem, ti eller 20 år. Det er også langt på vei usikkert hvordan teknologien vil prege samfunnet og arbeidslivet, og hvordan den vil prege fagene i høyere utdanning. Samtidig blir ikke fremtidsutsiktene bestemt av teknologi alene, og det er heller ikke forutbestemt hvordan vi tar KI-systemer i bruk. Noe kan vi likevel legge til grunn om teknologiutviklingen og hva slags samfunn studentene skal ut i.
+
+Noen av de viktigste forutsetningene blir beskrevet i det følgende, nemlig utviklingen av mer kapable KI-systemer og integrasjonen av KI i samfunn og arbeidsliv, behovet for økt produktivitet og teknologisk selvbestemmelse, og Norge som et liberalt demokrati med et informasjonslandskap under press.
+
+### KI-kapabiliteter
+
+KI omfatter både spesialiserte systemer som tjener avgrensede formål, og fleksible systemer som kan brukes til et mangfold av oppgaver – det som i EUs KI-forordning heter «KI-modeller til allmenne formål». Den første kategorien omfatter for eksempel medisinske diagnoseverktøy og anbefalingsalgoritmer på nettplattformer. Den andre kategorien omfatter grunnmodeller og mange av systemene som bygger på dem, f.eks. samtaleroboter og agentiske systemer. Et KI-systems «kapabiliteter» viser til hvor godt systemet presterer på ulike oppgaver og parametre.
+
+Kapittel 3.7 beskriver KI-utviklingen i større detalj. Noen trekk ved utviklingen er verdt å fremheve her:
+
+- Systemene blir i stand til å gjøre stadig mer, og med bedre kvalitet, på grunn av tekniske innovasjoner og større tilgang på data og regnekraft.
+
+- Et høyt utviklingstempo kombinert med stor investeringsvilje tyder på at utviklingen vil fortsette, uten at det er gitt om den vil akselerere, sakke ned eller fortsette i samme tempo (Government Office for Science, 2026; OECD, 2026a). Historisk har oppskaleringen av grunnmodeller – med flere parametre og mer data og regnekraft til treningen – gitt gode forutsigelser av hvor kapable modellene vil være. Vi kan likevel ikke slå fast at fortidige skaleringsmønstre vil fortsette. Vi er, enkelt sagt, i et ukjent terreng.
+
+- Flere av sprangene i utviklingen har vært uforutsigbare. Det var for eksempel vanskelig å forutsi at språkmodeller kunne brukes til å produsere avanserte matematiske og logiske bevis før det ble utviklet såkalt *resonnerende* modeller.[^32]
+
+Utviklingstrekkene gir en betydelig usikkerhet om hva slags teknologisk virkelighet fremtidens studenter utdannes i og til.
+
+Når det gjelder spesialiserte KI-systemer med avgrensede formål, er det sannsynlig at vi vil fortsette å se nye anvendelser. For alle oppgaver hvor man har et veldefinert mål – og hvor man kan samle inn data med kjennetegn på vellykkede og mislykkede løsninger – er det mulig å bruke maskinlæringsteknikker for å lage et system som gjennom nok trening kan løse oppgaven (jf. kap. 3). Dette utgjør et stort mulighetsrom for utvikling av KI-systemer som er innrettet for å løse én type oppgave godt.
+
+Usikkerheten om fremtidens KI-systemer er likevel størst for de store språkmodellene og systemene som bygger på dem. Språk – som i denne sammenhengen omfatter både naturlige språk og formaliserte systemer, som programmeringsspråk og matematisk notasjon – kan sees på som et universalverktøy. I likhet med menneskelig kognisjon er det ikke noen klar grense for hva språkmodeller kan brukes til.
+
+Bredden i hva språkmodeller kan brukes til sammenfaller med at det både er stor variasjon og uforutsigbarhet i hvor godt ulike systemer presterer på bestemte oppgaver (jf. kap. 3.7 om den ujevne utviklingsfronten). På visse områder, som matematikk og programmering, har de over tid vist seg å prestere svært godt. Selskapene som utvikler de fremste språkmodellene – blant annet OpenAI og Anthropic – gjør utstrakt bruk av egne modeller til å programmere neste generasjons modeller. Ettersom systemene jobber raskt og aldri behøver hvile, høyner dette taket for hva slags teknologiske muligheter som kan finnes om fem, ti eller 20 år.
+
+OECD og britiske Government Office for Science har fremstilt scenarioer for KI-utviklingen (Government Office for Science, 2026; OECD, 2026a). Scenarioene i begge publikasjoner spenner fra full stagnasjon til at de beste modellene overgår menneskelige eksperter på alle kognitive oppgaver. I tråd med den betydelige graden av usikkerhet vi her legger til grunn, knytter verken OECD eller Government Office for Science sannsynlighetsestimater til enkeltscenarioer.
+
+Med dette utgangspunktet må vi forutsette at fremtidens KI-systemer vil bli mer kapable enn dagens systemer, og at de i ytterste konsekvens kan prestere bedre enn menneskelige eksperter på alle kognitive oppgaver. Områdene hvor det er mest sannsynlig at KI-systemene vil prestere best, enten det er gjennom spesialiserte systemer til avgrensede formål eller gjennom modeller til allmenne formål, er de områdene hvor man kan definere klare mål og har oppgaveløsninger som lar seg verifisere. KI-systemenes forhold til menneskelig kompetanse er utbrodert i kapittel 5.5.
+
+### KI-integrasjon
+
+Det tar tid før teknologiske muligheter blir gjort til virkelighet. Det krever aktive valg om å ta teknologien i bruk og kan innebære mye friksjon: Kanskje må en virksomhet bytte ut sine datasystemer eller omorganisere seg, eller kanskje må en større produksjonskjede omkalfatres for å dra nytte av mulighetene KI gir. Tilsvarende kan integrasjon av KI i fagene i høyere utdanning kreve at man utvikler nye metoder heller enn å få systemene til å løse eksisterende oppgaver med etablerte metoder.
+
+Etter tall som Statistisk sentralbyrå samlet inn våren 2026, hadde 89 prosent av befolkningen mellom 16 og 79 år brukt generative KI-systemer til private formål i løpet av de siste tre månedene, mens 65 prosent hadde brukt generative KI-systemer til jobb- eller karriererelaterte formål (Statistisk sentralbyrå, 2026b). Dette sier lite om hvor dypt integrert generative KI-systemer er i samfunns- og arbeidsliv, men det er en klar indikasjon på at teknologien har spredd seg raskt på få år, også i Norge.
+
+Kompetansebehovsutvalget (2025, s. 44) peker på at generative KI-systemer har blitt tatt i bruk *bottom-up*, som en teknologi ansatte selv finner frem til, eller som blir gjort tilgjengelig for dem med lisenser uten detaljert instruksjon om hvordan den skal brukes. Få virksomheter har integrert KI i sine systemer og få virksomheter opplever å realisere gevinster av sin KI-bruk (Rambøll, 2025). For bruk av språkmodeller, samt systemene som bygger på dem, er dette lite overraskende: Teknologien har uavgrensede bruksformål, er fortsatt fersk for de aller fleste, og den har en varierende og delvis ukjent pålitelighet. Det tar tid å finne ut hvordan man skal ta språkmodeller i bruk på en forsvarlig og produktiv måte. Selv om kapabilitetsutviklingen stagnerer, vil vi trolig se videre integrasjon av dagens KI-systemer.
+
+Språkmodeller føyer seg inn i et mønster for teknologier til allmenne formål, som elektrisitet og personlige datamaskiner: Brynjolfsson et al. (2021) viser at slike teknologier kan kreve en rekke endringer og komplementære investeringer før de gir utslag i eventuelle og potensielt store produktivitetsgevinster.
+
+Heller ikke for fagene i høyere utdanning blir teknologiske muligheter umiddelbart omsatt i nye praksiser. Det tar tid å finne ut hva slags rolle KI-systemer kan ha i faglige metoder som ble utviklet lenge før vi hadde noe som minner om dagens KI-systemer, eller hvordan man kan utvikle nye faglige metoder som baserer seg på dem fra grunnen av. Der hvor for eksempel gode transkripsjonsverktøy har en umiddelbar nytte for gjennomføring av journalistiske og samfunnsvitenskapelige intervjuer, må fagmiljøene over tid komme fram til hvilken rolle språkmodeller kan spille i analyser av intervjudata og annen kvalitativ data.
+
+Per i dag er KI-løsninger sterkest integrert i STEM-fagene og i de økonomiske og administrative fagene. I matematikk står for eksempel KI-systemer, med eller uten vesentlig grad av menneskelig assistanse, for mange av de betydeligste nye bevisene som er blitt utviklet i 2026. De humanistiske og estetiske fagene er minst preget av KI. I filosofi er det for eksempel få, om noen, fagspesifikke KI-anvendelser, uten at det betyr at KI-systemer ikke har noen rolle i faget. Også filosofer kan dra nytte av faglig sett generiske anvendelser som å få støtte til hvordan et argument kan organiseres. Forskjellene i hvor dypt KI er integrert i de ulike fagene reflekteres blant annet i Studiebarometerets oversikt over hvilke studentgrupper som gjør størst bruk av KI-systemer (HK-dir, 2026b; se også kap. 6).
+
+Det er usikkert hvor raskt, bredt og dypt KI integreres i fagene i høyere utdanning, i samfunnet og i arbeidslivet. Det er likevel en klar kurs på utviklingen: Fremtidens studenter skal utdanne seg i fag som er mer preget av KI, ta del i et samfunn og arbeidsliv som er mer preget av KI, og det er en forventning om at nyutdannede vil ha kompetanse til å utnytte KI-systemer i utøvelsen av faget. Utvalget legger til grunn at KI vil bli sterkere integrert i alle fag i høyere utdanning.
+
+### Demografi og produktivitet
+
+I årene fremover vil Norge ha færre folk i arbeidsfør alder og et økende behov for helse- og omsorgstjenester på grunn av en aldrende befolkning. Siden KI-systemer kan avlaste arbeidskraftsbehovet og øke produktiviteten, kan KI være en del av løsningen på en av våre største samfunnsutfordringer i årene fremover.
+
+Uten høyere produktivitet vil ikke Norge kunne opprettholde dagens velferdsnivå, møte eldrebølgen eller kompensere for nedgang i oljeinntekter. Parallelt er den yrkesaktive andelen av befolkningen forventet å falle fra 54 prosent i 2023 til 48 prosent i 2060 (Meld. St. 31 (2023–2024), kap. 1.1.1. og 3.5.2.). Det samme gjelder for EU, som går inn i den første perioden i nyere historie der (eventuell) økonomisk vekst ikke vil bli støttet av økende befolkning (jf. Draghi, 2024, s. 23). Disse endringene skjer i en kontekst der midler i statsbudsjettet kan anvendes mindre fritt enn tidligere, på grunn av behov i forsvarssektoren og prioriteringer for å nå målet om et lavutslippssamfunn (Meld. St. 31 (2023–2024), kap. 1.1.2; Prop. 87 S (2023–2024)).
+
+Helsepersonellkommisjonen fremhever teknologiske løsninger som en av nøklene for å redusere personellbehovet: «Selv om helse- og omsorgstjenesten er arbeidsintensiv og svært mange av oppgavene er relasjonelle, er det en rekke oppgaver som ikke er det. De kan og bør automatiseres.» (NOU 2023: 4, s. 269)
+
+Forskere har svært ulike forutsigelser om produktivitetsveksten KI kan gi, fra forsiktige anslag basert på kjente variabler, til høye anslag drevet av eksponentielle vekstkurver. Daron Acemoglu (2025) anslår at KI kun vil gi en beskjeden produktivitetsvekst over de neste ti årene, med en økning på ikke mer enn 0,66 prosent i total faktorproduktivitet for hele perioden.[^33] Philip Tramell og Anton Korinek (2023) argumenterer på sin side for at KI-utviklingen akselererer og går såpass fort at vi i nær fremtid kan se automatisering av svært mye produksjon, forskning og utvikling. Et slikt scenario vil kunne innebære en enorm, kapitaldrevet produktivitetsvekst. Litteraturen viser samstemmighet om at KI vil gi produktivitetsvekst, men svært ulike forventninger om vekstens omfang. Behovet for produktivitetsvekst og avlastning av arbeidskraftsressurser er i alle fall klart til stede, og utvalget forutsetter at KI vil spille en rolle i å møte dette behovet.
+
+### Teknologisk selvbestemmelse
+
+I Norge har vi en lang tradisjon for å regulere teknologisk infrastruktur slik at den kommer samfunnet til gode. Ny teknologi knyttet til for eksempel transport og utnyttelsen av vannkraft og olje illustrerer dette trekket i moderne norsk historie. Norge er primært en konsument av KI-systemer og KI-relaterte løsninger utviklet i utlandet. Skal digital teknologi generelt og KI spesielt komme til å prege samfunnet i økende grad, kommer problemstillinger knyttet til vår digitale suverenitet til å bli stadig viktigere i årene fremover. Dette blir forsterket av en mer urolig geopolitikk: Blir KI-systemer mer kritiske for hvordan vi arbeider, former oppfatninger og treffer beslutninger, blir det også viktigere å unngå sårbare avhengighetsforhold til et fåtall teknologileverandører underlagt andre makter (jf. kap. 8). Vi kan på dette grunnlaget forutsette at vår evne til å bestemme over teknologien vi gjør bruk av, og hvilke løsninger vi gjør oss avhengig av, blir viktigere.
+
+### Et liberalt demokrati med et informasjonslandskap under press
+
+Etter en tradisjon som for Norges del satte fart i 1814, hvor norske samfunnsmedlemmer ble omdannet fra undersåtter under en eneveldig dansk konge til (formelt) frie og likestilte samfunnsborgere, har vi et liberalt demokrati med en uavhengig rettsstat og grunnlovfestet ytringsfrihet. For at det norske demokratiet skal fungere godt, er det avhengig av et velfungerende offentlig ordskifte med bred deltakelse, saklig argumentasjon og rom for uenigheter. Demokratiet er også avhengig av kilder til informasjon som nyter bred tillit, og som gjør seg den tilliten fortjent. Idet KI blir dypere integrert i samfunnet, kan disse betingelsene for et velfungerende demokrati bli utfordret.
+
+KI påvirker allerede våre medievaner og dermed hva slags informasjon vi bygger våre oppfatninger på. Algoritmer utviklet med maskinlæring er med på å bestemme hva slags medieinnhold og informasjon vi blir eksponert for på nettplattformer, typisk med mål om å øke tiden vi bruker på plattformene. Dette forsterker en trend hvor redaktørstyrte mediers rolle i den offentlige samtalen blir svekket (NOU 2022: 9). Altså blir mindre av informasjonen som den offentlige samtalen bygger på, vurdert og formidlet av journalister og redaktører. Videre kan innholdsalgoritmer på nettplattformer forstyrre vår evne til oppmerksomhet, gjennom å holde oss engasjert på plattformen.
+
+KI-generert innhold blir stadig vanligere, både i forskningspublikasjoner, sosiale og redaktørstyrte medier, og i annen kommunikasjon. Mer effektiv produksjon og distribusjon av informasjon er i utgangspunktet et gode, forutsatt at informasjonen er av god kvalitet. Men KI-generert innhold fører også med seg utfordringer. Ett problem er at generative KI-systemer kan dikte opp saksforhold, personer eller kilder, og dermed gi feilinformasjon. Et annet problem at systemene kan tjene som effektive verktøy for å aktivt spre desinformasjon eller skadelig informasjon (Ekspertgruppen for kunstig intelligens og valg, 2025, kap. 5.1; jf. NOU 2022: 9, s. 160).
+
+Også studenter i høyere utdanning treffer et annerledes informasjonslandskap enn det de gjorde for fem, ti eller 20 år siden. Effekten er tvetydig. På den ene siden er KI-formidlet og KI-generert læringsinnhold utsatt for problemer med skjevheter og hallusinasjon. På den andre siden kan KI-systemer la studentene finne frem til faglitteratur mer effektivt enn eldre søkemotorer, eller la dem gå i en form for dialog med fagstoffet.
+
+Når KI-systemer både formidler og skaper en stor del av den informasjonen vi bygger våre oppfatninger og holdninger på, ligger det mye makt hos selskapene som utvikler systemene. I fintreningen av en språkmodell er det betydelig rom for å instruere den – direkte eller indirekte – til å favorisere bestemte syn og verdier, på godt og vondt.
+
+Alle disse trekkene gir et informasjonslandskap som er mer krevende å navigere i. KI bidrar til et større informasjonsvolum og et svakere grunnlag for tillit til at informasjonen vi får tilgang til er sann eller veldokumentert. Studentene treffer det samme underveis i utdanningen, idet de skal utforske, vurdere og sammenstille informasjon i et læringsøyemed.
+
+## KI-kompetanse
+
+Når KI i økende grad preger samfunnet, arbeidslivet og fagene som høyere utdanning bygger på, blir det et større behov for KI-kompetanse. «KI-kompetanse» betegner i denne sammenhengen alt av kunnskap om KI og ferdigheter i utvikling og bruk av KI. Dette er en mangeartet kategori. For å møte behovene for KI-kompetanse er det derfor nødvendig å tenke systematisk om spesifikke former for KI-kompetanse, hvilke som er viktigst og hvilken rolle universiteter og høyskoler har i å utvikle dem.
+
+### Etablerte rammeverk for KI-kompetanse
+
+Det har vært mange initiativer for å beskrive hva slags KI-kompetanse det blir større behov for. En del av beskrivelsene er samlet og strukturert i rammeverk for KI-kompetanse eller KI-kyndighet (*AI literacy frameworks*). Utvalget har orientert seg om flere slike rammeverk:
+
+- OECDs AILit Framework, utviklet i samarbeid med Code.org og EU-kommisjonen (OECD, 2025b)
+
+- EU-kommisjonens rammeverk for digital kompetanse, DigComp. Utgave 3.0 er en omfattende oppdatering, med tilføyelse av mange former for KI-kompetanse. Her er KI-kompetansene sammenvevd med andre former for digital kompetanse i stedet for å være gruppert for seg selv (Cosgrove & Cachia, 2025)
+
+- UNESCOs rammeverk, som primært retter seg mot skolen (UNESCO, 2024)
+
+- Det tyskutviklede AIComp-rammeverket (Ehlers et al., 2024)
+
+- Digital Education Councils rammeverk (Digital Education Council, 2025a)
+
+Samlet sett likner rammeverkene på hverandre. De gir alle uttrykk for behovet for å kunne forstå, bruke, utvikle og forvalte KI-systemer, og ta kritisk stilling til de etiske, juridiske og samfunnsmessige utfordringene teknologien reiser.
+
+Rammeverket til Digital Education Council (DEC) er etter utvalgets vurdering den nyttigste referansen for arbeid med KI-kompetanse i norsk høyere utdanning.[^34] Rammeverket er spesifikt utviklet for høyere utdanning, med blant annet rimelige vurderinger om hva som egner seg å lære i konteksten av høyere utdanning, og med operasjonaliseringer av rammeverket for studenter og ansatte.
+
+DEC deler KI-kompetanse inn i fem kompetanseområder («dimensjoner»): (1) Forståelse av KI og data, (2) kritisk tenkning og dømmekraft, (3) etisk og ansvarlig bruk, (4) menneskelig orientering, emosjonell intelligens og kreativitet og (5) domeneekspertise (Figur 5.1). Kompetanseområdene er definert og eksemplifisert. Videre spesifiserer DEC tre ulike mestringsnivåer for hvert kompetanseområde.
+
+Kompetanseområder i DECs rammeverk for KI-kompetanse
+
+Utvalgets oversettelse og reproduksjon av DECs figur.
+
+Kilde: Digital Education Council (2025a)
+
+- *Forståelse av data og KI* omfatter det å beherske KI-relaterte begreper, for eksempel om maskinlæring; kunnskap om hvordan KI-systemer blir utviklet og om hvordan systemene fungerer.
+
+- *Kritisk tenkning og dømmekraft* omfatter det å forstå styrkene og svakhetene til KI-systemer, hvordan de kan gi feilaktige eller misvisende resultater, hvordan man kan verifisere KI-skapte løsninger, og det å kunne føre resonnementer om når man bør og ikke bør stole på et KI-system.
+
+- *Etisk og ansvarlig bruk* omfatter kunnskap om de etiske og juridiske problemstillingene KI-systemer reiser, herunder om transparens, reproduksjon av skjevheter, ansvar for resultater, personvern og opphavsrett, samt ferdigheter i hvordan man kan bruke KI-systemer på en forsvarlig måte.
+
+- *Menneskelig orientering, emosjonell intelligens og kreativitet* omfatter forståelse av hva som skjer i møter mellom mennesker og KI, herunder hvordan KI påvirker sosiale forhold, og kunnskap om hvordan KI-systemer kan støtte oss som mennesker heller enn at mennesker blir underordnet teknologien.
+
+- *Domeneekspertise* omfatter KI-relaterte kunnskaper og ferdigheter som bare kommer til uttrykk i bestemte faglige og yrkesmessige kontekster.
+
+Merk at de fire første kompetanseområdene faller inn under det vi kan kalle generell KI-kompetanse, mens det siste – domeneekspertise – svarer til det vi kan kalle fagspesifikk KI-kompetanse. Rammeverket sporer dermed et skille som har vært brukt flere ganger i norsk sammenheng, mellom generell, fagspesifikk og spesialisert digital kompetanse – sist av kompetansebehovsutvalget (2025).[^35] KI-kompetanse kan i denne sammenheng forstås som en gjennomgående underkategori av digital kompetanse.
+
+Etter hva utvalget kjenner til, finnes det ikke noe rammeverk for KI-kompetanse som er kodifisert i et regelverk. Rammeverkene har dermed en veiledende funksjon. Den eneste kjente reguleringen av KI-kompetanse er i EUs KI-forordning. KI-forordningen (art. 4) stiller krav om at leverandører og idriftsettere av KI-systemer treffer tiltak for å sikre et tilstrekkelig nivå av KI-kompetanse hos sine ansatte. Tiltakene skal ta hensyn til de ansattes tekniske kunnskap, erfaring, utdanning og opplæring, den konkrete sammenhengen KI-systemene skal brukes i, og sluttbrukernes (for eksempel studentenes) behov. Dette innebærer at institusjonene må sørge for en trygg og ansvarlig brukskontekst, og at studenter bør få nødvendig veiledning om risikoer og begrensninger, og retningslinjer for KI-bruk som ivaretar akademisk integritet.
+
+### Utvalgets vurdering
+
+I tråd med at KI i økende grad kommer til å prege fagene, arbeidslivet og samfunnet i årene fremover, er det behov for mer kunnskap om og ferdigheter med teknologien. Uten det kan vi ikke aktivt forsøke å unngå risikoene ved teknologien, styrke vår evne til teknologisk selvbestemmelse eller utnytte KIs potensial for produktivitetsvekst. For å ivareta målene om faglig kvalitet og samfunns- og arbeidslivsrelevans, bør derfor studietilbudene i høyere utdanning gi kunnskap om og ferdigheter med KI. Man kan også argumentere for at KI-kompetanse blir en stadig viktigere del av hva det vil si å være dannet i vår tid.
+
+KI-kompetanser kan ikke løsrives helt fra andre typer læringsutbytte, i to betydninger. For det første kan læringsutbytter som ikke egentlig dreier seg om KI, være forutsetninger for å utøve visse former for KI-kompetanse. Man kan for eksempel vanskelig gjøre kritiske vurderinger av KI-generert innhold uten et fundament av fagkunnskap og ferdigheter i kritisk tenkning. I dette tilfellet fungerer fagkunnskap og kritisk tenkning som det kompetansebehovsutvalget (2025, s. 59) kaller muliggjørende kompetanser.
+
+For det andre kan det være uklare grenser for hva man skal regne som KI-kompetanse og hva man skal regne som annen kompetanse. Når en jusstudent utvikler kunnskap om hvor godt ulike KI-systemer ivaretar personvernet, så kan vi på ett plan forstå det som en anvendelse av kunnskap hun allerede har, om personvern. På et annet plan utvikler hun et stykke kunnskap om KI. Det fremstår riktigst å si at det er begge deler. Studenter lærer både om, med og gjennom KI når teknologien tas i bruk i fagene.
+
+De ulike formene for KI-kompetanse er altså ikke fundamentale stykker med kunnskap som man kan besitte uavhengig av andre stykker med kunnskap. De behøver heller ikke være uavhengig av andre former for KI-kompetanse. Dette er tydelig ut fra hvordan DECs rammeverk for KI-kompetanse skjelner mellom ulike kompetanseområder: Skal man forstå hvilke styrker og svakheter et KI-system har – en ferdighet som blir sortert under «kritisk tenkning og dømmekraft» (Digital Education Council, 2025a, s. 12) – kan det forutsette kunnskaper og ferdigheter fra alle kompetanseområdene.
+
+Som nevnt, vurderer utvalget DECs rammeverk for KI-kompetanse som det nyttigste av kjente, etablerte rammeverk for å tenke om KI-kompetanse i høyere utdanning. Utvalget vil likevel ikke anbefale at rammeverket brukes som noe mer enn et nyttig utgangspunkt. En utfordring med alle rammeverk for KI-kompetanse er at de ikke er laget for å fange inn fagforskjeller. For eksempel er kunnskap om KI og personvern viktigere for sykepleiere enn det er for bygningsingeniører. En annen utfordring er at rammeverkene er statiske verktøy i møte med en teknologi i rask utvikling. Det å identifisere hva slags KI-relatert læringsinnhold som fortjener plass i det enkelte studietilbud, er derfor et arbeid som er nødt til å skje løpende og som ideelt sett innebærer fagtilpasning.
+
+Utvalget har ikke prioritert å selv utvikle et rammeverk for KI-kompetanse. I stedet følger konkrete vurderinger av noen bestemte typer kunnskap om og ferdigheter med teknologien som det er behov for å styrke, og av hvilken rolle høyere utdanning har i dette. Vurderingene er sortert under kategoriene generell KI-kompetanse og fagspesifikk KI-kompetanse.[^36]
+
+#### Generell KI-kompetanse
+
+Generell KI-kompetanse er den kunnskapen om KI og de ferdighetene med KI som er felles for ulike fagområder. De fire første kompetanseområdene i DECs rammeverk er alle ulike dimensjoner av generell KI-kompetanse.
+
+Det er rimelig å forvente at fremtidens studentkull vil ha mer forhåndskunnskap om KI, i takt med at KI tar mer plass som tema i skolen og i det offentlige ordskiftet. Høyere utdanning har likevel en viktig rolle i å løfte kunnskapsnivået videre, og det er i høyere utdanning man har tilgang på de faglig sett sterkeste undervisningsressursene på området.
+
+Utvalget vil fremheve følgende kompetanser som særlig viktige. Intensjonen er ikke å gi en uttømmende liste, men et utvalg av viktige kompetanseområder med verdi for alle studenter i høyere utdanning.
+
 Teknologiforståelse
-Å ha en grunnleggende forståelse av de tekniske
-sidene av KI er en forutsetning for det meste av
-KI-kompetanse. En sentral del av dette er å beherske KI-relaterte begreper, herunder om data, maskinlæring og grunnmodeller. Det omfatter også å
-vite noe om spekteret av ulike typer KI-systemer
-og forskjellen på dem, som mellom regelbaserte
-og datadrevne systemer; mellom modeller til allmenne formål og spesialiserte systemer; mellom
-prediktive, generative og agentiske systemer; mellom åpne og lukkede modeller mv. En god teknisk
-forståelse av KI innebærer å vite hvordan systemene, i kraft av måten de er utviklet på, kan gi feilaktige eller misvisende resultater. En god teknisk
-forståelse av KI kan også innebære å vite noe om
-hva slags infrastruktur fremtredende KI-systemer utvikles og drives på, herunder forskjellen på
-lokal drift og skytjenester.
-Gjennom god veksling mellom abstraksjonsnivåer, fra konkrete anvendelser til de mer
-abstrakte egenskapene til KI-systemer, kan under-
 
-visere bidra til at studentene utvikler en varig forståelse av teknologien som de kan bygge videre
-på, samtidig som de får kjennskap til de anvendelsene av teknologien som har størst betydning i
-samfunnet og i sine fag (se også kap. 6).
-Studentenes tekniske forståelse av KI bør
-være på et slik nivå at den, i kombinasjon med fagkunnskap og evner til kritisk tenkning og etisk
-refleksjon, setter studentene i stand til å gjøre normative vurderinger av KI-systemer og KI-bruk
-med relevans for sine fag, herunder hva som kjennetegner egnede bruksområder og hvilket behov
-det er for å verifisere eller kvalitetssikre forslag
-fra et KI-system. Se også kapittel 5.4.2.2 om fagspesifikk KI-kompetanse.
-Forståelse av kjerneutfordringer
-Å ha en forståelse av de mest grunnleggende
-utfordringene med KI er viktig for å kunne identifisere risikoer ved utvikling og bruk av KI-systemer.
-Dette omfatter samsvarsproblemet (the alignment
-problem), kontrollproblemet og utfordringene med
-manglende transparens og etterprøvbarhet, bærekraftsutfordringer, utfordringen med reproduksjon
-av sosiale skjevheter, faren for feilaktige og misvisende resultater, utfordringer for demokratiet, samspillet mellom KI-teknologi og samfunnet og potensialet for manipulasjon. Noen av de etisk-juridiske
-problemstillingene med KI er også såpass store og
-såpass symptomatiske for teknologien at kjennskap
-til dem har en verdi for alle studenter i høyere
+Å ha en grunnleggende forståelse av de tekniske sidene av KI er en forutsetning for det meste av KI-kompetanse. En sentral del av dette er å beherske KI-relaterte begreper, herunder om data, maskinlæring og grunnmodeller. Det omfatter også å vite noe om spekteret av ulike typer KI-systemer og forskjellen på dem, som mellom regelbaserte og datadrevne systemer; mellom modeller til allmenne formål og spesialiserte systemer; mellom prediktive, generative og agentiske systemer; mellom åpne og lukkede modeller mv. En god teknisk forståelse av KI innebærer å vite hvordan systemene, i kraft av måten de er utviklet på, kan gi feilaktige eller misvisende resultater. En god teknisk forståelse av KI kan også innebære å vite noe om hva slags infrastruktur fremtredende KI-systemer utvikles og drives på, herunder forskjellen på lokal drift og skytjenester.
 
-Boks 5.1 Mikroemner for digital kunnskap, forståelse og
-kompetanse ved Universitetet i Bergen
-Emnepakken adresserer kunnskapsbehov man
-Universitetet i Bergen tilbyr en rekke små studiefinner i alle fagområder. Modulariteten man får
-emner for å styrke digital kompetanse på tvers av
-fagfelt. Flere av emnene gir generelle KI-kompemed små, sammensettbare emner, gjør det
-enklere med individuelle prioriteringer (med
-tanser, slik de er beskrevet i kap. 5.4.2.1.
-utgangspunkt i hva man kan fra før) og fagspesiPer august 2026 er to av emnene innføringsfikke prioriteringer (med utgangspunkt i hva
-kurs uten studiepoenguttelling («Digital stusom har størst nytte i faget man studerer eller
-dent» og «Digital kildekritikk»), og ni av
-emnene er mikroemner, med uttelling på 2,5 stp:
-utøver). Disse egenskapene gjør emnepakken til
-et eksempel på hvordan man kan møte beho– DIGI110 – Fantastiske data
-vene for generell KI-kompetanse på en fleksibel
-– DIGI111 – Algoritmer og programmering
-måte, uten å lage egne emner for hvert fag– DIGI112 – IKT-sikkerhet
-– DIGI113 – GDPR og personvern
-område.
-– DIGI114 – Kunstig intelligens
+Gjennom god veksling mellom abstraksjonsnivåer, fra konkrete anvendelser til de mer abstrakte egenskapene til KI-systemer, kan undervisere bidra til at studentene utvikler en varig forståelse av teknologien som de kan bygge videre på, samtidig som de får kjennskap til de anvendelsene av teknologien som har størst betydning i samfunnet og i sine fag (se også kap. 6).
+
+Studentenes tekniske forståelse av KI bør være på et slik nivå at den, i kombinasjon med fagkunnskap og evner til kritisk tenkning og etisk refleksjon, setter studentene i stand til å gjøre normative vurderinger av KI-systemer og KI-bruk med relevans for sine fag, herunder hva som kjennetegner egnede bruksområder og hvilket behov det er for å verifisere eller kvalitetssikre forslag fra et KI-system. Se også kapittel 5.4.2.2 om fagspesifikk KI-kompetanse.
+
+Mikroemner for digital kunnskap, forståelse og kompetanse ved Universitetet i Bergen
+
+Universitetet i Bergen tilbyr en rekke små studieemner for å styrke digital kompetanse på tvers av fagfelt. Flere av emnene gir generelle KI-kompetanser, slik de er beskrevet i kap. 5.4.2.1.
+
+Per august 2026 er to av emnene innføringskurs uten studiepoenguttelling («Digital student» og «Digital kildekritikk»), og ni av emnene er mikroemner, med uttelling på 2,5 stp:
+
+- DIGI110 – Fantastiske data
+
+- DIGI111 – Algoritmer og programmering
+
+- DIGI112 – IKT-sikkerhet
+
+- DIGI113 – GDPR og personvern
+
+- DIGI114 – Kunstig intelligens
+
+- DIGI115 – Data og demokrati
+
+- DIGI116 – Medical Data Science
+
+- DIGI117 – Språkteknologi
+
+Emnepakken adresserer kunnskapsbehov man finner i alle fagområder. Modulariteten man får med små, sammensettbare emner, gjør det enklere med individuelle prioriteringer (med utgangspunkt i hva man kan fra før) og fagspesifikke prioriteringer (med utgangspunkt i hva som har størst nytte i faget man studerer eller utøver). Disse egenskapene gjør emnepakken til et eksempel på hvordan man kan møte behovene for generell KI-kompetanse på en fleksibel måte, uten å lage egne emner for hvert fagområde.
+
 Kilde: Universitetet i Bergens nettsider
-– DIGI115 – Data og demokrati
-– DIGI116 – Medical Data Science
-– DIGI117 – Språkteknologi
 
-[Side 81]
+\[Boks slutt\]
 
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
+Forståelse av kjerneutfordringer
 
-utdanning, herunder problemstillinger om personvern, opphavsrett og plassering av ansvar for
-beslutninger og handlinger som er støttet eller
-utført av et KI-system. Skal integrasjonen av KI i
-samfunn og arbeidsliv skje på en forsvarlig måte, er
-det hensiktsmessig at brede lag av befolkningen og
-arbeidsstyrken har en grunnleggende forståelse av
-de største problemstillingene teknologien reiser.
-Se kapittel 4 for en nærmere beskrivelse av de
-nevnte problemstillingene.
-Kjennskap til flere av problemstillingene spiller
-også en viktig rolle for studentene underveis i
-utdanningen. Studentene har for eksempel behov
-for å skjønne hvordan og hvorfor KI-systemer kan
-gi feilaktige eller misvisende resultater, og de har
-behov for å være bevisst opphavet til de resultatene
-de får ut av et KI-system. Sistnevnte er en grunnleggende forutsetning for å utøve kildekritikk.
+Å ha en forståelse av de mest grunnleggende utfordringene med KI er viktig for å kunne identifisere risikoer ved utvikling og bruk av KI-systemer. Dette omfatter samsvarsproblemet (*the alignment problem*), kontrollproblemet og utfordringene med manglende transparens og etterprøvbarhet, bærekraftsutfordringer, utfordringen med reproduksjon av sosiale skjevheter, faren for feilaktige og misvisende resultater, utfordringer for demokratiet, samspillet mellom KI-teknologi og samfunnet og potensialet for manipulasjon. Noen av de etisk-juridiske problemstillingene med KI er også såpass store og såpass symptomatiske for teknologien at kjennskap til dem har en verdi for alle studenter i høyere utdanning, herunder problemstillinger om personvern, opphavsrett og plassering av ansvar for beslutninger og handlinger som er støttet eller utført av et KI-system. Skal integrasjonen av KI i samfunn og arbeidsliv skje på en forsvarlig måte, er det hensiktsmessig at brede lag av befolkningen og arbeidsstyrken har en grunnleggende forståelse av de største problemstillingene teknologien reiser. Se kapittel 4 for en nærmere beskrivelse av de nevnte problemstillingene.
+
+Kjennskap til flere av problemstillingene spiller også en viktig rolle for studentene underveis i utdanningen. Studentene har for eksempel behov for å skjønne hvordan og hvorfor KI-systemer kan gi feilaktige eller misvisende resultater, og de har behov for å være bevisst opphavet til de resultatene de får ut av et KI-system. Sistnevnte er en grunnleggende forutsetning for å utøve kildekritikk.
+
 Forståelse av konsekvenser for tenkning og læring
-Som vist i kapittel 6, har KI en tvetydig effekt på
-læring. Mens det finnes mange muligheter for å
-fremme egen læring, kan ukritisk bruk av språkmodeller svekke læringsutbyttet og ha uønskede
-kognitive virkninger.
-For studentene, som primært skal lære og
-som i stor grad styrer sine egne læringsaktiviteter,
-er det viktig å forstå hvordan deres interaksjon
-med KI påvirker grunnleggende kognitive funksjoner og prosesser generelt, og læring spesielt.
-Studenter i alle fag har nytte av å lære hvordan de
-kan bruke språkmodeller til å understøtte egne
 
-79
+Som vist i kapittel 6, har KI en tvetydig effekt på læring. Mens det finnes mange muligheter for å fremme egen læring, kan ukritisk bruk av språkmodeller svekke læringsutbyttet og ha uønskede kognitive virkninger.
 
-Kapittel 5
+For studentene, som primært skal lære og som i stor grad styrer sine egne læringsaktiviteter, er det viktig å forstå hvordan deres interaksjon med KI påvirker grunnleggende kognitive funksjoner og prosesser generelt, og læring spesielt. Studenter i alle fag har nytte av å lære hvordan de kan bruke språkmodeller til å understøtte egne læringsprosesser heller enn å kortslutte dem. Dette har ikke bare en verdi underveis i studieløpet, men også for den livslange læringen.
 
-læringsprosesser heller enn å kortslutte dem.
-Dette har ikke bare en verdi underveis i studieløpet, men også for den livslange læringen.
-Behovet for slik kunnskap kan sees i sammenheng med behovet for konkret veiledning i bruk
-av generative KI-systemer i studiearbeidet, et
-område hvor dagens studenter rapporterer å ha
-fått utilstrekkelig opplæring (kap. 6.2.4).
+Behovet for slik kunnskap kan sees i sammenheng med behovet for konkret veiledning i bruk av generative KI-systemer i studiearbeidet, et område hvor dagens studenter rapporterer å ha fått utilstrekkelig opplæring (kap. 6.2.4).
 
-5.4.2.2 Fagspesifikk KI-kompetanse
+#### Fagspesifikk KI-kompetanse
+
 Med «fagspesifikk KI-kompetanse» forstår utvalget to former for læringsutbytte:
-– Ferdigheter som setter en i stand til å bruke
-eller utvikle KI-systemer for å løse fagspesifikke oppgaver, for eksempel å bruke store
-språkmodeller for å samle eller analysere store
-mengder data (jf. Boks 5.2)
-– Fagspesifikk kunnskap om KI, for eksempel en
-økonoms kunnskap om arbeidsmarkedseffektene av KI-utviklingen eller en filosofs forståelse av talehandlingene til en samtalerobot
-Fagspesifikk KI-kompetanse er en bred og viktig
-kategori. Skal KI i vesentlig grad bidra til at vi utvider vår kunnskap eller øker produktiviteten, vil
-det trolig skje gjennom fruktbare anvendelser av
-teknologien i bestemte faglige kontekster. Den
-kunnskapen og de ferdighetene som kreves for å
-identifisere og dra nytte av mulighetene KI gir i
-bestemte fag, er dermed avgjørende.
-Videre, skal vi ta kloke beslutninger om hvordan vi innretter våre institusjoner og praksiser i en
 
-Boks 5.2 Masteremnet «Transforming Business with AI» ved Norges handelshøyskole
-grammering i Python, til store språkmodeller og
-Emnet inngår som et av flere forretningsanalytil API-er.
-tiske emner ved Norges handelshøyskole. Et av
-de sentrale målene med emnet har vært å gi stuUnderviser og emneansvarlig, Ingar Haaland, har meddelt (23. februar 2026) at han
-dentene ferdigheter til å bruke språkmodeller i
-revurderer læringsinnholdet i lys av fremskritstor skala, det vil si gjennom API-forespørsler
-heller enn ved å sende én og én forespørsel via
-tene som har skjedd med agentiske systemer.
-en samtalerobot.1 En slik teknikk gjør det mulig
-1 «API» står for application programming interface, og kan
-å utnytte språkmodellenes potensial for å analyoversettes til «programvaregrensesnitt». API-en til et
-sere store mengder data – i dette tilfellet: forretdatasystem er broen som forbinder det til andre datasystemer. Gjennom en API kan et system motta forespørsler
-ningsrelevant informasjon. Emnet tar utgangsog sende svar. Der hvor samtaleroboten ChatGPT utgjør
-punkt i underviserens erfaring med bruk av
-et brukergrensesnitt som lar meg og deg interagere med
-slike teknikker i egen forskning. I tillegg holder
-OpenAIs språkmodeller, er API-en det som lar datasystemer interagere med de samme modellene.
-aktører i næringslivet gjesteforelesninger, med
-det formål at studentene får mer kunnskap om
-Kilder: Emnebeskrivelse på Norges handelshøyskoles nettanvendelsesmulighetene i næringslivet. Emnet
-sider og professor Ingar Haalands presentasjon for utvalget
-er bygget opp med praktiske innføringer til pro23. februar 2026
+- Ferdigheter som setter en i stand til å bruke eller utvikle KI-systemer for å løse fagspesifikke oppgaver, for eksempel å bruke store språkmodeller for å samle eller analysere store mengder data (jf. Boks 5.2)
 
-[Side 82]
+- Fagspesifikk kunnskap om KI, for eksempel en økonoms kunnskap om arbeidsmarkedseffektene av KI-utviklingen eller en filosofs forståelse av talehandlingene til en samtalerobot
 
-80
+Fagspesifikk KI-kompetanse er en bred og viktig kategori. Skal KI i vesentlig grad bidra til at vi utvider vår kunnskap eller øker produktiviteten, vil det trolig skje gjennom fruktbare anvendelser av teknologien i bestemte faglige kontekster. Den kunnskapen og de ferdighetene som kreves for å identifisere og dra nytte av mulighetene KI gir i bestemte fag, er dermed avgjørende.
 
-Kapittel 5
+Videre, skal vi ta kloke beslutninger om hvordan vi innretter våre institusjoner og praksiser i en tid med KI, er vi avhengige av mer enn bare en generell forståelse av teknologien. Vi behøver tilgang på dybdekunnskap om spesifikke sider ved teknologien og de spesifikke måtene den preger samfunnet og livene våre.
 
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
+På grunn av det høye kompetansenivået blant ansatte og utdanningenes kobling til forskning, står universiteter og høyskoler i en særstilling for å kunne fremme samfunnets tilgang på fagspesifikk KI-kompetanse. For høyere utdannings del vil dette også være et vesentlig ledd i arbeidet med å fremme og opprettholde den faglige kvaliteten i studietilbudene i årene fremover. For sektorens del betyr dette samtidig et stort behov for at ansatte utvikler fagspesifikk KI-kompetanse (se kap. 10).
 
-Boks 5.3 Masteremnet «Operations Research 1» ved Universitetet i Tromsø – Norges arktiske
-universitet (UiT)
-tics). En optimaliseringsmodell finner den løsEmnet tar for seg matematisk modellering av
-realistiske, komplekse beslutningsproblemer.
-ningen på et problem som, for et gitt mål og defiDisse problemene kjennetegnes som komnerte parametre, gir størst måloppnåelse. Simuplekse ved at de har mange og ofte usikre varialering hører til såkalt deskriptiv analytikk
-bler. De kjennetegnes som realistiske ved at de
-(descriptive analytics). En simuleringsmodell er
-er hentet direkte fra næringslivet og andre deler
-et verktøy for scenarioanalyse og kan støtte
-beslutningstakere til å finne robuste løsninger
-av arbeidslivet, for eksempel i logistikk og samunder usikre omstendigheter. Det å bruke geneferdsel eller i planlegging av produksjon. Sturative KI-systemer på en etisk og ansvarlig måte
-dentene skal utvikle en bedre forståelse av slike
-i utvikling av slike modeller, er et fastsatt
-problemer og hvordan de kan artikuleres presist. Studentene skal så bruke generative KIlæringsutbytte i emnet.
-systemer og spesialprogramvare for å utvikle
-Kilder: Emnebeskrivelse på UiTs nettsider og professor Hao
-optimaliseringsmodeller og simuleringsmodelYus presentasjon 22. januar 2026 i forbindelse med prosjektet
-ler.
-Nye vurderingsformer ved UiT
-Optimalisering er det sentrale begrepet i
-såkalt preskriptiv analytikk (prescriptive analy-
+Den fagspesifikke KI-kompetansen er, per definisjon, ulik i ulike fag. Utviklingen av slik kompetanse er også nødt til å skje i det enkelte fag, på fagets premisser. Boks 5.2, 5.3 og 5.4 gir eksempler på studieemnetilbud der fagspesifikke former for KI-kompetanse er sentrale læringsutbytter.
 
-Boks 5.4 Bacheloremnet
-«Kommunikasjon og kulturformidling på
-digitale flater» ved Høgskolen i Østfold
-Emnet gis på lavere grads nivå i språk- og
-kommunikasjonsfaglige bachelorprogrammer.
-Etter en fellesdel er emnet delt opp i ulike
-språkfag. I den spanskspråklige delen av
-emnet skal studentene produsere falske nyheter ved hjelp av KI-verktøy, blant annet språkmodeller og bildegenereringsverktøy (uten at
-de blir spredd utenfor undervisningskonteksten). Formålet med øvelsen er å forstå mekanismene bak desinformasjon fra innsiden,
-parallelt med at studentene får utviklet ferdigheter med bruk av KI-verktøy.
+Masteremnet «Transforming Business with AI» ved Norges handelshøyskole
+
+Emnet inngår som et av flere forretningsanalytiske emner ved Norges handelshøyskole. Et av de sentrale målene med emnet har vært å gi studentene ferdigheter til å bruke språkmodeller i stor skala, det vil si gjennom API-forespørsler heller enn ved å sende én og én forespørsel via en samtalerobot.<sup>1</sup> En slik teknikk gjør det mulig å utnytte språkmodellenes potensial for å analysere store mengder data – i dette tilfellet: forretningsrelevant informasjon. Emnet tar utgangspunkt i underviserens erfaring med bruk av slike teknikker i egen forskning. I tillegg holder aktører i næringslivet gjesteforelesninger, med det formål at studentene får mer kunnskap om anvendelsesmulighetene i næringslivet. Emnet er bygget opp med praktiske innføringer til programmering i Python, til store språkmodeller og til API-er.
+
+Underviser og emneansvarlig, Ingar Haaland, har meddelt (23. februar 2026) at han revurderer læringsinnholdet i lys av fremskrittene som har skjedd med agentiske systemer.
+
+<sup>1</sup> «API» står for *application programming interface*, og kan oversettes til «programvaregrensesnitt». API-en til et datasystem er broen som forbinder det til andre datasystemer. Gjennom en API kan et system motta forespørsler og sende svar. Der hvor samtaleroboten ChatGPT utgjør et brukergrensesnitt som lar meg og deg interagere med OpenAIs språkmodeller, er API-en det som lar *datasystemer* interagere med de samme modellene.
+
+Kilder: Emnebeskrivelse på Norges handelshøyskoles nettsider og professor Ingar Haalands presentasjon for utvalget 23. februar 2026
+
+\[Boks slutt\]
+
+Masteremnet «Operations Research 1» ved Universitetet i Tromsø – Norges arktiske universitet (UiT)
+
+Emnet tar for seg matematisk modellering av realistiske, komplekse beslutningsproblemer. Disse problemene kjennetegnes som komplekse ved at de har mange og ofte usikre variabler. De kjennetegnes som realistiske ved at de er hentet direkte fra næringslivet og andre deler av arbeidslivet, for eksempel i logistikk og samferdsel eller i planlegging av produksjon. Studentene skal utvikle en bedre forståelse av slike problemer og hvordan de kan artikuleres presist. Studentene skal så bruke generative KI-systemer og spesialprogramvare for å utvikle optimaliseringsmodeller og simuleringsmodeller.
+
+Optimalisering er det sentrale begrepet i såkalt preskriptiv analytikk (*prescriptive analytics*). En optimaliseringsmodell finner den løsningen på et problem som, for et gitt mål og definerte parametre, gir størst måloppnåelse. Simulering hører til såkalt deskriptiv analytikk (*descriptive analytics*). En simuleringsmodell er et verktøy for scenarioanalyse og kan støtte beslutningstakere til å finne robuste løsninger under usikre omstendigheter. Det å bruke generative KI-systemer på en etisk og ansvarlig måte i utvikling av slike modeller, er et fastsatt læringsutbytte i emnet.
+
+Kilder: Emnebeskrivelse på UiTs nettsider og professor Hao Yus presentasjon 22. januar 2026 i forbindelse med prosjektet Nye vurderingsformer ved UiT
+
+\[Boks slutt\]
+
+Bacheloremnet «Kommunikasjon og kulturformidling på digitale flater» ved Høgskolen i Østfold
+
+Emnet gis på lavere grads nivå i språk- og kommunikasjonsfaglige bachelorprogrammer. Etter en fellesdel er emnet delt opp i ulike språkfag. I den spanskspråklige delen av emnet skal studentene produsere falske nyheter ved hjelp av KI-verktøy, blant annet språkmodeller og bildegenereringsverktøy (uten at de blir spredd utenfor undervisningskonteksten). Formålet med øvelsen er å forstå mekanismene bak desinformasjon fra innsiden, parallelt med at studentene får utviklet ferdigheter med bruk av KI-verktøy.
+
 Kilder: Emnebeskrivelse på Høgskolen i Østfolds nettsider og tilsendt dokumentasjon fra Østfold AI Hub
 
-tid med KI, er vi avhengige av mer enn bare en
-generell forståelse av teknologien. Vi behøver tilgang på dybdekunnskap om spesifikke sider ved
-teknologien og de spesifikke måtene den preger
-samfunnet og livene våre.
-På grunn av det høye kompetansenivået blant
-ansatte og utdanningenes kobling til forskning, står
-
-universiteter og høyskoler i en særstilling for å
-kunne fremme samfunnets tilgang på fagspesifikk
-KI-kompetanse. For høyere utdannings del vil dette
-også være et vesentlig ledd i arbeidet med å
-fremme og opprettholde den faglige kvaliteten i
-studietilbudene i årene fremover. For sektorens del
-betyr dette samtidig et stort behov for at ansatte
-utvikler fagspesifikk KI-kompetanse (se kap. 10).
-Den fagspesifikke KI-kompetansen er, per definisjon, ulik i ulike fag. Utviklingen av slik kompetanse er også nødt til å skje i det enkelte fag, på
-fagets premisser. Boks 5.2, 5.3 og 5.4 gir eksempler på studieemnetilbud der fagspesifikke former
-for KI-kompetanse er sentrale læringsutbytter.
-
-5.5
-
-Forholdet til menneskelig
-kompetanse
-
-Til tross for at KI-systemer bearbeider informasjon på en helt annen måte enn mennesker, har
-systemene fått kapabiliteter som i mange tilfeller
-utgjør direkte motsvar til menneskelige ferdigheter. De kan for eksempel identifisere argumenter i en tekst, finne bevis for matematiske teoremer eller forutsi været. Det at vi har fått tilgang på
-systemer som kan løse intellektuelt krevende oppgaver som disse, reiser en bred utfordring for nytteverdien av læringsutbyttene man kan få ut av
-høyere utdanning. Når vi vurderer hva som er formålstjenlig å lære – både med henblikk på faglig
-
-[Side 83]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-kvalitet og på samfunns- og arbeidslivsrelevans –
-må vi ta høyde for hva maskiner kan løse bedre
-eller mer effektivt enn mennesker.
-Automatiseringspotensialet i tidligere digitale
-teknologier har vært begrenset av at oppgavene
-må kunne kodifiseres med regler, altså har kun
-rutinepregede, regelstyrte oppgaver vært utsatt
-for automatisering (Autor et al., 2003). Maskinlæringsteknikker har i praksis opphevet denne
-begrensningen (Brynjolfsson et al., 2018). Mens
-automatiseringen av en oppgave reduserer nytteverdien av kunnskapen og ferdighetene som tidligere var nødvendig for å løse oppgaven, kan
-kunnskaper og ferdigheter som komplementerer
-KI-systemenes kapabiliteter, få større verdi, relativt sett.
-Foruten at KI-systemer kan brukes til å automatisere oppgaver, kan de også endre betydelig på
-hvordan vi løser oppgaver. KI-systemer kan for
-eksempel brukes til å få løsningsforslag som vurderes av mennesker, eller til å kvalitetssikre menneskeskapte løsningsforslag. I slike tilfeller forblir
-menneskers selvstendige evne til vurdering viktig.
-For å forstå det komplekse forholdet KI står i
-til menneskelig kompetanser, og de logiske følgene det har for hva vi skal lære, er følgende
-momenter av betydning.
-– Erstatning vs. komplementering. Et KI-system
-kan, for en gitt oppgave, komplementere heller
-enn erstatte menneskelig kompetanse (Autor,
-2015).
-– Dekomponering av oppgaver. Oppgaver er ikke
-faste størrelser, men kan stykkes opp i deloppgaver eller settes sammen til større oppgaver.
-KI-systemer kan være i stand til å utføre deler
-av det vi ordinært regner som én oppgave. Her
-er det sammenheng med forrige punkt: Det å
-bruke et KI-system som hjelpemiddel til en
-oppgave kan innebære automatisering av en
-deloppgave.
-– Forholdet mellom oppgaver og læringsutbytter.
-Arbeidsoppgaver står i komplekse forhold til
-ulike former for læringsutbytte. Yrker og
-utdanninger står allerede i et komplekst forhold: Man kan kvalifisere for flere yrker gjennom en gitt utdanning, og flere utdanninger
-kan gi kvalifikasjoner for et gitt yrke. På et mer
-finmasket analysenivå – med oppgaver heller
-enn yrker og læringsutbytter heller enn utdanninger – er forholdene enda mer komplekse.
-Til tross for at disse momentene kompliserer bildet, er det klart at effektene KI vil ha på arbeidslivet, vil ha implikasjoner for hva det er formålstjenlig å lære. Følgende underkapittel beskriver
-
-81
-
-Kapittel 5
-
-kunnskapsgrunnlaget som foreligger om hvilke
-deler av arbeidslivet som er mer eksponert for
-påvirkning av KI (5.5.1). Dernest gir utvalget sin
-vurdering av hva vi kan trekke ut av dette kunnskapsgrunnlaget (5.5.2).
-
-5.5.1
-
-Kunnskapsgrunnlaget om
-KI-eksponering
-Det er gjennomført flere studier av hvilke arbeidsoppgaver som er mer eksponert for påvirkning av
-KI. Dette inkluderer studier av hva slags oppgaver
-som er disponert for å kunne løses ved hjelp av
-maskinlæring, med utgangspunkt i egenskaper
-ved henholdsvis oppgavene og maskinlæring som
-teknikk (Brynjolfsson et al., 2018; Felten et al.,
-2021). Det inkluderer også studier som mer spesifikt undersøker hvilke arbeidsoppgaver generative KI-systemer er i stand til å løse, eller effektivisere løsningen av (Eloundou et al., 2023; Felten et
-al., 2023; Handa, Tamkin, et al., 2025; Massenkoff
-& McCrory, 2026).7
-I en innflytelsesrik studie tar Eloundou et al.
-(2023) utgangspunkt i en offentlig amerikansk
-database (O*NET) med definisjoner av yrker, oppgaver og grovt definerte ferdigheter, samt koblinger mellom disse. De kartlegger KI-eksponering
-ved å klassifisere oppgaver etter hvorvidt tiden
-det tar å gjennomføre dem kan halveres ved bruk
-av en stor språkmodell.8 Samlet finner de at dette
-gjelder 15 prosent av alle arbeidsoppgaver i databasen.
-Eloundou et al. gjør videre analyser av hva
-slags ferdigheter og utdanningsnivå som er forbundet med KI-eksponering. De finner at oppgaver og yrker som typisk sett forutsetter høyere
-utdanning, er mer berørt enn dem som ikke forutsetter høyere utdanning. Når det gjelder bestemte
-ferdigheter, finner de riktignok at ferdigheter i
-kritisk og vitenskapelig tenkning er negativt korrelert med KI-eksponering. På den andre siden
-finner de at ferdigheter i programmering og skriving er positivt korrelert med KI-eksponering.
-Hovedfunnene til Eloundou et al. har støtte i stu7
-
-8
-
-Noen av studiene fokuserer på yrkers KI-eksponering, men
-oppgaver er typisk sett den mer grunnleggende analyseenheten i studiene. Yrker kan, som en nyttig forenkling,
-forstås som sett med oppgaver (Autor, 2013).
-I studien ble hver oppgave klassifisert enten av mennesker
-med ekspertise på egenskapene til store språkmodeller
-eller av en stor språkmodell (OpenAIs GPT-4). De maskinelle klassifikasjonene viste lite avvik fra de menneskelige.
-Klassifikasjonene har vel å merke ikke uavhengig empirisk
-støtte, noe som innebærer at man må være forsiktig med å
-trekke sterke slutninger fra funnene, jf. Mouchel et al.
-(2026).
-
-[Side 84]
-
-82
-
-NOU 2026: 14
-
-Kapittel 5
-
-Kunstig intelligens i høyere utdanning
-
-diene til Handa, Tamkin, et al. (2025) og Massenkoff og McCrory (2026).
-Vigtel (2025) har brukt eksponeringsverdiene
-til Eloundou et al. for å si noe om KI-eksponeringen i norsk arbeidsliv, gjennom å koble amerikanske yrkes- og oppgavedata (O*NET) til norske
-definisjoner (STYRK-08) og annen SSB-data. Også
-i Norge er yrker som forutsetter høyere utdanning, mer eksponert for generativ KI enn yrker
-som ikke forutsetter høyere utdanning. 20,3 og 23
-prosent av jobbene til dem med henholdsvis
-bachelorgrad og mastergrad eller høyere blir funnet å være KI-eksponert i Vigtels studie, sammenliknet med 16,8 prosent i arbeidsstyrken totalt
-(Vigtel, 2025, s. 18). Blant faggruppene på mastergradsnivå er økonomiske og administrative fag
-
-(25,7 prosent), ingeniørfag (25,1 prosent) samfunnsvitenskapelige fag (24,6 prosent) og juridiske fag (24,3 prosent) mer eksponert enn snittet, mens pedagogiske fag (18,2 prosent) og
-humanistiske fag (21,7 prosent) ligger under snittet (Vigtel, 2025, s. 18).
-Merk at Eloundou et al., og dermed også Vigtel, tar utgangspunkt i GPT-4 og hva man kan løse
-ved hjelp av denne modellen. For så vidt som
-nyere grunnmodeller og systemene bygget på
-dem er mer kapable, vil man kunne få høyere
-eksponeringsverdier med samme metode.
-Studiene ovenfor viser ikke – annet enn ved usikre tegn (Handa, Tamkin, et al., 2025, s. 9–10) – om
-påvirkningen vil ta form som erstatning eller som
-komplementering av menneskelig kompetanse.
-
-KI som komplementær teknologi
-(gjør arbeidskraften bedre)
-
-Integrert
-samspill
-Delvis
-interaksjon
-Ny KI-vinter
-(begrenset bruk)
-
-KI som infrastruktur
-(dyp integrasjon)
-
-Begrenset
-fortrengning
-Omveltende
-automatisering
-
-KI som rent substitutt til arbeidskraft
-(fortrenger arbeidskraft)
-
-Figur 5.2 Kompetansebehovsutvalgets scenarioer for fremtidens arbeidskrafts- og kompetansebehov i en
-digital omstilling
-Kilde: Kompetansebehovsutvalget, 2025, s. 89
-
-[Side 85]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Studien til Brynjolfsson et al. (2025) utgjør i så
-måte et skritt fremover, ved å koble data om KI-eksponering med sysselsettingsdata. Hovedfunnet
-deres er at sysselsettingen blant unge i USA synker
-i de yrkene som er mest eksponert for påvirkning
-av generativ KI. Funnet kan forklares med at
-arbeidsgivere ser et mindre behov for uerfarne
-arbeidstakere i takt med at de får tilgang på bedre
-generative KI-systemer. Studien har skapt mye diskusjon og har blant annet blitt kritisert for å ikke ta
-høyde for at flere unge jobber oppdragsbasert, frilans og tilsvarende (Casilli, 2025). Selv om man
-antar at funnet er robust, er det imidlertid usikkert
-hvordan en slik mekanisme vil utspille seg over tid:
-Effekten kan f.eks. utvide seg til å omfatte mer
-erfarne arbeidstakere, eller den kan minke dersom
-arbeidsgivere tar grep.
-Resultater fra Kandidatundersøkelsen 2025
-viser at arbeidsledigheten blant nyutdannede masterkandidater har gått opp tre prosentpoeng i perioden 2023–2025, en økning som er høyere enn
-den for befolkningen samlet sett (Ballo & WiersJenssen, 2026, s. 14). Det er mange mulige forklaringer på utviklingen som ikke har med KI å
-gjøre, men det kan heller ikke utelukkes at KIutviklingen spiller en rolle. Kandidatundersøkel-
-
-83
-
-Kapittel 5
-
-sen 2025 viser ellers at andre former for mistilpasning til arbeidsmarkedet har ligget stabilt for nyutdannede i perioden.
-Hernæs og Kostøl (2026) har utviklet en
-indeks for å spore sysselsettingen i KI-eksponerte
-yrker sammenliknet med lite eksponerte yrker. I
-likhet med Vigtel har de koblet eksponeringsmålet til Eloundou et al. sammen med norsk yrkesklassifikasjon (STYRK-08), men tilbyr også et
-alternativt eksponeringsmål fra Mouchel et al.
-(2026). Per oktober 2026 viser indeksen en positiv
-sysselsettingsutvikling i yrkene som er mer KIeksponert, sammenliknet med de mindre eksponerte, under begge eksponeringsmål.
-Kompetansebehovsutvalget (2025) har gjennomgått mye av kunnskapsgrunnlaget som foreligger om KIs automatiseringspotensial og øvrige
-virkning på arbeidslivet. De vurderer at
-Det er rimelig å anta at generativ KI i større
-grad enn tidligere digitale teknologier vil
-kunne løse en del oppgaver som høyt utdannede kunnskapsmedarbeidere gjør i dag. […]
-Digital teknologi og kunstig intelligens vil over
-tid kunne ta over stadig flere oppgaver. (Kompetansebehovsutvalget, 2025, s. 86, 95)
-
-Tabell 5.1 Kompetansebehovsutvalgets egne beskrivelser av scenarioene i Figur 5.2.
-Tolkning av plassering i scenario-figur Arbeidskrafts- og kompetansebehov
-
-Scenario 1:
-KI virker mer komplementært
-Delvis integrasjon enn som et rent substitutt.
-KI-bruk er moderat.
-
-Arbeidskraftbehovet består og det er samtidig
-behov for god kompetanseutvikling og tilpasning. Det er særlig behov for generell og fagspesifikk digital kompetanse, så vel som fagkompetanse.
-
-Sammenlikning av de tre andre scenarioene, relativt til Scenario 1
-Scenario 2:
-Integrert samspill
-
-KI virker i enda større grad komplementært.
-KI-bruk er dypere integrert.
-
-Scenario 3:
-Begrenset
-fortrengning
-
-KI virker i nokså stor grad som et Arbeidskraftbehovet faller kraftig i yrker der
-oppgavene enklest kan tas over av en maskin.
-rent substitutt til arbeidskraften.
-Men: KI-bruken er begrenset.
-Vridning i kompetansebehovene skjer gradvis
-ettersom KI-bruken er begrenset.
-
-Scenario 4:
-Omveltende
-automatisering
-
-KI virker i stor grad som et rent
-Arbeidskraftbehovet faller kraftig på tvers av
-substitutt til arbeidskraften.
-yrker og næringer. Behov for nytenkning.
-I tillegg: KI-bruk er dypt integrert. Å beholde jobben kan kreve både spesialisert
-digital kompetanse og innovasjonskompetanse. Norsk modell under press?
-
-Kilde: Kompetansebehovsutvalget (2025, s. 92)
-
-Større behov for kompetanseutvikling og
-endrede yrkesvalg. Økt behov for spesialisert
-digital kompetanse, kritisk tenkning, juridisk
-kompetanse og innovasjonskompetanse. Vridning mot yrker som er i samspill med KI.
-
-[Side 86]
-
-84
-
-Kapittel 5
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Kompetansebehovsutvalget viser samtidig at det
-eksisterende kunnskapsgrunnlaget gir oss langt
-fra noe sikkert utgangspunkt for å forutsi hvordan
-KI vil endre arbeidslivet. Kompetansebehovsutvalget har også tegnet opp scenarioer for fremtidens
-kompetansebehov, som vist i Figur 5.2.
-
-5.5.2 Utvalgets vurdering
-Kunnskapsgrunnlaget om KI-eksponering er ikke
-så velutviklet at vi kan trekke robuste eller detaljerte slutninger om KIs påvirkning på arbeidslivet
-eller fagene i høyere utdanning. Det er derfor i
-stor grad uvisst hvilke oppgaver som er disponert
-for å bli automatisert, og hvilke oppgaver hvor KI
-vil spille en vesentlig rolle som hjelpemiddel.
-Kunnskapsgrunnlaget viser likevel at det er
-sannsynlig at KI vil ha en stor påvirkning, og særlig på den delen av arbeidslivet som kandidater fra
-høyere utdanning skal ta del i. En slik vurdering
-har støtte i kompetansebehovsutvalgets vurderinger og har ytterligere støtte i det vi vet om teknologiutviklingen (jf. kap. 3 og 5.3.1).
-Av det som fremkommer i kunnskapsgrunnlaget, er oppgaver knyttet til programmering og
-tekstbehandling særlig påvirket.
-Det er viktig å bemerke at det har vært betydelige teknologiske fremskritt siden mye av det
-beskrevne kunnskapsgrunnlaget ble utviklet.
-Gjennom 2025 ble det utviklet bedre resonnerende modeller og agentiske systemer, noe som
-ga utslag i store kapabilitetsfremskritt i områder
-som programmering og matematikk ved årsskiftet
-2025–2026.
-Vi kan oppsummere det vi vet som følger:
-1. KI-systemer vil sannsynligvis ha sterk påvirkning på hvordan svært mange oppgaver blir
-løst, av det som i dag blir løst av kandidater fra
-høyere utdanning.
-2. Det er generelt usikkert hvilke oppgaver som
-vil bli sterkest påvirket, og om påvirkningen vil
-skje som automatisering, delautomatisering
-eller ved at oppgavene blir løst med KI-systemer som (komplementært) hjelpemiddel.
-3. Store språkmodeller, og systemene som bygger på dem, har i dag størst påvirkning på oppgaver knyttet til programmering, matematikk
-og tekstbehandling.
-Punkt 1 innebærer at vi sannsynligvis står overfor
-store endringer i hva slags læringsutbytte som vil
-ha størst nytteverdi i arbeidslivet og som forutsetninger for kyndig fagutøvelse. Dette reiser en
-
-utfordring for universiteter, høyskoler og det
-enkelte fagmiljø, som skal utvikle læringsinnholdet i studietilbudene i møte med slike endringer.
-Punkt 2 innebærer at vi har et svakt utgangspunkt
-for å foregripe endringene som kommer. Dette
-setter premissene for hvordan man kan tilnærme
-seg utfordringen. I avsnittene nedenfor gir utvalget generelle vurderinger av utfordringen og
-hvordan man kan tilnærme seg den. Utvalgets
-vurdering av hvordan bestemte typer læringsutbytte blir berørt, gis i kapittel 5.6.
-Store endringer med ukjente konturer
-Det er sannsynlig at fagene i høyere utdanning og
-arbeidslivet generelt står overfor store endringer,
-både i hva slags oppgaver vi løser og hvordan vi
-løser dem – eventuelt hva som løser dem. Endringene drives frem gjennom en kombinasjon av
-teknologiske fremskritt og prøving og feiling i faglige praksiser. Noen av endringene ser vi også
-klare tilløp til i dag (jf. kap. 5.4 og 5.6). Samtidig er
-det svært vanskelig å foregripe alle endringene
-som kommer, idet man skal utvikle studietilbudenes læringsinnhold.
-KI-utviklingen tillater ikke at man setter seg
-ned én gang for å fremtidssikre en utdanning. For
-det første er det få typer læringsutbytte, om noen,
-som kan regnes som «KI-sikre». Målet må være å
-utvikle studietilbudenes læringsinnhold med
-bevissthet om KI og KI-systemenes kapabiliteter
-(jf. Massachusetts Institute of Technology, 2026.
-kap. 3.1.1). For det andre er det å tilpasse studietilbudenes læringsinnhold til nye teknologiske
-betingelser et arbeid som er nødt til å skje
-løpende. KI-utviklingen vil kreve at fagmiljøene, i
-dialog med omverdenen, regelmessig diskuterer
-og revurderer hvilke kunnskaper og ferdigheter
-deres studietilbud er innrettet mot å gi, og hva
-som eventuelt mangler av læringsinnhold, for at
-studentene skal utvikle seg som kyndige fagutøvere tilpasset sin tid.
-Når teknologien endrer seg fort og beslutninger om læringsinnhold må tas under usikkerhet, er
-det behov for institusjonelle rammer som gjenspeiler dette. Gjennom gode muligheter for utprøving
-av endringer i studietilbudene, for eksempel gjennom opprettelse av nye studieemner eller endring
-og utvikling av studieplaner, vil fagmiljøene mer
-effektivt kunne finne ut hva som er verdt å videreføre. Av samme grunn er det en fordel å legge til
-rette for at det kan gå kort tid fra idé til handling i
-utprøving av endringer i studietilbudene.
-
-[Side 87]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Nødvendig tilegnelse av grunnleggende
-læringsutbytter
-Læring skjer ikke ved at man tilegner seg isolerte
-stykker med kunnskap ett og ett, men gjennom en
-sammensatt prosess hvor noen læringsutbytter
-bygger på andre (jf. kap. 6). For eksempel er det
-vanskelig å lære seg multiplikasjon uten først å
-lære seg addisjon. Læringsutbytter kan også gjensidig bygge på hverandre. For eksempel innebærer
-teorianvendelse en form for gjensidig forsterkende
-læring. Man får en bedre forståelse av teorien ved å
-anvende den, og parallelt får man en bedre forståelse av det som man anvender teorien om.
-Det å bli en kyndig fagutøver – en som kan
-tenke som en fysiker, som en lærer eller som en
-filosof – innebærer å lære seg en rekke ting som
-vi isolert sett kunne overlatt til KI-systemer å løse.
-KI-systemer kan gi utmerkede løsninger på svært
-mange av de oppgavene studenter blir bedt om å
-besvare gjennom sine utdanningsløp, enten det
-handler om å forklare hva som ligger i et begrep
-eller en teori, å identifisere argumentet i en tekst
-eller å gjengi etablert, vitenskapelig kunnskap.
-Mange slike læringsutbytter er imidlertid viktige
-for at man skal tilegne seg et læringsutbytte som
-går utover hva maskiner kan eller bør løse. For
-eksempel er det å utvikle en forståelse av begreper og teorier i sitt fagfelt en forutsetning for å
-kunne problematisere dem, og videre, for selv å
-kunne bidra til å utvikle nye begreper og teorier.
-Teknologiavhengighet
-Slutter vi å tilegne oss bestemte kunnskaper eller
-ferdigheter, basert på at KI-systemer kan forsyne
-oss med det vi trenger, så gjør vi oss avhengig av
-KI for det formålet. Dette kan være risikabelt, sett
-i lys av KI-systemers typiske underskudd på transparens, etterprøvbarhet og forklarbarhet (jf. kap.
-4). Risikoene som følger av slik avhengighet, bør
-vurderes konkret ved større endringer i studietilbudenes læringsinnhold.
-Langsiktighet og dannelse
-På sitt beste gir høyere utdanning studentene et
-varig læringsutbytte med en verdi som går utover
-den nytten det har i bestemte arbeidskontekster.
-Kanskje får man ikke anvendt alt man har lært
-direkte i de jobbene man går inn i etter endt
-utdanning, men ferdighetene man utvikler og den
-ofte abstrakte kunnskapen man tilegner seg, kan
-vise sin nytte og sin verdi over et livsløp, i og utenfor arbeid.
-
-85
-
-Kapittel 5
-
-Det å tilegne seg begreper, lære seg teorier og
-metoder, bli kjent med fremragende bidrag i filosofi- og vitenskapshistorien, det å lære seg å tenke
-kritisk, kreativt og selvstendig, og å kunne
-uttrykke seg klart, alt dette er læringsutbytter
-som er verdt å etterstrebe for sin egen skyld, som
-noe iboende verdifullt. Verdien av dannelse opphører ikke i møte med KI.
-
-5.6
-
-Utvalgets vurdering av hvordan
-utvalgte former for læringsutbytte
-blir påvirket av KI-utviklingen
-
-5.6.1 Programmeringsferdigheter
-Store språkmodeller og systemene som bygger på
-dem, som agentiske systemer, har utviklet seg til å
-bli særlig gode på programmering.9 Gjennom
-enkle instruksjoner gitt i naturlig språk, kan man
-få velfungerende programkode i retur.
-Dette gjør at programmering ikke lenger er
-forbeholdt dem som kan skrive programkode
-manuelt. Det kan slik sett redusere behovet for å
-utvikle tekniske ferdigheter i programmering for
-ikke-spesialister. For eksempel kan samfunnsvitere og medisinere enklere kode regresjonsanalyser med hjelp fra KI-systemer.
-Behovet for tekniske ferdigheter i programmering opphører ikke dermed. Programmeringsferdigheter vil trolig ha en verdi både for å
-skjønne hva slags programmer det kan være
-mulig å skrive og hvordan de fungerer, for å identifisere og utbedre feil og ineffektive løsninger, og
-for å utvikle programkode som tilgjengelige KIsystemer ikke får til å utvikle.
-I grove trekk tyder utviklingen på et skifte fra
-produksjonsevne til vurderingsevne. Det å produsere programkode har blitt forholdsvis enkelt
-med dagens KI-systemer, mens det fortsatt er et
-behov for å kunne vurdere programkode. I seg
-selv er dette en vesentlig endring, men den praktiske betydningen må utforskes. Et viktig spørsmål blir i hvilken utstrekning disse produksjonsog vurderingsferdigheter kan skilles fra hverandre: Hvor god kan man bli på å vurdere programkode uten å produsere det? Hvis målet er å
-bli god på å vurdere programkode, uten nødvendigvis å kunne produsere det, hvor annerledes ser
-de mest effektive læringsløpene ut? Dette er
-spørsmål som vi bare får gode svar på gjennom
-utprøving i praksis.
-
-9
-
-Claude Code fra Anthropic og Codex fra OpenAI er gode
-eksempler.
-
-[Side 88]
-
-86
-
-Kapittel 5
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-5.6.2 Matematisk problemløsning
-Et annet område hvor de fremste språkmodellene
-har utviklet seg til å bli spesielt gode, er i matematikk, og nærmere bestemt i matematisk problemløsning.10 Det er verdt å presisere at modellene er
-høyst feilbarlige og kan produsere skinnbevis.
-Allikevel har språkmodeller gjennom det siste
-året blitt brukt til å lage verifiserte løsninger på
-mange hittil uløste problemer, blant annet mange
-av de såkalte Erdős-problemene.
-8. september 2026 kunngjorde OpenAI (2026) at
-et internt KI-system hadde løst et av de syv såkalte
-millenniumsprisproblemene i matematikk (om
-Navier-Stokes-likningene). Hendelsen illustrerer
-flere aspekter ved utviklingen av KI i matematikk.
-For det første gir hendelsen nok en indikasjon på
-hvilken kapabilitet dagens KI-modeller har innenfor
-matematisk problemløsning. For det andre illustrerer hendelsen en tendens til at løsningen på matematiske problemer nå blir lansert utenfor tradisjonelle fora med tilhørende normer for hvordan bevis
-skal presenteres og forklares. For det tredje er det
-ikke klart hvilke menneskelige bidrag som har
-vært avgjørende for at systemet kunne komme
-frem til løsningen: Beviset til OpenAIs modell speiler – og muligens utnytter det – arbeid som ble
-utført parallelt av Tristan Buckmaster og Levent
-Alpöge (Buckmaster, 2026; OpenAI, 2026). De to
-sistnevnte aspektene bidrar til å gjøre KIs betydning for matematikkfaget mer problematisk.
-Den ledende matematikeren Terence Tao
-(2026) viser hvordan utviklingen av mer kapable
-modeller gjør det nødvendig å vurdere nærmere
-hva som inngår i matematisk problemløsning, og
-hva vi ønsker å få ut av aktiviteten. Der hvor bevisutvikling tidligere har vært forstått som en sammensveiset aktivitet, kan vi nå skille mellom produksjon av bevis, verifisering av bevis, forklaring
-av bevis, formidling av bevis og «kanonisering» av
-bevis (Tao, 2026).11 Et hovedpoeng er at matematiske bevis har liten verdi for oss med mindre vi
-kan forstå dem, bekrefte at de holder og formidle
-dem til fagfeller og studenter.
-Som for programmering, har ikke behovet for
-menneskelig kompetanse i matematisk problemløsning opphørt, men vi ser at menneskers rolle kan
-dreie seg bort fra ren produksjon og over på verifisering, forklaring og formidling. Som for program10
-
-Problemløsning er en kjerneaktivitet, men matematikk
-består av mer, for eksempel teoriutvikling (Tao, 2026).
-11
-Med «kanonisering» menes her at de blir en del av konsensus i faget, som en del av et større repertoar av løsninger.
-Det innebærer blant annet at bevisene blir innlemmet i
-lærebøker, i forbedret form (Tao, 2026, s. 8–9).
-
-mering, er det også her et ubesvart spørsmål i hvilken utstrekning ferdigheter i verifisering mv. kan
-utvikles uavhengig av evnen til å produsere løsninger. Igjen tilsier utviklingen et behov for utprøving.
-
-5.6.3 Lesing og skriving
-Et tredje område hvor store språkmodeller har
-betydelige styrker, er å analysere, sammenfatte og
-produsere tekst i naturlig språk. KI-systemene har
-med dette en overlappende funksjon med lesing
-og skriving, forstått som menneskelige ferdigheter. I stedet for selv å lese en tekst og formidle innholdet til andre, kan man la et KI-system raskt
-prosessere og sammenfatte innholdet i teksten,
-under hvilke føringer man måtte gi. Tilsvarende
-kan tekstskriving overlates til KI-systemer uten at
-kvaliteten på produktet nødvendigvis blir dårligere.
-Det at det er blitt mulig å overlate ulike typer
-lese- og skriveoppgaver til KI-systemer, endrer
-likevel ikke verdien av det å kunne lese og skrive
-godt. Lesing og skriving har lenge vært helt sentrale virkemidler for å lære seg å tenke klart, kritisk og kreativt. Ved å lære seg å lese og skrive
-argumenterende tekster med avansert innhold,
-lærer man seg å forstå og selv utforme logiske
-resonnementer og analyser av saksforhold.
-Skriftspråket disiplinerer oss som tenkere.
-Gjennom å uttrykke ideene våre i skriftlig form
-kan vi for eksempel oppdage at ideen vi hadde
-ikke var like klar eller velbegrunnet som vi
-trodde. Tilsvarende kan vi, når vi leser, gå forfatterens tankerekke nøye etter i sømmene.
-Av disse grunnene er det ikke ønskelig å la
-våre skrive- og leseferdigheter bli erstattet av KIsystemenes kapabiliteter. Lesing og skriving er i
-praksis grunnleggende forutsetninger for det
-læringsutbyttet høyere utdanning skal gi oss.
-For avgrensede formål kan det likevel være
-hensiktsmessig å overlate lese- og skriveoppgaver
-til KI-systemer. For eksempel kan det være hensiktsmessig å la et KI-system sile store tekstmengder for relevans, dersom man er ute etter informasjon om et bestemt tema eller en bestemt problemstilling. Eller man kan bruke KI-systemer for
-å omarbeide muntlige presentasjoner man har
-holdt (i muntlig stil), til artikkelutkast som kan
-bearbeides videre.
-Lese- og skriveferdigheter er også under press
-fra maskinlæringsalgoritmer som er trent for å
-maksimere engasjementet til brukere av nettplattformer og strømmetjenester. Det er vanskeligere
-å opprettholde konsentrasjon til lesing og skriving
-jo flere og mer kapable krefter som konkurrerer
-
-[Side 89]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-om vår oppmerksomhet. Verdien av lese- og
-skriveferdigheter blir ikke mindre av dette.
-Snarere blir det trolig enda viktigere å hegne om
-lese- og skriveferdigheter, også i høyere utdanning, sett i lys av deres betydning for tenkning. Se
-også kapittel 6 om bruk av KI-systemer i bestemte
-læringsaktiviteter.
-
-5.6.4 Fagkunnskap
-Med utviklingen av internett har fagkunnskap,
-bredt forstått som substansiell kunnskap om et
-domene, blitt mer tilgjengelig enn tidligere. KIsystemer tar dette et skritt videre. Språkmodellbaserte KI-systemer kan hente frem innholdet i
-svært mange kilder til fagkunnskap, i det formatet, omfanget og den presentasjonsstilen man
-ønsker. I tillegg kan man kan lettere finne frem til
-autoritative kunnskapskilder med KI-forsterkede
-søk.
-Selv om vi har bedre tilgang på fagkunnskap
-enn noen gang, er det å tilegne seg fagkunnskap
-stadig avgjørende. Det er flere grunner til dette.
-For det første er det noe annet å ha innarbeidet kunnskap i eget langtidsminne enn å ha kunnskapen tilgjengelig på en maskin. Hvis man ikke
-har kunnskapen i hodet, vet man ikke når den er
-relevant å ta i betraktning, og det blir vanskeligere
-å bruke kunnskapen i resonnementer.
-For det andre er det nødvendig å tilegne seg
-fagkunnskap for å utvikle høyere ordens ferdigheter, slik som ferdigheter i kritisk tenkning. Fagkunnskapen kan slik sett ha en viktig rolle i et bredere læringsløp.
-For det tredje er fagkunnskap en betingelse
-for å kunne vurdere og verifisere KI-formidlet og
-KI-generert informasjon. Vet man ikke nok om et
-saksfelt, blir det vanskelig å ta kritisk stilling til
-den informasjonen man blir formidlet om saksfeltet. Fagkunnskap er slik sett en muliggjørende
-kompetanse for ansvarlig bruk av KI-systemer.
-Disse tre argumentene tilsier ikke at alt som i
-dag går under rubrikken fagkunnskap, må stå fast
-i studietilbudene. Utvalgets vurdering er at fagkunnskap som bred kategori forblir like viktig
-som før. I noen tilfeller kan det også være behov
-for høyere nivåer av fagkunnskap (se kap. 5.8).
-5.6.5
-
-Kritisk tenkning
-
-Kritisk vurdering av informasjon er avgjørende for
-kollektiv kunnskapsdannelse i et mer krevende
-informasjonslandskap. Skal vi treffe gode beslutninger i møte med en transformativ teknologi som
-KI, må vi også kunne tenke kritisk om hvordan
-
-87
-
-Kapittel 5
-
-teknologien preger samfunnet og livene våre. Kritisk tenkning er slik sett en muliggjørende kompetanse for ansvarlig integrasjon av KI i fag, samfunn og arbeidsliv. Verdien av å kunne tenke selvstendig og kritisk er etter alt å dømme blitt større
-med KI-utviklingen.
-Det å lære seg å tenke kritisk, er et helt grunnleggende læringsutbytte i høyere utdanning.
-Kritisk tenkning er imidlertid ikke en ferdighet
-man kan besitte uten å besitte en rekke andre ferdigheter og stykker med kunnskap. Å kunne
-tenke kritisk kan innebære å beherske faglige
-begreper og metoder, kjenne til slutningsregler
-og typiske slutningsfeil, besitte fagkunnskap, å
-kunne tenke abstrakt og hypotetisk osv.
-En dimensjon av kritisk tenkning som er særlig berørt av KI, gjelder kildebruk og kildekritikk.
-God kildebruk og henvisningspraksis er en
-grunnleggende del av hvordan akademisk kunnskap utvikles og etterprøves. Generative KI-systemer er ikke kunnskapskilder på linje med fagfellevurderte publikasjoner, men de kan formidle innhold fra kunnskapskilder – med eller uten korrekte henvisninger – og de kan spille andre roller i
-kunnskapsutvikling. Å kunne tenke kritisk om
-informasjonen som kommer ut av et generativt KIsystem er også en vesentlig del av det å utvikle
-seg som kritisk tenkende i dag.
-
-5.6.6 Problemforståelse
-Idet KI-systemer blir sterkere integrert i arbeidsprosesser på ulike måter, blir problemforståelse
-viktigere som et læringsutbytte. Det å ha en god
-problemforståelse er en betingelse for å få nyttiggjort seg KI-systemer og KI-teknikker for å løse et
-gitt problem.
-Det viktigste man kan gjøre for å få god kvalitet på bidragene fra et KI-system drevet på store
-grunnmodeller, er å gi systemet klare og formålstjenlige instruksjoner. I praksis krever dette en
-god forståelse av problemet man ønsker å løse.
-Tilsvarende er en maskinlæringsalgoritme avhengig av et veldefinert mål som systemet kan trenes
-for. Med en god problemforståelse kan man lettere se hvilke deler av problemet som kan løses
-ved hjelp av maskinlæringsteknikker.
-Nytten av en god problemforståelse har også å
-gjøre med hvordan man organiserer arbeidsprosesser. KI-systemenes kapabiliteter står ikke i et
-enkelt forhold til menneskelige yrker, og det er derfor lite sannsynlig at yrker vil bli erstattet ett etter
-ett, i den grad arbeidsoppgaver automatiseres. KIsystemer vil kunne løse mer spesifikt definerte
-oppgaver selv om de ikke løser alt som hører til et
+\[Boks slutt\]

@@ -1,995 +1,256 @@
-# NOU 2026: 14, del 10 av 18 (side 111–121)
+# NOU 2026: 14, del 10 av 20
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/ac335adc-nou-2026-14.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-14/id3191187/
 - Original-PDF: https://www.regjeringen.no/contentassets/31691eb451e941e2b75fdc346978628f/no/pdfs/nou202620260014000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 20 figurer, 57 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-18, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 111]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-109
-
-Kapittel 7
-
-Kapittel 7
-
-Eksamen og vurdering
-7.1
-
-Innledning
-
-Når kunstig intelligens (KI) medfører endringer i
-studienes innhold og læringsaktiviteter, får det
-implikasjoner også for hvordan læring vurderes.
-Kapittel 6 Hvordan skal vi lære? fremhevet betydningen av selvregulering og metakognisjon for
-læringen og for at studentene skal ta KI-systemer i
-bruk på en konstruktiv måte. Fagenes innhold og
-metoder kan også endre seg, med fagspesifikke
-implikasjoner for hva det vil si å utføre analyser,
-undersøke holdbarheten i argumenter eller
-utvikle ny innsikt. Samtidig utfordres faglærerne
-på å integrere KI i et helhetlig læringsdesign,
-både for enkelte studieemner og studieprogrammer. Både generell og fagspesifikk KI-kompetanse utvikles over tid, og i møte med fagenes innhold og arbeidsmåter. Tilsvarende må vurderingsformene tilpasses disse endringene.
-En vedvarende spenning gjelder forholdet
-mellom vurdering som støtte til læring og vurdering som kontroll av læringsutbytte, det som ofte
-omtales som henholdsvis formative og summative aspekter i vurdering. Institusjonene skal
-både gi og sertifisere læringsutbytte. For begge
-hensyn skaper og forsterker KI en rekke muligheter og utfordringer. Mulighetene dreier seg
-blant annet om hvordan KI-systemer kan bidra til
-vurderinger av og tilbakemeldinger på studentbesvarelser, og i utformingen av oppgaver og
-vurderingsformer. De største utfordringene
-dreier seg om hvordan man kan måle hva studenter kan og vet når de har tilgang på verktøy som
-kan produsere og bearbeide faglig innhold, og
-hvilke gråsoner dette skaper i eksamensregelverket.
-KI-systemer gir altså parallelt muligheter for å
-styrke formative vurderinger, samtidig som sertifiseringen av oppnådd læringsutbytte blir mer krevende. KI-systemer gir også et innovasjonsrom for
-å utvikle nye vurderingsformer, herunder adaptive og persontilpassede prøver.
-Et gjennomgående tema i kapittelet er hvordan vi kan innrette vurderingsaktiviteter slik at de
-
-samlet både fremmer læring og gir en prøving av
-hva studentene kan og vet. Kapittel 7.2 beskriver
-hvordan eksamen og vurdering er regulert i dag,
-hva som skiller ulike vurderingsformer fra hverandre, og hvilke hensyn som ligger til grunn for
-valg av vurderingsform. Kapittel 7.3–7.11 tar for
-seg de ulike utfordringene og mulighetene KI stiller for hvordan man gjennomfører vurdering i
-høyere utdanning.
-
-7.2
-
-Hvordan vurdering gjennomføres
-og reguleres
-
-7.2.1 Dagens regulering
-Universitets- og høyskoleloven (uhl.) § 11-6 fastsetter at universiteter og høyskoler skal «sørge for
-at studentenes kunnskaper og ferdigheter blir
-prøvd og vurdert på en upartisk og faglig betryggende måte» og videre at vurderingen skal «sikre
-det faglige nivået på studiet». Loven gir ellers
-ingen føringer på hvordan eksamen og arbeidskrav skal gjennomføres.
-Eksamen og arbeidskrav er videre regulert av
-den enkelte institusjon. Universitets- og høyskoleloven gir institusjonene hjemmel til å fastsette forskrift om gjennomføring av eksamen (§ 11-6) og
-aktiviteter og oppgaver som må gjennomføres for
-å kunne gå opp til eksamen (§ 11-4). Institusjonenes forskrifter fastsetter regler som gjelder på alle
-eksamener, f.eks. definisjoner av fusk. I tillegg
-lager institusjonene supplerende regler for den
-enkelte vurdering, f.eks. hvilke hjelpemidler som
-er tillatt.
-7.2.2 Vurderingsformer
-Kvalitetsmeldingen (Meld. St. 16 (2016–2017))
-satte som mål at studenter skal møte varierte
-vurderingsformer i høyere utdanning. Det finnes
-et spekter av muligheter, både når det gjelder rent
-formmessige valg og vurderingens innhold, f.eks.
-hvilke oppgaver som gis og hvordan de er strukturert. Vurderingsformene kan kategoriseres på
-
-[Side 112]
-
-110
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-mange måter, og her trekker vi frem noen skillelinjer som vil benyttes i diskusjoner i kapitlet:
-– Eksamen og arbeidskrav: Vurderinger kan gjennomføres som eksamener eller som arbeidskrav. En eksamen er en vurdering som gir
-uttelling i studiepoeng og hvor resultatet
-påføres vitnemålet. Et arbeidskrav er en aktivitet som studentene må gjennomføre for å
-kunne gå opp til eksamen, uten at arbeidskravet i seg selv gir uttelling i studiepoeng.1
-– Format: Det er vanligst med skriftlige oppgaver i høyere utdanning, men også muntlige
-eksamener er utbredt på tvers av fagområder. I
-mange utdanninger utgjør også praktiske og
-estetiske oppgaver en viktig kategori, f.eks. i
-helsefag med klinisk praksis eller i utøvende
-musikkfag.
-– Sammensatte og ikke-sammensatte vurderinger:
-I stedet for å avholde eksamen som en enkelt
-vurderingsenhet er det mulig å sette sammen
-flere vurderingsenheter, slik at man får en samlet vurdering av oppnådd læringsutbytte på
-tvers av enhetene. For eksempel kan eksamen
-holdes som en mappeeksamen, hvor studentene skal levere et knippe med arbeider. Gjennom å dele opp eksamen i flere vurderingsenheter kan man også kombinere ulike formater, f.eks. skriftlige med praktiske eller muntlige oppgaveformater. Dersom en eksamen
-består av vurderingsenheter med ulike formater kalles det gjerne for en kombinasjonseksamen.
-– Individuelt arbeid eller samarbeid: Individuelle
-oppgaver er det vanligste i høyere utdanning,
-men over tid er det blitt vanligere å åpne for
-eller gi samarbeidsoppgaver.
-– Lokasjon: Vurderingsaktiviteten kan gjennomføres på campus (herunder som skoleeksamen), i eksternt eksamenslokale eller et hvilket som helst sted med internettilkobling (som
-hjemmeeksamen). Det blir også gjennomført
-vurderinger i utplassert praksis, f.eks. på skoler og sykehus, og det kan være mulig med
-fysiske eksamenslokaler utenfor campus.
-– Kontrollerte og ikke-kontrollerte vurderingsformer: I det vi kaller en kontrollert vurderingsform føres det tilsyn med hvordan oppgaven
-besvares, f.eks. hvilke hjelpemidler kandidaten
-tar i bruk. En skoleeksamen vil typisk sett være
-kontrollert, mens en (uovervåket) hjemmeeksamen vil være ikke-kontrollert.
-1
-
-Vi ser i denne sammenhengen bort fra arbeidskrav som
-ikke er vurderingsaktiviteter, f.eks. krav om oppmøte til
-undervisning.
-
-–
-–
-
-Varighet: Det er et stort spenn i hvor lenge
-vurderingsaktiviteter kan pågå, fra mindre enn
-en time til et år eller mer.
-Omfang: Vurderinger har varierende omfang
-målt i studiepoenguttelling, fra arbeidskrav til
-masteroppgaver på 60 studiepoeng. Omfang
-henger sammen med varighet, men er ikke
-identisk: En eksamen på seks timer kan ha et
-større omfang enn et arbeidskrav som man har
-flere uker på å besvare.
-
-7.2.3 Utbredelse av ulike vurderingsformer
-Det er et stort mangfold av vurderingsformer.
-Riksrevisjonen viser i sin rapport om universitetene og høyskolene sitt arbeid med å videreutvikle
-kvaliteten i studieprogrammene (2023) et oversiktsbilde over vurderingsformer for perioden
-2016–2021. I denne perioden var det ifølge institusjonenes emnebeskrivelser lite endring i hvilke
-vurderingsformer som ble benyttet, men med en
-nedgang i bruken av skriftlig eksamen. For å få en
-bedre oversikt over utviklingen i norsk høyere
-utdanning de seneste årene, hentet utvalget inn
-data fra Felles studentsystem (FS) om omfanget
-av ulike eksamensformer fra 2016 til 2025.2 Datasettet omfatter alle studieemner ved 29 institusjoner, som sammen står for om lag 90 prosent av
-den totale studentmassen i norsk høyere utdanning.3 Figur 7.1 viser den årlige utviklingen i bruk
-av ulike eksamensformer som andel av alle eksamener.
-De største endringene er i pandemiårene, hvor
-bruken av skoleeksamen sank betydelig og
-bruken av hjemmeeksamen steg betydelig. Det
-har ikke vært en tilsvarende endring siden
-ChatGPT ble lansert for allmennheten i november
-2022: Hjemmeeksamen er i dag omtrent på nivå
-med 2019, mens skoleeksamen har ligget omtrent
-flatt i perioden 2023–2025. Bruken av annen skoleeksamen (stort sett muntlig eksamen) har hatt en
-utvikling med forsiktig nedgang frem til utgangen
-av pandemien, hvor utviklingen snudde til en forsiktig oppgang. Andelen emner hvor denne eksamensformen benyttes er nå omtrent på samme
-nivå som for ni år siden. Det er verdt å merke seg
-2
-3
-
-For dette formålet har vi altså sett bort fra arbeidskrav, som
-det også finnes rapportering på.
-En oversikt over FS-virksomheter ligger her: https://
-www.fellesstudentsystem.no/samarbeid-og-medvirkning/
-FS-virksomheter.html (sist besøkt 15 desember 2025). Av
-disse inkluderer ikke datasettet data fra Forsvarets høyskoler, Samisk Høgskole eller Noroff. Andelen studenter
-(«90 prosent av den totale studentmassen») er basert på
-registrerte studenter i 2025 (DBH, 2025a).
-
-[Side 113]
-
-111
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Kapittel 7
-
-40 %
-35 %
-30 %
-25 %
-20 %
-15 %
-10 %
-5%
-0%
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024
-
-Skoleeksamen
-
-Hjemmeeksamen
-
-Mappe
-
-Oppgave
-
-Praksis
-
-Annen skoleeksamen
-
-2025
-
-Figur 7.1 Eksamensform som andel av total
-Kategoriene «Skoleeksamen» og «Annen skoleeksamen» viser i hovedsak til henholdsvis skriftlige og muntlig eksamener som blir
-gjennomført på campus under en form for tilsyn, «Praksis» til godkjente praksisstudier, og «Hjemmeeksamen», «Mappe» og «Oppgave» i hovedsak til ikke-kontrollerte eksamensformer. Statistikken tar utgangspunkt i forhåndsdefinerte kategorier i FS som alle
-institusjonene rapporterer på. FS gir i gitte tilfeller rom for tvetydighet i institusjonenes bruk av kategoriene, og datagrunnlaget lar
-seg derfor ikke fullt ut kvalitetssikre. Siden feilmarginen er lav og dataomfanget er stort er det likevel god grunn til å stole på
-tendensene som fremkommer.
-Kilde: Felles studentsystem
-
-at det er en treghet i endringer i eksamensformer,
-ettersom det er fastsatte frister for dette, vanligvis
-årlig.
-Data om hvilke vurderingsformer som blir
-brukt ved institusjonene er registrert i Felles studentsystem, men ligger ikke enkelt tilgjengelig.
-Dersom en sammenstilling av disse dataene
-hadde vært gjort tilgjengelig, ville sentrale myndigheter og institusjonene selv lettere kunne følge
-med på den nasjonale utviklingen og ha et kunnskapsgrunnlag på dette feltet. Utvalget vil derfor
-anbefale at sentrale myndigheter i samråd med
-institusjonene sørger for bedre tilgang til statistikk om vurderingsformer.
-
-7.2.4
-
-Ressursbehov ved ulike
-vurderingsformer
-Utvalget kjenner ikke til at det finnes oversikter
-som sammenlikner ressursbehovet for ulike vurderingsformer på nasjonalt nivå. Universitets- og
-høyskolelovutvalget diskuterte kostnader knyttet
-til krav om to sensorer ved eksamen (NOU 2020:
-3). Lovutvalget slår fast at det er utfordrende å
-kartlegge og vurdere kostnadene ved å innføre et
-krav om to sensorer ved eksamen, fordi slike kostnader i stor grad varierer avhengig av studieret-
-
-ning og eksamensomfang. Videre diskuterer lovutvalget kostnadsdrivere ved bruk av sensor, og
-identifiserer tre kostnadstyper: lønn til interne sensorer, honorar til eksterne sensorer og reise- og
-oppholdskostnader for eksterne sensorer.
-Universitets- og høyskolelovutvalgets diskusjon var avgrenset til kostnader til sensur. Siden vi
-har en bredere problemstilling, har utvalget henvendt seg til et utvalg UH-institusjoner med ulik
-størrelse, med en forespørsel om estimater på
-kostnader per kandidat for skoleeksamen, muntlig eksamen og hjemmeeksamen. Institusjonene
-hadde ikke nøyaktige estimater med alle kostnadselementer, men utvalget fikk gode vurderinger av hvilke kostnadsdrivere som inngår i
-disse vurderingsformene.
-En del av kostnadsdriverne er felles på tvers
-av de tre vurderingsformene. Dette inkluderer
-vitenskapelig ansattes tidsbruk til eksamensforberedelser med studenter, å utarbeide oppgaver,
-finne ekstern sensor, dialog med sensor, sensurering av eksamen og samsensur; honorar til
-ekstern sensor; administrativt personales tidsbruk til eksamensadministrasjon; veiledning med
-eksamensrelaterte akademiske eller tekniske
-spørsmål; og utgifter til digitalt eksamenssystem.
-Honorar til ekstern sensor er avhengig av sensors
-
-[Side 114]
-
-112
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-kompetansenivå og lønnsplassering. Kostnaden
-vil også variere med eksamensform, antall kandidater, eksamenens varighet, behov for sensormøter og eventuelle reise- og oppholdsutgifter.
-For skriftlig eksamen bruker man i tillegg
-ressurser på håndtering av karakterbegrunnelse
-og klager, IT-brukerstøtte og digitalt system for
-plagiatkontroll. For skriftlig eksamen med tilsyn
-kommer det i tillegg kostnader til tilsynspersonale, inkludert honorar og administrasjon. For
-eksamen med fysisk oppmøte (skoleeksamen og
-en andel muntlige eksamener) kommer det kostnader til klargjøring av lokaler, og eventuelt ekstra
-utgifter til eksamenslokaler. Arealkostnader inkluderer husleie, strøm, renhold og vedlikehold.
-Institusjonene rapporterer om at kostnadene
-til de ulike eksamensformene varierer betydelig
-med hensyn til fag og emnestørrelse for de
-enkelte eksamensformene. En del av kostnadene
-inngår i institusjonens ordinære drift og kan være
-vanskelige å tallfeste. To av de tre institusjonene
-som estimerte kostnader i sitt svar til utvalget,
-indikerte at kostnadene til skoleeksamen er
-høyere enn til hjemmeeksamen. Sett i lys av alle
-usikkerhetsmomentene har ikke utvalget et tilstrekkelig grunnlag for å estimere kostnadene
-ved de ulike eksamensformene.
-Det er likevel verdt å bemerke at lokaler og
-infrastruktur kan bli en stor kostnadsdriver dersom bruken av skoleeksamen øker mye. Det vil
-ha mye å si om institusjonen har tilstrekkelig dekning i eksisterende lokaler, om man må leie ekstra
-arealer, eller om man må anskaffe nye lokaler. Økt
-bruk av enkelte former for sammensatte vurderinger (se kapittel 7.6) kan også gi økte kostnader.
-
-7.2.5
-
-Formative og summative aspekter
-i vurdering
-Det formative aspektet av vurdering dreier seg
-om hvor stor læringsgevinst det gir å gjennomføre
-vurderingsaktiviteten, og det summative om hvorvidt og hvordan vurderingsaktiviteten tjener til å
-få frem og måle hva studenten kan og vet. Begge
-aspektene opptrer gjerne i en og samme vurderingsaktivitet, selv om hovedformålet med vurderingen kan være det ene fremfor det andre.
-De formative og summative aspektene ved
-vurdering speiler to grunnleggende funksjoner
-for universiteter og høyskoler: Institusjonene skal
-både gi og sertifisere læringsutbytte. Beslutninger om vurderingsform og oppgaveinnhold
-hviler på hensynet til disse to funksjonene.
-Et annet hensyn er at vurderingen skal henge
-sammen med undervisningen og være egnet til å
-
-prøve studietilbudets fastsatte læringsutbytte. I
-norsk høyere utdanning er dette prinsippet delvis
-forskriftsfestet som et krav til akkreditering av
-studietilbud, jf. neste underkapittel om meningsskapende samsvar.
-De formative og summative aspektene ved
-vurderingsaktiviteter speiles også i de ulike
-typene vurderinger studentene kan få på sine
-arbeider. Det å vurdere besvarelser som godkjent,
-ikke godkjent eller med bokstavkarakterer, har et
-summativt formål. Summative formål kan være å
-sikre en terskelverdi for videre studier, sertifisere
-bestemte kompetanser for yrkespraksis, eller å
-rangere kandidater. Tilsvarende skal karakterbegrunnelser primært sette studenten i stand til å
-forstå hvorfor det ble fattet et bestemt karaktervedtak. De tilbakemeldingene studentene får
-underveis i arbeid med en oppgave har, til forskjell fra karakterer og karakterbegrunnelser,
-typisk sett rent formativt formål. Tilbakemeldinger og formativ vurdering er nærmere diskutert i
-kapittel 7.7.
-
-7.2.6 Meningsskapende samsvar
-Undervisnings- og vurderingsformene i et studietilbud skal bidra til at studentene oppnår de fastsatte læringsutbyttene, og til å sertifisere at de har
-oppnådd dem. Den kunnskapen og de ferdighetene studentene skal utvikle (kapittel 5), og
-hvordan de skal utvikle dem gjennom utdanningen (kapittel 6), legger dermed vesentlige premisser for vurdering. Prinsippet om at det skal
-være sammenheng mellom det studentene lærer,
-undervisnings- og læringsaktivitetene og måten
-man vurderer hva studentene har lært, kalles
-meningsskapende samsvar (constructive alignment) (Biggs & Tang, 2011).
-Prinsippet om meningsskapende samsvar er
-delvis forskriftsfestet som akkrediteringsvilkår,
-altså som krav alle studietilbud må innfri. Universitets- og høyskoleforskriften (§ 1-11) fastsetter:
-d. Studietilbudets innhold, oppbygging og
-progresjon skal være tilpasset læringsutbyttet.
-e. Undervisnings-, lærings- og vurderingsformer skal være tilpasset læringsutbyttet
-og utformet slik at de fremmer at studentene
-tar en aktiv rolle i å forme læringsprosessen.
-Disse formuleringene fremhever betydningen av
-et helhetlig læringsdesign, slik et studietilbud er
-organisert fra institusjonens og faglærers side.
-Samtidig anerkjenner ordlyden i forskriften at
-
-[Side 115]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-læringsutbyttet er avhengig av de konkrete
-læringsaktivitetene studentene utfører og de
-læringsprosessene de går gjennom, der deres
-egen innsats og orientering er avgjørende.
-
-7.2.6.1 Utvalgets vurdering
-KI både utfordrer og forsterker behovet for helhetlig pedagogisk tenkning og sammenheng.
-Variasjonen i studentenes deltakelse og orientering kan forsterke utfordringer med å planlegge
-god sammenheng mellom læringsaktiviteter og
-læringsutbytte. Sammenhengen mellom læringsaktiviteter og vurderingsformer utfordres, spesielt når det gjelder vurdering for sertifisering av
-læringsutbytte. I mange tilfeller vil den type oppgaver og aktiviteter som fremmer læring ikke
-være egnet for pålitelig sertifisering. For eksempel kan læringsfremmende oppgaver ta form av
-utforskende prosesser og analyser uten faste
-svar, mens sertifisering kan kreve kontrollerte
-omgivelser og testing av utvalgte kompetanser.
-Mens prinsippet om meningsskapende samsvar
-fremdeles gir viktige føringer, blir det sentralt å
-vurdere hvilke relasjoner som er viktig å
-avstemme når ikke alle hensyn kan ivaretas. Det
-blir viktigere å skille mellom de ulike formålene
-ved summativ vurdering når vurderingsform
-bestemmes, og hvilke relasjoner til andre elementer i studiedesignet som da er viktige å ivareta. For eksempel kan ulike vurderingsformer
-være egnet for, på den ene siden, å sikre et terskelnivå for å gå videre i et studieprogram, og på
-den andre siden, det å sertifisere kandidatenes
-kompetanse med henblikk på at de skal inn i en
-bestemt yrkesrolle.
-
-7.3
-
-Eksamensregelverk og 
-KI-retningslinjer
-
-Eksamensregelverket er hierarkisk organisert.4
-Universitets- og høyskoleloven og universitets- og
-høyskoleforskriften gir helt grunnleggende føringer for gjennomføring av eksamen og fuskesaksbehandling, og dermed rammer for eksamensregelverket ved den enkelte institusjon. Hovedreglene på institusjonsnivå fastsettes i forskrift
-vedtatt av styret og er bindende for hele institusjonen. Denne gir de rettslige rammene for vurdering og sensur. På program- og fakultetsnivå suppleres forskriften av interne retningslinjer som til4
-
-For enkelhets skyld skriver vi her «eksamensregler» også
-når reglene gjelder arbeidskrav.
-
-113
-
-Kapittel 7
-
-passer vurderingsordninger til faglig egenart.
-Den konkrete gjennomføringen skjer på emnenivå gjennom emnebeskrivelser som angir eventuelle arbeidskrav og vekting av delvurderinger,
-eksamensform og hvilke hjelpemidler som er tillatte.
-Generative KI-systemer har utfordret fastsatte
-eksamensregler og retningslinjer om bruk av KIsystemer. Språkmodellbaserte KI-systemer kan
-produsere utkast til tekst og de kan gi forslag til
-litteratur, metoder, standpunkter og argumenter.
-De kan også gi tilbakemeldinger på og endringsforslag til egenproduserte tekstutkast – både på
-språk, struktur og innhold. Interaksjonen mellom
-studenten og samtaleroboten kan i varierende
-grad ha kjennetegnene til en dialog eller til en
-bestilling (Handa, Bent, et al., 2025).
-Mangfoldet i bruksmetoder har skapt større
-gråsoner for flere eksamensregler, herunder
-grunnleggende regler som at kandidaten ikke
-skal presentere andres arbeid som sitt eget. Dersom et utkast til besvarelse går gjennom mange
-nok endringer foreslått eller foretatt av et KIsystem, vil besvarelsen på et eller annet punkt
-opphøre å være studentens eget arbeid. Hvor den
-grensen går er imidlertid vanskelig å avgjøre.
-Muligens er visse KI-baserte forslag til standpunkter, begrunnelser, motforestillinger, argumentstruktur og språkforedling akseptable å ta
-inn hver for seg, men i sum kan de gjøre at besvarelsen ikke lenger kan regnes som studentens
-eget arbeid.
-Et vedtak om fusk medfører annullering av
-eksamen og kan medføre utestengelse. Om ikke
-reglene og retningslinjene er klare nok, vil studenter kunne vegre seg for å benytte KI-systemer selv
-i tilfeller der bruken er tillatt og formålstjenlig, av
-frykt for å bli mistenkt for fusk. Tidligere har
-mange tatt til orde for nasjonale retningslinjer om
-KI-fusk og grader av tillatt KI-bruk på eksamener,
-med det formål å sikre likebehandling av vitnemål
-på tvers av institusjonene. Andre har vektlagt
-behovet for både lokale og faglige tilpasninger.
-
-7.3.1 Utvalgets vurdering
-Utvalget merker seg at universitetene og høyskolene arbeider aktivt med å utvikle sine eksamensregler og retningslinjer for bruk av KI.
-Utvalget mener at institusjonene bør ha eierskap til sine eksamensregelverk og retningslinjer for bruk av KI-systemer, fremfor at dette
-gis nasjonalt. Institusjonene kan bedre ivareta
-faglig diversitet og organisatorisk utvikling, og
-tilpasse seg endrede behov raskere og bedre.
-
-[Side 116]
-
-114
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Her legger utvalget vekt på at eksamensreglementer blir utformet i lys av institusjonenes ulike
-studieporteføljer. Institusjonene kan innenfor
-samme fagområde ha særegne program- og vurderingsstrukturer, og denne faglige diversiteten
-bør beholdes.
-Samtidig støtter utvalget arbeidet med samordning som pågår i sektoren, styrket av erfaringsdeling og tilbakemeldinger fra studentene.
-Universitets- og høgskolerådet (UHR) vedtok i
-2025 veiledende retningslinjer for fusk, med formål om å samordne institusjonenes praksis (jf.
-Dahle et al., 2025). Flere institusjoner har siden da
-fulgt opp disse anbefalingene. Utvalget oppfordrer, der det ansees som hensiktsmessig, til videre
-nasjonal samordning gjennom UHR.
-Et velutformet eksamensregelverk gir studentene og institusjonene forutsigbarhet. Det bidrar
-til å ivareta studentenes rettssikkerhet, kvaliteten
-i studietilbudene og tilliten til institusjonen. Utvalget legger til grunn følgende forståelse av hva
-som kjennetegner et velutformet regelverk:
-– Formålstjenlighet: Eksamensreglene og retningslinjene bidrar til å gjøre det mulig å vurdere studentenes oppnådde læringsutbytte på
-en upartisk og faglig betryggende måte.
-– Klarhet: Reglene og retningslinjene er forståelige både for studentene som er bedt om å følge
-dem og for dem som skal vurdere om reglene
-har vært fulgt.
-– Etterprøvbarhet: Det er mulig å finne ut om
-reglene har vært fulgt.
-– Likhet: Reglene for den enkelte vurdering
-varierer ikke mer fra andre vurderinger enn
-hva som kan begrunnes med utgangspunkt i
-vurderingsform og hva slags kunnskap og ferdigheter studentene prøves i. Reglene varierer
-heller ikke uforholdsmessig mye mellom universiteter og høyskoler.
-Utvalget vurderer formålstjenlighet som det viktigste og mest grunnleggende kriteriet, etterfulgt
-av klarhet og etterprøvbarhet. Likhet på tvers av
-emner, fag og institusjoner er en fordel, spesielt
-for studentene som kan bytte studier og som etter
-endt studium blir sammenliknet på tvers av institusjoner. Samtidig er det gode grunner for å ikke
-holde alt likt: For at regelverk skal fungere godt
-over tid er det hensiktsmessig med et lokalt handlingsrom for utprøving og forbedring.
-De listede kriteriene må sees i sammenheng
-med vurderingsform. Mange regler, for eksempel
-om hvilke hjelpemidler som er tillatt, er etterprøvbare kun når eksamen blir gjennomført under tilsyn.
-
-7.4
-7.4.1
-
-Vurdering av oppnådd
-læringsutbytte
-
-Utfordringen med å vurdere oppnådd
-læringsutbytte
-Eksamen skal være en prøving av hvor stort
-læringsutbytte studentene har oppnådd, i samsvar
-med læringsutbyttebeskrivelsene for det enkelte
-emne og den enkelte utdanning. Etter universitets- og høyskoleloven § 11-6 skal universiteter og
-høyskoler sørge for en faglig betryggende vurdering av studentenes kunnskaper og ferdigheter.
-Utviklingen av store språkmodeller og annen
-generativ KI har skapt en grunnleggende utfordring for det å vurdere hva eksamenskandidater
-kan og vet. Samtaleroboter og agentiske systemer
-kan, på grunnlag av enkel instruksjon, produsere
-svært gode svar på mange oppgaver det er hensiktsmessig å gi studenter i høyere utdanning.
-Dette rammer oppgaver som ellers hadde gitt et
-godt grunnlag for å prøve de læringsutbyttene studentene skal utvikle.
-Utfordringen med å vurdere oppnådd læringsutbytte foreligger også om man ser bort fra at KIsystemer kan generere fullstendige oppgavebesvarelser. Språkmodellbaserte KI-systemer kan
-bidra med alt fra grunnleggende ideer til hvordan
-en oppgave kan besvares, til å gi struktur på argumenter, produksjon av avsnitt, bearbeidelse av
-egenprodusert språk og innhold, og så videre. Får
-man ikke identifisert kandidatens bidrag til besvarelsen, får man ikke vurdert hva kandidaten kan
-og vet.
-Generativ KI har gjort det vanskelig, om ikke
-umulig, å identifisere hva som har vært skapt av et
-menneske og hva som har vært skapt av en maskin. Markører for KI-generert tekst – f.eks. skrivestil eller hallusinerte referanser – er feilbarlige,
-utilstrekkelige og blir mindre pålitelige i takt med
-teknologiutviklingen. Menneskers evne til å identifisere KI-generert innhold er ofte ikke bedre enn
-tilfeldig, spesielt når det kommer til vitenskapelige tekster (Chein et al., 2024; Scarfe et al., 2024;
-Schneider et al., 2025). KI-systemer kan brukes til
-å bearbeide menneskeskapt innhold, noe som gjør
-det mer komplisert å trekke et enkelt skille mellom KI-genererte og menneskeskapte deler av en
-besvarelse. Motsatt vei kan KI-genererte forslag
-omarbeides både maskinelt og manuelt (Schneider et al., 2025).
-Så sant generative KI-systemer har vært tilgjengelig for bruk under gjennomføring av eksamen, uten tilsyn, er det i sum svært vanskelig for
-sensor å identifisere hva som er bidragene til kan-
-
-[Side 117]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-didaten og hva som er bidragene til et KI-system.
-Generative KI-systemer har slik sett forsterket
-den logiske avstand mellom kvaliteten på en
-besvarelse og hva besvarelsen sier om kandidatens kunnskap og ferdigheter.
-Utfordringen med å vurdere oppnådd læringsutbytte må ikke forstås for snevert, det vil si utelukkende som en utfordring med fusk. Hvorvidt
-en student har fusket avhenger av hvilke regler
-som gjelder for den enkelte eksamen. Så sant
-bruk av KI-systemer ikke er forbudt eller svært
-strengt regulert, kan en students bruk av KI-systemer utgjøre en vesentlig feilkilde til sensorens
-vurdering av oppnådd læringsutbytte, samtidig
-som bruken er i samsvar med eksamensreglene.
-Utfordringen med fusk på hjemmeeksamener
-er ikke ny av art. Mye av det man kan få til med
-KI-systemer, om man er innstilt på å oppnå uærlige resultater, var allerede mulig med tilgang på
-andres hjelp eller arbeider. Endringen er likevel
-vesentlig: Det er enklere, raskere og rimelig å
-bruke KI-systemer, og risikoen for sosiale og formelle sanksjoner er lavere. Studenten behøver
-heller ikke å ha en intensjon om å fuske. I en kompleks interaksjon med en samtalerobot kan det
-være krevende å vurdere nøyaktig hvilke eller
-hvor mange bidrag fra KI-systemet som er innenfor gjeldende regler (se kap. 7.3). Også om vi ser
-bort fra fuskeproblematikken har hjelp fra andre
-vært en feilkilde i vurdering av oppnådd læringsutbytte ved hjemmeeksamener, og KI-systemer
-har forsterket denne feilkilden.
-Utfordringen KI har skapt for vurdering av
-oppnådd læringsutbytte har flere konsekvenser:
-– Studentene kan få ufortjent gode eller ufortjent
-dårlige resultater. I tillegg til at den enkelte kan
-bli uriktig vurdert, kan dette gi opphav til urettferdige sammenlikninger av studentenes resultater.
-– Mangfoldet i bruksmetoder gjør at studenter
-kan bli mistenkt for fusk også når de har brukt
-KI-systemer i samsvar med institusjonenes
-føringer. Dette utfordrer studentenes rettssikkerhet.
-– Ved mistanke om fusk må fuskesaksbehandlere, nemnder og domstoler vurdere om eksamensreglene har blitt brutt, opp mot et beviskrav om sannsynlighetsovervekt eller klar
-sannsynlighetsovervekt. Studentenes rettsikkerhet står sentralt. Motsatt vei er det problematisk om det er umulig å bekrefte brudd på
-grunnleggende eksamensregler.
-– Til slutt har utfordringen konsekvenser for alle
-dem som skal dra nytte av informasjonen et
-vitnemål gir. I ytterste konsekvens rammer
-
-115
-
-Kapittel 7
-
-dette tilliten til universiteter og høyskoler og
-verdien av høyere utdanning.
-
-7.4.2 Utvalgets vurdering
-Kandidaters tilgang på generative KI-systemer
-under gjennomføring av eksamen kan gjøre det
-svært vanskelig å vurdere oppnådd læringsutbytte
-i henhold til universitets- og høyskoleloven § 11-6,
-og å vurdere etterlevelse av eksamensregelverk.
-Sensor må kunne vite hva kandidatens bidrag til
-besvarelsen er, for å vurdere hva kandidaten kan
-og vet.
-Utfordringen kan i ytterste konsekvens undergrave tilliten til vitnemål fra høyere utdanningsinstitusjoner. Samtidig påvirker det læringsprosessen negativt: Når man kan oppnå gode resultater
-uten å ha tilegnet seg de ferdighetene og den
-kunnskapen man skal prøves i, svekker det
-læringsinsentivet.
-Utvalget vurderer at det ikke er universitetsog høyskolelovens bestemmelse om faglig betryggende vurdering som er kilden til problemet, og
-heller ikke de lokale eksamensreglene. Universitets- og høyskoleloven stiller et grunnleggende og
-rimelig krav til gjennomføring av eksamen. Utvalget mener at tydeligere og bedre eksamensregler
-heller ikke alene kunne løse problemet: Det er
-ikke mulig å lage eksamensregler som det både er
-mulig å vurdere etterlevelse av ved ikke-kontrollerte eksamener, og som samtidig tjener funksjonen med å sikre en upartisk og faglig betryggende vurdering (se kap. 7.3).
-Utvalget mener at institusjonenes ansvar for å
-sørge for en faglig betryggende vurdering, fordrer at alle eksamener må gjennomgås for å sikre
-at oppnådd læringsutbytte kan bli vurdert. For
-noen eksamener kan det være mest hensiktsmessig, både for læringsprosessen og i lys av læringsutbytte, at KI-systemer ikke er tillatt som hjelpemiddel. For andre kan utstrakt bruk av KI-systemer være egnet, så sant man har en metode for å
-vurdere læringsutbyttet på en pålitelig måte.
-Dette må vurderes opp mot studieemnets og -programmets læringsutbytte og fagets arbeidsmetoder.
-Utvalget har vurdert hvilke tiltak som kan
-bidra til å løse utfordringen. Tiltakene blir beskrevet og vurdert i det følgende.
-7.4.2.1 Kontrollerte eksamensformer
-Utfordringen oppstår når universitetene og høyskolene ikke fører tilsyn med gjennomføring av
-eksamen. Under kontrollerte omstendigheter –
-
-[Side 118]
-
-116
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-som ved skriftlig skoleeksamen, muntlig eksamen
-og praktiske prøver – kan man sørge for at det
-ikke er tilgang på ikke-tillatte hjelpemidler, eller at
-det er tilsyn med hvordan tillatte hjelpemidler blir
-brukt. Dette gjør det mulig å sikre en faglig
-betryggende vurdering av studentenes læringsutbytte. Studentene kan også få sterkere læringsinsentiver når de vet at de ikke kan lene seg på
-bidragene til et KI-system.
-Tiden man kan bruke i et kontrollert eksamensmiljø begrenser hva slags kunnskap og
-hvilke ferdigheter man kan prøve. En skoleeksamen er f.eks. ikke like egnet til å prøve studentenes ferdigheter til å utvikle gjennomarbeidede,
-velstrukturerte argumenter eller å planlegge og
-gjennomføre egne undersøkelser etter akademiske standarder.
-
-Boks 7.1 Programmeringseksamen uten
-programmering, ved Høgskolen i Østfold
-Informatikkemnene «Algoritmer og datastrukturer» og «Innføring i operativsystemer»
-er blant de mest programmeringstunge i ITstudiet ved Høgskolen i Østfold. De gir studentene både praktiske ferdigheter og teoretisk forståelse på et høyt abstraksjonsnivå, noe
-som krever omfattende programmeringsarbeid.
-De siste årene er undervisningen lagt om
-for å fremme mer selvstendig læring. Tradisjonelle forelesninger er erstattet av digitale
-videomoduler kombinert med frivillige og
-obligatoriske programmeringsoppgaver. Oppgavene vurderes uten karakter, og det gjennomføres ingen systematisk kontroll for juks
-eller bruk av KI-systemer – ansvaret for
-læring ligger hos studentene selv.
-Avsluttende eksamen består av rene flervalgsoppgaver. Oppgavene krever ikke skriving av hverken programkode eller tekst, men
-tester studentenes evne til å forstå, analysere
-og vurdere ferdigskrevet kode. Formatet gjør
-det mulig å dekke et bredt spekter av pensum
-og gir rask og effektiv sensur. Foreløpige
-resultater viser ingen vesentlige endringer i
-karakterfordelingen etter omleggingen, og
-studentenes tilbakemeldinger har vært stabile.
-Kilde: Informasjon til utvalget fra Østfold AI Hub v/førsteamanuensis Harald Holone
-
-Det å sikre en faglig betryggende vurdering av
-studentenes læringsutbytte er vesentlig for
-høyere utdanning og tilliten til studentenes
-kompetanse. Å sette av ressurser til dette bør derfor være en høy prioritet både for institusjonene
-og sentrale myndigheter. Dersom institusjonenes
-arealmessige kapasitet til å holde fysiske eksamener på campus blir uttømt, vil det blant annet være
-behov for å investere i infrastruktur.
-Utvalget vil understreke at det er fullt mulig og
-i flere tilfeller ønskelig å stille KI-systemer til disposisjon som hjelpemidler under kontrollerte
-eksamener, f.eks. om man ønsker å prøve ferdigheter i bruk av store språkmodeller til å løse
-fagrelevante problemer. Gjennom brukslogg kan
-det være mulig for sensor å se hvordan verktøyet
-har vært brukt, og man kan gi studentene i oppgave å begrunne eller reflektere over egen bruk.
-Utvalget mener at praksisen med utstrakt
-bruk av hjemmeeksamen ikke lenger er forsvarlig
-(jf. Figur 7.1). Ved å gjennomføre eksamen under
-tilsyn kan universiteter og høyskoler sørge for en
-faglig betryggende vurdering av hva kandidater
-kan og vet. Mange institusjoner jobber med å øke
-bruken av kontrollerte eksamensformer. Utvalget
-mener at universiteter og høyskoler bør gjøre
-større bruk av kontrollerte eksamensformer, og
-at ikke-kontrollerte eksamensformer suppleres
-med en kontrollert del (se 7.4.2.2).
-
-7.4.2.2
-
-Supplering av ikke-kontrollerte
-eksamener med en kontrollert
-eksamensdel
-Ved å supplere ikke-kontrollerte eksamener med
-en kontrollert eksamensdel kan studenter prøves
-i alle typer læringsutbytte, også de som utvikles
-og vises gjennom arbeid som pågår over lang tid,
-uten at det går på bekostning av vurderingens
-integritet. Det vil også kunne insentivere til mer
-læringsfremmende bruk av generative KI-systemer i arbeid med oppgaver dersom kandidatene
-vet at de i tillegg vil bli testet under kontrollerte
-omstendigheter. Vurderingene som gis her gjelder også større, selvstendige arbeider, som masteroppgaver. Kapittel 7.5 gir en utfyllende vurdering av større, selvstendige arbeider.
-Å kombinere innlevert skriftlig arbeid med
-muntlig eksamen gjøres allerede i stor grad, f.eks.
-etter innlevert masteroppgave, men det kan brukes på flere studieemner. Den kontrollerte eksamenen som supplerer en ikke-kontrollert eksamen kan ha et hvilket som helst format: Den
-behøver ikke å være muntlig, med ressursene det
-krever av institusjonen. F.eks. kan sensor, even-
-
-[Side 119]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-117
-
-Kapittel 7
-
-Boks 7.2 Utprøving av nye eksamensformer ved Handelshøyskolen BI
-Må vi velge mellom integritet og autentisitet i
-– Prosessbasert vurdering som flytter fokus fra
-vurdering? En retur til tradisjonelle, kontrollerte
-sluttresultatet til selve læringsprosessen,
-eksamensformer kan gå ut over muligheten til å
-gjennom studentenes samhandling med et
-prøve studentene i kompetanser som vil være
-spesialisert KI-system, integrert i læringssentrale i deres fremtidige arbeidsliv, slik som å
-plattformen.
-utvikle fagspesifikk KI-kompetanse.
-Med dette som utgangspunkt prøver
-Ved å dele opp vurderingen i tre funksjoner –
-læringssenteret ved Handelshøyskolen BI ut et
-kunnskapstesting, verifisering av forfatterskap
-redesign av eksamen gjennom tre komplemenog vurdering av ferdigheter – er målet å oppretttære grep:
-holde integriteten i vurderingen samtidig som
-– En «akademisk teoriprøve» i form av en midtstudentene rustes for et arbeidsliv preget av KI.
-veiseksamen i kontrollert miljø uten hjelpe1
-Utvalget vil ikke anbefale hjemmeeksamen på video, som
-midler, for å teste grunnleggende faglig forantageligvis ikke er en tilstrekkelig kontrollert eksamen
-ståelse.
-på grunn av tilgang til KI-systemer. I tillegg har
-vurderingsformen mange likhetstrekk med tilsyn på digi– 10 minutters muntlig forsvar av hjemmeeksatale hjemmeeksamener, og utfordringer knyttet til permen på video for et utvalg studenter, der sjansonvern og manglende juridisk grunnlag, se kap. 7.4.2.4).
-sen for å bli plukket ut skal bidra til etterKilde: Landfald (2026)
-levelse i hele studentkullet.1
-
-tuelt med hjelp av KI-systemer, lage individuelle
-eksamensoppgaver ved lesning av innleverte
-besvarelser – lik spørsmålene man kan stille ved
-muntlig forsvar – som skal besvares på en skriftlig
-skoleeksamen (se kapittel 7.10).
-For at et slikt grep skal tjene hensikten med å
-gi en samlet sett faglig betryggende vurdering,
-er det nødvendig at den kontrollerte eksamensdelen gis betydelig vekt og ikke bare justerer en
-karakter som er satt på forhånd. Den kontrollerte eksamensdelen må informere sensorenes
-vurdering av hvor stort læringsutbytte studenten
-viser gjennom den ikke-kontrollerte eksamensdelen, og slik legge grunnlaget for en samlet
-vurdering.
-Det å innføre en kontrollert vurdering som
-supplement kan kreve ytterligere ressurser til
-gjennomføring av eksamen og sensur. Høyere
-kostnad er en ulempe i seg selv. Samtidig er det
-svært uheldig om kostnad i for stor grad påvirker
-beslutninger om eksamensform. Eksamensformer som fremmer og prøver ønskede læringsutbytter på faglig betryggende vis er en helt
-vesentlig del av studiekvaliteten. Utvalget kan
-ikke se at det er gode veier utenom å akseptere at
-generative KI-systemer har gjort vurdering mer
-ressurskrevende. Hvor stort ressursbehovet blir,
-vil variere. Ressurser kan for eksempel frigjøres
-ved å redusere omfanget av det skriftlige arbeidet
-eller organisere den muntlige prøvingen mer
-
-effektivt. For en god del emner vil det likevel
-kreves ekstra ressurser.
-Utvalgets anbefaling om å supplere ikke-kontrollerte eksamener med en kontrollert eksamensdel vil i praksis føre til flere kombinasjonseksamener. Dette blir diskutert i kapittel 7.6.
-
-7.4.2.3 KI-robuste eksamensoppgaver
-Alle kjente KI-systemer har begrenset kapabilitet.
-Det kan være mulig å gi oppgaver som det ikke er
-mulig å svare på, selv med tilgang på avanserte
-KI-systemer, uten samtidig å demonstrere oppnådd læringsutbytte. Det kan f.eks. dreie seg om
-kasusoppgaver som krever en forståelse av kontekst som tilgjengelige KI-systemer mangler.
-En slik strategi har vært velbegrunnet i den
-første fasen med generativ KI, men utvalget ser
-store nok ulemper med strategien til at det ikke vil
-anbefale å forfølge den fremover.
-Det er svært uforutsigbart hva både dagens og
-fremtidige KI-systemer ikke vil kunne få til (jf.
-beskrivelsen av den ujevne utviklingsfronten av
-KI i kapittel 3). Som en konsekvens av at KImodellene blir mer kapable over tid, kan man ikke
-stole på at en KI-robust oppgave gitt høsten 2026
-vil holde seg KI-robust. Siden modellene blir mer
-kapable, blir det også stadig færre KI-robuste oppgaver å gi, med den konsekvens at det blir færre
-typer læringsutbytte man kan prøve med en slik
-
-[Side 120]
-
-118
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-tilnærming. Det er etter utvalgets mening ikke
-hensiktsmessig å begrense hva man skal lære i
-høyere utdanning til den kunnskapen og de ferdighetene som skal til for å løse oppgaver som KIsystemer ikke er i stand til å løse (se kapittel 5 og
-6). Eksamen bør heller ikke begrenses til en
-øvelse i å gi gode instruksjoner til KI-modeller
-(herunder å gi modellen tilstrekkelig kontekst).
-
-7.4.2.4 Tilsyn på digitale hjemmeeksamener
-Med tekniske hjelpemidler kan det være mulig å
-gjøre hjemmeeksamen til en kontrollert eksamensform, og dermed en løsning på utfordringen. Såkalt e-proctoring har blant annet blitt
-utbredt i USA, spesielt siden covid-19-pandemien.
-Dette innebærer skjermovervåkning og videoovervåkning av studenten med kamera og mikrofon. Tilsynet kan gjennomføres av mennesker, i
-sanntid eller i etterkant basert på videoopptak,
-eventuelt kun ved mistanke om fusk. I noen programvarer er det i tillegg integrerte KI-systemer
-for å analysere videomaterialet og flagge avvik.
-Som forklart nedenfor, vurderer utvalget at tilsyn
-med digital hjemmeeksamen ikke er tilstrekkelig
-hjemlet i dagens regelverk. Utvalget har vurdert
-om det bør hjemles.
-Det taler for en hjemmel at ordningen ikke
-krever fysisk oppmøte og fysisk infrastruktur, slik
-skoleeksamen gjør. Dette har spesielt stor betydning for nett- og samlingsbaserte studier. Der vil
-det være mer ressurskrevende å bytte ut hjemmeeksamen med skoleeksamen, både for studenten
-og institusjonen, noe som gjør det til et relativt
-sett mer attraktivt alternativ for begge parter.
-Det taler mot en hjemmel at det er belastende
-for mange studenter å bli overvåket i eget hjem,
-noe som kan påvirke eksamensprestasjoner, og at
-det innebærer innsamling av mye, potensielt sensitiv data som må håndteres sikkert. Det er også
-problematisk at løsningen kan være både teknisk
-og praktisk feilbarlig: Løsningen er sårbar for programvare som overstyrer kamera eller skjermovervåkning, og det vil være områder som ikke
-fanges opp på kamera.
-Studenter som ikke har tilgang til et eget,
-skjermet rom – eller som bor sammen med venner eller familie – kan oppleve tilsynet som særlig
-inngripende. For dem kan overvåkning og innsyn
-i hjemmet ikke bare krenke eget personvern, men
-også tredjepersoners privatliv. Andre studenter
-kan enklere akseptere tilsyn i en avveining mellom personvern og fleksibilitet, der muligheten til
-å gjennomføre eksamen hjemmefra oppveier for
-ulempene (Nicola-Richmond et al., 2024).
-
-I EØS er tilsyn på digitale hjemmeeksamener
-sterkt regulert av personvernregelverket, siden
-det er en inngripende form for kontroll.5 Universiteter og høyskoler kan etter uhl. § 2-8 behandle
-studenters personopplysninger når det er nødvendig for å utføre deres oppgaver etter loven. Siden
-institusjonen kan unngå et slikt inngrep gjennom
-andre vurderingsformer, er ikke tiltaket etter
-utvalgets vurdering strengt nødvendig for å utføre
-institusjonens oppgaver.
-I tillegg er det et generelt krav om at jo mer
-inngripende tiltaket er, desto tydeligere må lovhjemmelen være. Siden tilsyn av studenter er et
-inngripende tiltak i studenters privatliv, er den
-overordnede hjemmelen i uhl. § 2-8 for lite tydelig
-og spesifikk til å hjemle et slikt tiltak. Etter utvalgets vurdering kreves det derfor en ny lovhjemmel som oppfyller kravene etter personvernforordningen (GDPR) art. 6.
-Datatilsynet fattet 28. oktober 2026 (en uke før
-trykk av denne NOU-en) vedtak om å avslutte en
-sak om tilsyn på digitale hjemmeeksamener. Datatilsynet konkluderte med at løsningen var i tråd
-med personopplysningsloven og -forordningen,
-uten nærmere begrunnelse. Saken viser at det
-kan være mulig å hjemle slikt tilsyn i uhl. § 2-8.
-Utvalget har ikke gjort nye vurderinger i lys av
-dette vedtaket.
-Et slik inngrep i studentenes personvern kan
-heller ikke hjemles ved å innhente samtykke fra
-studentene (Giannopoulou et al., 2023). For at
-samtykket skal være gyldig, må det være gitt frivillig. Dette er vanskelig å oppnå all den tid studenten og institusjonen står i et ujevnt maktforhold, og
-studenten kan ha begrunnet frykt for negative
-konsekvenser dersom hen ikke samtykker. Dersom et behandlingsgrunnlag for tilsyn av digitale
-hjemmeeksamener var på plass, er det fortsatt et
-veldig begrenset handlingsrom etter andre regler i
-GDPR (se vedlegg 2).
-Utvalget vurderer at tilsyn på digitale hjemmeeksamener er en form for overvåkning som er
-svært inngripende i studentenes privatliv, og byr
-på omfattende etiske og juridiske problemer. Tiltaket utfordrer sentrale prinsipper om personvern
-og forholdsmessighet.
-Utvalget fraråder derfor tilsyn på digitale hjemmeeksamener og anbefaler ikke at det utredes en
-særskilt lovhjemmel for et slikt tiltak. Utvalget
-anbefaler i tillegg at sentrale myndigheter og insti5
-
-Tilsyn med gjennomføring av digitale hjemmeeksamener
-innebærer behandling av personopplysninger etter GDPR
-artikkel 4 nr. 1 og nr. 2. Video- og lydopptak fra studentens
-hjem, samt identitetskontroll, faller klart innenfor forordningens virkeområde.
-
-[Side 121]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-tusjonene samarbeider om å møte behovet for
-eksamenslokaler for fleksible studietilbud.
-
-7.4.2.5 KI-deteksjon
-Som et svar på utfordringen med å skille menneskeskapt fra maskingenerert innhold, er det blitt
-utviklet verktøy med mål om å gjenkjenne tekst
-skapt av KI-systemer. Slike KI-detektorer bruker
-maskinlæringsteknikker til å finne mønstre som
-skiller KI-generert innhold fra menneskeskapt
-innhold.6 De er dermed ment å fylle en lignende
-funksjon som ordinære plagiatkontrollverktøy, og
-kunne vært brukt av sensorer for å identifisere
-mulige fuskesaker.
-Det er store kvalitetsforskjeller mellom KIdeteksjonsverktøy. Det verktøyet som i dag vurderes som mest pålitelig, Pangram, har vist seg å gi
-gode resultater for kategoriene KI-generert tekst,
-hybrid KI- og menneskeskapt tekst, «menneskeliggjort» KI-tekst, og rent menneskeskrevet tekst
-(Van Vlasselaer et al., 2026). Samtidig er et av de
-sentrale målene til KI-utviklere å lage modeller
-som kan brukes til å generere tekst og tale som
-ikke kan skilles fra naturlig språk, og også Pangrams resultater er mindre pålitelige når det lanseres nye språkmodeller. I et teknologikappløp
-hvor modellene blir stadig bedre, er KI-detektorer
-dømt til å løpe etter.
-Selv med gode deteksjonsverktøy – og få falske
-positiver – gjenstår grunnutfordringen. Det forblir
-vanskelig å skille en students og et KI-systems
-intellektuelle bidrag til et produkt. Det gjenstår
-også andre problemer: Legitim bruk av KI-systemer, f.eks. til bearbeidelse av språk innenfor gjeldende eksamensregelverk, kan gi utslag uten at
-det foreligger fusk. Samtidig kan menneskelig
-omskriving skjule bruken. Det gjør KI-deteksjonsverktøy dårlig egnet til et verktøy for vurdering av
-fusk.
-I tillegg peker utvalget på at KI-deteksjonsverktøy er forbundet med vesentlige tekniske,
-metodiske og juridiske utfordringer. Dette gjelder
-manglende transparens i verktøyenes virkemåte,
-samt rettssikkerhets- og personvernhensyn. Etter
-utvalgets vurdering innebærer disse forholdene
-samlet sett at KI-deteksjonsverktøy ikke er egnet
-til å ivareta behovet for kontroll ved vurdering av
-studentenes oppnådde læringsutbytte. For en vurdering av de juridiske rammene som gjelder ved
-KI-deteksjon, se vedlegg 3.
-6
-
-I august 2026 har Anthropic lansert vannmerking av KIgenerert tekst, som er en usynlig og innebygd metode. Se
-Gibney (2026).
-
-7.5
-
-119
-
-Kapittel 7
-
-Større, selvstendige arbeider
-
-Universitets- og høyskoleforskriften § 2-9 definerer «selvstendige arbeider» på mastergradsnivå
-som «en masteroppgave eller tilsvarende større
-arbeid, blant annet kunstnerisk eller teknologisk
-produkt. Det selvstendige arbeidet skal vise forståelse, refleksjon og modning.» Slike oppgaver
-har vært en viktig del av høyere utdanning over
-lang tid. Samtidig er de, på lik linje med andre
-ikke-kontrollerte eksamener, utsatt for utfordringen med å vurdere oppnådd læringsutbytte
-(jf. kap. 7.4).
-Universitets- og høyskoleloven (§ 11-7) fastsetter at det skal være to sensorer, hvorav minst én
-ekstern, ved sensur av selvstendige arbeider i høyere grad, og at det skal være to sensorer ved sensur
-av bacheloroppgaver og liknende selvstendig
-arbeid på lavere grad.7 Universitets- og høyskoleforskriften §§ 2-6 til 2-8 setter minimumsgrenser på
-30 studiepoengs omfang for selvstendig arbeid i
-mastergrader, og 20 studiepoeng for integrerte
-mastergrader. Ellers fastsetter institusjonen nærmere regler om det selvstendige arbeidet.
-Under arbeidet med større, selvstendige arbeider er det vanlig at studenten får veiledning. Veiledningen styrker det formative aspektet i disse
-vurderingsformene. Veileder kan for eksempel gi
-studenten tilbakemeldinger på påbegynt arbeid,
-diskutere krevende problemstillinger og foreslå
-spor å forfølge i videre arbeid.
-Veilederrollen er ikke regulert nasjonalt,
-heller ikke hvilken rolle veileder skal ha i forbindelse med sensur, utover det som følger av kravet
-om to sensorer ved selvstendig arbeid og det
-grunnleggende kravet om upartisk vurdering
-(uhl. §§ 11-6 og 11-7).
-
-7.5.1 Utvalgets vurdering
-Å gjennomføre et større, selvstendig arbeid er i
-mange fag en sentral læringsaktivitet for å oppnå
-målene om faglig kvalitet, samfunns- og arbeidslivsrelevans og dannelse (jf. kap. 5.2). Å jobbe
-7
-
-Bestemmelsens forarbeider utdyper om sensurering av
-bacheloroppgaver: «Begge sensorene kan komme fra den
-aktuelle institusjonen. Institusjonen bør imidlertid tilstrebe
-at den ene av de to sensorene kommer fra annen institusjon
-dersom dette er praktisk mulig. Hvis ikke dette er mulig,
-bør sensoren ikke ha tilknytning til eller kjennskap til studentene på det studiet den skal være sensor ved. For
-eksempel bør den ene sensoren ikke være ansatt i hovedstilling eller bistilling tilknyttet utdanningen, og heller ikke
-hatt engasjement som timelærer i det aktuelle emnet for
-eksamenskullet. Hensyn til kvalitetssikring og rettssikkerhet for studentene må veie tungt ved oppnevning av
-sensorer.» (Prop. 126 L (2022–2023), s. 341).
+## KI som støtte i læringsaktiviteter
+
+Studentene lærer gjennom ulike typer aktiviteter. De tilegner seg fagstoff for eksempel gjennom å følge forelesninger eller ved å lese tekster. De utfordrer og utvikler sin faglige selvstendighet gjennom problemløsning, prøving og feiling, og gjennom tilbakemeldinger. Aktiviteter som diskusjon og samarbeid gjør at studentene må begrunne synspunkter i samspill med andre, mens øvelse i praksis er en vesentlig del av utdanningen for mange studietilbud. Et variert repertoar av læringsaktiviteter er med på å sikre at studentene oppnår et bredere læringsutbytte. De følgende underkapitlene (6.4.1–6.4.7) beskriver og gir en vurdering av KI-systemers betydning som støtte i lesing, oppgaveskriving, tilbakemeldinger, veiledning, samarbeidslæring og erfaringsbasert læring.
+
+### Lesing og KI
+
+Lesing av fagtekster er en sentral læringsaktivitet i høyere utdanning, og det er viktig å se på detaljer i hvordan KI-systemer brukes til lesing blant studenter. I en del fag, spesielt i humaniora og samfunnsvitenskap, har tekster i stor grad vært den formen fagkunnskap utvikles, forvaltes og formidles gjennom. Men også i tekniske og naturvitenskapelige domener, og i ulike profesjonsfag, er lesing og tekstforståelse avgjørende i læringsprosessene. Samtidig er det bekymring i fagmiljøene for at studentene i dag leser mindre og mer overflatisk enn før, og at evnen til å engasjere seg dypt og lese lange tekster går ned. Dette er en lengre utvikling som blant annet knyttes til endring i befolkningens lesevaner, og som kan forsterkes ytterligere av tilgang på KI-systemer (Hakemulder & Mangen, 2024).
+
+Forskningen om hvordan lesing henger sammen med kunnskapstilegnelse, refleksjon og vurderingsevne har tematisert hvordan teknologisk utvikling har ført til en fragmentering og økning i mangfoldet av tekster studenter navigerer i. Kritisk vurdering av kilder og integrasjon av informasjon fra ulike kilder – også når kildene motstrider hverandre – blir dermed sentrale ferdigheter (Strømsø & Kammerer, 2016). Forskningen har vist at strategisk kildevurdering er krevende kognitivt, der studentenes forkunnskaper og epistemiske antakelser (*epistemic beliefs*) spiller en stor rolle (Anmarkrud et al., 2022). Lesestrategier og strategisk kildevurdering henger positivt sammen med evnen til å fremstille kunnskap muntlig og til å skrive argumenterende tekster, som er avgjørende for å utvikle forståelse i fagene. Samtidig må slike metakognitive strategier læres, og dermed støttes gjennom undervisning og læringsdesign (Bråten et al., 2025).
+
+Med tilgang på språkmodellbaserte KI-systemer blir disse utfordringene aktualisert. Strategisk bruk av høyere kognitive funksjoner i møte med ulike kunnskapskilder er fremdeles avgjørende for læring, og utvikling av menneskelig kapasitet til å undersøke og vurdere informasjon blir en enda viktigere oppgave for høyere utdanning. KI-systemer som oppsummerer faglige artikler og pensumbidrag, for eksempel NotebookLM, markedsføres offensivt og er svært populære da de kan gi raske og komprimerte versjoner av krevende stoff. Akkurat denne bruken er lite dokumentert i forskningen, men ut fra den omfattende bruken er det tenkelig at systemene både kan bidra til at studentene leser en større bredde fagstoff, men også at de engasjeres mindre i kritisk lesing, kan gå glipp av viktige nyanser og få presentert tolkninger preget av KI-bias (Corbin & Walton, 2025).[^44]
+
+Samtidig kan KI-systemer støtte disse læringsprosessene på personlig tilpassede og meningsfulle måter. Enkelte studier argumenterer for at verktøy som ChatGPT kan støtte studenters lesing av fagtekster på en interaktiv måte som ivaretar motivasjon og behov for autonomi (Pan et al., 2026). Andre understreker at vi foreløpig vet lite om studentenes forståelse av hvordan KI-generert tekst fremkommer, og at metakognitive ferdigheter er sentrale for å nyttiggjøre seg slike verktøy i akademisk lesing og skriving (Bråten et al., 2026; Malmström et al., 2025; Urban et al., 2025).
+
+### KI i oppgaveskriving
+
+Skriving er også en sentral læringsaktivitet i høyere utdanning. Det å formulere tanker, strukturere argumenter og revidere formuleringer er viktig for å utvikle evner til kritisk og kreativ tenkning og dypere forståelse av fagets innhold. Skriving tvinger studentene til å gjøre implisitt kunnskap eksplisitt, til å organisere informasjon og til å identifisere feilslutninger og mangler i egen forståelse. Skriving har en signifikant positiv effekt på læring på tvers av fag som naturfag, samfunnsfag og matematikk (Graham et al., 2020). Gjennom å skrive innarbeider studentene fagbegreper som helt vesentlige byggeklosser i deres fagkunnskap.
+
+Dersom KI-systemer reduserer studentenes selvstendige skriveaktivitet, kan dette ha konsekvenser som strekker seg langt utover skriveferdigheter – det påvirker studentenes samlede læringsutbytte.
+
+Ukritisk bruk av generative KI-systemer påvirker både læringsutbyttet man får ut av skrivingen og selve resultatet av skriveprosessen. Kosmyna et al. (2025) målte hjerneaktiviteten (EEG) hos studenter i tre ulike grupper: de som skrev med hjelp fra samtaleroboter (KI-gruppen), studenter som kun fikk bruke søkemotorer, og en gruppe som skrev uten hjelpemidler. KI-gruppen viste lavest hjerneaktivitet. KI-gruppen presterte også dårligst på språklige og atferdsmessige målinger. Over tid utviklet denne gruppen mer passive arbeidsmetoder, og mange endte hovedsakelig med å lime inn tekst direkte fra samtaleroboten. Arbeidene deres, i dette tilfellet skriftlige essay, ble beskrevet som «sjelløse» av eksterne sensorer. Gruppen som skrev uten noen hjelpemidler, viste høyest hjerneaktivitet, spesielt i hjernedeler knyttet til idéutvikling, bruk av hukommelse og språklig mening. De rapporterte økt engasjement, nysgjerrighet og tilfredshet med tekstene de skrev. De husket også best innholdet i det de hadde laget. Til slutt fikk disse studentene tilgang til samtaleroboter som de brukte til å forbedre tekstene sine, men uten å vise redusert engasjement, motivasjon eller hukommelse. Gruppen som bare brukte søkemotorer, presterte også godt, viste høy hjerneaktivitet og god tilfredshet med arbeidet sitt (Kosmyna et al., 2025).
+
+Brutt ned på skriveprosessens faser virker det som om den mest hensiktsmessige bruken av KI i skriving for læring, er der studentene bruker KI-systemet som en sparringpartner i revisjonsfasene, fremfor som en kilde til ideer, en planlegger eller en produsent av ferdige tekstsegmenter. Dette stiller krav til studentenes læringsstrategier. Det er også verdt å reflektere over hvordan KI-systemer kan påvirke studentenes utvikling av fagspesifikke skriveferdigheter. Akademisk skriving er ikke bare en generell kommunikasjonsform, men en måte å tenke på innenfor et bestemt fagfelt. Gjennom skriving lærer studenter å anvende fagets begrepsapparat, argumentasjonsformer og krav til evidens. Det er derfor viktig at KI-systemer brukes på en måte som understøtter heller enn forstyrrer denne prosessen.
+
+### KI-genererte tilbakemeldinger
+
+Det å få og nyttiggjøre seg tilbakemeldinger er en viktig del av effektive læringsprosesser. De mest læringsfremmende tilbakemeldingene hjelper studentene til å forstå hvordan de kan forbedre tilnærmingen til egen læring, ikke bare til å korrigere konkrete feil. I tillegg er tilbakemelding som er spesifikk, som kommer i rett tid og er knyttet til tydelige kriterier, effektivt for læring (Hattie & Timperley, 2007). Spørsmålet er om en av de mest markedsførte funksjonene i generativ KI for utdanning, individuelle tilbakemeldinger, kan fylle denne funksjonen.[^45]
+
+Generative KI-systemer gjør det mulig for studenter å få individuelle tilbakemeldinger i stor skala, og tilbakemeldingene kan komme umiddelbart. Å gi individuelle tilbakemeldinger i undervisningen er noe som ellers er svært ressurskrevende (Hopfenbeck et al., 2023). Det er indikasjoner på at KI-genererte tilbakemeldinger og forklaringer kan bidra til at studentene identifiserer faglige misforståelser tidlig. KI-systemene kan potensielt også tilby støtte helt frem til studentene mestrer læringsmålene, noe som kan bidra til dypere forståelse og mer avansert kunnskap (Laak & Aru, 2024).
+
+Videre kan kvaliteten på slik veiledning være på nivå med hva undervisere kan tilby, dersom verktøyet er designet pedagogisk (Kestin et al., 2025). En metaanalyse av Kaliisa et al. (2026) fant ingen statistisk signifikant forskjell i oppnådde læringsresultater mellom studenter som mottok KI-generert tilbakemelding og studenter som mottok tilbakemelding fra mennesker. Enkeltstudiene i metaanalysen spriker mye, og resultatene må tolkes med forsiktighet, men andre studier indikerer også at den faglige og pedagogiske kvaliteten til KI-basert veiledning i noen sammenhenger kan tilsvare kvaliteten til menneskelige veiledere (Jongkind, 2026; Sessler et al., 2025).
+
+Forskningen på KI-tilbakemeldinger har fokusert mest på tilbakemeldinger på *oppgaveløsning* og *prosesser*. Selv om det *metakognitive* nivået, der studentene reflekterer over egen læring, er mindre utforsket, er det en økende trend med studier som kombinerer alle tre nivåer, noe som indikerer at KI kan ha et potensial også her (Ba et al., 2025).
+
+Det er også indikasjoner på at menneskelige tilbakemeldinger kan oppfattes som mer motiverende og mer emosjonelt støttende av studentene (Kaliisa et al., 2026), men det motsatte kan også være tilfellet, særlig i nettbaserte studier (Yilmaz et al., 2026). Det er naturligvis mulig å kombinere menneskelige tilbakemeldinger med KI-genererte tilbakemeldinger på forskjellige måter, for eksempel kan KI gi rask tilbakemelding på oppgavenivå, mens undervisere gir tilbakemeldinger på prosessnivået og det metakognitive nivået.
+
+I rene nettbaserte kurs kan bruk av samtaleroboter styrke studentenes engasjement og motivasjon gjennom umiddelbare tilbakemeldinger. Tilbakemeldingene kan bidra til å forbedre studentenes læringsutbytte, særlig i asynkrone læringsmiljøer hvor samhandlingen med lærere eller veiledere er begrenset. Samtaleroboter kan brukes til å veilede studenter i å sette egne mål, overvåke faglig utvikling og progresjon og støtte refleksjon over egen læring (Engeness et al., 2025).
+
+Over tid kan tilbakemeldinger fra samtaleroboter bidra til å opprettholde studentenes motivasjon og dermed forbedre læringsresultatene. Men den kognitive belastningen ved å tolke tilbakemeldingene varierer med studentenes faglige utgangspunkt (Yin et al., 2024). Dersom samtalerobotene i tillegg forklarer tilbakemeldingene sine, kan det styrke utbyttet. Dette tyder på at utformingen av tilbakemeldingene er viktig, noe som forutsetter KI-systemer som er egnet til å kunne utforme gode tilbakemeldinger (Afzaal et al., 2024).
+
+KI-basert matematikkveileder ved Universitetet i Stavanger
+
+Ved Universitetet i Stavanger har de utviklet en KI-basert matematikkveileder som kan tilpasse forklaringer, hint og oppgaver til studentenes læringsnivå og tidligere arbeid. Prosjektet utvikler et rammeverk kalt Living Knowledge Atlas, som skal holde oversikt over studentenes progresjon og bruke pedagogiske regler til å styre hvordan systemet velger oppgaver, forklaringer og videre læringssteg. Målet er å gå fra enkeltstående KI-svar til mer langsiktig og pedagogisk styrt veiledning tilpasset studentens progresjon og mestring.
+
+Arbeidet bygger på forskning og undervisning ved Universitetet i Stavanger, blant annet med KI-støttet STEM-undervisning, studentorientert læring og kobling mellom faglige verktøy og språkmodeller. Utviklingen skjer i et samspill mellom forsknings-, undervisnings- og innovasjonsmiljøer ved universitetet.
+
+Kilder: Informasjon til utvalget fra professor Yihan Xing ved Universitetet i Stavanger og Lars Petter Eliassen i Validé.
+
+\[Boks slutt\]
+
+### KI i veiledningsprosessen
+
+Generativ KI utfordrer forholdet mellom veileder og student. KI-systemer kan øke veileders effektivitet, men kan være problematisk med tanke på tillitsbåndet mellom veileder og student, etisk ansvarlighet og faglig troverdighet (Omodan, 2025). Som veileder er det viktig å kunne finne ut om studentene har utviklet for stor avhengighet av KI-systemer, og å kunne lese om studentene har tatt med KI-generert materiale som mangler originalitet gjennom å tolke underliggende betydning i teksten. Studenter på alle nivåer trenger ofte veiledning i grunnleggende akademiske ferdigheter, som litteratursøk og korrekt kildehenvisning, for å ivareta akademisk integritet. Det er altså betydningsfullt at veiledere får innblikk i studentenes arbeidsprosess og at studentene kan delta i evaluerende diskusjoner om hvordan de bruker KI-systemer. Veilederen bør dermed både modellere god bruk av KI-systemer og samtidig fremme selvstendig kritisk tenkning og etiske prinsipper hos studentene (Adewunmi, 2026).
+
+Mye tyder på at vellykket bruk av generativ KI i veiledningsprosessen på bachelor- og masteroppgaver handler om at studentene mottar raske formative tilbakemeldinger som er lagt opp etter tydelige faglige kriterier. Bruk av KI-støtte mellom veiledningsmøtene kan styrke studentenes faglighet, ved å øke volumet og tilgjengeligheten på tilbakemeldinger og frigi tid for menneskelige veiledere til mer overordnet faglig veiledning (Jongkind, 2026). KI-basert veiledning kan oppleves som verdifullt av studentene, men da som et supplement og ikke en erstatning for menneskelig veiledning (Jongkind, 2026).
+
+Ulempene med KI-basert veiledning er i mange sammenhenger de samme som for individuell læring (jf. kap. 6.3), men veiledning innebærer også tilhørighet og emosjonell støtte: slike funksjoner er problematisk å overlate til KI-systemer (Jongkind, 2026).
+
+### KI og samarbeidslæring
+
+Samarbeidslæring foregår i stor grad i uformelle settinger på campus, i kollokvier og i selvorganiserte nettsamfunn. Samarbeidslæring finner også sted uformelt i formelle settinger, for eksempel når studenter spør hverandre om hjelp til å forstå noe under forelesninger. Disse sidene ved studentenes læring er viktige, også for sosialiseringen inn i en faglig og akademisk rolle.
+
+I tillegg kan samarbeidslæring inngå i læringsdesignet, gjennom oppgaver og læringsaktiviteter. Det kan for eksempel gjøres gjennom ulike former for prosjektbasert læring og undersøkende aktiviteter etter modell av fagets forskningspraksiser. Utdanningsforskeren Peter Reimann har foreslått at samarbeidslæring ikke bør organiseres som tradisjonelle gruppeoppgaver av kort varighet, men inngå i et pedagogisk design med utforskende oppgaver som strekkes over tid, og som er orientert mot ulike typer verdiskaping for studentene i langvarige læringsfellesskap (Reimann, 2024). En av tankene bak er at dette vil gi et bedre grunnlag for å utvikle nye, fagspesifikke ferdigheter og ny kunnskap. Digitale løsninger og KI-systemer kan bidra inn i en slik modell. For det første kan KI-systemer brukes på fagspesifikke måter, for eksempel i analyse av større informasjonsmengder eller gjennom andre utforskningsmetoder. For det andre er det etter hvert et økende antall studier som ser på hvordan egenskapene ved KI-systemer kan støtte mer persontilpasset læring, øke studentenes engasjement og forbedre faglige resultater (Kovari, 2025; Sichterman et al., 2025). Studiene gir indikasjoner om at KI-systemer som er pedagogisk godt designet, både kan bidra til å administrere, aktivt forme og forbedre de komplekse sosiale prosessene i samarbeidslæring.
+
+En lovende egenskap ved spesialdesignete KI-systemer er muligheten for å skreddersy støtte i sanntid for samarbeidslæring. KI-systemer kan analysere gruppediskusjoner og individuelle bidrag og gi persontilpassede tilbakemeldinger på både gruppeprosesser og faglig innhold. De kan anbefale relevante læringsressurser basert på gruppens spesifikke utfordringer og gi adaptiv veiledning som hjelper dem med å holde seg på sporet (Kovari, 2025). Denne formen for «stillasbygging» kan bidra til at studentene får riktig støtte på riktig tidspunkt, noe som fremmer dypere kunnskapsbygging i fellesskap (Sichterman et al., 2025).
+
+Det er likevel tegn på at KI-systemer kan styre interaksjonsmønstre i grupper på måter som ikke alltid støtter felles utvikling av kunnskap. For eksempel kan studenter som har tilgang til en samtalerobot i en gruppeprosess, ha en tendens til å samhandle mer med KI-systemet enn med medstudentene. Gruppen utvikler dermed et KI-sentrert samhandlingsmønster som går ut over student-til-student-samhandlingen (Feng, 2025). Dette peker mot at pedagogisk tilrettelegging også må rettes mot å regulere den sosiale adferden i gruppen, dersom KI-systemer skal styrke kvaliteten i samarbeidslæringen.
+
+KI-systemer kan også brukes til å sette sammen grupper ut fra studentenes faglige ferdigheter, nivå og bakgrunn (Sichterman et al., 2025). Når gruppen jobber, kan studentene få felles bidrag og felles fremdrift visualisert i sanntid, noe som bidrar til å styrke den metakognitive bevisstheten til deltakerne. Synliggjøring av gruppens fremdrift fremmer sosialt delt regulering som en prosess der gruppen kollektivt overvåker og justerer sin egen læringsprosess (Kovari, 2025; Sichterman et al., 2025). Det er funn som tyder på at når samtaleroboter brukes i gruppe- og samarbeidsprosesser, blir selvreguleringen styrket mer, sammenliknet med når studenter bruker verktøyet individuelt. Den sosiale konteksten kan fungere som en buffer mot passiv KI-bruk ved at studenter utfordrer og diskuterer KI-generert innhold med hverandre (Younis, 2024).
+
+Godt utformete KI-systemer, laget for å fremme samarbeid, kan mislykkes om studentene oppfatter systemet som inkompetent, upålitelig eller uklart. Studentenes opplevelse av verktøyet kan være like viktig som selve teknologien: Om et system oppleves som forstyrrende eller irrelevant, vil studentene raskt slutte å bruke det, uavhengig av de pedagogiske intensjonene bak (Edwards et al., 2025).
+
+Selv om kognitive og etiske sider ved KI i egenlæring begynner å bli bedre forstått, er påvirkningen på de sosiale aspektene av læring mindre utforsket. Å søke hjelp er en sosialt forankret praksis som fremmer samarbeid, tillit og delt læringsansvar, og gir tilgang til ulike perspektiver, alternative problemløsningsstrategier og taus kunnskap om fagets normer og praksis. Spesialdesignede KI-systemer kan styrke samarbeidslæring, men det studentene bruker mest er generiske KI-systemer. Disse kan fortrenge eller erstatte sosiale interaksjoner. Samarbeidslæringen kan forstyrres konkret av at KI-systemet fungerer som en «mellommann» som passiviserer studentene og plasserer dem i en faglig underlegen rolle. Når barrierene for faglig kontakt mellom studentene øker, forstyrres utviklingen av sosiale fellesskap som er avgjørende for kunnskapskonstruksjon, faglig identitet og sosial tilhørighet – med negative konsekvenser for læring, motivasjon og akademisk måloppnåelse (Hou et al., 2025).
+
+Kunnskapsgrunnlaget peker mot at KI-systemer som er designet for å fremme samarbeidslæring bør være formålsspesifikke, tilby pedagogisk støtte på riktig tid i riktige deler av prosessene, og sikte mot å styrke gruppeinteraksjon og metakognitiv refleksjon. I det internasjonale forskningsfeltet arbeides det med hvordan samarbeidslæring best kan støttes i multimodale teknologiske omgivelser (Järvelä et al., 2023).
+
+Gruppearbeid med KI-støttet tilbakemelding ved Universitetet i Oslo
+
+Samarbeid i grupper over tid kan innebære utfordringer som skjev deltakelse, uklare roller, mangelfull kommunikasjon, sosioemosjonelle dynamikker og vansker med å følge progresjonen i gruppearbeidet. For å møte slike utfordringer har forskningsprosjektet TeamLearn ved Universitetet i Oslo utviklet et teknologistøttet læringsdesign som kombinerer læringsforskning, informatikk og læringsanalyse i en KI-basert løsning for gruppearbeid.
+
+Læringsdesignet ble prøvd ut i et studieemne i rettsvitenskap, der grupper på 4–5 studenter arbeidet over en periode på 12 uker med komplekse, virkelighetsnære prosjekter. Gruppearbeidet omfattet diskusjon av ideer og juridisk kunnskap, planlegging og koordinering av oppgaver, fordeling av ansvar, deltakelse i møter, samt felles utvikling av produkter og en grupperapport.
+
+Datakildene omfatter lydopptak fra gruppemøter, gruppens produkter under utvikling og studentenes egne refleksjoner om samarbeidet. Dataene ble analysert ved hjelp av KI og multimodal læringsanalyse for å identifisere mønstre i interaksjonen og generere tilbakemeldinger på gruppearbeidet. Analysene ble visualisert i et studentrettet dashbord som blant annet viste taletid og aktivitetsnivå i møter, samt konkrete tilbakemeldingspunkter på grupperapportene. De KI-støttede tilbakemeldingene bygget på fastsatte vurderingskriterier for emnet. Studentene kunne også stille spørsmål til KI-agenten om tilbakemeldingene, og velge om de ønsket ytterligere veiledning fra faglærer.
+
+Gjennom objektive representasjoner av deltakelse og gruppedynamikk legger dashbordet til rette for at studentene mer effektivt kan reflektere over eget samarbeid og justere sine praksiser. Prosjektet utvikler også en lærerversjon av dashbordet, som skal støtte undervisere ved å gi bedre innsikt i gruppenes progresjon og interaksjon mellom veiledningsøkter. Undervisere fra fire fagområder – jus, medisin, utdanningsvitenskap og informatikk – samarbeider med utdanningsforskere for å ta i bruk modellen i sine emner.
+
+Kilde: Informasjon til utvalget fra professor Crina Damşa, Universitetet i Oslo.
+
+\[Boks slutt\]
+
+### KI, simulering og læring
+
+Høyere utdanning har tradisjonelt hatt begrensede muligheter for læring i realistiske yrkessituasjoner. Selv der studentene har praksis som en del av utdanningen, kan praksisperiodene gi begrensede muligheter for mengdetrening, for å øve på sjeldne situasjoner eller for å prøve oppgaver som det er etisk uforsvarlig å overlate til noen som ikke er en autorisert profesjonsutøver (Chernikova et al., 2020).
+
+Helse- og sosialfagutdanningene har over tid gjort større bruk av simulering til å forberede studentene til praksis og yrkesutøvelse. Simulering er også brukt innen andre fagområder, som naturfag, tekniske fag og ingeniørutdanning. I sykepleie gir simulering studentene mulighet til ferdighetstrening og utvikling av klinisk kompetanse i et trygt læringsmiljø. Ved å øve under simulerte omstendigheter kan pasientsikkerheten ivaretas samtidig som studentene får øvelse i komplekse kliniske situasjoner (Karlsen, 2025).
+
+Teknologistøttet simulering gjør at studenter kan øve i trygge miljøer som etterlikner reelle situasjoner, uten risiko for seg selv eller andre. Simuleringer kan også fremme motivasjon, aktiv deltakelse, refleksjon og bedre bruk av kunnskap (Cook et al., 2011). Et vanlig eksempel på simuleringstrening i sykepleieutdanningen i Norge er bruk av fysiske dukker, som er relativt kostbare og som studentene ofte har begrenset tilgang til (Skogedal, 2024).
+
+KI i medisinutdanning
+
+I oktober 2025 hadde mer enn 2490 forskere publisert vitenskapelig om bruk av generativ KI i medisinsk utdanning. Forfatterne og artiklene med størst innflytelse gir en pekepinn om hvilke konkrete tema knyttet til KI i medisinsk utdanning som får mest oppmerksomhet. Det mest omtalte temaet handler om KI-støttet vurdering og tilrettelegging for optimale læringsforløp. Så følger to mer spesifikke temaer: KI-basert analyse av hjernebilder (*neuroimaging*), etterfulgt av multimodal KI, som 3D-simuleringer og virtuell virkelighet for undervisning i anatomi og radiologi.
+
+Et felles budskap fra studiene er at KI-baserte simuleringer ikke er feilfrie, at studentene har behov for å kunne kritisk vurdere anbefalingene de får fra systemene og at simuleringer må balanseres med «ekte» praksis (Wang et al., 2025).
+
+\[Boks slutt\]
+
+KI-utviklingen har åpnet nye muligheter for simulering av autentiske situasjoner, ved å gjøre det enklere, billigere og mer tilgjengelig å lage realistiske, tilpassede og interaktive læringsmiljøer (Mollick et al., 2024). KI-genererte scenarioer og adaptive læringssystemer kan skape dynamiske læringsomgivelser som ligger tettere opp mot yrkesvirkeligheten.
+
+I helsefaglig utdanning kan samtalebaserte virtuelle pasienter være effektive for å utvikle studentenes kliniske kompetanse og resonneringsevner (García-Torres et al., 2024). Generative KI-systemer kan bidra til at virtuelle pasienter blir mer realistiske, og responsene mer nyttige for egen læring (Peralta Ramirez et al., 2025). Mye tyder på at kombinasjonen av virtuell virkelighet (VR) og generativ KI kan gi svært realistiske og gode simuleringer (Chance, 2025). Gjennom VR får studentene delta i realistiske simuleringer som gjenskaper kritiske kliniske hendelser.
+
+KI-drevne simuleringer er testet i designutdanning for å fremme dialog, refleksjon og kritisk tenkning gjennom deltakende designprosesser, og for å støtte studentene med å navigere komplekse utfordringer (Hautopp et al., 2025). Dybdelæring kan bli fremmet med bruk av bedriftssimuleringer i økonomisk-administrative fag (Baksaas & Nygård, 2021), og i lærerutdanning kan KI-baserte løsninger styrke læringseffekten av virtuell simulering (Bauer et al., 2025).
+
+I maritime fag er det utstrakt bruk av simulering i undervisningen. Når «simulering er faget», som det er beskrevet av studenter, ligger det muligheter for å bruke KI til å skape mer avanserte og adaptive simuleringer (Korseberg et al., 2024). Her kan KI løse noen av de begrensningene studentene opplever, hvor de ikke får øvd på alle typer operasjoner.
+
+Samtidig reiser KI-basert simulering spørsmål om autentisitet. Det er et åpent spørsmål i hvilken grad KI-baserte scenarioer med KI-generert video og syntetiske personer (pasienter, elever) kan styrke den faglige læringen (Korseberg et al., 2024).
+
+Simulering ved bruk av KI og utvidet virkelighet i sykepleierutdanning
+
+Gjennom å bruke KI-basert utvidet virkelighet (XR) til å simulere kliniske miljøer og pasientinteraksjoner, skal prosjektet XRHealthEdu gi sykepleierstudenter og ansatte tilgang til engasjerende og interaktive læringsformer som styrker kliniske ferdigheter og beslutningstaking. Simuleringene skal blant annet omfatte virtuelle, tredimensjonale læringsmiljøer; KI-genererte, menneskeliknende avatarer og innovative løsninger for veiledning på finsk, samisk og norsk. Prosjektet er et samarbeid mellom UiT Norges arktiske universitet, Uleåborgs universitet og Lapplands yrkeshøyskole og inngår i det europeiske Interreg-programmet for regionalt samarbeid.
+
+Simuleringene vil benytte adaptive læringsteknikker støttet av KI for individuelt tilpasset og behovsbasert undervisning, tilbakemelding og vurdering i sanntid gjennom læringsprosessen. Målet er å integrere en XR-basert læreplan med moduler i ordinær sykepleierutdanning og på den måten bidra til bedre kvalitet og økt pasientsikkerhet i helsetjenesten.
+
+Kilde: Prosjektets hjemmesider og informasjon til utvalget fra førsteamanuensis Anita Carin Gudmundsen, UiT Norges arktiske universitet.
+
+\[Boks slutt\]
+
+### Utvalgets vurdering
+
+KI endrer ikke de grunnleggende mekanismene i hvordan læring foregår, gjennom kognitive prosesser og samhandling mellom mennesker og miljø. Imidlertid endres vilkårene for læringsaktiviteter betydelig, blant annet når det gjelder måten kunnskap gjøres tilgjengelig på, hvordan kunnskap kan utforskes og bearbeides, og hvordan utvikling av forståelse og ferdigheter kan støttes i utdanningene. I tillegg er det sannsynlig at arbeidsmåtene i mange fag vil endres, med implikasjoner for hvordan studentene kan og bør engasjere seg i det faglige innholdet. Utvalget mener derfor at det er behov for å gjøre helhetlige gjennomganger av aktivitetene i emner og studieprogrammer, og for å styrke bevissthet om forholdet mellom faglige premisser og tilrettelegging av innhold og aktiviteter i undervisningen. KI-systemer tilbyr nye muligheter for å styrke undervisning og læring, blant annet gjennom tilpasset veiledning, mer kontinuerlig tilbakemelding, forbedrede muligheter for simulering, presentasjon og utforskning av fagkunnskap i ulike modaliteter, og engasjering av studenter på nye måter i fagets metoder og forskningstilnærminger. Samtidig kan utstrakt bruk av KI-systemer innebære en fare for at studiearbeidet ytterligere individualiseres, der det store omfanget av egenorganisert tid i studiehverdagen kan forsterke forskjeller i ressurstilgang og studentenes forutsetninger for å lykkes.
+
+Akademisk skriving og lesing er helt sentrale måter å tilegne seg fagets begrepsapparat, argumentasjonsformer og krav til evidens, og det er derfor viktig at KI-systemer ikke brukes på en måte som forstyrrer denne prosessen.
+
+Tilbakemeldinger bør settes i en gjennomtenkt pedagogisk sammenheng, der KI-systemer kan sørge for rask tilbakemelding i stor skala, mens undervisere sørger for grundigere tilbakemeldinger på både produkter og arbeidsmåter.
+
+Utvalget understreker videre at KI-systemer må brukes med forsiktighet i veiledningsprosessen for å ivareta tillitsrelasjonen mellom studenter og veiledere, og for å ivareta studentenes selvstendige faglige progresjon. Ansvaret her ligger både på institusjonsnivået med tanke på gode retningslinjer og god opplæring i hensiktsmessig bruk av KI, samt på den indviduelle veileder og student. Utvalget mener at insititusjonene fortsatt må legge til rette for og styrke menneskelig oppfølging av studentene.
+
+Den læringsaktiviteten hvor undervisere har mulighet til å komme tettest på studentene, er i veiledning. Som vi har sett, betyr tilgangen på generativ KI at gode arbeidsvaner har enda mer å si for læringen. Utvalget vil på grunnlag av dette anbefale å sørge for en veiledningspraksis der veileder kan komme tett på studentenes arbeid, for å kunne støtte dem til å utvikle gode arbeidsmetoder og -vaner, med og uten KI-systemer. Det er viktig å legge til rette for sosial interaksjon og gode rammer for samarbeidslæring. For campusbaserte utdanninger er fysisk oppmøte avgjørende for å opprettholde kvaliteten på studietilbudene og læringsaktivitetene de rommer. Også for nettbaserte utdanninger er deltakelse i læringsaktivitetene viktig, selv om det ikke innebærer fysisk oppmøte. For å motvirke individualiserende og sosialt isolerende virkninger av KI-systemer, vil utvalget anbefale universiteter og høyskoler å vurdere sterkere krav til obligatorisk deltakelse i læringsaktiviteter.
+
+I lys av observasjonene og vurderingene som er gjort i dette underkapittelet og det foregående (6.3), er det liten tvil om at det har stor betydning for læringen hvordan man bruker KI-systemer. Når dette settes sammen med studentenes rapportering om utilstrekkelig opplæring i bruk av KI-systemer (kap. 6.2.4), viser det et klart behov for å styrke opplæringstilbudet. Dette kan gjøres gjennom eksisterende studieemner, i støttetjenester og ved hjelp av klare og tilgjengelige veiledende retningslinjer.
+
+## Læringsmiljø og inkludering
+
+Utformingen av læringsmiljøet i høyere utdanning legger rammer for undervisningen og læringsaktivitetene studentene gjennomfører. Blant faktorer i læringsmiljøet, påvirker presentasjonen av læringsmål og det faglige innholdet, samt valg av aktiviteter og vurderingsformer, studentenes muligheter til å tilegne seg kunnskap. Dette kan dreie seg om fleksibilitet og variasjon i måtene studentene får tilgang til læringsmateriellet, hva slags undervisnings- og læringsaktiviteter de kan ta del i, og hvordan de kan demonstrere hva de har lært. I tillegg til å fjerne barrierer kan en mer inkluderende undervisningspraksis øke studentenes motivasjon og prestasjoner (HK-dir, 2024b).
+
+### Retten til et godt læringsmiljø
+
+Studenter har krav på et læringsmiljø som ivaretar deres helse, velferd og sikkerhet (jf. universitets- og høyskoleloven § 10-1). Begrepet læringsmiljø omfatter både de fysiske omgivelsene på lærestedet, det pedagogiske opplegget, organisatoriske og psykososiale forhold, samt de digitale løsningene studentene møter gjennom utdanningen. Oppfølging av læringsmiljøet skal være en del av institusjonenes systematiske arbeid med kvalitetssikring, og loven stiller krav om læringsmiljøutvalg for å sikre medvirkning i prosesser som gjelder læringsmiljøet.
+
+KI åpner for nye måter å sikre et tilgjengelig og inkluderende læringsmiljø på. Samtidig har teknologien klare begrensninger og fører med seg nye utfordringer. Institusjonene har derfor et stort ansvar for hvordan KI påvirker studentenes læringsmiljø.
+
+En viktig del av arbeidet med læringsmiljø er inkludering og ivaretakelse av studenter med funksjonsnedsettelse eller særskilte behov. En av fem studenter oppgir å ha en funksjonsnedsettelse som begrenser dem i studiene (Fredborg, 2024). Disse studentene kan møte en rekke barrierer som begrenser eller forsinker deres tilgang til utdanning, som gjør det vanskeligere å gjennomføre utdanningen eller påvirker studiekvaliteten negativt (HK-dir, 2025a). Universell utforming er en sentral strategi for å motvirke slike barrierer.
+
+### Universell utforming
+
+Universell utforming handler om at både de fysiske og digitale forholdene ved utdanningsinstitusjonene skal være utformet med tanke på mangfoldet i studentgruppen. Universelle løsninger gir bedre kvalitet for alle, ikke bare de gruppene som trenger det mest.
+
+I takt med at digitaliseringen av høyere utdanning har endret studenttilværelsen og åpnet for andre måter å lære på, er kravene til universell utforming av det digitale læringsmiljøet gradvis blitt skjerpet gjennom lovverk, rapporteringskrav og tilsyn. Løsningene må være utformet slik at alle studenter har mulighet til å delta aktivt i undervisning, vurdering og i det sosiale og faglige studentmiljøet. Kravene omfatter både nettsider, videotjenester, digitale læremidler og lærings- og eksamensplattformer.
+
+Institusjonenes egen rapportering viser tydelige utfordringer med å oppfylle kravene, samtidig som det er stor variasjon. Samlet sett har de digitale eksamensløsningene og læringsplattformene i underkant av 60 prosent samsvar med gjeldende krav til universell utforming av IKT-løsninger. Dette kan gå ut over studentenes læringsutbytte og eksamensprestasjoner (HK-dir, 2025d).
+
+KI-støttet veiledning og bistand til undervisere og andre som legger inn innhold i løsningene, kan forenkle og effektivisere arbeidet med universell utforming. Automatisk teksting av video har for eksempel frigitt mange arbeidstimer som tidligere gikk til å skrive tekstene manuelt. KI-systemer kan forbedre struktur og språk i dokumenter og nettsider og foreslå tekstforklaringer til visuelt innhold (Pedemonte et al., 2025). Testing av løsninger og innhold opp mot tilgjengelighetskravene kan også delvis automatiseres ved hjelp av KI (López-Gil & Pereira, 2025).
+
+Likevel er det fortsatt behov for menneskelige vurderinger og håndtering av universell utforming. Man kan heller ikke stole på at KI-systemer produserer korrekt kode eller er i stand til å rette feil, når løsningene de er trent opp på har mangler (Bufdir, 2026). Uten korreksjonsmekanismer kan resultatet være at KI gir mindre universell utforming, ikke mer.
+
+KI-systemer som tilbys studentene må i seg selv følge kravene til universell utforming. Det gjelder både for brukergrensesnittet og innholdet løsningene genererer. Siden innholdet ikke er forhåndsdefinert, men et individuelt og personalisert resultat av interaksjonen mellom bruker og robot, oppstår det en rekke nye utfordringer. Inkonsekvent struktur, komplekst eller utydelig språk, manglende eller mangelfulle beskrivelser av visuelt innhold, samt usikkerhet knyttet til personvern og databehandling, er eksempler på forhold som særlig kan gå ut over utsatte brukergrupper. For personer med kognitive utfordringer kan informasjonsmengde og raske temaskifter være en ekstra belastning. I tillegg kan den kontinuerlige endringen av innhold skape problemer for skjermlesere og gjøre tastaturnavigasjon vanskelig.
+
+### Individuell tilrettelegging
+
+Når løsningene ikke er tilstrekkelig universelt utformet, har utdanningsinstitusjonene plikt til å sørge for egnet individuell tilrettelegging av blant annet undervisning, læremidler og eksamen (jf. universitets- og høyskoleloven § 10-5). Vurderingen av tiltak skal være individuell, konkret og gjøres i samarbeid med studenten.
+
+KI-systemer åpner for en langt større grad av persontilpassede løsninger enn det som tidligere har vært praktisk mulig. Det kan lette institusjonenes arbeid med tilrettelegging for enkeltstudenter. Potensielt kan det også redusere behovet for individuell tilrettelegging ved at flere behov dekkes av standardløsninger. For eksempel kan personer med synshemminger få hjelp av automatiserte verktøy til å tolke visuelle omgivelser (Ahmed et al., 2025). Mobilapplikasjoner som gjenkjenner og leser opp tekst fra papir, eventuelt forenklet eller oversatt til et annet språk, kan bidra til å gjøre pensumlitteratur tilgjengelig for flere (Marais et al., 2024). Personer med dysleksi kan få økt leseforståelse ved at KI-systemer leser teksten høyt, markerer ord og deler dem opp i stavelser. Skriveassistenter kan fange opp feil, gi økt trygghet og redusere stress. Teknologien kan fjerne barrierer for bruk ved å forstå flere former for inndata, som tale, bevegelser eller ansiktsuttrykk.
+
+Utover forbedret hjelpemiddelteknologi kan KI også bidra til mer effektiv administrasjon av tilretteleggingsarbeidet, blant annet i vurderingen av behov og mulige løsninger.
+
+På den annen side kan bruk av persontilpassede KI-assistenter føre med seg store etiske utfordringer. Lagring og bruk av sensitive personopplysninger, herunder biometriske data, kan være risikabelt. Skjevheter i treningsdata kan gi diskriminerende utslag. Forskjellig tilgang til løsningene, av økonomiske eller andre årsaker, kan forsterke ulikheter. Utviklingen kan baseres mer på hvilke muligheter teknologien byr på, enn på brukernes reelle behov. I tillegg kommer bekymringen for at innføring av slike KI-systemer kan opprettholde en ukritisk tro på at teknologi kan løse eller kompensere for funksjonsnedsettelser – såkalt tekno-ableisme – som underkjenner verdien av menneskelig mangfold og overser strukturelle barrierer som bidrar til ekskludering (Linsenmayer, 2025; Shew, 2020).
+
+### Psykososialt læringsmiljø
+
+Undervisningsaktiviteter, samarbeids- og vurderingsformer legger til rette for og påvirker sosialisering og interaksjoner mellom studenter, og mellom student og underviser. Her kan KI fungere både som en tilrettelegger og som en isolator.
+
+Den isolerende virkningen KI kan ha, kommer til uttrykk i en undersøkelse ved Høgskulen på Vestlandet (HVL) (Ludvigsen et al., under utgivelse). Enkelte av studentene som er sitert i undersøkelsen, uttrykker bekymring for at medstudenter ikke lenger er interessert i å diskutere faglige spørsmål, at de snakker med samtaleroboten i stedet for med hverandre, og at bruk av KI fjerner læringseffekten ved samarbeidet. Mens noen setter pris på at en samtalerobot kan oppklare uenigheter i gruppen, uttrykker andre frustrasjon over medstudenter som ikke er i stand til å ta ansvar for eller forklare egne bidrag fordi innholdet er KI-generert.
+
+Undersøkelsen ved HVL viser også at 40 prosent av studentene som svarte i 2025, bruker generativ KI for noe de savner i studiehverdagen: noen å snakke med, diskutere med, samarbeide med; noen som ser dem og er opptatt av det samme som dem; veiledning, støtte og oppfølging fra undervisere; tilbakemelding og forklaring, tilgjengelig døgnet rundt (Ludvigsen et al., under utgivelse).
+
+Når KI erstatter menneskelig kontakt og overtar disse rollene fra medstudenter og undervisere, kan det sosiale fellesskapet forvitre. Terskelen blir høyere for å be andre om hjelp og avsløre egen usikkerhet eller uvitenhet. Resultatet kan bli økt isolasjon, mindre følelse av fellesskap og redusert evne til å håndtere motgang og uenigheter i samarbeidsrelasjoner. På den annen side kan KI bidra til å fylle behov studentene ellers ikke ville fått dekket, slik som å våge å stille dumme spørsmål, eller hjelp til å sette i gang diskusjoner og få fremdrift i gruppearbeid. Kombinert med gode aktiviteter i læringsdesignet kan det tenkes å gi en opplevelse av økt støtte og trygghet i læringsmiljøet.
+
+### Utvalgets vurdering
+
+Studentene er en mangfoldig gruppe, med ulike behov for støtte og tilrettelegging av læringsaktiviteter. En viktig oppgave for universiteter og høyskoler er å nå ut til enda flere målgrupper, for å styrke inkludering, likestilling og mangfold, motvirke utenforskap og bidra til økt deltakelse i arbeidslivet. Utvalget forventer derfor at studentpopulasjonen blir ytterligere sammensatt i tiden fremover. KI-systemer kan åpne muligheter for flere, forutsatt god bruk og gode verktøy. Studenter med behov for tilrettelegging kan også bruke generativ KI som en utjevnende faktor i studiene sine. I tillegg kan fleksibiliteten i tid og sted som KI-systemene tilbyr, legge til rette for læringsstøtte når studentene trenger det, gjerne i kombinasjon med andre digitale og ikke-digitale ressurser. Samtidig innebærer det institusjonelle ansvaret for læringsmiljøet at risikoen for mulige negative effekter av KI-bruk må håndteres.
+
+## Råd til studenter om læringsfremmende bruk av generativ KI
+
+Utvalget har vurdert hva slags råd institusjonene og fagmiljøene kan gi til sine studenter, om hvordan de skal bruke generative KI-systemer på en måte som fremmer og ikke hemmer deres læring. Rådene som følger, er ikke å anse som varige og ufravikelige regler. De er ment å støtte institusjonene og fagmiljøene i deres selvstendige ansvar for å gi veiledning og opplæring til studentene.
+
+1.  Tenk, les og prøv først; gjør eventuelt bruk av KI-systemer senere i arbeidet.
+
+<!-- -->
+
+13. Læring krever kognitiv anstrengelse. Det er fristende å få raske svar når anstrengelsen blir stor, men det kan undergrave læringen.
+
+14. Instruer KI-modellen til å stimulere din egen tenkning heller enn å gi deg ferdige løsninger, til å gi deg kilder heller enn å gi deg sammendrag, og til å gi deg tilbakemeldinger på ditt eget arbeid heller enn utkast og redigeringsforslag.
+
+15. Vær bevisst på forskjellen mellom de oppgavene og øvelsene hvor det å bruke KI-systemer er en del av formålet, og de hvor du skal lære noe annet enn å bruke KI.
+
+16. Vær oppmerksom på KI-modellenes svakheter med tanke på feilaktige resultater, språk, skjevheter i treningsgrunnlaget, hallusinasjoner og tendens til å smigre brukeren.
+
+17. Test dine kunnskaper og ferdigheter i faget uten å søke hjelp fra KI-systemer.
+
+18. Ikke bruk KI som en erstatning for diskusjoner med dine medstudenter og undervisere, eller som en unnskyldning for ikke å dra på campus.
+
+19. Planlegg din egen læring og hvilken bruk du eventuelt kan gjøre av KI-systemer i tråd med dette.
+
+20. Sett deg inn i institusjonens retningslinjer om forsvarlig bruk av KI-systemer.
+
+## Anbefalinger
+
+Hvilken kompetanse undervisere har, hvilke KI-systemer som tas i bruk og hvordan vurdering gjennomføres, er viktige faktorer for hvordan vi skal lære. Anbefalinger om vurderingsformer gis i kapittel 7, anbefalinger om utvikling og anskaffelse av KI-systemer gis i kapittel 8 og anbefalinger om universitets- og høyskoleansattes kompetanse gis i kapittel 10.
+
+Utvalget anbefaler universiteter og høyskoler å
+
+- sørge for at fagmiljøene gjør regelmessige, KI-bevisste vurderinger av studietilbudenes læringsaktiviteter
+
+- sørge for at alle studenter får opplæring i læringsfremmende bruk av KI-systemer gjennom
+
+  - klare, tilgjengelige og oppdaterte retningslinjer
+
+  - å bygge slik opplæring inn i emnetilbud og i støttetjenester for studentene
+
+- sørge for en tett veiledningspraksis slik at veileder har innblikk i studentens arbeidsmetoder og -vaner, og kan støtte studenten i å utvikle dem
+
+- vurdere sterkere krav til obligatorisk deltakelse i læringsaktiviteter
+
+Utvalget anbefaler sentrale myndigheter å
+
+- prioritere forskning på fagspesifikk læring med KI-systemer i finansiering av utdanningsforskning
+
+# Eksamen og vurdering
+
+## Innledning
+
+Når kunstig intelligens (KI) medfører endringer i studienes innhold og læringsaktiviteter, får det implikasjoner også for hvordan læring vurderes. Kapittel 6 *Hvordan skal vi lære?* fremhevet betydningen av selvregulering og metakognisjon for læringen og for at studentene skal ta KI-systemer i bruk på en konstruktiv måte. Fagenes innhold og metoder kan også endre seg, med fagspesifikke implikasjoner for hva det vil si å utføre analyser, undersøke holdbarheten i argumenter eller utvikle ny innsikt. Samtidig utfordres faglærerne på å integrere KI i et helhetlig læringsdesign, både for enkelte studieemner og studieprogrammer. Både generell og fagspesifikk KI-kompetanse utvikles over tid, og i møte med fagenes innhold og arbeidsmåter. Tilsvarende må vurderingsformene tilpasses disse endringene.
+
+En vedvarende spenning gjelder forholdet mellom vurdering som støtte til læring og vurdering som kontroll av læringsutbytte, det som ofte omtales som henholdsvis formative og summative aspekter i vurdering. Institusjonene skal både gi og sertifisere læringsutbytte. For begge hensyn skaper og forsterker KI en rekke muligheter og utfordringer. Mulighetene dreier seg blant annet om hvordan KI-systemer kan bidra til vurderinger av og tilbakemeldinger på studentbesvarelser, og i utformingen av oppgaver og vurderingsformer. De største utfordringene dreier seg om hvordan man kan måle hva studenter kan og vet når de har tilgang på verktøy som kan produsere og bearbeide faglig innhold, og hvilke gråsoner dette skaper i eksamensregelverket.
+
+KI-systemer gir altså parallelt muligheter for å styrke formative vurderinger, samtidig som sertifiseringen av oppnådd læringsutbytte blir mer krevende. KI-systemer gir også et innovasjonsrom for å utvikle nye vurderingsformer, herunder adaptive og persontilpassede prøver.
+
+Et gjennomgående tema i kapittelet er hvordan vi kan innrette vurderingsaktiviteter slik at de samlet både fremmer læring og gir en prøving av hva studentene kan og vet. Kapittel 7.2 beskriver hvordan eksamen og vurdering er regulert i dag, hva som skiller ulike vurderingsformer fra hverandre, og hvilke hensyn som ligger til grunn for valg av vurderingsform. Kapittel 7.3–7.11 tar for seg de ulike utfordringene og mulighetene KI stiller for hvordan man gjennomfører vurdering i høyere utdanning.

@@ -1,3 +1,3 @@
-# Siste kjøring av innboksen (2026-11-18 07:55)
+# Siste kjøring av innboksen (2026-11-18 08:20)
 
-- **nou202620260014000ddddocx.docx**: ikke lest inn – fant ikke dokumentet; gi filen samme navn som tittelen (for eksempel «NOU 2019 2.docx») eller id-en.
+- **nou202620260014000ddddocx.docx**: lest inn i «NOU 2026: 14» (108203 ord, PDF-teksten hadde 113805).

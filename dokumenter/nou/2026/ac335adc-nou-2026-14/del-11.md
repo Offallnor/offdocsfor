@@ -1,903 +1,258 @@
-# NOU 2026: 14, del 11 av 18 (side 122–131)
+# NOU 2026: 14, del 11 av 20
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/ac335adc-nou-2026-14.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-14/id3191187/
 - Original-PDF: https://www.regjeringen.no/contentassets/31691eb451e941e2b75fdc346978628f/no/pdfs/nou202620260014000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 20 figurer, 57 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-18, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 122]
-
-120
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-med en oppgave over tid gjør blant annet at man
-kan utvikle evner til å tenke kreativt, metodisk og
-kritisk, til å utvikle gjennomarbeidede argumenter
-og dyp faglig innsikt. Masteroppgaven kan tjene
-som en avsluttende prøve som binder sammen de
-ulike formene for læringsutbytte studenten har
-opparbeidet seg gjennom utdanningen, herunder
-metode- og fagkunnskap, og ferdigheter i kritisk
-og kreativ tenkning. Slike oppgaver gjorde også,
-før generativ KI, at man fikk vurdert oppnåelsen
-av det sammensatte læringsutbyttet. Hensynene
-til både læring og sertifisering tilsier derfor at
-slike arbeids- og vurderingsformer spiller en viktig rolle i høyere utdanning.
-Samtidig endrer tilgangen på generative KIsystemer på premissene for større selvstendige
-arbeider, både med hensyn til læring og til sertifisering. Når det gjelder utfordringen med å vurdere oppnådd læringsutbytte, er den like stor for
-disse som for hjemmeeksamener og ordinære
-semesteroppgaver. Samtidig står det mer på spill
-når en oppgave skal gi 20, 30, 45 eller 60 studiepoeng og, i masteroppgavens tilfelle, tjene som en
-avsluttende prøve av studentenes faglige kyndighet.
-I tråd med argumentene i kapittel 6, har generative KI-systemer en flertydig påvirkning på
-læringsgevinsten av større, selvstendige arbeid:
-Uten god selvregulering og bevissthet om hvordan man bruker KI-systemer, er det en risiko for å
-hoppe bukk over vesentlige ledd i læringen.
-Denne risikoen øker videre med den voksende
-bruken av agentiske KI-systemer. Samtidig finnes
-det gode muligheter for å løfte læringsutbyttet ved
-hjelp av KI-systemer, og det kan være mulig for
-studentene å løse nye typer problemer, eventuelt
-mer avanserte, med KI-systemer som hjelpemidler.
-Det varierer mellom fagene i høyere utdanning hvor sentral rolle de større, selvstendige
-arbeidene spiller. Dette gjenspeiles i variasjonen
-som allerede finnes i masteroppgavens omfang,
-fra 20 studiepoeng til 60 eller mer. For noen utdanninger kan det være problematisk at universitetsog høyskoleforskriften (§§ 2-6 til 2-8) fastsetter
-krav til minimum omfang av selvstendig arbeid i
-mastergrader. Med utgangspunktet i dette har
-utvalget vurdert hvorvidt kravene bør bestå eller
-endres.
-Det fremste argumentet for å fjerne kravene er
-at det åpner et større handlingsrom for institusjonene. For noen utdanninger kan det tenkes at
-det ønskede læringsutbyttet bedre utvikles og
-prøves gjennom flere emner, enn gjennom et
-stort, selvstendig arbeid. Dette poenget støttes av
-
-at generative KI-systemer har gjort det langt
-vanskeligere å vurdere oppnådd læringsutbytte
-ved ikke-kontrollerte vurderingsformer, samtidig
-som studentenes bruk av generative KI-systemer
-kan hemme læringsgevinsten av aktiviteten.
-Det fremste argumentet for å beholde kravene
-er at selvstendig arbeid med store oppgaver fungerer som en prøving av hele det sammensatte
-læringsutbyttet høyere utdanningstilbud er ment
-å gi. Studentene får mulighet til å vise dyp fagkunnskap, at de kan tenke selvstendig og analytisk, og at de behersker fagets metoder og
-begrepsrepertoar. Utvalget anser det som mer
-ønskelig å løse utfordringene KI reiser for læring
-og vurdering, enn å unngå dem.
-Et annet problematisk aspekt ved å fjerne kravene, er at de er med på å sikre mastergradens
-funksjon som opptaksgrunnlag for doktorgradsutdanning, i Norge og i utlandet (jf. universitetsog høyskoleforskriften § 2-6, sjette ledd). Fjernes
-kravene, vil ikke mastergraden nødvendigvis
-være tilstrekkelig som opptaksgrunnlag.
-På grunnlag av en samlet vurdering av de
-nevnte hensynene har utvalget konkludert med at
-kravene til omfang av selvstendig arbeid bør
-bestå. Utvalget mener at utfordringene generative
-KI-systemer skaper for vurdering av studentenes
-selvstendige arbeid bør løses gjennom en grundig, kontrollert prøving som et supplement til det
-selvstendige arbeidet. Det bør da gjøres en samlet
-vurdering av hvilket læringsutbytte kandidaten
-viser, altså ikke bare en vurdering av om studentens karakter bør justeres et hakk opp eller ned
-(jf. kap. 7.6). Dessuten kan det finnes andre måter
-å håndtere KI-utfordringene på. Regelverkets krav
-om et selvstendig arbeid betyr ikke at det må
-være én sammenhengende avhandling. Kravet
-kan oppfylles på flere måter.
-Veileders rolle
-Veileders rolle er sentral i den formative vurderingen av større, selvstendige arbeider. Med
-utgangspunkt i utfordringen med å vurdere oppnådd læringsutbytte, har utvalget diskutert om
-veileder bør ha en rolle også i den summative vurderingen. Utvalget legger til grunn at hensynet
-bak kravet om ekstern sensor er kvalitetssikring
-og ivaretakelse av studentenes rettigheter. Veileder vil ofte ha kunnskap om prosessen som har
-ledet frem til det innleverte arbeidet. Det kan gi et
-større innblikk i graden av selvstendighet som
-studenten har utvist, noe som både kan være nedfelt som et krav i eksamensregelverket og fungere
-som et vurderingskriterium (jf. kap. 7.3).
-
-[Side 123]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Universitets- og høyskoleloven § 11-6 fastsetter to grunnleggende hensyn: Vurderingen
-skal være både upartisk og faglig betryggende.
-For spørsmålet om veileders rolle i sensur, kan
-disse hensynene komme i spenning. Gis veileder
-en avgjørende rolle i sensuren, kan dette ha nytte
-for å vurdere hvor selvstendig kandidatens arbeid
-har vært. På den annen side kan det være problematisk med henblikk på vurderingens upartiskhet, og det kan øke en allerede ujevn maktbalanse
-mellom veileder og student. Videre kan det ha en
-nedkjølingseffekt på relasjonen mellom veileder
-og student, i det som skal være et åpent rom for
-faglig diskusjon, uenighet, nysgjerrighet og utprøving. Utvalget har ikke konkludert om veileder
-kan gis en sterkere rolle i sensur.
-
-7.6
-
-Studenten har ikke i tilstrekkelig grad oppfylt
-krav til selvstendighet, som for de fleste
-emnene er et vurderingskriterium. I en samlet
-vurdering medfører dette at karakteren settes
-ned.
-
-Utvalget mener at kun fuskesaker må behandles
-som fuskesaker, fordi studenter da har krav på
-rettsvern. Samtidig er bruk av KI-systemer utover
-det som er tillatt i eksamensreglementet og
-reglene for den konkrete eksamen, ikke nødvendigvis svart-hvitt: Det finnes et spekter av gråsoner, og det foreligger ikke nødvendigvis forsett
-eller grov uaksomhet. I disse gråsonene kan graden av selvstendighet som studenten (ikke) viser,
-komme i spill, og dermed også hvilken karakter
-som er riktig å fastsette. Da er det desto viktigere
-at studenten har en reell klagemulighet.
-
-Kombinasjonseksamener
-
-Utvalgets vurdering om at ikke-kontrollerte eksamener bør suppleres med en kontrollert eksamensdel (jf. kap. 7.4.2.2) vil nødvendigvis føre til
-flere kombinasjonseksamener: Som oftest handler
-det om at en (skriftlig) hjemmeeksamen eller
-semesteroppgave blir supplert med en (muntlig)
-kontrollert eksamensdel.8
-En supplerende muntlig eksamen har som
-hovedformål å vurdere i hvilken grad studenten
-har oppnådd læringsutbyttet, og skal ikke tjene
-som ren kontroll av hvorvidt eksamensreglene har
-vært fulgt på en skriftlig deleksamen. Utgangspunktet er at utvalget mener at semesteroppgaver,
-lengre hjemmeeksamener, og da spesielt større
-selvstendige arbeider, kan tjene viktige utdanningsfaglige mål, men at de ikke alene gir en god
-prøving av hvilket læringsutbytte studenten har
-oppnådd (jf. kap. 7.5). I denne sammenhengen ser
-utvalget behov for å vurdere gjennomføring av og
-rettigheter ved kombinasjonseksamener.
-Dersom en kontrollert eksamensdel avdekker
-at studenten ikke har oppnådd læringsutbyttet
-slik det framsto i den ikke-kontrollerte delen, er
-det to muligheter:
-– Det foreligger mistanke om bruk av KI-systemer i strid med eksamensreglementet, såkalt
-KI-fusk. Studenten har enten forsettlig forsøkt
-å fuske, eller har forsettlig/grovt uaktsomt fusket. Dersom dette kan bevises med sannsynlighetsovervekt, kan det føre til annullering av
-eksamen, jf. uhl. § 12-4.
-8
-
-–
-
-121
-
-Kapittel 7
-
-Muntlige eksamener kan naturligvis også være begrunnet
-på andre måter, ved at de gir mulighet til å prøve en viktig
-ferdighet, nemlig muntlig formidling av kunnskap.
-
-7.6.1 Utvalgets vurdering
-Klage på den muntlige delen av en kombinasjonseksamen
-I denne konteksten kan det være utfordrende at
-dagens regler inneholder ulike sensorordninger,
-klageordninger og fremgangsmåter for å be om
-karakterbegrunnelse (universitets- og høyskoleloven §§ 11-7 til 11-11):
-– Ved en ikke-etterprøvbar eksamen, for eksempel muntlig eksamen, skal det være to sensorer, og da er det ikke klagerett på karakter
-(bare på formelle feil).
-– Ved en etterprøvbar eksamen, for eksempel
-skriftlig, skal det være minst én sensor og full
-klagerett. Det skal være to sensorer ved sensur
-av større, selvstendige arbeider, og ved eksamener som alene utgjør 15 studiepoeng eller
-mer.
-– Ved kombinasjonseksamener kan studenten
-kun påklage den skriftlige delen, selv om
-karakteren er basert på både den skriftlige og
-muntlige delen (ved noen institusjoner settes
-to delkarakterer, men det samme gjelder). Dersom karakteren på den skriftlige eksamensdelen endres ved klagesensur, må institusjonen i tillegg avholde en ny muntlig eksamen
-for å fastsette endelig karakter.
-Tradisjonelt har kombinasjonseksamener, der et
-skriftlig arbeid suppleres med muntlig utspørring,
-blitt brukt for å kunne justere karakteren én
-karakter opp eller ned. Dette er ikke lenger tilstrekkelig når ikke-kontrollerte eksamener trenger
-å bli supplert med en kontrollert eksamensdel for
-
-[Side 124]
-
-122
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-å gi en faglig betryggende vurdering. Utvalget
-legger derfor til grunn at en supplerende, kontrollert eksamensdel bør kunne påvirke karakteren i
-større grad, uten begrensning på antall karakterer, i en samlet vurdering av hvilket læringsutbytte studenten viser gjennom de to eksamensdelene. Det kan slå ut både negativt og positivt for
-studentene.
-Når en supplerende muntlig eksamen får større
-innvirkning på den samlede karaktersettingen, og
-den skriftlige delen ikke alene er representativ for
-hvilket læringsutbytte studenten viser, mener utvalget at det er utilstrekkelig at studenten bare kan
-påklage den skriftlige delen og ikke den muntlige.
-Dette har spesielt stor betydning for både studenter og institusjonene ved vurdering i større emner,
-slik som bachelor- og masteroppgaver.
-Utvalget mener at dagens regulering i uhl.
-§ 11-11 fjerde ledd om kombinasjonseksamener
-ikke løser denne konkrete problemstillingen på
-en effektiv eller rettferdig måte. Regelen sikrer at
-studenten får en ny muntlig eksamen dersom
-karakteren er endret etter klagebehandling av
-den skriftlige delen. Det fører til at studenten får
-en ny mulighet til å forberede seg på å bevise oppnådd læringsutbytte. I lys av den skisserte utfordringen, fremstår regelen ikke som en tilfredsstillende løsning: Klagebehandling av kun den skriftlige delen er ikke lenger formålstjenlig. Det er
-heller ikke rettferdig overfor studenter som har
-levert skriftlig arbeid og som kan vise at de har
-oppnådd læringsutbyttet. Det kan i tillegg skape
-unødig merarbeid for institusjonene med flere
-muntlige eksamensdeler i flere runder. Regelen i
-uhl. § 11-11 fjerde ledd er spesielt problematisk
-for større, selvstendige arbeider (master- og bacheloroppgaver) og eksamener som utgjør 15 studiepoeng eller mer.9
-Gjøre muntlige eksamener etterprøvbare med lyd- eller
-videoopptak
-Utvalget mener at institusjonene bør løse kombinasjonseksamener annerledes, nærmere bestemt ved
-å gjøre den muntlige delen etterprøvbar. Dette kan
-fortrinnsvis gjøres gjennom lyd- eller videoopptak.
-9
-
-Utvalget uttaler seg her kun om kombinasjonseksamener
-for å sikre at en ukontrollert eksamen med tilgang til KIsystemer kan suppleres med en kontrollert eksamensdel.
-Regelen kan fortsatt være relevant i andre eksamenssammenhenger, for eksempel tilfellet det vises til i forarbeider til uhl. § 11-11 fjerde ledd: «Hvis den skriftlige delen er
-en gruppeinnlevering med justerende muntlig skal den som
-klager få lov til å prøves i muntlig alene dersom den skriftlige
-delen endrer sluttvurderingen fra førstegangssensuren.»
-(Prop. 126 L (2022–2023), pkt. 23-11, merknad til § 11-11).
-
-Det vil gi en samlet klagerett på begge eksamensdelene, og sikre studentenes rettssikkerhet. Det er
-nødvendig når den muntlige eksamensdelen blir
-like viktig for den samlede karakteren. Klagebehandlingen vil da være helhetlig, formålstjenlig
-og mer effektiv og rettferdig. Den vil heller ikke
-kunne misbrukes for å få en ny mulighet til muntlig
-eksamen, slik det er mulig i dag.
-Det har i NOU 2020: 3 (pkt. 21.5.2.3.3) Ny lov
-om universiteter og høyskoler blitt vurdert å legge
-til rette for videoopptak av muntlige eksamener.
-Utvalget for ny universitets- og høyskolelov konkluderte på det tidspunktet, basert på en anbefaling fra Deloitte, å ikke innføre en plikt for institusjonene til å tilby filming av muntlig eller utøvende
-eksamen i tilfeller der studenten ønsker det, men
-heller gjeninnføre krav om to sensorer på ikkeetterprøvbare eksamener – slik det er krav om i
-dag.10 Hensynene var hovedsakelig studentenes
-(og sensorenes) personvern, og at et videoopptak
-ikke nødvendigvis er tilstrekkelig for at en muntlig eksamen er etterprøvbar og dermed kan
-påklages.
-Den foreliggende NOUs utvalg mener at
-denne vurderingen ikke lenger står seg, når en
-muntlig eksamen påvirker den samlede karakteren i større grad. Et lyd- eller videoopptak kan
-organiseres slik at det gjør en eksamen etterprøvbar. At det skal være to sensorer på en ikke-etterprøvbar eksamen, er etter utvalgets syn for å påse
-at eksamenen er faglig betryggende. Det er ikke
-tilstrekkelig for å sikre studentens rettssikkerhet.
-Utvalget vedgår at opptak, særlig som video, kan
-ha en nedkjølingseffekt, men mener at klageretten må ivaretas. Dette gjelder spesielt for
-større, selvstendige arbeider.
-Personvernhensynene må vurderes på ny i lys
-av den større påvirkning en muntlig eksamen kan
-ha på karakteren, og dermed svekkede klagerettigheter. Utvalget mener at opptak ved muntlig
-del av kombinasjonseksamen kan regnes som
-nødvendig for at institusjonene skal kunne utføre
-sine oppgaver etter universitets- og høyskoleloven, og at behandling av personopplysninger
-dermed er hjemlet i uhl. § 2-8. Utvalget bemerker
-likevel at en særegen hjemmel for dette formålet
-kan være en ryddigere løsning.11
-Etter en samlet vurdering fremstår dagens lovbestemmelser om kombinasjonseksamener som
-utdaterte. Utvalget ser behov for at reglene i uhl.
-10
-
-Filming av muntlig eksamen og klageadgang ble tidligere
-omtalt i Prop. 64 L (2017–2018), punkt 4.2.4. Utvalgets
-anbefaling i NOU 2020: 3 ble fulgt opp i Prop. 126 L (2022–
-2023), pkt. 15.10.2 og 15.10.4.2.
-
-[Side 125]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-§§ 11-6 til 11-11 gjennomgås for å legge best mulig
-til rette for kombinasjonseksamener og sikre studentenes rettssikkerhet og en effektiv klagebehandling.
-Tilfeldig uttrekk av en andel studenter til
-supplerende eksamen
-Flere institusjoner har gjennomført uttrekk, hvor
-en andel tilfeldig utvalgte studenter blir trukket ut
-til en supplerende, kontrollert eksamen. Ved Universitetet i Sørøst-Norge er dette blitt testet allerede før generative KI-systemer ble allment tilgjengelige: Alle studenter måtte forberede seg til
-både skriftlig og muntlig eksamen, men kun 25
-prosent av studentene ble tilfeldig trukket ut til en
-muntlig eksamen, som var innholdsmessig
-avgrenset til den skriftlige besvarelsen og tilhørende pensum. Studentens prestasjon på den
-muntlige eksamenen kunne påvirke karakteren
-med én karakter opp eller ned. Til tross for at flere
-studenter klagde på å bli behandlet ulikt, besto
-piloten en klagevurdering: Studenter påklagde
-fremgangsmåten for formelle feil, men saken ble
-avslått.
-Til sammenlikning kan det også tenkes å
-trekke ut studenter til en supplerende eksamen
-basert på en mistanke om fusk. Et slikt uttrekk
-reiser større etiske og juridiske utfordringer, da
-mistanke om fusk blandes inn i selve vurderingen.
-Studenten går i så fall ikke opp til en muntlig
-utspørring, men til en domstol-liknende kontrollsituasjon. Utvalget legger til grunn at det ikke er
-juridisk handlingsrom for å bruke en muntlig vurdering som del av en fuskesak. Dette er to prosesser som bør behandles adskilt.
-Utvalget viser til uttrekk til muntlig som en
-mulighet, men vil fraråde det, ettersom alle studenter har rett til en faglig betryggende vurdering.
-
-7.7
-
-Formativ vurdering
-
-Samtidig som studentenes tilgang på generative KIsystemer gjør det mer utfordrende å vurdere oppnådd læringsutbytte og etterlevelse av eksamensregler (jf. kap. 7.4), gir teknologien også muligheter for mer formativ vurdering. Språkmodellbaserte KI-systemer gjør det mulig for studenter å
-11
-
-Det er også mulig å hente inn samtykke fra studenter til å
-gjøre lyd- eller videoopptak på muntlige eksamener, men
-det vil ikke nødvendigvis oppfylle kravene til frivillig samtykke etter GDPR art. 7 nr. 4, gitt det skjeve maktfoholdet
-mellom studenten og institusjonen.
-
-123
-
-Kapittel 7
-
-få læringsfremmende tilbakemeldinger på skriftlig
-arbeid i et praktisk talt ubegrenset omfang, med lav
-ressursbruk og minimal responstid (jf. kap. 6.4.3).
-Dette kan komme studentene direkte til gode i
-egenstudier, men det har også betydning for organiserte vurderingsaktiviteter.
-Det er tidkrevende arbeid å gi nyttige, læringsfremmende tilbakemeldinger på oppgavebesvarelser. Undervisernes tid til oppgavevurdering har
-derfor vært en begrensende ressurs for hvor
-mange vurderingsaktiviteter det har vært mulig å
-gjennomføre i høyere utdanningstilbud. For flere
-grunnleggende former for læringsutbytte er dette
-en uheldig begrensning: Skal man utvikle faglige
-tenkemåter og generelle evner til kritisk og kreativ tenkning, er det en stor fordel med mengdetrening i det å skrive fagtekster. Skriveøvelse gir i
-seg selv verdifull læring, og det å få tilbakemeldinger på arbeidene kan gi en ytterligere
-læringsgevinst.
-Med støtte fra KI-systemer kan universiteter
-og høyskoler gjennomføre flere vurderingsaktiviteter innenfor de samme ressursrammene. KI
-bidrar dermed til at man enklere kan gi den mengden oppgaver som er utdanningsfaglig ønskelig.
-Er modellene godt nok trent for formålet, og systemene godt instruert, kan KI-genererte tilbakemeldinger også medvirke til et større læringsutbytte. Under de rette forutsetningene kan KIsystemer slik gi et vesentlig bidrag til bedre
-studiekvalitet.
-Gitt at vi har tilgang på systemer som selvstendig kan gjøre vurderinger av oppgavebesvarelser
-og gi tilbakemeldinger på dem, kunne det medført
-et lavere behov for at undervisere gjør den samme
-jobben. Det er flere grunner til at dette ikke
-følger. For det første er det etiske og juridiske
-hensyn som begrenser hvor avgjørende rolle man
-kan gi KI-systemer for ulike vurderingsoppgaver
-(jf. kap. 7.11). For det andre har det å få tilbakemeldinger fra en underviser, og ikke bare fra en
-programvare, trolig betydning for det faglige fellesskapet, tilhørighet til læringsmiljøet og for innsatsen studentene legger i arbeidet sitt. For det
-tredje kan undervisere i mange tilfeller gi nyttigere tilbakemeldinger enn tilgjengelige KI-systemer, enten på grunnlag av faglig kompetanse,
-kjennskap til studentene eller kjennskap til studietilbudet.
-Det er altså gode grunner til å ønske at menneskelige tilbakemeldinger ikke erstattes av KIgenererte tilbakemeldinger. Et føre-var-prinsipp
-tilsier derfor at det er klokt å se på KI-genererte
-tilbakemeldinger som et rom for utforskning,
-som et supplement til undervisernes egne
-
-[Side 126]
-
-124
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-tilbakemeldinger, som et hjelpemiddel undervisere kan bruke i utvikling av egne tilbakemeldinger og som en mulighet for studentene til å få
-langt flere tilbakemeldinger og veiledet mengdetrening.
-
-7.7.1 Arbeidskrav som virkemiddel
-I tråd med vurderingen gitt i kapittel 7.4 har generative KI-systemer skapt et behov for å gjennomføre flere eksamener under tilsyn, og å kombinere
-ikke-kontrollerte vurderingsformer med kontrollerte vurderingsformer. Disse anbefalingene gjelder eksamen spesifikt, som har et klart summativt
-formål i tråd med universitets- og høyskoleloven
-(§ 11-6).
-Ettersom de formative formålene med arbeidskrav generelt er sterkere, og de summative formålene svakere, er det ikke det samme behovet
-for kontroll i vurdering av arbeidskrav. Det å gjennomføre alle arbeidskrav under tilsyn kan gjøre
-dem mer kostbare, uten at det nødvendigvis gir et
-større læringsutbytte. Samtidig er det mange regler man ikke enkelt kan vurdere etterlevelse av
-når man ikke fører tilsyn. Gitt at man ikke enkelt
-kan vurdere oppnådd læringsutbytte og regelverksetterlevelse uten tilsyn, gir dette grunn til å
-rendyrke de formative formålene med arbeidskrav.
-Selv om arbeidskrav ikke er like avgjørende
-vurderinger for studentene som eksamener, har
-godkjenninger av arbeidskrav implikasjoner for
-studentenes rettsstatus. Med dagens regulering
-er det derfor et svært begrenset handlingsrom for
-å automatisere godkjenninger av arbeidskrav, jf.
-7.11.1 om sensur. Hvilke krav som stilles for å få et
-arbeidskrav godkjent varierer riktignok betydelig,
-
-fra formale krav til substansielle, skjønnsmessige
-krav, og det er sistnevnte som er særlig problematisk for automatisering.
-Det er likevel et betydelig etisk og juridisk
-handlingsrom for å bruke KI-systemer til å gi
-læringsfremmende tilbakemeldinger til studenter.
-Det gjør det enklere å legge opp til den mengden
-og typen arbeidskrav som gir best læringsutbytte
-for studietilbudet, og med veltrente systemer kan
-tilbakemeldingene være særlig verdifulle for studentene. KI-systemer kan dermed tjene som
-effektive verktøy for å fremme de formative formålene med arbeidskrav, i tillegg til at de samme
-systemene kan brukes for å få tilbakemeldinger
-på annet arbeid.
-
-7.8
-
-Vurdering av KI-kompetanse
-og hybrid intelligens
-
-I kapittel 5 diskuteres hvordan kunstig intelligens
-påvirker hva det er hensiktsmessig å lære. En av
-konklusjonene er at KI-utviklingen sannsynligvis
-vil medføre mange store endringer i hvordan vi
-løser faglige oppgaver på universiteter og høyskoler og ellers i arbeidslivet. Endringer i hva man
-skal lære innebærer imidlertid også endringer i
-hvilke former for læringsutbytte man skal vurdere.
-Følgende kategorier har blant annet betydning:
-– Generell KI-kompetanse: kunnskap om og ferdigheter i bruk av KI-systemer som alle studenter i høyere utdanning har nytte av
-– Fagspesifikk KI-kompetanse: kunnskap og ferdigheter som varierer mellom fagområder
-– Spesialisert KI-kompetanse: den kompetansen
-som setter en i stand til å utvikle, drifte og forvalte KI-systemer
-
-Boks 7.3 Hybrid intelligens
-systemer, eller flere mennesker og ett eller flere
-Det nasjonale senteret for KI og læring, AI
-KI-systemer, der samhandlingen kan forbedre
-LEARN, forsker på samspillet mellom mennesbåde menneskelig forståelse og KI-funksjonaliker og KI i ulike sammenhenger, inkludert
-teten (Molenaar, 2022). Menneske-maskin-systeutdanning. Forskerne ved senteret beskriver
-mene krever nye kompetanser. I høyere utdanhybrid intelligens som et symbiotisk forhold
-ning kan man si at studenter og undervisere
-hvor mennesker og KI-systemer interagerer og
-lærer sammen med, eller samskaper, eller vurdesamarbeider, og hvor man trekker på både menneskelige kognitive styrker og på kapabilitetene
-rer sammen med KI-systemer. En hybrid tilnærtil KI-systemene (se også Järvelä et al., 2023).
-ming til læring ville hatt som målsetning å
-Disse menneske-maskin-systemene består av
-beskrive hvordan styrkene til de enkelte delene
-ulike sammensetninger av mennesker og KIutfyller og forbedrer hverandre.
-systemer: Ett menneske og ett eller flere KI-
-
-[Side 127]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-–
-
-Muliggjørende kompetanse: den kunnskapen og
-de ferdighetene som spiller en rolle for hvor
-godt vi lykkes i overgangen til et samfunn som
-er mer preget av teknologien – som evne til kritisk og kreativ tenkning, og etisk refleksjon
-
-Det er særlig den fagspesifikke KI-kompetansen
-som er interessant i denne sammenheng. I den
-grad KI endrer fagkunnskap eller arbeidsmåter i
-fag, eller det opprettes nye fag eller emner ved
-institusjonene, må studenter prøves i relevant KIkompetanse. Dette inkluderer for eksempel at det
-vil bli aktuelt å vurdere hva en student og et KIsystem kan oppnå i samspill.
-Dette har betydning for student-KI-samspillet i
-vurderingssituasjoner. Det blir avgjørende å vurdere både sluttproduktet av student-KI-samspillet
-og hvordan studenten har brukt KI-systemet. For
-å identifisere det siste kan sluttproduktet (besvarelsen) suppleres med en beskrivelse av hvordan
-KI-systemet er brukt, studentens refleksjoner
-over bruken og en logg av system-instruksjonene.
-
-7.9
-
-KI-assistert vurdering
-
-Luckin (2025) argumenterer for å utforske alternativer til tradisjonelle vurderingsformer: KI-assistert formativ vurdering som sporer læringsprogresjon; mappevurdering som viser autentisk
-problemløsing; mekanismer for egenvurdering og
-fagfellevurdering støttet av KI-analyse.
-Noen eksempler på metoder er AI-Guided SelfAssessment & Reflection, hvor studenter bruker en
-
-125
-
-Kapittel 7
-
-samtalerobot for å prøve ut, forklare eller evaluere
-sin forståelse av et konsept, AI First, Human Revision, hvor studenter bruker en samtalerobot til å
-lage et første utkast eller løsning som de forbedrer eller bygger på, Human First, AI Revision,
-som gjør det motsatte, og AI as Simulated Collaborator or Role-Player, hvor studenter fører en dialog
-med en samtalerobot som simulerer en karakter,
-en ekspert, eller en eksisterende person (Digital
-Education Council, 2025b).
-
-7.10 Adaptiv og individuell vurdering
-Adaptiv vurdering
-Adaptiv vurdering handler om at de oppgavene en
-student får i en vurderingssituasjon blir bestemt
-underveis i vurderingen, basert på tidligere svar.
-Hver enkelt student kan slik få et skreddersydd
-utvalg av oppgaver, basert på hva studenten viser
-at hen forstår, kan og vet underveis i vurderingen.
-Hensikten med slik adaptiv vurdering er å bedre
-kartlegge studentens oppnådde læringsutbytte,
-både i bredden og dybden av læringsutbytter som
-skal prøves. For studenten kan det bety bedre
-muligheter til å vise hva hen kan, forstår og vet.
-En muntlig eksamen er en form for adaptiv vurdering, hvor eksaminator tilpasser spørsmålsstillingen til hva studenten svarer.
-I datamaskinbasert adaptiv vurdering vil kandidaten få spørsmål hentet fra en spørsmålsbank,
-altså en større samling spørsmål knyttet til emnet
-kandidaten vurderes i. Mange adaptive vurderingssystemer er basert på teorier og funn fra
-
-Boks 7.4 Forsøk med teknologistøttet vurdering ved Universitetet i Tromsø
-– Norges arktiske universitet (UiT)
-tiv tilbakemelding når vurderingskriterier og
-Seks odontologistudenter ved UiT deltok høsten
-tydelige instrukser lå til grunn. Studentene vur2025 i et pilotforsøk med KI-assistert formativ
-vurdering knyttet til et skriftlig arbeidskrav i
-derte tilbakemeldingene som tydelige på hva
-immunologi. Studentenes fritekstbesvarelser
-som var riktig og galt i besvarelsen, og hva som
-ble først vurdert manuelt av faglærer, før de ble
-kunne gjort besvarelsen bedre. Samtidig avdekbenyttet til utprøving av et KI-system under
-ket forsøket at deler av tilbakemeldingene var
-utvikling i eksamensplattformen WISEflow.
-for generelle eller inneholdt faglige unøyaktigSammen med besvarelsen ble KI-systemet
-heter, og at faglig kvalitetssikring var nødvendig
-matet med sensorveiledning, vurderingskritefør resultatet kunne deles med studentene.
-rier og presise instrukser. Den KI-genererte tilKilde: Rapport etter første år med prosjektet «Nye vurdebakemeldingen ble deretter vurdert av faglærer
-ringsformer» (Sommerlund, 2026).
-og student.
-Forsøket viste at verktøyet kunne generere
-strukturert og i hovedsak faglig relevant forma-
-
-[Side 128]
-
-126
-
-NOU 2026: 14
-
-Kapittel 7
-
-Kunstig intelligens i høyere utdanning
-
-Boks 7.5 Automatisk bildekritikk
-ved Universitetet i Agder
-Prosjektet ImageCritique 2.0 ved Universitetet
-i Agder utforsker hvordan KI kan brukes til å
-gi individuelle tilbakemeldinger på grafisk
-design og fotografi. En multimodal samtalerobot brukes til å gi umiddelbare tilbakemeldinger på bildebaserte studentarbeider.
-Målet er å øke studentenes læringsutbytte i et
-dynamisk læringsmiljø som fremmer kreativitet og teknisk forståelse. Samtidig vil verktøyet kunne effektivisere vurderingsprosessen for undervisere og frigjøre ressurser til
-veiledning av store studentkull.
-Kilde: Informasjon til utvalget fra senioringeniør Haakon
-Lied Sundbø ved Universitetet i Agder
-
-Item Response Theory – IRT (Papanastasiou,
-2014). Tradisjonelle systemer er typisk utviklet
-basert på psykometri og statistikk, og forutsetter
-ikke bruk av datadrevne KI-systemer. I en gjennomgang av komponentene som inngår i datamaskinbasert adaptiv testing, som inkluderer
-modeller for måling, algoritmer for utvelgelse av
-oppgaver, oppbygning av spørsmålsbanker og
-testkontroll, viser Zhuang et al. (2026) hvordan
-maskinlæring kan optimalisere disse komponentene.
-Individuelle eksamensoppgaver
-Det er mulig for en sensor, med eller uten hjelp av
-et KI-system, å lage individuelle eksamensoppgaver – på samme måte som det gjøres i dag ved
-muntlig forsvar av en skriftlig hjemmeeksamen,
-fortrinnsvis ved f.eks. en masteroppgave. I emner
-med mange studenter kunne man tenke seg at
-studenter utarbeider en skriftlig (ikke-kontrollert)
-hjemmeeksamen. Så bruker sensor et KI-system
-som utarbeider oppfølgingsspørsmål til en kort
-(kontrollert) skoleeksamen. Oppfølgingsspørsmålene er tilpasset hver students innlevering fra
-hjemmeeksamenen, og går dypere inn på det de
-leverte for å kunne vurdere oppnådd læringsutbytte.
-Her er det to hensyn. Det første er likebehandling av studentene. Likebehandling krever ikke
-identiske eksamensoppgaver, men lik vurderingsstandard – dvs. lik sensorveiledning og fastsatt
-
-læringsutbytte for emnet – samt like reelle muligheter. Det enkleste er å påvise likebehandling
-gjennom å stille materielt like eksamensspørsmål.
-Men det er ikke et krav: Forskjellsbehandling er
-bare ulovlig når den er usaklig. Det som gjør forskjellsbehandlingen saklig, er at oppfølgingsspørsmålene må være ulike – nettopp fordi de må
-være tilpasset studentens besvarelse for å kunne
-vurdere hvilket læringsutbytte studenten samlet
-sett viser.12 Formålet med en slik kontrollert eksamensdel bør være en nærmere vurdering av hvorvidt studenten har oppnådd læringsmålene. Det
-vil likevel kunne være studenter som mener seg
-ulikt behandlet ved en slik framgangsmåte. Det er
-derfor viktig å påse at oppfølgingsspørsmålene er
-rettferdige og balanserte. Utvalget mener at hensynet til likebehandling kan ivaretas gjennom å
-påse at det ikke er urimelige forskjeller på de oppgavene studentene gis, samtidig som man oppnår
-en ressurseffektiv og faglig betryggende prøving.
-Dersom de individuelle eksamensoppgavene
-lages ved hjelp av et KI-system, må det også tas
-hensyn til hva slags KI-system som brukes og
-hvordan. Som et minimum må det være et lukket
-system med kontroll på dataene, og det må foreligge et behandlingsgrunnlag etter GDPR. I tillegg utgjør det et høyrisikosystem etter KI-forordningen: I likhet med å bruke KI-systemer til sensur vil det å utforme eksamensoppgaver ved hjelp
-av KI-systemer regnes som høyrisiko (jf. kap.
-7.11.1.2 og EU-kommisjonen (2026d, pkt. 220–225
-og eksempler)). Det utløser blant annet et krav til
-menneskelig kontroll (se Boks 4.3).
-
-7.11 Sensur og karakterbegrunnelser
-Institusjonene bruker mye ressurser på sensur og
-karakterbegrunnelser. Dagens system med menneskelig sensur er ikke ufeilbarlig. Ulike sensorer
-kan gjøre ulike vurderinger (NOKUT, 2017;
-Sætre, 2025). Man kan øke kvaliteten på sensuren, for eksempel ved å ha to sensorer, men en
-slik ordning er svært ressurskrevende.
-Sensur og karakterbegrunnelse er også sterkt
-rettighetsstyrte oppgaver. Dagens regelverk setter
-derfor mange begrensninger for bruk av KI-systemer til sensur og karakterbegrunnelse, samtidig
-som det gir noen muligheter.
-
-12
-
-Dersom den KI-utarbeide oppfølgingsprøven derimot skal
-brukes til formål utover dette, mer som et selvstendig eller
-likeverdig vurderingsgrunnlag, er det usikkert om det er
-saklig grunn for ulike prøver.
-
-[Side 129]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Før gjennombruddene vi har sett med store
-språkmodeller, var det utenkelig med programvare som kunne gjøre begrunnede vurderinger av
-oppgavebesvarelser i fritekst. De nye tekniske
-mulighetene fordrer at vi vurderer om og hvordan
-KI-systemer kan fungere som verktøy for sensur
-og karakterbegrunnelse. Sentrale momenter i en
-slik vurdering er hva KI-bruk gjør med kvaliteten
-på sensur og karakterbegrunnelser, i hvor stor
-grad KI-systemer kan effektivisere oppgavene og
-hva som skal til for å ivareta tilliten til vurderingssystemet. Når resultatene må være pålitelige, og
-hensynet til studentenes rettigheter veier tungt,
-er det viktig å diskutere om og hvordan vi kan
-bruke dagens KI-systemer som verktøy for sensur
-og karakterbegrunnelse i hele eller deler av prosessen.
-Det er tre skiller som er særlig viktige i denne
-diskusjonen:
-– Sensur vs. karakterbegrunnelse: Sensur er et
-enkeltvedtak om karakter (som godkjent/ikke
-godkjent eller som bokstavkarakter), noe vi
-skal skille fra begrunnelsen for et slikt vedtak,
-jf. uhl. §§ 11-7 og 11-8. Sensur og karakterbegrunnelse drøftes hver for seg i det følgende.
-– Automatisering vs. hjelpemiddel: KI-systemer
-kan automatisere sensuren eller karakterbegrunnelsene, eller de kan på ulike måter brukes
-som et hjelpemiddel, for eksempel til å kvalitetssikre menneskelige vurderinger. Risikoene ved
-automatisert KI-bruk er større enn ved bruk
-som hjelpemiddel. Samtidig er effektiviseringspotensialet ved automatisering betydelig større.
-Automatisering er gjennomgående strengere
-regulert i norsk og internasjonal lovgivning.
-– Forsøk vs. vanlig praksis under loven: Dersom
-en institusjon får innvilget søknad om å gjennomføre tidsavgrensede pedagogiske eller
-organisatoriske forsøk, kan man fravike
-bestemmelser i universitets- og høyskoleloven
-(jf. § 17-1).
-Hvorvidt det er hensiktsmessig og lovlig å bruke
-KI-systemer til sensur og karakterbegrunnelse
-kan variere på tvers av disse skillelinjene.
-
-7.11.1 Bruk av KI-systemer til sensur
-7.11.1.1 Pålitelighet og ønskelighet av å bruke
-KI-systemer til sensur
-Studenter har rett på en upartisk og faglig betryggende vurdering av hvilket læringsutbytte de har
-oppnådd. Fordi mye står på spill både for studentene og samfunnet, er dette et viktig fundament.
-
-127
-
-Kapittel 7
-
-For studentene danner eksamensresultatene
-grunnlag for grader og vitnemål, muligheter for
-arbeid, verv og videre studier. Det går ut over
-arbeidsgivere og samfunnet dersom uteksaminerte kandidater får jobber og verv de ikke er kvalifisert for.
-Selv om sensorer vurderer besvarelser objektivt, vil sensur i de fleste tilfeller ha et element av
-faglig skjønn. Sensuren påvirkes også av hvordan
-sensoren(e) stiller seg til eksamensoppgaven og
-krav til besvarelsen, hvordan de tolker og anvender vurderingskriteriene, og vurderingen kan
-påvirkes av kvaliteten på andre besvarelser. Kompleksiteten og de intuitive elementene ved slike
-vurderinger gjør derfor variasjon mellom sensorer uunngåelig. Når to sensorer samarbeider om å
-fastsette en karakter med et felles mål om å oppnå
-et rettferdig resultat, blir resultatet en samstemt,
-men ikke nødvendigvis mer presis vurdering
-(Sætre, 2025).
-Universitets- og høyskoleloven gir flere rettssikkerhetsgarantier til studenter utover retten til å
-påklage et sensurvedtak. Garantiene omfatter,
-avhengig av eksamenen, krav om to sensorer,
-ekstern sensor, nye sensorer ved klage og ny vurdering ved karaktersprik mellom opprinnelig sensur og klagesensur, jf. uhl. §§ 11-7 og 11-11.
-Garantiene uttrykker både viktigheten av korrekt
-sensur – dvs. at den skal være upartisk og faglig
-betryggende – og behovet for mekanismer for å
-ivareta studentens rettssikkerhet.
-Påliteligheten til KI-sensur
-Dersom man skal bruke KI-systemer til sensur,
-med eller uten et menneske, er det avgjørende å
-kartlegge om KI-systemet, og bruken man gjør av
-det, kan holde samme kvalitetsstandard som sensorer. Uten dette får man ikke ivaretatt studentenes rett til en upartisk og faglig betryggende sensur. I tillegg til at sensuren må være upartisk og
-faglig betryggende, bør den være på et tilsvarende nivå som en gjennomsnittlig sensor, eller
-høyere.
-Utvalget forventer at det allerede er fullt mulig
-å utvikle KI-systemer som i mange tilfeller gjennomfører sensur like godt som fagpersoner. I en
-omfattende studie ved Universitetet i Gøteborg
-ble sensur med en generisk samtalerobot (drevet
-på modellen GPT-3.5) sammenlignet med menneskelig sensur (Flodén, 2025). Samtalerobotene
-klarte i et stort flertall av oppgavevurderingene å
-treffe nær sensorenes vurdering (10 prosent
-avvik), og nesten en tredjedel av vurderingene var
-svært nær (5 prosent avvik). Samtaleroboten ga
-
-[Side 130]
-
-128
-
-Kapittel 7
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-litt høyere karakterer, men unngikk også veldig
-høye eller veldig lave karakterer. Studien konkluderte med at liknende avvik også finnes ved sensur av ulike menneskelige sensorer.
-I en studie hvor man benyttet ChatGPT til å gi
-karakterer på studenters essay i et førsteårskurs i
-biovitenskap, fant Kay et al. (2026) også at KIsystemet «presset sammen» karakterene: Svake
-besvarelser ble vurdert høyere av KI-systemet
-enn av sensor, og sterke besvarelser fikk dårligere
-karakter av KI-systemet. Hensikten med forsøket
-var å vurdere om studentene kunne få en god indikasjon på hvilken karakter de kunne forvente på
-arbeidet. Forfatterne konkluderte med at KI-systemene de testet ikke var egnet til dette formålet.
-I en studie fra 2023 fant Kortemeyer at karakterene gitt av samtalerobot hadde sterk korrelasjon med sensorers karakterer13 for håndskrevne
-eksamensbesvarelser i friform i fysikk, men konkluderte allikevel med at KI-sensuren ikke var
-pålitelig nok til å fungere som reell sensur
-(Kortemeyer, 2023). Modellene var på det tidspunktet fortsatt hemmet av begrenset kapabilitet
-for oppgavene som ble undersøkt. Dersom allerede utdaterte modeller med generiske systemer
-kan oppnå disse resultatene, er det sannsynlig at
-en modell som er spesifikt trent for oppgaven og
-satt i et velegnet system, kan ha større potensial.
-Presise sensorveiledninger blir en viktig forutsetning, da KI-modeller generelt fungerer bedre med
-klare instrukser. I hvor stor grad man oppnår fordelene og unngår ulempene med bruk av KIsystemer til sensur, vil avhenge av hvor gode
-modeller og systemer man har tilgjengelig.
-Fordeler og risikoer ved bruk av KI-systemer til sensur
-KI-systemer kan gi både kvalitets- og effektivitetsgevinster for sensur:
-– Kvalitet: KI-systemer kan potensielt gi en mer
-konsistent og rettferdig karaktersetting i samsvar med sensorveiledningen, både ved automatisk sensur og som beslutningsstøtte. KIsystemer kan også brukes til å analysere menneskesatte karakterer i lys av sensorveiledningen og identifisere mønstre og eventuelle
-avvik som sensor bør revurdere. En slik kalibrering kan føre til mer konsistent sensurering.14
-– Effektivitet: Dersom sensur kan automatiseres
-vil det isolert sett kunne gi store effektivise-
-
-ringsgevinster. Også som hjelpemiddel kan KIsystemer effektivisere sensuren, f.eks. ved å
-redusere behovet for medsensor.
-Å bruke KI-systemer til sensur bærer også med
-seg risiko. Hvor store de følgende risikoene er,
-avhenger av om det er snakk om automatisert
-sensur eller bruk av KI-systemer som hjelpemidler:
-– Videreføring av skjevheter: Alle datasett har
-skjevheter (jf. kap. 4.2.1 og 4.3.5). Det kan
-f.eks. være egenskaper ved studentbesvarelser
-som historisk er blitt overpremiert og andre
-som er blitt underpremiert. Slike skjevheter
-blir videreført av KI-modeller og vil da kunne
-bli forsterket.
-– Atypiske besvarelser: KI-systemer kan ha vansker med å fange opp unike eller kreative svar
-som avviker fra en tradisjonell norm, men som
-likevel er faglig sterke.
-– Innsatskostnad: Selv om de teknologiske forutsetningene er på plass, kreves det innsats å
-utvikle gode KI-modeller for sensur. Bredden
-av fag, utdanninger og emner viser de økonomiske og miljømessige kostnadene det har.
-– Etterprøvbarhet: Med mindre KI-systemene
-har svært høy grad av forklarbarhet vil det
-være vanskelig å etterprøve vurderingene til et
-KI-system. Risikoene knyttet til manglende
-etterprøvbarhet er langt større ved automatisering enn ved bruk som hjelpemiddel, og
-påvirker derfor studentenes rettssikkerhet (jf.
-kap. 4.2.1. og 4.3.4).
-
-7.11.1.2 Juridisk handlingsrom
-Etter dagens regler er det under visse, strenge vilkår mulig for sensorer å bruke KI-systemer som
-hjelpemiddel. Regelverket åpner ikke for å automatisere sensur.
-Sensorkravet
-Uhl. § 11-7 krever at sensor(er) gjennomfører sensur, og tillater ikke automatisert sensur med KIsystemer. Sensuren er del av institusjonenes
-ansvar for å prøve studentenes kunnskaper og ferdigheter på en upartisk og faglig betryggende
-måte, jf. uhl. § 11-6. Utvalget legger til grunn at
-sensorkravet muligens ikke kan fravikes ved bruk
-14
-
-13
-
-Nærmere bestemt fant Kortemeyer at 84 prosent av variasjonen i de manuelt tildelte karakterene kan forklares av
-karakterene gitt av KI.
-
-Dette målet er også grunnen til at universitets- og høyskoleloven stiller krav om sensorveiledning: Den skal sikre
-en mest mulig ensartet vurdering av eksamensoppgavene,
-jf. merknad til § 11-7 i Prop. 126 L (2022–2023).
-
-[Side 131]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-av forsøk etter uhl. § 17-1, men dette er det opp til
-Kunnskapsdepartementet å avklare.15 Merk likevel at selv under en slik tolkning kan det være
-mulig å gjøre forsøk med automatisert sensur
-hvor det parallelt blir gjort en menneskelig sensur
-som gjeldende vedtak.
-Automatisert sensur
-Ser man bort fra sensorkravet i uhl. § 11-7, åpner
-den nye forvaltningsloven for automatisert saksbehandling under vilkår (forvaltningsloven 2025
-§§ 11 til 13, se også kapittel 4.3.4). Loven åpner for
-automatisering av skjønnsmessige vurderinger,
-som de fleste sensurvurderinger er, der dette er
-forsvarlig. Hvorvidt det er forsvarlig, og dermed
-mulig, vil bero på en konkret vurdering av KI-systemet som anvendes. I tillegg må kravene i gjeldende regelverk være oppfylt.16 Mange av den
-nye forvaltningslovens regler om automatisert
-saksbehandling styrker studentenes rettssikkerhet: Ved KI-sensur skal studenten få en (nærmest
-umiddelbar) forklaring av vedtaket, en rett til å
-uttrykke sine synspunkter og til å kreve manuell
-kontroll av en sensor, i tillegg til alminnelig klagerett. KI-forordningen inneholder ytterligere sikkerhetsmekanismer, se nedenfor og kapittel 4.3.2.
-Høyrisikosystem etter KI-forordningen
-Bruk av KI-systemer til sensur er særskilt regulert i KI-forordningen.17 KI-systemer som er
-beregnet på å vurdere læringsutbytte klassifiseres
-som høyrisiko-systemer (KI-forordningen art. 6
-nr. 2, jf. vedlegg III, 3 bokstav b). Delvurderinger,
-slik som av arbeidskrav, dersom de er summative,
-15
-
-Uhl. § 17-1 åpner for tidsavgrensede pedagogiske eller organisatoriske forsøk, der Kunnskapsdepartementet kan innvilge unntak fra uhl. og tilhørende forskrifter. Forarbeidene
-til regelen avgrenser slike forsøk mot studentenes grunnleggende rettigheter (Prop. 126 L (2022–2023), merknad til
-§ 17-1). Det kan være at retten til (menneskelig) sensur
-regnes som en grunnleggende rettighet.
-16
-Merk at ikke-automatisert bruk av KI-systemer, for eksempel til utarbeidelse av forslag til sensur, eller til å fungere
-som et mindre inngripende hjelpemiddel, ikke faller under
-automatiserte avgjørelser etter GDPR art. 22 jf. ny forvaltningslov §§ 11 og 12. Den menneskelige rollen i sensurarbeidet må imidlertid være reell og utført av kompetente
-sensorer som har fått retningslinjer og/eller trening slik at
-sensorene gjør en selvstendig vurdering. Se Colonna (2024,
-s. 14–15).
-17
-Gjennomføring av KI-forordningen i norsk rett har vært på
-høring, skal på ny høring, og en lovproposisjon er planlagt
-sendt til Stortinget våren 2027. Ikrafttredelse av KI-forordningens regler om høyrisikosystemer (Vedlegg III, herunder utdanning) er utsatt til 2. desember 2027. Se kapittel
-4.3.2.
-
-129
-
-Kapittel 7
-
-er også omfattet.18 Klassifiseringen medfører at
-slike systemer er underlagt omfattende forpliktelser, slik som krav til menneskelig kontroll, åpenhet, informasjon og risikohåndtering (KI-forordningen art. 8–27). Se nærmere beskrivelse i kapittel 4.3.2.
-Også KI-systemer som er ment som beslutningsstøtte til sensorer er i de aller fleste tilfeller et
-høyrisikosystem, selv når sensoren reelt tar en
-egen beslutning om karakteren. Menneskelig
-involvering og kontroll er et basiskrav for høyrisikosystemer, og gir ikke unntak fra høyrisikoklassifisering (EU-kommisjonen, 2026d, avsnitt
-70–71). KI-forordningen art. 6 nr. 3 gir unntak når
-KI-systemet «ikke i vesentlig grad påvirker utfallet
-av beslutningsprosesser». Men dette unntaket må
-tolkes veldig snevert: Det åpner for eksempel ikke
-for å bruke KI-systemer til å forberede et forslag
-til sensur. Unntaket gjelder når:
-– KI-systemet er beregnet på å utføre en forberedende ikke-substansiell oppgave, som å
-indeksere studentbesvarelser eller å generere
-generell informasjon (KI-forordningen art. 6
-nr. 3 første ledd og andre ledd, bokstav d, jf.
-EU-kommisjonen, 2026d, avsnitt 103–108).
-– KI-systemet er beregnet på å verifisere eller finjustere resultatet av en menneskelig aktivitet,
-uten substansielle endringer i resultatet – altså
-er ikke KI-bestemte endringer av karakterer
-omfattet av dette unntaket (KI-forordningen
-art. 6 nr. 3 første ledd og andre ledd, bokstav b,
-jf. EU-kommisjonen, 2026d, avsnitt 94–96).
-– KI-systemet er beregnet på å identifisere
-beslutningsmønstre eller avvik. KI-systemet
-kan fungere som et kvalitetssikringsverktøy
-under dette unntaket, dersom det er sensor
-som, etter grundig vurdering, eventuelt endrer
-karakterer.19
-Dermed utgjør det liten forskjell for høyrisikoklassifisering, om KI-systemet brukes som beslutningsstøtte for sensur eller om det brukes for automatisert sensur. Unntaket er ved kvalitetssikring,
-18
-
-19
-
-Det kan være gråsoner mellom summative og formative
-vurderinger. For veiledning og praktiske eksempler, se 
-EU-kommisjonens utkast til veileder om klassifisering av
-høyrisikosystemer (EU-kommisjonen, 2026d, avsnitt 
-220–225 med eksempler).
-Hvorvidt avvik skal føre til endringer i karakterer, er noe
-som må vurderes av sensor, dersom kvalitetssikringen skal
-falle under unntaket fra høyrisikoklassifisering. Se KIforordningen art. 6 nr. 3 første ledd og andre ledd, bokstav
-c jf. EU-kommisjonen, 2026d, avsnitt 97–102 og 220–225
-med eksempler. Merk at dersom et KI-system identifiserer
-avvik basert på profilering av fysiske personer, vil det likevel bli klassifisert som høyrisikosystem etter KI-forordningen art. 6 nr. 3 tredje ledd.
+## Hvordan vurdering gjennomføres og reguleres
+
+### Dagens regulering
+
+Universitets- og høyskoleloven (uhl.) § 11-6 fastsetter at universiteter og høyskoler skal «sørge for at studentenes kunnskaper og ferdigheter blir prøvd og vurdert på en upartisk og faglig betryggende måte» og videre at vurderingen skal «sikre det faglige nivået på studiet». Loven gir ellers ingen føringer på hvordan eksamen og arbeidskrav skal gjennomføres.
+
+Eksamen og arbeidskrav er videre regulert av den enkelte institusjon. Universitets- og høyskoleloven gir institusjonene hjemmel til å fastsette forskrift om gjennomføring av eksamen (§ 11-6) og aktiviteter og oppgaver som må gjennomføres for å kunne gå opp til eksamen (§ 11-4). Institusjonenes forskrifter fastsetter regler som gjelder på alle eksamener, f.eks. definisjoner av fusk. I tillegg lager institusjonene supplerende regler for den enkelte vurdering, f.eks. hvilke hjelpemidler som er tillatt.
+
+### Vurderingsformer
+
+Kvalitetsmeldingen (Meld. St. 16 (2016–2017)) satte som mål at studenter skal møte varierte vurderingsformer i høyere utdanning. Det finnes et spekter av muligheter, både når det gjelder rent formmessige valg og vurderingens innhold, f.eks. hvilke oppgaver som gis og hvordan de er strukturert. Vurderingsformene kan kategoriseres på mange måter, og her trekker vi frem noen skillelinjer som vil benyttes i diskusjoner i kapitlet:
+
+- *Eksamen og arbeidskrav:* Vurderinger kan gjennomføres som eksamener eller som arbeidskrav. En eksamen er en vurdering som gir uttelling i studiepoeng og hvor resultatet påføres vitnemålet. Et arbeidskrav er en aktivitet som studentene må gjennomføre for å kunne gå opp til eksamen, uten at arbeidskravet i seg selv gir uttelling i studiepoeng.[^46]
+
+- *Format*: Det er vanligst med skriftlige oppgaver i høyere utdanning, men også muntlige eksamener er utbredt på tvers av fagområder. I mange utdanninger utgjør også praktiske og estetiske oppgaver en viktig kategori, f.eks. i helsefag med klinisk praksis eller i utøvende musikkfag.
+
+- *Sammensatte og ikke-sammensatte vurderinger:* I stedet for å avholde eksamen som en enkelt vurderingsenhet er det mulig å sette sammen flere vurderingsenheter, slik at man får en samlet vurdering av oppnådd læringsutbytte på tvers av enhetene. For eksempel kan eksamen holdes som en mappeeksamen, hvor studentene skal levere et knippe med arbeider. Gjennom å dele opp eksamen i flere vurderingsenheter kan man også kombinere ulike formater, f.eks. skriftlige med praktiske eller muntlige oppgaveformater. Dersom en eksamen består av vurderingsenheter med ulike formater kalles det gjerne for en *kombinasjonseksamen*.
+
+- *Individuelt arbeid eller samarbeid:* Individuelle oppgaver er det vanligste i høyere utdanning, men over tid er det blitt vanligere å åpne for eller gi samarbeidsoppgaver.
+
+- *Lokasjon:* Vurderingsaktiviteten kan gjennomføres på campus (herunder som skoleeksamen), i eksternt eksamenslokale eller et hvilket som helst sted med internettilkobling (som hjemmeeksamen). Det blir også gjennomført vurderinger i utplassert praksis, f.eks. på skoler og sykehus, og det kan være mulig med fysiske eksamenslokaler utenfor campus.
+
+- *Kontrollerte og ikke-kontrollerte vurderingsformer:* I det vi kaller en kontrollert vurderingsform føres det tilsyn med hvordan oppgaven besvares, f.eks. hvilke hjelpemidler kandidaten tar i bruk. En skoleeksamen vil typisk sett være kontrollert, mens en (uovervåket) hjemmeeksamen vil være ikke-kontrollert.
+
+- *Varighet*: Det er et stort spenn i hvor lenge vurderingsaktiviteter kan pågå, fra mindre enn en time til et år eller mer.
+
+- *Omfang*: Vurderinger har varierende omfang målt i studiepoenguttelling, fra arbeidskrav til masteroppgaver på 60 studiepoeng. Omfang henger sammen med varighet, men er ikke identisk: En eksamen på seks timer kan ha et større omfang enn et arbeidskrav som man har flere uker på å besvare.
+
+### Utbredelse av ulike vurderingsformer
+
+Det er et stort mangfold av vurderingsformer. Riksrevisjonen viser i sin rapport om universitetene og høyskolene sitt arbeid med å videreutvikle kvaliteten i studieprogrammene (2023) et oversiktsbilde over vurderingsformer for perioden 2016–2021. I denne perioden var det ifølge institusjonenes emnebeskrivelser lite endring i hvilke vurderingsformer som ble benyttet, men med en nedgang i bruken av skriftlig eksamen. For å få en bedre oversikt over utviklingen i norsk høyere utdanning de seneste årene, hentet utvalget inn data fra Felles studentsystem (FS) om omfanget av ulike eksamensformer fra 2016 til 2025.[^47] Datasettet omfatter alle studieemner ved 29 institusjoner, som sammen står for om lag 90 prosent av den totale studentmassen i norsk høyere utdanning.[^48] Figur 7.1 viser den årlige utviklingen i bruk av ulike eksamensformer som andel av alle eksamener.
+
+Eksamensform som andel av total
+
+Kategoriene «Skoleeksamen» og «Annen skoleeksamen» viser i hovedsak til henholdsvis skriftlige og muntlig eksamener som blir gjennomført på campus under en form for tilsyn, «Praksis» til godkjente praksisstudier, og «Hjemmeeksamen», «Mappe» og «Oppgave» i hovedsak til ikke-kontrollerte eksamensformer. Statistikken tar utgangspunkt i forhåndsdefinerte kategorier i FS som alle institusjonene rapporterer på. FS gir i gitte tilfeller rom for tvetydighet i institusjonenes bruk av kategoriene, og datagrunnlaget lar seg derfor ikke fullt ut kvalitetssikre. Siden feilmarginen er lav og dataomfanget er stort er det likevel god grunn til å stole på tendensene som fremkommer.
+
+Kilde: Felles studentsystem
+
+De største endringene er i pandemiårene, hvor bruken av skoleeksamen sank betydelig og bruken av hjemmeeksamen steg betydelig. Det har ikke vært en tilsvarende endring siden ChatGPT ble lansert for allmennheten i november 2022: Hjemmeeksamen er i dag omtrent på nivå med 2019, mens skoleeksamen har ligget omtrent flatt i perioden 2023–2025. Bruken av annen skoleeksamen (stort sett muntlig eksamen) har hatt en utvikling med forsiktig nedgang frem til utgangen av pandemien, hvor utviklingen snudde til en forsiktig oppgang. Andelen emner hvor denne eksamensformen benyttes er nå omtrent på samme nivå som for ni år siden. Det er verdt å merke seg at det er en treghet i endringer i eksamensformer, ettersom det er fastsatte frister for dette, vanligvis årlig.
+
+Data om hvilke vurderingsformer som blir brukt ved institusjonene er registrert i Felles studentsystem, men ligger ikke enkelt tilgjengelig. Dersom en sammenstilling av disse dataene hadde vært gjort tilgjengelig, ville sentrale myndigheter og institusjonene selv lettere kunne følge med på den nasjonale utviklingen og ha et kunnskapsgrunnlag på dette feltet. Utvalget vil derfor anbefale at sentrale myndigheter i samråd med institusjonene sørger for bedre tilgang til statistikk om vurderingsformer.
+
+### Ressursbehov ved ulike vurderingsformer
+
+Utvalget kjenner ikke til at det finnes oversikter som sammenlikner ressursbehovet for ulike vurderingsformer på nasjonalt nivå. Universitets- og høyskolelovutvalget diskuterte kostnader knyttet til krav om to sensorer ved eksamen (NOU 2020: 3). Lovutvalget slår fast at det er utfordrende å kartlegge og vurdere kostnadene ved å innføre et krav om to sensorer ved eksamen, fordi slike kostnader i stor grad varierer avhengig av studieretning og eksamensomfang. Videre diskuterer lovutvalget kostnadsdrivere ved bruk av sensor, og identifiserer tre kostnadstyper: lønn til interne sensorer, honorar til eksterne sensorer og reise- og oppholdskostnader for eksterne sensorer.
+
+Universitets- og høyskolelovutvalgets diskusjon var avgrenset til kostnader til sensur. Siden vi har en bredere problemstilling, har utvalget henvendt seg til et utvalg UH-institusjoner med ulik størrelse, med en forespørsel om estimater på kostnader per kandidat for skoleeksamen, muntlig eksamen og hjemmeeksamen. Institusjonene hadde ikke nøyaktige estimater med alle kostnadselementer, men utvalget fikk gode vurderinger av hvilke kostnadsdrivere som inngår i disse vurderingsformene.
+
+En del av kostnadsdriverne er felles på tvers av de tre vurderingsformene. Dette inkluderer vitenskapelig ansattes tidsbruk til eksamensforberedelser med studenter, å utarbeide oppgaver, finne ekstern sensor, dialog med sensor, sensurering av eksamen og samsensur; honorar til ekstern sensor; administrativt personales tidsbruk til eksamensadministrasjon; veiledning med eksamensrelaterte akademiske eller tekniske spørsmål; og utgifter til digitalt eksamenssystem. Honorar til ekstern sensor er avhengig av sensors kompetansenivå og lønnsplassering. Kostnaden vil også variere med eksamensform, antall kandidater, eksamenens varighet, behov for sensormøter og eventuelle reise- og oppholdsutgifter.
+
+For skriftlig eksamen bruker man i tillegg ressurser på håndtering av karakterbegrunnelse og klager, IT-brukerstøtte og digitalt system for plagiatkontroll. For skriftlig eksamen med tilsyn kommer det i tillegg kostnader til tilsynspersonale, inkludert honorar og administrasjon. For eksamen med fysisk oppmøte (skoleeksamen og en andel muntlige eksamener) kommer det kostnader til klargjøring av lokaler, og eventuelt ekstra utgifter til eksamenslokaler. Arealkostnader inkluderer husleie, strøm, renhold og vedlikehold.
+
+Institusjonene rapporterer om at kostnadene til de ulike eksamensformene varierer betydelig med hensyn til fag og emnestørrelse for de enkelte eksamensformene. En del av kostnadene inngår i institusjonens ordinære drift og kan være vanskelige å tallfeste. To av de tre institusjonene som estimerte kostnader i sitt svar til utvalget, indikerte at kostnadene til skoleeksamen er høyere enn til hjemmeeksamen. Sett i lys av alle usikkerhetsmomentene har ikke utvalget et tilstrekkelig grunnlag for å estimere kostnadene ved de ulike eksamensformene.
+
+Det er likevel verdt å bemerke at lokaler og infrastruktur kan bli en stor kostnadsdriver dersom bruken av skoleeksamen øker mye. Det vil ha mye å si om institusjonen har tilstrekkelig dekning i eksisterende lokaler, om man må leie ekstra arealer, eller om man må anskaffe nye lokaler. Økt bruk av enkelte former for sammensatte vurderinger (se kapittel 7.6) kan også gi økte kostnader.
+
+### Formative og summative aspekter i vurdering
+
+Det formative aspektet av vurdering dreier seg om hvor stor læringsgevinst det gir å gjennomføre vurderingsaktiviteten, og det summative om hvorvidt og hvordan vurderingsaktiviteten tjener til å få frem og måle hva studenten kan og vet. Begge aspektene opptrer gjerne i en og samme vurderingsaktivitet, selv om hovedformålet med vurderingen kan være det ene fremfor det andre.
+
+De formative og summative aspektene ved vurdering speiler to grunnleggende funksjoner for universiteter og høyskoler: Institusjonene skal både gi og sertifisere læringsutbytte. Beslutninger om vurderingsform og oppgaveinnhold hviler på hensynet til disse to funksjonene.
+
+Et annet hensyn er at vurderingen skal henge sammen med undervisningen og være egnet til å prøve studietilbudets fastsatte læringsutbytte. I norsk høyere utdanning er dette prinsippet delvis forskriftsfestet som et krav til akkreditering av studietilbud, jf. neste underkapittel om meningsskapende samsvar.
+
+De formative og summative aspektene ved vurderingsaktiviteter speiles også i de ulike typene vurderinger studentene kan få på sine arbeider. Det å vurdere besvarelser som godkjent, ikke godkjent eller med bokstavkarakterer, har et summativt formål. Summative formål kan være å sikre en terskelverdi for videre studier, sertifisere bestemte kompetanser for yrkespraksis, eller å rangere kandidater. Tilsvarende skal karakterbegrunnelser primært sette studenten i stand til å forstå hvorfor det ble fattet et bestemt karaktervedtak. De tilbakemeldingene studentene får underveis i arbeid med en oppgave har, til forskjell fra karakterer og karakterbegrunnelser, typisk sett rent formativt formål. Tilbakemeldinger og formativ vurdering er nærmere diskutert i kapittel 7.7.
+
+### Meningsskapende samsvar
+
+Undervisnings- og vurderingsformene i et studietilbud skal bidra til at studentene oppnår de fastsatte læringsutbyttene, og til å sertifisere at de har oppnådd dem. Den kunnskapen og de ferdighetene studentene skal utvikle (kapittel 5), og hvordan de skal utvikle dem gjennom utdanningen (kapittel 6), legger dermed vesentlige premisser for vurdering. Prinsippet om at det skal være sammenheng mellom det studentene lærer, undervisnings- og læringsaktivitetene og måten man vurderer hva studentene har lært, kalles meningsskapende samsvar (*constructive alignment*) (Biggs & Tang, 2011).
+
+Prinsippet om meningsskapende samsvar er delvis forskriftsfestet som akkrediteringsvilkår, altså som krav alle studietilbud må innfri. Universitets- og høyskoleforskriften (§ 1-11) fastsetter:
+
+d\. Studietilbudets innhold, oppbygging og progresjon skal være tilpasset læringsutbyttet.
+
+e\. Undervisnings-, lærings- og vurderingsformer skal være tilpasset læringsutbyttet og utformet slik at de fremmer at studentene tar en aktiv rolle i å forme læringsprosessen.
+
+Disse formuleringene fremhever betydningen av et helhetlig læringsdesign, slik et studietilbud er organisert fra institusjonens og faglærers side. Samtidig anerkjenner ordlyden i forskriften at læringsutbyttet er avhengig av de konkrete læringsaktivitetene studentene utfører og de læringsprosessene de går gjennom, der deres egen innsats og orientering er avgjørende.
+
+#### Utvalgets vurdering
+
+KI både utfordrer og forsterker behovet for helhetlig pedagogisk tenkning og sammenheng. Variasjonen i studentenes deltakelse og orientering kan forsterke utfordringer med å planlegge god sammenheng mellom læringsaktiviteter og læringsutbytte. Sammenhengen mellom læringsaktiviteter og vurderingsformer utfordres, spesielt når det gjelder vurdering for sertifisering av læringsutbytte. I mange tilfeller vil den type oppgaver og aktiviteter som fremmer læring ikke være egnet for pålitelig sertifisering. For eksempel kan læringsfremmende oppgaver ta form av utforskende prosesser og analyser uten faste svar, mens sertifisering kan kreve kontrollerte omgivelser og testing av utvalgte kompetanser. Mens prinsippet om meningsskapende samsvar fremdeles gir viktige føringer, blir det sentralt å vurdere hvilke relasjoner som er viktig å avstemme når ikke alle hensyn kan ivaretas. Det blir viktigere å skille mellom de ulike formålene ved summativ vurdering når vurderingsform bestemmes, og hvilke relasjoner til andre elementer i studiedesignet som da er viktige å ivareta. For eksempel kan ulike vurderingsformer være egnet for, på den ene siden, å sikre et terskelnivå for å gå videre i et studieprogram, og på den andre siden, det å sertifisere kandidatenes kompetanse med henblikk på at de skal inn i en bestemt yrkesrolle.
+
+## Eksamensregelverk og KI-retningslinjer
+
+Eksamensregelverket er hierarkisk organisert.[^49] Universitets- og høyskoleloven og universitets- og høyskoleforskriften gir helt grunnleggende føringer for gjennomføring av eksamen og fuskesaksbehandling, og dermed rammer for eksamensregelverket ved den enkelte institusjon. Hovedreglene på institusjonsnivå fastsettes i forskrift vedtatt av styret og er bindende for hele institusjonen. Denne gir de rettslige rammene for vurdering og sensur. På program- og fakultetsnivå suppleres forskriften av interne retningslinjer som tilpasser vurderingsordninger til faglig egenart. Den konkrete gjennomføringen skjer på emnenivå gjennom emnebeskrivelser som angir eventuelle arbeidskrav og vekting av delvurderinger, eksamensform og hvilke hjelpemidler som er tillatte.
+
+Generative KI-systemer har utfordret fastsatte eksamensregler og retningslinjer om bruk av KI-systemer. Språkmodellbaserte KI-systemer kan produsere utkast til tekst og de kan gi forslag til litteratur, metoder, standpunkter og argumenter. De kan også gi tilbakemeldinger på og endringsforslag til egenproduserte tekstutkast – både på språk, struktur og innhold. Interaksjonen mellom studenten og samtaleroboten kan i varierende grad ha kjennetegnene til en dialog eller til en bestilling (Handa, Bent, et al., 2025).
+
+Mangfoldet i bruksmetoder har skapt større gråsoner for flere eksamensregler, herunder grunnleggende regler som at kandidaten ikke skal presentere andres arbeid som sitt eget. Dersom et utkast til besvarelse går gjennom mange nok endringer foreslått eller foretatt av et KI-system, vil besvarelsen på et eller annet punkt opphøre å være studentens eget arbeid. Hvor den grensen går er imidlertid vanskelig å avgjøre. Muligens er visse KI-baserte forslag til standpunkter, begrunnelser, motforestillinger, argumentstruktur og språkforedling akseptable å ta inn hver for seg, men i sum kan de gjøre at besvarelsen ikke lenger kan regnes som studentens eget arbeid.
+
+Et vedtak om fusk medfører annullering av eksamen og kan medføre utestengelse. Om ikke reglene og retningslinjene er klare nok, vil studenter kunne vegre seg for å benytte KI-systemer selv i tilfeller der bruken er tillatt og formålstjenlig, av frykt for å bli mistenkt for fusk. Tidligere har mange tatt til orde for nasjonale retningslinjer om KI-fusk og grader av tillatt KI-bruk på eksamener, med det formål å sikre likebehandling av vitnemål på tvers av institusjonene. Andre har vektlagt behovet for både lokale og faglige tilpasninger.
+
+### Utvalgets vurdering
+
+Utvalget merker seg at universitetene og høyskolene arbeider aktivt med å utvikle sine eksamensregler og retningslinjer for bruk av KI.
+
+Utvalget mener at institusjonene bør ha eierskap til sine eksamensregelverk og retningslinjer for bruk av KI-systemer, fremfor at dette gis nasjonalt. Institusjonene kan bedre ivareta faglig diversitet og organisatorisk utvikling, og tilpasse seg endrede behov raskere og bedre. Her legger utvalget vekt på at eksamensreglementer blir utformet i lys av institusjonenes ulike studieporteføljer. Institusjonene kan innenfor samme fagområde ha særegne program- og vurderingsstrukturer, og denne faglige diversiteten bør beholdes.
+
+Samtidig støtter utvalget arbeidet med samordning som pågår i sektoren, styrket av erfaringsdeling og tilbakemeldinger fra studentene. Universitets- og høgskolerådet (UHR) vedtok i 2025 veiledende retningslinjer for fusk, med formål om å samordne institusjonenes praksis (jf. Dahle et al., 2025). Flere institusjoner har siden da fulgt opp disse anbefalingene. Utvalget oppfordrer, der det ansees som hensiktsmessig, til videre nasjonal samordning gjennom UHR.
+
+Et velutformet eksamensregelverk gir studentene og institusjonene forutsigbarhet. Det bidrar til å ivareta studentenes rettssikkerhet, kvaliteten i studietilbudene og tilliten til institusjonen. Utvalget legger til grunn følgende forståelse av hva som kjennetegner et velutformet regelverk:
+
+- *Formålstjenlighet*: Eksamensreglene og retningslinjene bidrar til å gjøre det mulig å vurdere studentenes oppnådde læringsutbytte på en upartisk og faglig betryggende måte.
+
+- *Klarhet*: Reglene og retningslinjene er forståelige både for studentene som er bedt om å følge dem og for dem som skal vurdere om reglene har vært fulgt.
+
+- *Etterprøvbarhet*: Det er mulig å finne ut om reglene har vært fulgt.
+
+- *Likhet*: Reglene for den enkelte vurdering varierer ikke mer fra andre vurderinger enn hva som kan begrunnes med utgangspunkt i vurderingsform og hva slags kunnskap og ferdigheter studentene prøves i. Reglene varierer heller ikke uforholdsmessig mye mellom universiteter og høyskoler.
+
+Utvalget vurderer formålstjenlighet som det viktigste og mest grunnleggende kriteriet, etterfulgt av klarhet og etterprøvbarhet. Likhet på tvers av emner, fag og institusjoner er en fordel, spesielt for studentene som kan bytte studier og som etter endt studium blir sammenliknet på tvers av institusjoner. Samtidig er det gode grunner for å ikke holde alt likt: For at regelverk skal fungere godt over tid er det hensiktsmessig med et lokalt handlingsrom for utprøving og forbedring.
+
+De listede kriteriene må sees i sammenheng med vurderingsform. Mange regler, for eksempel om hvilke hjelpemidler som er tillatt, er etterprøvbare kun når eksamen blir gjennomført under tilsyn.
+
+## Vurdering av oppnådd læringsutbytte
+
+### Utfordringen med å vurdere oppnådd læringsutbytte
+
+Eksamen skal være en prøving av hvor stort læringsutbytte studentene har oppnådd, i samsvar med læringsutbyttebeskrivelsene for det enkelte emne og den enkelte utdanning. Etter universitets- og høyskoleloven § 11-6 skal universiteter og høyskoler sørge for en faglig betryggende vurdering av studentenes kunnskaper og ferdigheter.
+
+Utviklingen av store språkmodeller og annen generativ KI har skapt en grunnleggende utfordring for det å vurdere hva eksamenskandidater kan og vet. Samtaleroboter og agentiske systemer kan, på grunnlag av enkel instruksjon, produsere svært gode svar på mange oppgaver det er hensiktsmessig å gi studenter i høyere utdanning. Dette rammer oppgaver som ellers hadde gitt et godt grunnlag for å prøve de læringsutbyttene studentene skal utvikle.
+
+Utfordringen med å vurdere oppnådd læringsutbytte foreligger også om man ser bort fra at KI-systemer kan generere fullstendige oppgavebesvarelser. Språkmodellbaserte KI-systemer kan bidra med alt fra grunnleggende ideer til hvordan en oppgave kan besvares, til å gi struktur på argumenter, produksjon av avsnitt, bearbeidelse av egenprodusert språk og innhold, og så videre. Får man ikke identifisert kandidatens bidrag til besvarelsen, får man ikke vurdert hva kandidaten kan og vet.
+
+Generativ KI har gjort det vanskelig, om ikke umulig, å identifisere hva som har vært skapt av et menneske og hva som har vært skapt av en maskin. Markører for KI-generert tekst – f.eks. skrivestil eller hallusinerte referanser – er feilbarlige, utilstrekkelige og blir mindre pålitelige i takt med teknologiutviklingen. Menneskers evne til å identifisere KI-generert innhold er ofte ikke bedre enn tilfeldig, spesielt når det kommer til vitenskapelige tekster (Chein et al., 2024; Scarfe et al., 2024; Schneider et al., 2025). KI-systemer kan brukes til å bearbeide menneskeskapt innhold, noe som gjør det mer komplisert å trekke et enkelt skille mellom KI-genererte og menneskeskapte deler av en besvarelse. Motsatt vei kan KI-genererte forslag omarbeides både maskinelt og manuelt (Schneider et al., 2025).
+
+Så sant generative KI-systemer har vært tilgjengelig for bruk under gjennomføring av eksamen, uten tilsyn, er det i sum svært vanskelig for sensor å identifisere hva som er bidragene til kandidaten og hva som er bidragene til et KI-system. Generative KI-systemer har slik sett forsterket den logiske avstand mellom kvaliteten på en besvarelse og hva besvarelsen sier om kandidatens kunnskap og ferdigheter.
+
+Utfordringen med å vurdere oppnådd læringsutbytte må ikke forstås for snevert, det vil si utelukkende som en utfordring med fusk. Hvorvidt en student har fusket avhenger av hvilke regler som gjelder for den enkelte eksamen. Så sant bruk av KI-systemer ikke er forbudt eller svært strengt regulert, kan en students bruk av KI-systemer utgjøre en vesentlig feilkilde til sensorens vurdering av oppnådd læringsutbytte, samtidig som bruken er i samsvar med eksamensreglene.
+
+Utfordringen med fusk på hjemmeeksamener er ikke ny av art. Mye av det man kan få til med KI-systemer, om man er innstilt på å oppnå uærlige resultater, var allerede mulig med tilgang på andres hjelp eller arbeider. Endringen er likevel vesentlig: Det er enklere, raskere og rimelig å bruke KI-systemer, og risikoen for sosiale og formelle sanksjoner er lavere. Studenten behøver heller ikke å ha en intensjon om å fuske. I en kompleks interaksjon med en samtalerobot kan det være krevende å vurdere nøyaktig hvilke eller hvor mange bidrag fra KI-systemet som er innenfor gjeldende regler (se kap. 7.3). Også om vi ser bort fra fuskeproblematikken har hjelp fra andre vært en feilkilde i vurdering av oppnådd læringsutbytte ved hjemmeeksamener, og KI-systemer har forsterket denne feilkilden.
+
+Utfordringen KI har skapt for vurdering av oppnådd læringsutbytte har flere konsekvenser:
+
+- Studentene kan få ufortjent gode eller ufortjent dårlige resultater. I tillegg til at den enkelte kan bli uriktig vurdert, kan dette gi opphav til urettferdige sammenlikninger av studentenes resultater.
+
+- Mangfoldet i bruksmetoder gjør at studenter kan bli mistenkt for fusk også når de har brukt KI-systemer i samsvar med institusjonenes føringer. Dette utfordrer studentenes rettssikkerhet.
+
+- Ved mistanke om fusk må fuskesaksbehandlere, nemnder og domstoler vurdere om eksamensreglene har blitt brutt, opp mot et beviskrav om sannsynlighetsovervekt eller klar sannsynlighetsovervekt. Studentenes rettsikkerhet står sentralt. Motsatt vei er det problematisk om det er umulig å bekrefte brudd på grunnleggende eksamensregler.
+
+- Til slutt har utfordringen konsekvenser for alle dem som skal dra nytte av informasjonen et vitnemål gir. I ytterste konsekvens rammer dette tilliten til universiteter og høyskoler og verdien av høyere utdanning.
+
+### Utvalgets vurdering
+
+Kandidaters tilgang på generative KI-systemer under gjennomføring av eksamen kan gjøre det svært vanskelig å vurdere oppnådd læringsutbytte i henhold til universitets- og høyskoleloven § 11-6, og å vurdere etterlevelse av eksamensregelverk. Sensor må kunne vite hva kandidatens bidrag til besvarelsen er, for å vurdere hva kandidaten kan og vet.
+
+Utfordringen kan i ytterste konsekvens undergrave tilliten til vitnemål fra høyere utdanningsinstitusjoner. Samtidig påvirker det læringsprosessen negativt: Når man kan oppnå gode resultater uten å ha tilegnet seg de ferdighetene og den kunnskapen man skal prøves i, svekker det læringsinsentivet.
+
+Utvalget vurderer at det ikke er universitets- og høyskolelovens bestemmelse om faglig betryggende vurdering som er kilden til problemet, og heller ikke de lokale eksamensreglene. Universitets- og høyskoleloven stiller et grunnleggende og rimelig krav til gjennomføring av eksamen. Utvalget mener at tydeligere og bedre eksamensregler heller ikke alene kunne løse problemet: Det er ikke mulig å lage eksamensregler som det både er mulig å vurdere etterlevelse av ved ikke-kontrollerte eksamener, og som samtidig tjener funksjonen med å sikre en upartisk og faglig betryggende vurdering (se kap. 7.3).
+
+Utvalget mener at institusjonenes ansvar for å sørge for en faglig betryggende vurdering, fordrer at alle eksamener må gjennomgås for å sikre at oppnådd læringsutbytte kan bli vurdert. For noen eksamener kan det være mest hensiktsmessig, både for læringsprosessen og i lys av læringsutbytte, at KI-systemer ikke er tillatt som hjelpemiddel. For andre kan utstrakt bruk av KI-systemer være egnet, så sant man har en metode for å vurdere læringsutbyttet på en pålitelig måte. Dette må vurderes opp mot studieemnets og -programmets læringsutbytte og fagets arbeidsmetoder.
+
+Utvalget har vurdert hvilke tiltak som kan bidra til å løse utfordringen. Tiltakene blir beskrevet og vurdert i det følgende.
+
+#### Kontrollerte eksamensformer
+
+Utfordringen oppstår når universitetene og høyskolene ikke fører tilsyn med gjennomføring av eksamen. Under kontrollerte omstendigheter – som ved skriftlig skoleeksamen, muntlig eksamen og praktiske prøver – kan man sørge for at det ikke er tilgang på ikke-tillatte hjelpemidler, eller at det er tilsyn med hvordan tillatte hjelpemidler blir brukt. Dette gjør det mulig å sikre en faglig betryggende vurdering av studentenes læringsutbytte. Studentene kan også få sterkere læringsinsentiver når de vet at de ikke kan lene seg på bidragene til et KI-system.
+
+Tiden man kan bruke i et kontrollert eksamensmiljø begrenser hva slags kunnskap og hvilke ferdigheter man kan prøve. En skoleeksamen er f.eks. ikke like egnet til å prøve studentenes ferdigheter til å utvikle gjennomarbeidede, velstrukturerte argumenter eller å planlegge og gjennomføre egne undersøkelser etter akademiske standarder.
+
+Det å sikre en faglig betryggende vurdering av studentenes læringsutbytte er vesentlig for høyere utdanning og tilliten til studentenes kompetanse. Å sette av ressurser til dette bør derfor være en høy prioritet både for institusjonene og sentrale myndigheter. Dersom institusjonenes arealmessige kapasitet til å holde fysiske eksamener på campus blir uttømt, vil det blant annet være behov for å investere i infrastruktur.
+
+Utvalget vil understreke at det er fullt mulig og i flere tilfeller ønskelig å stille KI-systemer til disposisjon som hjelpemidler under kontrollerte eksamener, f.eks. om man ønsker å prøve ferdigheter i bruk av store språkmodeller til å løse fagrelevante problemer. Gjennom brukslogg kan det være mulig for sensor å se hvordan verktøyet har vært brukt, og man kan gi studentene i oppgave å begrunne eller reflektere over egen bruk.
+
+Utvalget mener at praksisen med utstrakt bruk av hjemmeeksamen ikke lenger er forsvarlig (jf. Figur 7.1). Ved å gjennomføre eksamen under tilsyn kan universiteter og høyskoler sørge for en faglig betryggende vurdering av hva kandidater kan og vet. Mange institusjoner jobber med å øke bruken av kontrollerte eksamensformer. Utvalget mener at universiteter og høyskoler bør gjøre større bruk av kontrollerte eksamensformer, og at ikke-kontrollerte eksamensformer suppleres med en kontrollert del (se 7.4.2.2).
+
+Programmeringseksamen uten programmering, ved Høgskolen i Østfold
+
+Informatikkemnene «Algoritmer og datastrukturer» og «Innføring i operativsystemer» er blant de mest programmeringstunge i IT-studiet ved Høgskolen i Østfold. De gir studentene både praktiske ferdigheter og teoretisk forståelse på et høyt abstraksjonsnivå, noe som krever omfattende programmeringsarbeid.
+
+De siste årene er undervisningen lagt om for å fremme mer selvstendig læring. Tradisjonelle forelesninger er erstattet av digitale videomoduler kombinert med frivillige og obligatoriske programmeringsoppgaver. Oppgavene vurderes uten karakter, og det gjennomføres ingen systematisk kontroll for juks eller bruk av KI-systemer – ansvaret for læring ligger hos studentene selv.
+
+Avsluttende eksamen består av rene flervalgsoppgaver. Oppgavene krever ikke skriving av hverken programkode eller tekst, men tester studentenes evne til å forstå, analysere og vurdere ferdigskrevet kode. Formatet gjør det mulig å dekke et bredt spekter av pensum og gir rask og effektiv sensur. Foreløpige resultater viser ingen vesentlige endringer i karakterfordelingen etter omleggingen, og studentenes tilbakemeldinger har vært stabile.
+
+Kilde: Informasjon til utvalget fra Østfold AI Hub v/førsteamanuensis Harald Holone
+
+\[Boks slutt\]
+
+#### Supplering av ikke-kontrollerte eksamener med en kontrollert eksamensdel
+
+Ved å supplere ikke-kontrollerte eksamener med en kontrollert eksamensdel kan studenter prøves i alle typer læringsutbytte, også de som utvikles og vises gjennom arbeid som pågår over lang tid, uten at det går på bekostning av vurderingens integritet. Det vil også kunne insentivere til mer læringsfremmende bruk av generative KI-systemer i arbeid med oppgaver dersom kandidatene vet at de i tillegg vil bli testet under kontrollerte omstendigheter. Vurderingene som gis her gjelder også større, selvstendige arbeider, som masteroppgaver. Kapittel 7.5 gir en utfyllende vurdering av større, selvstendige arbeider.
+
+Å kombinere innlevert skriftlig arbeid med muntlig eksamen gjøres allerede i stor grad, f.eks. etter innlevert masteroppgave, men det kan brukes på flere studieemner. Den kontrollerte eksamenen som supplerer en ikke-kontrollert eksamen kan ha et hvilket som helst format: Den behøver ikke å være muntlig, med ressursene det krever av institusjonen. F.eks. kan sensor, eventuelt med hjelp av KI-systemer, lage individuelle eksamensoppgaver ved lesning av innleverte besvarelser – lik spørsmålene man kan stille ved muntlig forsvar – som skal besvares på en skriftlig skoleeksamen (se kapittel 7.10).
+
+For at et slikt grep skal tjene hensikten med å gi en samlet sett faglig betryggende vurdering, er det nødvendig at den kontrollerte eksamensdelen gis betydelig vekt og ikke bare justerer en karakter som er satt på forhånd. Den kontrollerte eksamensdelen må informere sensorenes vurdering av hvor stort læringsutbytte studenten viser gjennom den ikke-kontrollerte eksamensdelen, og slik legge grunnlaget for en samlet vurdering.
+
+Det å innføre en kontrollert vurdering som supplement kan kreve ytterligere ressurser til gjennomføring av eksamen og sensur. Høyere kostnad er en ulempe i seg selv. Samtidig er det svært uheldig om kostnad i for stor grad påvirker beslutninger om eksamensform. Eksamensformer som fremmer og prøver ønskede læringsutbytter på faglig betryggende vis er en helt vesentlig del av studiekvaliteten. Utvalget kan ikke se at det er gode veier utenom å akseptere at generative KI-systemer har gjort vurdering mer ressurskrevende. Hvor stort ressursbehovet blir, vil variere. Ressurser kan for eksempel frigjøres ved å redusere omfanget av det skriftlige arbeidet eller organisere den muntlige prøvingen mer effektivt. For en god del emner vil det likevel kreves ekstra ressurser.
+
+Utvalgets anbefaling om å supplere ikke-kontrollerte eksamener med en kontrollert eksamensdel vil i praksis føre til flere kombinasjonseksamener. Dette blir diskutert i kapittel 7.6.
+
+Utprøving av nye eksamensformer ved Handelshøyskolen BI
+
+Må vi velge mellom integritet og autentisitet i vurdering? En retur til tradisjonelle, kontrollerte eksamensformer kan gå ut over muligheten til å prøve studentene i kompetanser som vil være sentrale i deres fremtidige arbeidsliv, slik som å utvikle fagspesifikk KI-kompetanse.
+
+Med dette som utgangspunkt prøver læringssenteret ved Handelshøyskolen BI ut et redesign av eksamen gjennom tre komplementære grep:
+
+- En «akademisk teoriprøve» i form av en midtveiseksamen i kontrollert miljø uten hjelpemidler, for å teste grunnleggende faglig forståelse.
+
+- 10 minutters muntlig forsvar av hjemmeeksamen på video for et utvalg studenter, der sjansen for å bli plukket ut skal bidra til etterlevelse i hele studentkullet.<sup>1</sup>
+
+- Prosessbasert vurdering som flytter fokus fra sluttresultatet til selve læringsprosessen, gjennom studentenes samhandling med et spesialisert KI-system, integrert i læringsplattformen.
+
+Ved å dele opp vurderingen i tre funksjoner – kunnskapstesting, verifisering av forfatterskap og vurdering av ferdigheter – er målet å opprettholde integriteten i vurderingen samtidig som studentene rustes for et arbeidsliv preget av KI.
+
+<sup>1</sup> Utvalget vil ikke anbefale hjemmeeksamen på video, som antageligvis ikke er en tilstrekkelig kontrollert eksamen på grunn av tilgang til KI-systemer. I tillegg har vurderingsformen mange likhetstrekk med tilsyn på digitale hjemmeeksamener, og utfordringer knyttet til personvern og manglende juridisk grunnlag, se kap. 7.4.2.4).
+
+Kilde: Landfald (2026)
+
+\[Boks slutt\]
+
+#### KI-robuste eksamensoppgaver
+
+Alle kjente KI-systemer har begrenset kapabilitet. Det kan være mulig å gi oppgaver som det ikke er mulig å svare på, selv med tilgang på avanserte KI-systemer, uten samtidig å demonstrere oppnådd læringsutbytte. Det kan f.eks. dreie seg om kasusoppgaver som krever en forståelse av kontekst som tilgjengelige KI-systemer mangler.
+
+En slik strategi har vært velbegrunnet i den første fasen med generativ KI, men utvalget ser store nok ulemper med strategien til at det ikke vil anbefale å forfølge den fremover.
+
+Det er svært uforutsigbart hva både dagens og fremtidige KI-systemer ikke vil kunne få til (jf. beskrivelsen av den ujevne utviklingsfronten av KI i kapittel 3). Som en konsekvens av at KI-modellene blir mer kapable over tid, kan man ikke stole på at en KI-robust oppgave gitt høsten 2026 vil holde seg KI-robust. Siden modellene blir mer kapable, blir det også stadig færre KI-robuste oppgaver å gi, med den konsekvens at det blir færre typer læringsutbytte man kan prøve med en slik tilnærming. Det er etter utvalgets mening ikke hensiktsmessig å begrense hva man skal lære i høyere utdanning til den kunnskapen og de ferdighetene som skal til for å løse oppgaver som KI-systemer ikke er i stand til å løse (se kapittel 5 og 6). Eksamen bør heller ikke begrenses til en øvelse i å gi gode instruksjoner til KI-modeller (herunder å gi modellen tilstrekkelig kontekst).
+
+#### Tilsyn på digitale hjemmeeksamener
+
+Med tekniske hjelpemidler kan det være mulig å gjøre hjemmeeksamen til en kontrollert eksamensform, og dermed en løsning på utfordringen. Såkalt *e-proctoring* har blant annet blitt utbredt i USA, spesielt siden covid-19-pandemien. Dette innebærer skjermovervåkning og videoovervåkning av studenten med kamera og mikrofon. Tilsynet kan gjennomføres av mennesker, i sanntid eller i etterkant basert på videoopptak, eventuelt kun ved mistanke om fusk. I noen programvarer er det i tillegg integrerte KI-systemer for å analysere videomaterialet og flagge avvik. Som forklart nedenfor, vurderer utvalget at tilsyn med digital hjemmeeksamen ikke er tilstrekkelig hjemlet i dagens regelverk. Utvalget har vurdert om det bør hjemles.
+
+Det taler *for* en hjemmel at ordningen ikke krever fysisk oppmøte og fysisk infrastruktur, slik skoleeksamen gjør. Dette har spesielt stor betydning for nett- og samlingsbaserte studier. Der vil det være mer ressurskrevende å bytte ut hjemmeeksamen med skoleeksamen, både for studenten og institusjonen, noe som gjør det til et relativt sett mer attraktivt alternativ for begge parter.
+
+Det taler *mot* en hjemmel at det er belastende for mange studenter å bli overvåket i eget hjem, noe som kan påvirke eksamensprestasjoner, og at det innebærer innsamling av mye, potensielt sensitiv data som må håndteres sikkert. Det er også problematisk at løsningen kan være både teknisk og praktisk feilbarlig: Løsningen er sårbar for programvare som overstyrer kamera eller skjermovervåkning, og det vil være områder som ikke fanges opp på kamera.
+
+Studenter som ikke har tilgang til et eget, skjermet rom – eller som bor sammen med venner eller familie – kan oppleve tilsynet som særlig inngripende. For dem kan overvåkning og innsyn i hjemmet ikke bare krenke eget personvern, men også tredjepersoners privatliv. Andre studenter kan enklere akseptere tilsyn i en avveining mellom personvern og fleksibilitet, der muligheten til å gjennomføre eksamen hjemmefra oppveier for ulempene (Nicola-Richmond et al., 2024).
+
+I EØS er tilsyn på digitale hjemmeeksamener sterkt regulert av personvernregelverket, siden det er en inngripende form for kontroll.[^50] Universiteter og høyskoler kan etter uhl. § 2-8 behandle studenters personopplysninger når det er nødvendig for å utføre deres oppgaver etter loven. Siden institusjonen kan unngå et slikt inngrep gjennom andre vurderingsformer, er ikke tiltaket etter utvalgets vurdering strengt nødvendig for å utføre institusjonens oppgaver.
+
+I tillegg er det et generelt krav om at jo mer inngripende tiltaket er, desto tydeligere må lovhjemmelen være. Siden tilsyn av studenter er et inngripende tiltak i studenters privatliv, er den overordnede hjemmelen i uhl. § 2-8 for lite tydelig og spesifikk til å hjemle et slikt tiltak. Etter utvalgets vurdering kreves det derfor en ny lovhjemmel som oppfyller kravene etter personvernforordningen (GDPR) art. 6.
+
+Datatilsynet fattet 28. oktober 2026 (en uke før trykk av denne NOU-en) vedtak om å avslutte en sak om tilsyn på digitale hjemmeeksamener. Datatilsynet konkluderte med at løsningen var i tråd med personopplysningsloven og -forordningen, uten nærmere begrunnelse. Saken viser at det *kan* være mulig å hjemle slikt tilsyn i uhl. § 2-8. Utvalget har ikke gjort nye vurderinger i lys av dette vedtaket.
+
+Et slik inngrep i studentenes personvern kan heller ikke hjemles ved å innhente samtykke fra studentene (Giannopoulou et al., 2023). For at samtykket skal være gyldig, må det være gitt frivillig. Dette er vanskelig å oppnå all den tid studenten og institusjonen står i et ujevnt maktforhold, og studenten kan ha begrunnet frykt for negative konsekvenser dersom hen ikke samtykker. Dersom et behandlingsgrunnlag for tilsyn av digitale hjemmeeksamener var på plass, er det fortsatt et veldig begrenset handlingsrom etter andre regler i GDPR (se vedlegg 2).
+
+Utvalget vurderer at tilsyn på digitale hjemmeeksamener er en form for overvåkning som er svært inngripende i studentenes privatliv, og byr på omfattende etiske og juridiske problemer. Tiltaket utfordrer sentrale prinsipper om personvern og forholdsmessighet.
+
+Utvalget fraråder derfor tilsyn på digitale hjemmeeksamener og anbefaler ikke at det utredes en særskilt lovhjemmel for et slikt tiltak. Utvalget anbefaler i tillegg at sentrale myndigheter og institusjonene samarbeider om å møte behovet for eksamenslokaler for fleksible studietilbud.
+
+#### KI-deteksjon
+
+Som et svar på utfordringen med å skille menneskeskapt fra maskingenerert innhold, er det blitt utviklet verktøy med mål om å gjenkjenne tekst skapt av KI-systemer. Slike KI-detektorer bruker maskinlæringsteknikker til å finne mønstre som skiller KI-generert innhold fra menneskeskapt innhold.[^51] De er dermed ment å fylle en lignende funksjon som ordinære plagiatkontrollverktøy, og kunne vært brukt av sensorer for å identifisere mulige fuskesaker.
+
+Det er store kvalitetsforskjeller mellom KI-deteksjonsverktøy. Det verktøyet som i dag vurderes som mest pålitelig, Pangram, har vist seg å gi gode resultater for kategoriene KI-generert tekst, hybrid KI- og menneskeskapt tekst, «menneskeliggjort» KI-tekst, og rent menneskeskrevet tekst (Van Vlasselaer et al., 2026). Samtidig er et av de sentrale målene til KI-utviklere å lage modeller som kan brukes til å generere tekst og tale som *ikke* kan skilles fra naturlig språk, og også Pangrams resultater er mindre pålitelige når det lanseres nye språkmodeller. I et teknologikappløp hvor modellene blir stadig bedre, er KI-detektorer dømt til å løpe etter.
+
+Selv med gode deteksjonsverktøy – og få falske positiver – gjenstår grunnutfordringen. Det forblir vanskelig å skille en students og et KI-systems intellektuelle bidrag til et produkt. Det gjenstår også andre problemer: Legitim bruk av KI-systemer, f.eks. til bearbeidelse av språk innenfor gjeldende eksamensregelverk, kan gi utslag uten at det foreligger fusk. Samtidig kan menneskelig omskriving skjule bruken. Det gjør KI-deteksjonsverktøy dårlig egnet til et verktøy for vurdering av fusk.
+
+I tillegg peker utvalget på at KI-deteksjonsverktøy er forbundet med vesentlige tekniske, metodiske og juridiske utfordringer. Dette gjelder manglende transparens i verktøyenes virkemåte, samt rettssikkerhets- og personvernhensyn. Etter utvalgets vurdering innebærer disse forholdene samlet sett at KI-deteksjonsverktøy ikke er egnet til å ivareta behovet for kontroll ved vurdering av studentenes oppnådde læringsutbytte. For en vurdering av de juridiske rammene som gjelder ved KI-deteksjon, se vedlegg 3.

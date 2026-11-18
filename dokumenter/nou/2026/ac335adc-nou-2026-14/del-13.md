@@ -1,972 +1,304 @@
-# NOU 2026: 14, del 13 av 18 (side 143–153)
+# NOU 2026: 14, del 13 av 20
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/ac335adc-nou-2026-14.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-14/id3191187/
 - Original-PDF: https://www.regjeringen.no/contentassets/31691eb451e941e2b75fdc346978628f/no/pdfs/nou202620260014000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 20 figurer, 57 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-18, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 143]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-8.3.2
-
-Styring av digitalisering og forvaltning
-av fellestjenester og infrastruktur
-
-I årene 2017–2025 har Kunnskapsdepartementet i
-hovedsak styrt digitaliseringsområdet gjennom
-overordnede sektorstrategier med tilhørende
-handlingsplaner, og to direktorater: HK-dir og Sikt.
-Førstnevnte hadde ansvar for å følge opp strategien i samarbeid med sektoren, og Sikt er leverandør av digital infrastruktur og fellestjenester. Den
-siste sektorstrategien er ikke videreført i 2026.
-Det er etablert en relativt omfattende samstyringsmodell for samarbeid mellom institusjonene
-og HK-dir/Sikt (HK-dir, u.å.). Samstyringsmodellen, som for tiden er under revisjon, skal sikre innflytelse og brukerinvolvering fra institusjonene i
-Sikts arbeid med anskaffelser, utvikling og drift av
-digitale fellestjenester. HK-dirs kartlegging av
-arbeid med digital omstilling av UH-sektoren viser
-at digitalisering i økende grad er integrert i den
-ordinære virksomheten (HK-dir, 2026d, s. 9). Digitaliseringen er altså ikke lenger et anliggende kun
-for IT-avdelingene; flere deler av organisasjonen
-tar nå eierskap til temaet, og det er mer innarbeidet i virksomhetsstyringen.
-Ifølge HK-dirs kartlegging er KI en sentral
-drivkraft i institusjonenes digitale omstilling. Aktivitetsnivået på KI-området må beskrives som
-høyt, og er særlig rettet mot å styrke grunnleggende KI-kompetanse og sikre etisk og juridisk
-forsvarlig bruk.
-
-8.4
-
-Utvalgets vurdering av høyere
-utdannings behov for KI-systemer
-og KI-relevante ressurser
-
-For at høyere utdanning skal lykkes i møte med
-KI har det mye å si hvordan KI-systemer tas i
-bruk, men det har også mye å si hvilke systemer
-som utvikles og tas i bruk. Systemene bør være
-egnet til å støtte læring, vurdering eller ha annen
-utdanningsfaglig nytte.
-Språkmodeller er relevante for alle fag i høyere
-utdanning. Språkmodellbaserte KI-systemer kan
-tjene som læringsassistenter som kan forklare faglig innhold og gi tilbakemeldinger og veiledning til
-studentene. For å fylle denne funksjonen godt, bør
-systemene fremme læring. En generisk samtalerobot gjør ikke nødvendigvis det, ettersom den kan
-servere ferdige produkter, endringsforslag og svar
-på spørsmål, heller enn å stimulere studentene til å
-tenke selv (jf. kap. 6). Tilsvarende kan agentiske
-systemer som Claude Code og Codex generere velfungerende programkode heller enn å stimulere til
-
-141
-
-Kapittel 8
-
-bedre forståelse av programmeringsspråk og ferdigheter til å løse oppgaver med dem.
-Vanlige samtaleroboter kan instrueres til å gi
-mer læringsfremmende responser. Det er likevel
-mye å forvente av studentene at hver og en skal ta
-ansvar for å tilpasse studieverktøyene de får tilgang til, slik at de gir nytten de er ment å gi. Dette
-tilsier et behov for språkmodellbaserte systemer
-som har en pedagogisk innretning. Slike systemer
-har også nytte for undervisere som støtte i
-utførelsen av egne oppgaver, som å gi tilbakemeldinger på studentenes arbeid.
-Hensynet til samfunns- og arbeidslivsrelevans
-og hensynet til faglig kvalitet tilsier at studenter
-bør få øvelse i å bruke de verktøyene som har
-størst nytte i utøvelse av relevante yrker og fag, og
-som ellers preger samfunnet. Her er det betydelig
-faglig variasjon. I helsefagene vil for eksempel studentene ha nytte av å utvikle ferdigheter i bruk av
-profesjonsspesifikke, kliniske verktøy. Videre har
-språkmodellbaserte systemer nytte i mange fag
-og yrker, i tillegg til å prege samfunnet i bredt.
-Det å utvikle fagspesifikke ferdigheter med slike
-systemer er et viktig læringsutbytte i sin egen rett
-(jf. kap. 5). Det gir behov for tilgang på kapable
-KI-systemer, uten at systemene nødvendigvis
-behøver å ha en pedagogisk innretning. Dette er
-altså et annet behov enn behovet for systemer
-som støtter læring.
-For å ivareta hensynet til utdanningsfaglig
-nytte ved anskaffelse eller utvikling av KI-systemer, er det naturlig å involvere de vitenskapelig
-ansatte. Slik medbestemmelse er også fremhevet i
-innspill til utvalget, herunder fra Forskerforbundet og Unio sentralt.
-KI skaper også behov for maskinell infrastruktur, især for utvikling av KI-modeller, men også i
-økende grad for drift av dem. Dette innebærer
-behov for regnekraft og datalagringskapasitet,
-lokalt eller via eksterne skytjenester. Behovet for
-regnekraft har tidligere særlig vært forbundet
-med forskning, men det er også økt behov for
-regnekraft for utdanningsvirksomheten ved universitetene og høyskolene.
-Med KI-utviklingen blir høyere utdanning i
-økende grad avhengig av komplekse, digitale økosystemer. Disse omfatter både generelle og spesialiserte KI-systemer, integrasjoner mot eksisterende studieadministrative systemer og læringsplattformer, samt underliggende infrastruktur for
-databehandling. Dette skaper behov for helhetlige
-systemarkitekturer, der interoperabilitet, sikkerhet og skalerbarhet er sentrale prinsipper. OECD
-har understreket at tillit i digitale utdanningssystemer forutsetter robuste rammer for datastyring
-
-[Side 144]
-
-142
-
-Kapittel 8
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Boks 8.1 Tjenesteplattformer for generativ KI i norsk universitets- og høyskolesektor
-KI-modeller som kjøres på lokal infrastruktur
-Sikt KI er en KI-tjeneste utviklet og levert av
-ved henholdsvis NTNU og UiO. Per i dag gjelSikt, til bruk i universitets- og høyskolesektoren
-der dette modeller med åpne vekter fra blant
-samt i videregående opplæring. Sikt KI inneannet OpenAI, Z.ai, NorwAI, Mistral, Nasjonalholder tjenestene KI-chat og KI-assistent, og gir
-tilgang til ulike språkmodeller som de i GPTbiblioteket og UiOs fagmiljø i språkteknologi.
-Per i dag gir også begge tjenestene tilgang til
-serien fra amerikanske OpenAI, franske Mistral
-og den norske modellen Borealis, utviklet av
-proprietære modeller fra OpenAI. Disse driftes
-Nasjonalbiblioteket. KI-tjenesten er tilgjengelig
-gjennom Microsofts skytjeneste, Azure. Alle
-for brukere i kunnskapssektoren via innlogging
-samtaler og all brukerinfo blir lagret på UiOs
-gjennom Feide eller Entra ID. Behandlingen av
-servere. Et av formålene med tjenestene er å gi
-personopplysninger gjøres i samsvar med perstudenter og ansatte tilgang til KI-tjenester med
-sonopplysningsloven og personvernforordningod datasikkerhet og ivaretakelse av persongen (GDPR). Samtaler og data blir ikke brukt til
-vernet. Begge tjenestene er av institusjonene
-videre trening av KI-modeller.
-godkjent for behandling av opp til røde (fortroUiO og NTNU samarbeider om å levere tjelige) data.
-nestene GPT UiO og GPT NTNU. Samarbeidet
-Universitetet i Bergen og Universitetet i
-omfatter både tjenesteutvikling og datainfraTromsø – Norges arktiske universitet har også
-strukturen som trengs for å drifte tjenestene.
-utviklet egne applikasjoner for tilgang til språkGPT NTNU er utviklet av NTNU i samarbeid
-modeller, hhv. UiBchat og ChatUiT.
-med UiO og bygger på GPT UiO. Både GPT UiO
-Kilde: Sikt, UiO og NTNUs nettsider
-og GPT NTNU gir brukerne tilgang til et utvalg
-
-samt løsninger som muliggjør interoperabilitet
-mellom systemer (OECD, 2023b, s. 292; 130–135).
-Blant internasjonale løsninger på dette området fremstår nederlandske eduGenAI og språkmodellen GPT-NL som interessant, se Boks 8.2.
-Mens Sikt KI er utviklet som en fellestjeneste,
-er GPT UiO og GPT NTNU i utgangspunktet
-tjenester laget for egen institusjon. De sistnevnte
-
-brukes likevel også av andre institusjoner og er
-slik sett konkurrerende tjenester. En sammenlikning mellom de norske KI-tjenestene og den nederlandske plattformen eduGenAI viser noe ulike
-tilnærminger, men ikke vesentlige forskjeller i
-virkemåte, herunder at det gis tilgang til flere
-store språkmodeller både med og uten åpne
-modellvekter. Den nederlandske plattformen i
-
-Boks 8.2 Plattformen eduGenAI og språkmodellen GPT-NL
-teknologien. En av modellene som kan bli tilNederland utvikler den nasjonale digitale plattgjengeliggjort gjennom eduGenAI er den egenformen eduGenAI hvor universiteter, høyskoler
-utviklede språkmodellen GPT NL, som blir trent
-og fagskoler kan bruke generative KI-modeller
-fra bunnen av på lovlige nederlandske data og
-på en trygg og kontrollert måte. Som de nevnte
-norske KI-tjenestene, gir eduGenAI studenter
-med åpen kildekode. Modellen, som er under
-og undervisere tilgang til ulike språkmodeller
-uttesting i 2026, rettes mot både næringsliv og
-gjennom ett felles grensesnitt. eduGenAI samler
-offentlig sektor, og er ment å bidra til sikkerhet
-tilgang, kontroll og styring i én felles løsning for
-og digital suverenitet. GPT-NL er finansiert av
-hele sektoren. Utviklingen av plattformen finannederlandske myndigheter med 13,5 millioner
-sieres gjennom et nederlandsk digitaliseringseuro.
-program, Npuls, med om lag 10 millioner euro,
-Kilder: GPT-NL, u.å.; nPuls, u.å.
-mens institusjonene betaler for bruken. Personvern, datasikkerhet og etisk bruk er integrert i
-
-[Side 145]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-143
-
-Kapittel 8
-
-Boks 8.3 Regnekraft og datalagringskapasitet
-formål. Lite av det samlede norske regnekraftÅ trene en stor språkmodell fra bunnen av krever
-behovet dekkes av datasentre under norsk eieromfattende regnekraft i form av tungregning
-skap og jurisdiksjon.
-(høykapasitetsberegninger). Tungregning er
-Mange europeiske land, inkludert Danmark,
-bruk av kraftige datamaskiner og systemer for å
-utføre komplekse beregninger og analyse av
-Sverige og Finland, har investert store beløp i
-store datamengder som ikke er mulig på vanlige
-datasentre spesialbygd for KI. Den norske
-datamaskiner. Bruk av store språkmodeller (infestaten har besluttet å bruke 380 mill. kr. over to
-rens) krever også betydelig regnekraft. Det vil i
-år (2026–2027) til å starte arbeidet med etablehovedsak være inferens som utgjør behovet for
-ring av en nasjonal infrastruktur for tungregning
-med utgangspunkt i Sigma2. Gjennom Sigma2
-regnekraft for KI-modeller i høyere utdanning. I
-praksis leveres mye av regnekraften gjennom
-er Norge også med i et konsortium som bidrar
-kommersielle skytjenester, fra datasentre med
-til å finansiere, og gir oss tilgang på, superdataulik lokalisering og ulikt eierskap.
-maskinen LUMI i Finland. Som del av dette konSikt forvalter eierskapet til det statlige aksjesortiet har Norge bidratt med 220 mill. kr. for å
-selskapet Sigma2 AS, som er ansvarlig for den
-bygge en ny superdatamaskin, LUMI-AI.
-nasjonale infrastrukturen for regnekraft i Norge.
-Sigma2 tilbyr tjenester som tungregning og storKilder: Haeck, 2026; Prop. 1 S (2025–2026), 07.60 Kap. 273;
-skala datalagring for forsknings- og utdanningsSigma2, 2026
-
-kombinasjon med satsingen på den store nasjonale språkmodellen GPT-NL indikerer at Nederland ønsker å etablere et nasjonalt KI-økosystem
-for høyere utdanning.
-
-8.5
-
-Hensyn å ivareta i forvaltning 
-av KI-systemer
-
-Når KI-systemer skal anskaffes og tas i bruk på en
-forsvarlig måte, er det en rekke hensyn å ivareta
-som går utover det å møte utdanningsfaglige
-behov. Dette dreier seg om etiske hensyn, digital
-suverenitet, rettslige rammer, bærekraft, ivaretakelse av akademisk frihet, akademiske verdier
-og norsk fagspråk, lik tilgang, kostnadseffektivitet
-og langsiktig forutsigbarhet.
-
-8.5.1
-
-Digital suverenitet
-
-Digital suverenitet handler om staters og institusjoners evne til å ha kontroll over egne data, digitale
-infrastrukturer og teknologiske valg. KI inngår i en
-bredere internasjonal konkurranse om økonomisk
-og strategisk dominans, der USA og Kina leder an.
-Dette utgjør en geopolitisk kontekst der tilgang til,
-kontroll over og regulering av KI blir et strategisk
-spørsmål på linje med energi, forsvar og annen kritisk infrastruktur.
-
-Digital suverenitet er ikke ensbetydende med
-alenegang og full uavhengighet fra andre aktører.
-Snarere kan det ses som et digitalt handlingsrom,
-som evnen til å handle selvstendig og strategisk
-selv om det ikke er mulig å være selvforsynt med
-alt av digitale systemer og ressurser for å utvikle
-dem. I KI-sammenheng betyr det å kunne forme
-hvordan systemer brukes lokalt, ha reelle alternativer til infrastruktur, modeller og internasjonale
-partnere, og beholde fleksibiliteten til å tilpasse
-seg etter hvert som teknologien utvikler seg
-(Barasa et al., 2026).
-
-8.5.1.1 Leverandøravhengighet og sårbarhet
-Virksomheter kan bli avhengige av enkeltleverandører for produkter og tjenester dersom det blir
-svært kostbart eller teknisk krevende å bytte til
-andre leverandører, eller dersom det ikke finnes
-andre leverandører. Blir universiteter og høyskoler
-leverandøravhengige, vil det redusere deres handlingsrom. Dette gjør dem sårbare for leverandørens prissetting og veivalg. Videre gjør det dem sårbare for beslutningene til myndighetene som har
-jurisdiksjon over leverandøren. Den amerikanske
-presidentordren 12. juni 2026 om å suspendere
-utlendingers tilgang til Anthropics avanserte språkmodell Claude Fable 5, illustrerer hvordan slik sårbarhet kan komme til uttrykk.
-
-[Side 146]
-
-144
-
-Kapittel 8
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Boks 8.4 Etiske prinsipper for ansvarlig og pålitelig kunstig intelligens
-I regjeringen Støres nasjonale digitaliseringsPrinsippene er basert på EUs Ethics guidestrategi vises det til regjeringen Solbergs
-lines for trustworthy AI. Formålet med EUs
-«Nasjonal strategi for kunstig intelligens» fra
-retningslinjer var å fremme ansvarlig og bære2020, som slo fast syv etiske prinsipper for
-kraftig utvikling og bruk av kunstig intelligens i
-ansvarlig og pålitelig bruk av kunstig intelligens.
-Europa.
-1. KI-løsninger skal respektere menneskets
-The Higher Education Authority (HEA) i
-selvbestemmelse og kontroll
-Irland har utviklet et verdibasert nasjonalt ram2. KI-systemer skal være sikre og teknisk
-meverk for generativ KI i undervisning og
-robuste
-læring i høyere utdanning og et eget dokument
-3. KI skal ta hensyn til personvernet (følge permed fem grunnprinsipper for etisk KI-adopsjon.
-sonvernforordningen)
-De fem grunnprinsippene omfatter bl.a. akade4. KI-systemer må være gjennomsiktige (spormisk integritet, transparens, likeverd, inkludebare, forklarbare og gjennomsiktige)
-ring, kritisk engasjement, menneskelig tilsyn,
-5. KI-systemer skal legge til rette for inkludeKI-kompetanse, personvern, datastyring samt
-ring, mangfold og likebehandling (forebygge
-bærekraftig pedagogikk.
-diskriminerende skjevheter, utvalgsskjevhet
-UNESCO og Europarådet presenterer globale rammeverk for KI. UNESCOs anbefaling
-(bias) under utviklingen)
-om etikk innenfor KI legger vekt på menneske6. KI skal være nyttig for samfunn og miljø
-7. Ansvarlighet
-rettigheter, verdighet, åpenhet, rettferdighet og
-menneskelig tilsyn. Europarådets rammekonDisse prinsippene gjelder fortsatt, og supplerer i
-vensjon for KI, undertegnet av Norge og en
-noen grad eksisterende lover som personopprekke land, har som mål å sikre at KI er i samlysningsloven. Prinsippet om ansvarlighet skal
-svar med menneskerettigheter, demokrati og
-ses i sammenheng med de andre prinsippene,
-rettsstatsprinsipper.
-og innebærer at det skal innføres mekanismer
-Kilder: EU Commission High-Level Expert Group on Artifisom sikrer ansvarlighet for løsninger basert på
-cial Intelligence, 2019; Europarådet, 2024; Higher Education
-KI og deres resultater. Alle KI-systemer skal ivaAuthority, 2025a, 2025b; Kommunal- og moderniseringsreta muligheten for revisjon, dvs. gjennomgang
-departementet, 2020, kap. 5.1; UNESCO, 2022
-og kontroll av at KI-systemene bl.a. oppfyller
-sikkerhetsmessige krav.
-
-For avanserte IT-systemer er leverandøravhengighet en systemisk utfordring. Det skyldes
-blant annet at produktene og tjenestene ofte er
-integrert med hverandre, slik at man ikke kan
-bytte ut et produkt uten å miste funksjonalitet i et
-annet. En annen viktig grunn er at det i flere tilfeller kun er et fåtall aktører som kan levere tjenestene og produktene. Ifølge forskere fra Epoch
-står fem skyleverandører – Amazon, Google,
-Meta, Microsoft og Oracle – til sammen for
-anslagsvis 71 prosent av verdens samlede regnekraft for kunstig intelligens per fjerde kvartal
-2025, målt i H100-ekvivalenter2 (se Figur 8.1).
-Dette er en økning fra 63 prosent i første kvartal
-2024 (Epoch AI, 2026a).
-2
-
-H100 ekvivalent tilsvarer regnekraften til en GPU (grafikkprosessor) fra Nvidia.
-
-Det er svært ressurskrevende å utvikle store
-grunnmodeller, med maskinvare, energi og kompetent bemanning som de viktigste innsatsfaktorene.
-Forskere fra Epoch AI og Stanford University har
-laget en modell for å regne ut hva det koster å lage
-grunnmodeller, og funnet at kostnaden for de mest
-beregningstunge modellene økte 2,4 ganger årlig
-fra 2016 til 2025 (Cottier et al., 2024). For modeller
-som i februar 2025 var i utviklingsfronten, anslår de
-den samlede utviklingskostnaden til over 100 millioner amerikanske dollar. Det er begrenset hvor
-mange selskaper som kan investere så store summer i utvikling av en enkelt modell, og som i tillegg
-har tilgang på nødvendig kompetanse. Utviklingsfronten for KI-modeller er også svært konsentrert
-geografisk sett. Amerikanske og kinesiske selskaper dominerer her.
-
-[Side 147]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-24,8 %
-
-29,4 %
-
-5,6 %
-
-16,8 %
-11,3 %
-12,1 %
-Google
-
-Meta
-
-Microsoft
-
-Oracle
-
-Amazon
-
-Andre
-
-Figur 8.1 Eierskapsandel av verdens samlede
-regnekraft fra databrikker laget for KI-utvikling, 
-etter Epoch AIs estimat
-Kilde: Epoch AI (2026a)
-
-EU har svart på denne utviklingen med blant
-annet en pakke for teknologisk suverenitet, som
-EU-kommisjonen la frem i juni 2026. Den inneholder blant annet et forslag til forordning om
-sky og KI, med et felles europeisk rammeverk
-for å vurdere hvor suverene slike tjenester er, og
-en strategi som prioriterer åpen kildekode i
-offentlige anskaffelser (EU-kommisjonen, 2026h).
-Forslagene er ikke vedtatt, og det er uavklart
-hvilken betydning de får for Norge gjennom
-EØS-avtalen.
-En god forvaltning av KI-systemer begrenser
-leverandøravhengigheten og sårbarhetene en slik
-avhengighet innebærer. Hensynet blir desto viktigere å ivareta, jo mer ustabil og spent den geopolitiske situasjonen er. Generelt sett gir en mer
-spent geopolitikk et mindre trygt grunnlag for å
-sette sin lit til utenlandske leverandører og myndighetene de er underlagt.
-
-8.5.1.2 Datasikkerhet og personvern
-Bruk av generative KI-systemer og store språkmodeller i universitets- og høyskolesektoren innebærer et endret risikobilde for datasikkerhet og
-personvern. Institusjonenes oversikt og kontroll
-over egne data, behandlingsprosesser og jurisdiksjon kan bli redusert gjennom bruken av utenlandske skytjenester og sammensatte leverandørkjeder.
-
-145
-
-Kapittel 8
-
-Bruk av generative KI-systemer innebærer at
-data også kan brukes til logging, sikkerhetsanalyse, modellforbedring eller videre trening av
-språkmodeller. Bruken vanskeliggjør institusjonenes mulighet til kontroll, dokumentasjon og ivaretakelse av personvern- og datasikkerhet. ENISA,
-EUs byrå for cybersikkerhet, advarer om at KI
-kan åpne nye veier innen manipulasjon og
-angrepsmetoder, samt nye utfordringer knyttet til
-personvern og datasikkerhet (European Union
-Agency for Cybersecurity, 2020).
-En annen side er at cyberangrep og digitale
-trusler har blitt mer alvorlige som følge av at bl.a.
-generative KI-systemer gjør det mulig å automatisere og skalere angrep, samt utvikle og tilpasse
-skadevare raskere enn tidligere (The National
-Cyber Security Centre, 2025). Dette senker terskelen for cyberkriminalitet, øker omfang og kompleksitet i trusselbildet og stiller større krav til
-institusjonenes arbeid med informasjonssikkerhet
-og hendelseshåndtering. KI-agenter, nærmere
-omtalt i kapittel 3.4.4, reiser sikkerhetsmessige
-utfordringer dersom agentene gis tilganger til
-brukerens e-postkonto, dokumenter eller andre
-interne systemer for å løse en oppgave. Som følge
-av KI er datasikkerhet ikke lenger begrenset til
-teknisk sikring av lagring og nettverk, men omfatter styring av komplekse adaptive systemer som
-løpende behandler og genererer data. Anskaffelse
-og forvaltning av KI-systemer utløser derfor høye
-krav til personvern- og risikovurderinger. Vurderingene opplyses å være krevende for mange institusjoner, samtidig som Sikt har gitt uttrykk for at
-felles anskaffelser eller felles vurderinger på dette
-området vil være til stor nytte for universitets- og
-høyskolesektoren.
-Det er fortsatt en del personvernrettslig usikkerhet om bruk av KI-systemer til læringsanalyse.
-Ekspertgruppen bak NOU 2023: 19 konkluderte
-med at regelverket for høyere utdanning heller
-ikke gir et tydelig rettslig grunnlag for å behandle
-personopplysninger i læringsanalyse, slik personvernforordningen krever. Gruppen la frem to forslag. Det første var et nytt ledd i universitets- og
-høyskolelovens bestemmelse om behandling av
-personopplysninger (daværende § 4-15). Leddet
-skulle slå fast at institusjonene kan behandle personopplysninger om studenter ved hjelp av maskinell analyse og sammenstilling når det er etisk og
-pedagogisk forsvarlig og nødvendig for å oppfylle
-oppgaver og plikter etter loven. Det andre var en
-presisering i daværende studietilsynsforskrift
-§ 4-1 om at slike opplysninger kan behandles når
-det er nødvendig for det systematiske kvalitetsarbeidet, og at graden av personidentifikasjon
-
-[Side 148]
-
-146
-
-NOU 2026: 14
-
-Kapittel 8
-
-Kunstig intelligens i høyere utdanning
-
-ikke skal være større enn nødvendig for formålet
-(NOU 2023: 19, kap. 12.3).
-
-8.5.1.3 Jurisdiksjon
-Bruk av internasjonale skytjenester reiser særskilte spørsmål om tredjelandsoverføring og jurisdiksjon. Både fjernaksess fra tredjeland og bruk
-av internasjonal skyinfrastruktur kan innebære
-overføring av personopplysninger som må kartlegges og vurderes særskilt (European Data Protection Board, 2020b). Lagring av data innenfor
-EØS er derfor ikke nødvendigvis tilstrekkelig dersom leverandøren eller underleverandører kan få
-tilgang til data fra tredjeland. Det europeiske personvernrådet har videre fremhevet at risiko knyttet til myndighetstilgang gjennom ikke-europeiske skyleverandører ofte er identifisert, men ikke
-tilstrekkelig håndtert teknisk og rettslig.
-Problemstillingen aktualiseres blant annet av
-den amerikanske lovgivningen CLOUD Act, som
-gir amerikanske myndigheter adgang til å kreve
-utlevering av data fra amerikanske teknologiselskaper, uavhengig av hvor dataene fysisk er
-lagret. Lovgivningen er i spenning med GDPR art.
-48, som fastsetter at personopplysninger ikke kan
-overføres til parter utenfor EU uten at det foreligger en formell avtale. Dette illustrerer hvordan
-jurisdiksjon og leverandørstruktur kan påvirke
-kontrollen over data.
-8.5.1.4
-
-Verdiskaping
-
-Et ytterligere aspekt ved hensynet til digital
-suverenitet dreier seg om kompetansebygging
-og næringsutvikling. Dersom man ikke kjøper
-KI-systemer som er utviklet i Norge, Norden
-eller Europa – når det er mulig – innebærer det
-tapte muligheter for å styrke kompetansen som
-skal til for å utvikle KI-systemer i disse områdene. Tilsvarende gjelder også for andre deler av
-teknologistabelen, som for eksempel skytjenester. Å handle lokalt eller regionalt bidrar til
-grunnlaget for lokal og regional kompetanse- og
-næringsutvikling.
-Universitets- og høyskolesektoren er en sentral samfunnsaktør for kunnskapsutvikling,
-kompetansebygging og innovasjon. Utvikling og
-drift av egne eller sektorforankrede KI-løsninger
-kan gi grunnlag for forskning og innovasjon
-innenfor områder som språkmodeller, utdanningsteknologi, personvern, cybersikkerhet og datainfrastruktur. Dette kan bidra til sterkere fagmiljøer og flere norske arbeidsplasser i høykompetansenæringer.
-
-8.5.1.5 Åpen kildekode og åpne modellvekter
-Åpen kildekode er programvare som distribueres
-under forutsetning av at kildekoden er allment tilgjengelig for brukerne. Brukerne får innsyn i
-hvordan programvaren fungerer og kan gjøre forbedringer. Åpen kildekode er utstyrt med en
-lisens som spesifiserer frihetene og bruksrettighetene som følger med programvaren (Gramstad,
-2024). I KI-sammenheng kan åpen kildekode innebære at bl.a. programvare, treningsdata, arkitektur og modellvekter er åpne. Full åpenhet kan
-defineres som muligheten til å studere, bruke og
-modifisere systemet til ethvert formål (Open
-Source Initiative, u.å.).
-Når det gjelder grunnmodeller for KI, er det
-mange som er gjort tilgjengelig med åpne vekter,
-uten at hele kildekoden dermed er gjort åpen. Det
-betyr at man kan få innsikt i hva slags verdi alle
-modellens parametere er innstilt på etter trening
-(vektene), uten at man for eksempel får innsikt i
-algoritmen som ble brukt for å trene opp modellen. Åpne modellvekter innebærer at modellen
-kan lastes ned og kjøres lokalt, og at man kan
-videretrene eller fininnstille modellen for egne formål. Mens de største kinesiske språkmodellene
-gjennomgående har åpne modellvekter, er situasjonen motsatt i USA, riktignok med flere unntak.
-Også de store amerikanske teknologiselskapene
-tilbyr språkmodeller med åpne vekter. Et eksempel på en modellserie med helt åpen kildekode,
-ikke bare åpne vekter, er Borealis-modellene fra
-Nasjonalbiblioteket, en modellserie som er spesifikt trent på norske tekster.
-KI-systemer med åpen kildekode, herunder
-åpne modellvekter, kan gjennom lokal drift være
-fordelaktige for høyere utdanning i en rekke sammenhenger. I tillegg til å kunne styrke digital
-suverenitet og datasikkerhet, som nevnt over, kan
-åpen kildekode og lokal drift gi bedre muligheter
-for forskning og eksperimentering med teknologien, bidra til transparens og åpne for ulike tilpasninger og anvendelser (Lynch, 2026).
-8.5.2 KI-forordningen
-Forvaltningen av KI-systemer må skje innenfor et
-sammensatt og foranderlig rettslig landskap, herunder med nye lovgivninger, som EUs KI-forordning (jf. kap. 4.3.2). KI-forordningen etablerer
-et risikobasert regime for KI-systemer. Når en
-institusjon anskaffer et KI-system som de tar i
-bruk og stiller til disposisjon for sine studenter og
-ansatte, blir institusjonen en idriftsetter etter
-forordningens betydning. Rollen som idriftsetter
-
-[Side 149]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-kan endres til leverandør dersom man bygger en
-egenutviklet løsning på andres modeller, som for
-eksempel Sikt KI-chat og GPT-UiO. Rollen har
-betydning for hvilke plikter institusjonen pådrar
-seg og kan medføre betydelige tekniske og administrative kostnader, særlig dersom systemene
-blir klassifisert som høyrisikosystemer.
-
-8.5.3 Opphavsrett
-Generativ KI står i et problematisk og omstridt
-forhold til opphavsretten (se kap. 4.2.4.2). De
-store grunnmodellene er trent på store mengder
-tekst, bilder, kode og andre verk som kan være
-beskyttet av opphavsrett. De store teknologiselskapene, som OpenAI, Google og Anthropic, er
-lite åpne om hva som inngår i treningsgrunnlaget
-for grunnmodellene deres.
-Det kan skilles mellom to typer hensyn universiteter og høyskoler kan ta til opphavsretten. For
-det første må institusjonene ta stilling til hvordan
-de selv kan overholde opphavsrettslige regler.
-Dette er en problemstilling som oppstår både ved
-utvikling og bruk av KI-systemer. Universiteter og
-høyskoler må for eksempel vurdere om institusjonens, studentenes og de ansattes åndsverk vil brukes til videre modelltrening dersom dette lastes
-opp i en samtalerobot. For det andre kan institusjonene ta hensyn til hvilken bruk de gjør av produkter og tjenester som er utviklet gjennom
-brudd på, eller i tvilsom aktelse for, opphavsretten. Det kan være etisk problematisk å anskaffe
-systemer som har vært utviklet gjennom brudd på
-opphavsretten, selv om anskaffelsen og bruken av
-et slikt system ikke selv utgjør et lovbrudd (jf.
-kap. 4.3.6). Et tilgrensende hensyn er til åpenhet
-om treningsgrunnlag. Uten informasjon om datasettene som KI-modeller er trent på, blir det svært
-vanskelig å vurdere hvor godt opphavsretten er
-respektert, og å kunne fatte beslutninger på det
-grunnlaget.
-8.5.4
-
-Akademisk frihet og akademiske
-verdier
-Akademisk frihet er en grunnleggende og lovfestet forutsetning for universiteters og høyskolers virksomhet. Omfattende bruk av kommersielle KI-systemer kan gripe inn i det faglige innholdet. UNESCO fremhever at bruk av generativ
-KI i forskning og utdanning må skje på en måte
-som styrker – og ikke undergraver – akademiske
-verdier som kritisk tenkning, vitenskapelig integritet og uavhengighet (UNESCO, 2023). Higher
-Education Authority i Irland legger til grunn at
-
-147
-
-Kapittel 8
-
-styring av KI må knyttes til formålet med høyere
-utdanning, læring, faglig arbeid og dømmekraft
-(Higher Education Authority, 2025b, s. 9–10)
-
-8.5.5
-
-Bærekraft
-
-Universiteter og høyskoler har et lovpålagt ansvar
-for å bidra til en miljømessig bærekraftig utvikling
-(universitets- og høyskoleloven § 1-1 bokstav d),
-og generativ KI medfører et betydelig ressursforbruk knyttet til både utvikling og bruk av modellene. Se nærmere omtale i kapittel 4.
-
-8.5.6 Norsk fagspråk
-De store, amerikanske språkmodellene er i
-hovedsak trent på engelskspråklige datasett. Selv
-om disse over tid har produsert færre språklige
-feil og anglisismer når de brukes på norsk, er de
-fortsatt et godt stykke unna å være feilfrie. Dersom sentrale lærings- og arbeidsprosesser i
-økende grad formidles gjennom verktøy som primært er utviklet på engelskspråklige data, kan
-dette bidra til å svekke norsk fagspråk.
-I sitt innspill til utvalget understreker Språkrådet at det ikke er noen selvfølge at generativ KI
-vil gi studenter bedre tilgang til norsk fagspråk.
-For at KI-systemer skal generere velfungerende
-norsk fagspråk, må de være trent på norske fagtekster med norsk terminologi. Innenfor mange
-fagfelt skrives det for få norske tekster til at det
-finnes et tilstrekkelig treningsgrunnlag for utvikling og videreutvikling av KI-modeller. Konsekvensen kan bli at KI-systemer genererer termer
-som ikke er forankret i fagmiljøene, som konkurrerer med etablerte termer og som bryter med
-vanlige mønstre for norsk ordforming. Språkrådet
-viser også til at Rambølls undersøkelse blant
-instituttledere avdekket erfaringer med at KI-systemer fungerer dårlig på avansert nivå, når norsk
-terminologi mangler, og at språket da lett blir
-«krøkkete» og til dels ubegripelig.
-Dersom verktøyene institusjonene gjør tilgjengelig, systematisk produserer svakt norsk
-fagspråk, kan teknologien over tid svekke studentenes beherskelse av norsk fagterminologi og
-norske uttrykksmåter.
-Høgskulen i Volda peker i sitt innspill til utvalget på at de har et særlig ansvar for å bevare og
-utvikle nynorsk språk og skriftkultur. De viser til
-at de store, kommersielle språkmodellene ofte er
-svakere på nynorsk enn på bokmål og engelsk.
-Høgskulen i Volda ønsker derfor en felles, nasjonal tjeneste eller infrastruktur der institusjoner
-kan få tilgang til regnekraft og plattformer for å
-
-[Side 150]
-
-148
-
-Kapittel 8
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-kunne eksperimentere med egne eller åpne språkmodeller i trygge og lovlige rammer. Dette vil
-gjøre det mulig å drive nødvendig innovasjon, bl.a.
-innen nynorskteknologi og mediefag, uten at hver
-institusjon må bygge opp sin egen infrastruktur.
-
-8.5.7 Likeverdig tilgang
-Studenters læringsmuligheter og ansattes
-arbeidsvilkår bør ikke avhenge av ubegrunnet forskjellig tilgang til faglige ressurser. Dette gjelder
-også KI-systemer. Samtidig må en slik likhetstanke forstås på en måte som er forenlig med institusjonell autonomi, faglig variasjon og behovet for
-eksperimentering. Spørsmålet er derfor ikke om
-alle skal ha identisk tilgang til de samme verktøyene, men hvordan sektoren kan sikre et rimelig
-og faglig begrunnet nivå av stabil, trygg og rettferdig tilgang.
-Ulik tilgang kan i prinsippet oppstå på flere
-måter. Enkelte institusjoner kan ha råd til å finansiere betalte verktøy med mer avanserte funksjoner, mens andre i større grad er henvist til systemer med svakere funksjonalitet eller høyere
-risiko. Også innad i institusjonene kan ulikhet
-oppstå dersom enkelte fagmiljøer eller prosjekter
-har tilgang til særlige ressurser. For studenter kan
-dette slå ulikt ut både i læring og i muligheten til å
-tilegne seg relevant verktøykompetanse.
-Kvalitetsforskjeller mellom KI-systemer kan
-ha betydning både for læringsutbytte og sikkerheten. Kommersielle KI-systemer leveres ofte i
-ulike versjoner, og det kan være betydelige kvalitetsforskjeller på leveransene fra en gratisversjon
-av et KI-system sammenlignet med mer avanserte
-betalingsversjoner.
-Manglende tilgang på gode KI-systemer til formålene studenter og ansatte skal bruke dem til,
-kan også føre til økt bruk av såkalt «skygge-KI»3
-med påfølgende risikoer for datasikkerheten, personvernet og opphavsretten.
-Opplæring i riktig bruk av KI-verktøy kan
-være viktigere enn mindre ulikheter i tilgang
-(Hodøl et al., 2025). Slik opplæring er derfor sentral for å forebygge økte forskjeller og digitale
-skillelinjer som følge av bruk av KI-systemer (jf.
-kap. 6).
-8.5.8
-
-Kostnadseffektiv ressursbruk
-
-Kostnadseffektivitet er et legitimt og nødvendig
-hensyn i forvaltningen av KI-systemer i høyere
-3
-
-Med «skygge-KI» menes studenters og ansattes bruk av
-KI-systemer som ikke er godkjent av institusjonen.
-
-utdanning, men må forstås bredere enn innsparing. Kostnadseffektiv ressursbruk må vurderes
-opp mot formål som lærings- og vurderingskvalitet og datasikkerhet. Det er også viktig å vurdere
-det langsiktig og opp mot utfordringen med leverandøravhengighet: Blir institusjonene avhengige
-av en bestemt leverandør, blir de mer utsatt for
-dennes prissetting.
-
-8.5.9 Langsiktighet og forutsigbarhet
-Langsiktig forutsigbarhet er et grunnleggende
-hensyn i forvaltningen av KI-systemer i høyere
-utdanning. Forskning, utdanning, investeringer i
-infrastruktur og kompetanseutvikling har et langt
-tidsperspektiv og forutsetter stabile rammebetingelser. Rimelige og lett tilgjengelige KI-systemer
-kan på sikt øke i pris og integreres i andre tjenester som vanskeliggjør utfasing. En del KI-tjenester
-har bruksbaserte prismodeller (f.eks. per API-kall
-eller token) slik at budsjettering kan bli vanskelig
-(Alavi et al., 2025, s. 1). Mens inngangskostnaden
-kan være lav, kan de langsiktige kostnadene bli
-betydelige, bl.a. knyttet til API-er, lisenser og integrasjoner.
-8.5.10 Utvalgets vurdering
-Utvalget mener at forvaltningen av KI-systemer i
-universitets- og høyskolesektoren bør bygge på
-noen grunnleggende hensyn som samlet bidrar til
-å ivareta sektorens samfunnsoppdrag, akademiske verdier og behov for sikkerhet og langsiktig styring. Mangfoldet av utfordringer og hensyn
-tilsier at sektoren bør etablere felles prinsipper for
-forvaltning av KI-systemer.
-Digital suverenitet
-Etter utvalgets vurdering er det en rekke hensyn
-knyttet til digital suverenitet som samlet bør tillegges betydelig vekt i sektorens videre forvaltning
-av KI. Full digital suverenitet er verken realistisk
-eller verdt å etterstrebe, men det er ønskelig å
-oppnå en større grad av det. Dette gjelder enten
-subjektet for slik suverenitet skal forstås som
-institusjonen selv, sektoren, nasjonen, Norden
-eller Europa. Det gjelder også dersom objektet for
-slik suverenitet skal forstås som hele verdikjeden
-og teknologistabelen for KI, eller bare utvalgte
-deler av den (jf. kap. 3). Likevel vil det å utvikle
-mer selv og anskaffe mer lokalt, nasjonalt og
-regionalt, kunne gi mindre leverandøravhengighet og sårbarhet, bedre datasikkerhet og ivaretakelse av personvernet, legge bedre grunnlag for
-
-[Side 151]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-verdiskaping og kompetanseutvikling, og gi et
-bedre rettslig utgangspunkt for å bestemme over
-teknologien vi gjør bruk av.
-Hensynet til datasikkerhet og personvern gjelder spesifikt hvordan data behandles og lagres.
-Det har dermed betydning hvilken datainfrastruktur KI-systemene blir drevet på. Dersom infrastrukturen er eid av staten eller av institusjonen
-selv, gir det et svært godt utgangspunkt for å
-kunne ivareta datasikkerheten og personvernet.
-Hensynet kan også ivaretas gjennom avtalevilkår
-med utenlandske skytjenester, betinget av at vilkårene kan overholdes. EU-kommisjonens rammeverk for skytjenestesuverenitet er et godt verktøy for å måle graden av europeisk suverenitet ved
-vurdering av skytjenester (EU-kommisjonen,
-2025b).
-Muligheten for å drifte KI-modeller på egen
-infrastruktur henger sammen med forskjellen på
-åpne modeller – det vil si modeller med åpne vekter eller åpen kildekode – og lukkede modeller.
-Lukkede, proprietære modeller leveres bare gjennom skytjenester, altså kan man ikke bruke egen
-datainfrastruktur til å drifte dem. For å utløse sikkerhetsgevinstene av å eie egen infrastruktur, er
-det derfor nødvendig å kombinere dette med
-modeller med åpen kildekode eller åpne vekter.
-Plattformer som Sikt KI, GPT UiO, GPT NTNU og
-den nederlandske eduGenAI, kan bidra til å redusere leverandøravhengighet ved å samle både
-åpne og kommersielle språkmodeller i ett felles
-kontrollert grensesnitt, som et alternativ til å
-bruke enkeltstående tjenester direkte. Det kan
-også tenkes andre modeller som gjennom sektorsamarbeid, nordisk eller europeisk samarbeid
-legger til rette for et mer mangfoldig leverandørmarked og reduserer sårbarheten som følger av
-konsentrasjon hos et fåtall store globale teknologiselskaper.
-Tekniske løsninger som anonymisering, kryptering og bruk av syntetiske data kan redusere
-faren for brudd på datasikkerhet og personvern,
-men har sine ulemper bl.a. i form av ressursbruk
-og merkostnader spesielt ved store datasett og
-komplekse modeller. Eksperimentering og bruk
-av KI-agenter og andre KI-systemer må gjennomføres innenfor rammen av gjeldende regelverk og
-retningslinjer om personvern, dataforvaltning og
-sikkerhet.
-Personvern- og risikovurderinger av KI-systemer som behandler personopplysninger, forskningsdata og andre beskyttelsesverdige opplysninger, er tidkrevende arbeid som forutsetter høy
-teknologisk og juridisk kompetanse. For å oppnå
-
-149
-
-Kapittel 8
-
-mer effektive prosesser og økt kvalitet er det hensiktsmessig med en felles støttefunksjon for personvern- og risikovurderinger ved anskaffelse og
-forvaltning av KI-systemer. En slik funksjon bør i
-så fall utformes som et kompetanse- og støttemiljø
-snarere enn en obligatorisk kontrollinstans, ettersom flere institusjoner har kompetanse i egen
-organisasjon til å gjøre slike vurderinger.
-KI-forordningen
-For å ta i bruk et KI-system må institusjonen
-kunne etterleve relevante regelverk, herunder KIforordningen. KI-forordningens kompleksitet tilsier at institusjonene må bygge opp både juridisk
-og teknisk kompetanse til å forstå og anvende forordningen. En mulig felles støttefunksjon for
-anskaffelse og forvaltning av KI-systemer kan
-også omfatte vurderinger av kravene KI-forordningen stiller.
+## Sensur og karakterbegrunnelser
+
+Institusjonene bruker mye ressurser på sensur og karakterbegrunnelser. Dagens system med menneskelig sensur er ikke ufeilbarlig. Ulike sensorer kan gjøre ulike vurderinger (NOKUT, 2017; Sætre, 2025). Man kan øke kvaliteten på sensuren, for eksempel ved å ha to sensorer, men en slik ordning er svært ressurskrevende.
+
+Sensur og karakterbegrunnelse er også sterkt rettighetsstyrte oppgaver. Dagens regelverk setter derfor mange begrensninger for bruk av KI-systemer til sensur og karakterbegrunnelse, samtidig som det gir noen muligheter.
+
+Før gjennombruddene vi har sett med store språkmodeller, var det utenkelig med programvare som kunne gjøre begrunnede vurderinger av oppgavebesvarelser i fritekst. De nye tekniske mulighetene fordrer at vi vurderer om og hvordan KI-systemer kan fungere som verktøy for sensur og karakterbegrunnelse. Sentrale momenter i en slik vurdering er hva KI-bruk gjør med kvaliteten på sensur og karakterbegrunnelser, i hvor stor grad KI-systemer kan effektivisere oppgavene og hva som skal til for å ivareta tilliten til vurderingssystemet. Når resultatene må være pålitelige, og hensynet til studentenes rettigheter veier tungt, er det viktig å diskutere om og hvordan vi kan bruke dagens KI-systemer som verktøy for sensur og karakterbegrunnelse i hele eller deler av prosessen.
+
+Det er tre skiller som er særlig viktige i denne diskusjonen:
+
+- *Sensur vs. karakterbegrunnelse*: Sensur er et enkeltvedtak om karakter (som godkjent/ikke godkjent eller som bokstavkarakter), noe vi skal skille fra begrunnelsen for et slikt vedtak, jf. uhl. §§ 11-7 og 11-8. Sensur og karakterbegrunnelse drøftes hver for seg i det følgende.
+
+- *Automatisering vs. hjelpemiddel*: KI-systemer kan automatisere sensuren eller karakterbegrunnelsene, eller de kan på ulike måter brukes som et hjelpemiddel, for eksempel til å kvalitetssikre menneskelige vurderinger. Risikoene ved automatisert KI-bruk er større enn ved bruk som hjelpemiddel. Samtidig er effektiviseringspotensialet ved automatisering betydelig større. Automatisering er gjennomgående strengere regulert i norsk og internasjonal lovgivning.
+
+- *Forsøk vs. vanlig praksis under loven*: Dersom en institusjon får innvilget søknad om å gjennomføre tidsavgrensede pedagogiske eller organisatoriske forsøk, kan man fravike bestemmelser i universitets- og høyskoleloven (jf. § 17-1).
+
+Hvorvidt det er hensiktsmessig og lovlig å bruke KI-systemer til sensur og karakterbegrunnelse kan variere på tvers av disse skillelinjene.
+
+### Bruk av KI-systemer til sensur
+
+#### Pålitelighet og ønskelighet av å bruke KI-systemer til sensur
+
+Studenter har rett på en upartisk og faglig betryggende vurdering av hvilket læringsutbytte de har oppnådd. Fordi mye står på spill både for studentene og samfunnet, er dette et viktig fundament. For studentene danner eksamensresultatene grunnlag for grader og vitnemål, muligheter for arbeid, verv og videre studier. Det går ut over arbeidsgivere og samfunnet dersom uteksaminerte kandidater får jobber og verv de ikke er kvalifisert for.
+
+Selv om sensorer vurderer besvarelser objektivt, vil sensur i de fleste tilfeller ha et element av faglig skjønn. Sensuren påvirkes også av hvordan sensoren(e) stiller seg til eksamensoppgaven og krav til besvarelsen, hvordan de tolker og anvender vurderingskriteriene, og vurderingen kan påvirkes av kvaliteten på andre besvarelser. Kompleksiteten og de intuitive elementene ved slike vurderinger gjør derfor variasjon mellom sensorer uunngåelig. Når to sensorer samarbeider om å fastsette en karakter med et felles mål om å oppnå et rettferdig resultat, blir resultatet en samstemt, men ikke nødvendigvis mer presis vurdering (Sætre, 2025).
+
+Universitets- og høyskoleloven gir flere rettssikkerhetsgarantier til studenter utover retten til å påklage et sensurvedtak. Garantiene omfatter, avhengig av eksamenen, krav om to sensorer, ekstern sensor, nye sensorer ved klage og ny vurdering ved karaktersprik mellom opprinnelig sensur og klagesensur, jf. uhl. §§ 11-7 og 11-11. Garantiene uttrykker både viktigheten av korrekt sensur – dvs. at den skal være upartisk og faglig betryggende – og behovet for mekanismer for å ivareta studentens rettssikkerhet.
+
+Påliteligheten til KI-sensur
+
+Dersom man skal bruke KI-systemer til sensur, med eller uten et menneske, er det avgjørende å kartlegge om KI-systemet, og bruken man gjør av det, kan holde samme kvalitetsstandard som sensorer. Uten dette får man ikke ivaretatt studentenes rett til en upartisk og faglig betryggende sensur. I tillegg til at sensuren må være upartisk og faglig betryggende, bør den være på et tilsvarende nivå som en gjennomsnittlig sensor, eller høyere.
+
+Utvalget forventer at det allerede er fullt mulig å utvikle KI-systemer som i mange tilfeller gjennomfører sensur like godt som fagpersoner. I en omfattende studie ved Universitetet i Gøteborg ble sensur med en generisk samtalerobot (drevet på modellen GPT-3.5) sammenlignet med menneskelig sensur (Flodén, 2025). Samtalerobotene klarte i et stort flertall av oppgavevurderingene å treffe nær sensorenes vurdering (10 prosent avvik), og nesten en tredjedel av vurderingene var svært nær (5 prosent avvik). Samtaleroboten ga litt høyere karakterer, men unngikk også veldig høye eller veldig lave karakterer. Studien konkluderte med at liknende avvik også finnes ved sensur av ulike menneskelige sensorer.
+
+I en studie hvor man benyttet ChatGPT til å gi karakterer på studenters essay i et førsteårskurs i biovitenskap, fant Kay et al. (2026) også at KI-systemet «presset sammen» karakterene: Svake besvarelser ble vurdert høyere av KI-systemet enn av sensor, og sterke besvarelser fikk dårligere karakter av KI-systemet. Hensikten med forsøket var å vurdere om studentene kunne få en god indikasjon på hvilken karakter de kunne forvente på arbeidet. Forfatterne konkluderte med at KI-systemene de testet ikke var egnet til dette formålet.
+
+I en studie fra 2023 fant Kortemeyer at karakterene gitt av samtalerobot hadde sterk korrelasjon med sensorers karakterer[^58] for håndskrevne eksamensbesvarelser i friform i fysikk, men konkluderte allikevel med at KI-sensuren ikke var pålitelig nok til å fungere som reell sensur (Kortemeyer, 2023). Modellene var på det tidspunktet fortsatt hemmet av begrenset kapabilitet for oppgavene som ble undersøkt. Dersom allerede utdaterte modeller med generiske systemer kan oppnå disse resultatene, er det sannsynlig at en modell som er spesifikt trent for oppgaven og satt i et velegnet system, kan ha større potensial. Presise sensorveiledninger blir en viktig forutsetning, da KI-modeller generelt fungerer bedre med klare instrukser. I hvor stor grad man oppnår fordelene og unngår ulempene med bruk av KI-systemer til sensur, vil avhenge av hvor gode modeller og systemer man har tilgjengelig.
+
+Fordeler og risikoer ved bruk av KI-systemer til sensur
+
+KI-systemer kan gi både kvalitets- og effektivitetsgevinster for sensur:
+
+- *Kvalitet*: KI-systemer kan potensielt gi en mer konsistent og rettferdig karaktersetting i samsvar med sensorveiledningen, både ved automatisk sensur og som beslutningsstøtte. KI-systemer kan også brukes til å analysere menneskesatte karakterer i lys av sensorveiledningen og identifisere mønstre og eventuelle avvik som sensor bør revurdere. En slik kalibrering kan føre til mer konsistent sensurering.[^59]
+
+- *Effektivitet*: Dersom sensur kan automatiseres vil det isolert sett kunne gi store effektiviseringsgevinster. Også som hjelpemiddel kan KI-systemer effektivisere sensuren, f.eks. ved å redusere behovet for medsensor.
+
+Å bruke KI-systemer til sensur bærer også med seg risiko. Hvor store de følgende risikoene er, avhenger av om det er snakk om automatisert sensur eller bruk av KI-systemer som hjelpemidler:
+
+- *Videreføring av skjevheter*: Alle datasett har skjevheter (jf. kap. 4.2.1 og 4.3.5). Det kan f.eks. være egenskaper ved studentbesvarelser som historisk er blitt overpremiert og andre som er blitt underpremiert. Slike skjevheter blir videreført av KI-modeller og vil da kunne bli forsterket.
+
+- *Atypiske besvarelser*: KI-systemer kan ha vansker med å fange opp unike eller kreative svar som avviker fra en tradisjonell norm, men som likevel er faglig sterke.
+
+- *Innsatskostnad*: Selv om de teknologiske forutsetningene er på plass, kreves det innsats å utvikle gode KI-modeller for sensur. Bredden av fag, utdanninger og emner viser de økonomiske og miljømessige kostnadene det har.
+
+- *Etterprøvbarhet*: Med mindre KI-systemene har svært høy grad av forklarbarhet vil det være vanskelig å etterprøve vurderingene til et KI-system. Risikoene knyttet til manglende etterprøvbarhet er langt større ved automatisering enn ved bruk som hjelpemiddel, og påvirker derfor studentenes rettssikkerhet (jf. kap. 4.2.1. og 4.3.4).
+
+#### Juridisk handlingsrom
+
+Etter dagens regler er det under visse, strenge vilkår mulig for sensorer å bruke KI-systemer som hjelpemiddel. Regelverket åpner ikke for å automatisere sensur.
+
+Sensorkravet
+
+Uhl. § 11-7 krever at sensor(er) gjennomfører sensur, og tillater ikke automatisert sensur med KI-systemer. Sensuren er del av institusjonenes ansvar for å prøve studentenes kunnskaper og ferdigheter på en upartisk og faglig betryggende måte, jf. uhl. § 11-6. Utvalget legger til grunn at sensorkravet muligens ikke kan fravikes ved bruk av forsøk etter uhl. § 17-1, men dette er det opp til Kunnskapsdepartementet å avklare.[^60] Merk likevel at selv under en slik tolkning kan det være mulig å gjøre forsøk med automatisert sensur hvor det parallelt blir gjort en menneskelig sensur som gjeldende vedtak.
+
+Automatisert sensur
+
+Ser man bort fra sensorkravet i uhl. § 11-7, åpner den nye forvaltningsloven for automatisert saksbehandling under vilkår (forvaltningsloven 2025 §§ 11 til 13, se også kapittel 4.3.4). Loven åpner for automatisering av skjønnsmessige vurderinger, som de fleste sensurvurderinger er, der dette er forsvarlig. Hvorvidt det er forsvarlig, og dermed mulig, vil bero på en konkret vurdering av KI-systemet som anvendes. I tillegg må kravene i gjeldende regelverk være oppfylt.[^61] Mange av den nye forvaltningslovens regler om automatisert saksbehandling styrker studentenes rettssikkerhet: Ved KI-sensur skal studenten få en (nærmest umiddelbar) forklaring av vedtaket, en rett til å uttrykke sine synspunkter og til å kreve manuell kontroll av en sensor, i tillegg til alminnelig klagerett. KI-forordningen inneholder ytterligere sikkerhetsmekanismer, se nedenfor og kapittel 4.3.2.
+
+Høyrisikosystem etter KI-forordningen
+
+Bruk av KI-systemer til sensur er særskilt regulert i KI-forordningen.[^62] KI-systemer som er beregnet på å vurdere læringsutbytte klassifiseres som høyrisiko-systemer (KI-forordningen art. 6 nr. 2, jf. vedlegg III, 3 bokstav b). Delvurderinger, slik som av arbeidskrav, dersom de er *summative*, er også omfattet.[^63] Klassifiseringen medfører at slike systemer er underlagt omfattende forpliktelser, slik som krav til menneskelig kontroll, åpenhet, informasjon og risikohåndtering (KI-forordningen art. 8–27). Se nærmere beskrivelse i kapittel 4.3.2.
+
+Også KI-systemer som er ment som *beslutningsstøtte* til sensorer er i de aller fleste tilfeller et høyrisikosystem, selv når sensoren reelt tar en egen beslutning om karakteren. Menneskelig involvering og kontroll er et basiskrav for høyrisikosystemer, og gir ikke unntak fra høyrisikoklassifisering (EU-kommisjonen, 2026d, avsnitt 70–71). KI-forordningen art. 6 nr. 3 gir unntak når KI-systemet «ikke i vesentlig grad påvirker utfallet av beslutningsprosesser». Men dette unntaket må tolkes veldig snevert: Det åpner for eksempel ikke for å bruke KI-systemer til å forberede et forslag til sensur. Unntaket gjelder når:
+
+- KI-systemet er beregnet på å utføre en forberedende ikke-substansiell oppgave, som å indeksere studentbesvarelser eller å generere generell informasjon (KI-forordningen art. 6 nr. 3 første ledd og andre ledd, bokstav d, jf. EU-kommisjonen, 2026d, avsnitt 103–108).
+
+- KI-systemet er beregnet på å verifisere eller finjustere resultatet av en menneskelig aktivitet, uten substansielle endringer i resultatet – altså er ikke KI-bestemte endringer av karakterer omfattet av dette unntaket (KI-forordningen art. 6 nr. 3 første ledd og andre ledd, bokstav b, jf. EU-kommisjonen, 2026d, avsnitt 94–96).
+
+- KI-systemet er beregnet på å identifisere beslutningsmønstre eller avvik. KI-systemet kan fungere som et kvalitetssikringsverktøy under dette unntaket, dersom det er *sensor* som, etter grundig vurdering, eventuelt endrer karakterer.[^64]
+
+Dermed utgjør det liten forskjell for høyrisikoklassifisering, om KI-systemet brukes som *beslutningsstøtte* for sensur eller om det brukes for *automatisert* sensur. Unntaket er ved kvalitetssikring, da dette kan unntas høyrisikoklassifisering under vilkår (jf. siste strekpunkt ovenfor). Bruk av KI-systemer som et *hjelpemiddel* til sensur, som ikke påvirker sensors vurdering (for eksempel til språkvask eller strukturering av notater), er ikke omfattet av høyrisikoklassifiseringen.
+
+Personvern
+
+Studentenes eksamensbesvarelser er å anse som personopplysninger, og derfor skal bruk, lagring og deling av eksamensbesvarelser skje innenfor personvernregelverket som gjelder i Norge og EU (jf. kapittel 4.3.3). Uhl. § 2-8 gir institusjonene hjemmel til å behandle personopplysninger om en søker, student eller doktorgradskandidat når det er nødvendig for å utføre oppgaver etter loven. Den sentrale oppgaven i denne sammenheng er å sørge for at studentenes kunnskaper og ferdigheter blir prøvd og vurdert på en upartisk og faglig betryggende måte, jf. uhl. § 11-6. Dette gir hjemmel for å laste eksamensbesvarelser inn i et KI-system, så lenge institusjonen har kontroll på dataene. Den menneskelige vurderingen må være reell – prosessen kan ikke i praksis utgjøre en helautomatisering uten særskilt lovhjemmel – noe som fordrer gode rutiner for menneskelig involvering.[^65] Videre krever det en personvernkonsekvensvurdering.[^66] Som personopplysninger kan ikke eksamensbesvarelser uten videre brukes til å trene KI-systemer.[^67]
+
 Opphavsrett
-Utvalget legger til grunn at opphavsrett ikke bare
-er et rettslig spørsmål, men også et etisk spørsmål. Hensynet til opphavsrett bør inngå som en
-del av universitets- og høyskolesektorens forvaltning av KI-systemer. Institusjonene bør kunne
-etterspørre informasjon om treningsgrunnlag og
-hvilke rettighetsklareringer leverandørene har
-gjort. Videre er det hensiktsmessig å prioritere
-løsninger som bygger på lisensiert eller rettighetsavklart materiale, der dette er mulig, eller
-som har tekniske mekanismer som reduserer risikoen for opphavsrettslige konflikter, selv om det
-kan innebære mindre kapable løsninger. Et annet
-grep som støtter opp om opphavsretten er å prioritere modeller hvor leverandørene praktiserer
-større åpenhet om treningsgrunnlaget. Utvalget
-mener det bør utvikles retningslinjer om bibliotekfaglig opphavsrett og bruk av hentingsforsterket generering (RAG), der språkmodellen
-kobles til eksterne kunnskapsbaser og terminologikilder fremfor å være avhengig av hva som
-ligger implisitt i grunnmodellen.4 En løsning tilsvarende Kopinor-avtalen bør vurderes.5
-4
 
-5
+Som hovedregel oppfyller studentenes oppgavebesvarelser kravene til verkshøyde etter åndsverkloven § 2, fordi de er litterære eller kunstneriske verk som er uttrykk for original og individuell skapende åndsinnsats. Svar på flervalgsoppgaver og tilsvarende faller utenfor. Slik utvalget har vurdert rettstilstanden, tillater opphavsretten at institusjonene laster studentenes oppgavebesvarelser opp i KI-systemer, så lenge det ikke innebærer å (risikere å) gi fra seg dataene til tredjeparter, eller at institusjonene selv skal bruke dem som treningsdata. Dersom institusjonene skal bruke dataene til trening, bør det kun skje etter et samtykke (rettighetsklarering) fra studenten.
 
-RAG (Retrieval-Augmented Generation) er en teknikk hvor
-man kan koble en KI-modell til en ekstern database, for
-eksempel for å gi mer nøyaktige og pålitelige svar innenfor
-en gitt brukskontekst.
-Avtalen gjør det mulig å bruke opphavsrettsbeskyttet
-materiale på en enkel og lovlig måte. Den gir trygghet for
-brukerne og sikrer samtidig at de som har skapt og utgitt
-innholdet, får betalt når verkene deres kopieres og brukes.
+I fremtiden vil det, opphavsrettslig sett, bli enklere å bruke eksamensbesvarelser til tekst- og datautvinning, dvs. for å trene en KI-modell til sensur og karakterbegrunnelser, uten behov for annen hjemmel eller samtykke fra studentene (se kap. 4.3.6.). Dette er regulert i digitalmarkedsdirektivet art. 4, som Kulturdepartementet jobber med å gjennomføre i norsk rett.[^68] Selv om disse nye reglene trer i kraft, vil det fortsatt være mulig for studenter å aktivt reservere seg mot bruk av eksamensbesvarelser til trening av KI-modeller.
 
-[Side 152]
+Veiledning av sensorer og informasjon til studenter ved forsøk med KI-sensur
 
-150
+Institusjonenes ansvar i forvaltning av KI-systemer inkluderer å treffe tiltak som veiledning og opplæring av faglig ansatte og (eksterne) sensorer, samt en informasjonsplikt til studenter.
 
-Kapittel 8
+Opplæringsplikten overfor sensorer innebærer å sørge for tiltak som skal sikre et tilstrekkelig nivå av KI-kompetanse, tilpasset den konteksten KI-systemet skal brukes i (KI-forordningen art. 4). Den er skjerpet for høyrisikosystemer, slik som ved bruk av KI-systemer til sensur, med krav om at de som ivaretar menneskelig kontroll skal ha nødvendig kompetanse, opplæring og myndighet slik at kontrollen er reell (KI-forordningen art. 26 nr. 2 og 7; jf. personvernforordningen art. 24). Institusjonenes veiledningsplikt inkluderer også å veilede om hva som *ikke* er lov, for eksempel å bruke åpne samtaleroboter til sensur uten kontroll på dataene.[^69] Institusjonene skal ha retningslinjer som forbyr slik ulovlig aktivitet, aktivt bevisstgjør sensorer og følger opp praksis gjennom internkontroll (personvernforordningen, art. 39 nr. 1 b og art. 5 nr. 2, jf. art. 24 og 32.).
 
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
+Samtidig er det fullt mulig å utforske hvilket potensial KI-systemer har for sensur, uten å la KI-systemer faktisk bestemme karakteren. Det kan gjøres parallelt med menneskelig sensur som gjeldende vedtak. KI-forordningen inneholder egne regler for testing av høyrisikosystemer slik som KI-sensur, under virkelige forhold.[^70]
 
-Akademisk frihet og akademiske verdier
-Forvaltningen av KI-systemer bør støtte og ikke
-uthule den akademiske friheten og akademiske
-verdier. I praksis betyr dette å unngå ulike former
-for underregulering og overregulering. Underregulering innebærer mangel på felles normer
-eller kontroll slik at valg av arbeidsmåter, databehandling og teknologiske premisser overlates
-til markedet og enkeltbrukerne. Overregulering,
-med strenge forbud og kontrollordninger, vil på
-den annen side svekke innovasjon og faglig
-begrunnet utprøving av teknologi. God KI-forvaltning beskytter akademisk frihet og akademiske
-verdier, i tillegg til å ivareta lokalt handlingsrom.
-Undervisere har et selvstendig ansvar for innholdet og opplegget av undervisningen, herunder
-bruk av KI-systemer, innenfor de rammene som
-institusjonen setter. Dette innebærer at institusjonene må fastsette overordnede rammer for forvaltningen av KI-system i undervisningssammenheng i form av tydelige retningslinjer, sikkerhetskrav, hvilke KI-system som er godkjent, mv. Fagmiljøene bør sikres reell medvirkning i disse prosessene, ikke bare som et virkemiddel for å sikre
-at KI-systemene har utdanningsfaglig nytte, men
-også fordi KI-systemene griper inn i den faglige
-virksomheten.
+Videre har institusjonene en informasjonsplikt til studentene sine, både med hensyn til behandling av personopplysninger, automatisert saksbehandling, og om bruk av KI-systemer (KI-forordningen art. 50, jf. art. 86; personvernforordningen art. 13, 14 og 22).
 
-Når Termportalen inneholder terminologi som er
-omforent og kvalitetssikret i fagmiljøene, kan den
-fungere som standard og referanse for KI-generert terminologi. Det andre er utvikling av norske
-språkmodeller som er utviklet og forvaltet i
-Norge, slik at oppdatert fagspråk raskere kan bli
-tilgjengelig i relevante verktøy. Det tredje er bruk
-av RAG (se ovenfor om opphavsrett).
-Hensynet til norsk fagspråk bør reflekteres i
-hvordan KI-systemer prioriteres, anskaffes og
-utvikles. Dersom sektoren skal oppfylle sitt ansvar
-for å bruke, utvikle og styrke norsk fagspråk, bør
-dette også få betydning for vurderingen av KI-systemer. Det kan derfor stilles krav til språklig kvalitet på både bokmål og nynorsk, samt til systemenes evne til å håndtere norsk fagterminologi.
-Videre kan sektoren bidra til utvikling av norske
-språkmodeller og kunnskapsbaser, samtidig som
-brukerne gis kompetanse til å vurdere og forbedre språklig kvalitet i KI-generert innhold.
-Forvaltningen bør derfor støtte opp under produksjon av norske fagtekster, utvikling av terminologiske ressurser og nasjonale språkmodeller.
-Deltakelse i internasjonale organisasjoner som
-ALT-EDIC (Alliance for Language Technologies,
-2026) med formål om å utvikle språkmodeller som
-ivaretar språklig diversitet, kan vurderes.
-Stabil og lik tilgang
+#### Utvalgets vurdering
 
-Bærekraft
-Høyere utdanning skal bidra til en bærekraftig
-samfunnsutvikling, utvikle og formidle kunnskap
-om klima- og miljøutfordringer og problematisere
-ressursbruk og sosial skjevfordeling. Bærekrafthensyn bør inngå i vurderingen av KI-systemer på linje med andre anskaffelses- og styringshensyn. Institusjonene bør skaffe seg bærekraftrelevant informasjon om KI-systemene. I den sammenheng bør det vurderes om mindre ressurskrevende KI-systemer kan være et alternativ.
-Videre kan institusjonene utvikle og prøve ut
-mekanismer som kan bidra til bærekraftig bruk.
-Her kan det tenkes ulike løsninger, f.eks. bruksbudsjetter. Dette er også et spørsmål om holdninger hos den enkelte bruker av et KI-system. Kombinasjonen av effektive KI-systemer og billig bruk
-kan svekke brukerbevisstheten.
-Norsk fagspråk
-Språkrådet peker på flere konkrete virkemidler
-for å styrke norsk fagspråk. Det ene er systematisk utvikling og tilgjengeliggjøring av terminologi
-gjennom Termportalen ved Universitetet i Bergen.
+KI-systemer kan effektivisere og muligens styrke kvaliteten på sensur, men det er også betydelige risikoer. Sensur er en sentral og rettssikkerhetskritisk del av høyere utdanning, der karaktervedtak får store konsekvenser for den enkelte student. Risikoene KI-sensur bærer med seg – for feilaktig karaktergivning, skjevpremiering og manglende forklarbarhet – gjør det klokt å legge til grunn et føre-var-prinsipp. Innføring av ny teknologi må basere seg på et godt kunnskapsgrunnlag og gjøres innenfor juridiske og etiske rammer.
 
-Studenter bør ha likeverdig tilgang til KI-systemer, i tråd med gratisprinsippet. Forskjeller i tilgang bør som hovedregel være faglig eller pedagogisk begrunnet. Da opplæring i riktig bruk av
-KI-systemer er sentralt for å forebygge økte forskjeller og digitale skillelinjer, bør det kunne forventes at alle institusjoner sikrer tilstrekkelig opplæring i bruk av KI-systemer for studenter og har
-oppdaterte retningslinjer for bruk av KI-systemer
-i undervisning og læring, slik at studentene er
-godt rustet og møter tydelige og forutsigbare
-rammer.
-Kostnadseffektiv ressursbruk
-En fragmentert utvikling og anskaffelse av KI-løsninger kan føre til unødvendig ressursbruk. På
-den annen side kan samordning hemme lokale
-initiativ og tilpasning. Det må sikres en balanse
-mellom på den ene siden fellestiltak på områder
-som KI-infrastrukturer og sikkerhet og på den
-andre siden lokal innovasjon og utvikling.
-Videre er det klokt å innta et langsiktig perspektiv på KI-relatert ressursbruk. Lisensavgiftene for de fremste språkmodellbaserte KI-tjenes-
+Utvalget legger til grunn at sensur aldri vil være ufeilbarlig, og at variasjon mellom menneskelige sensorer er en kjent og akseptert del av dagens ordning. Kunnskapsgrunnlaget viser at dagens KI-systemer har et potensial for å gi *reliabel* sensur, som i denne sammenhengen betyr å sette tilsvarende karakterer som menneskelige sensorer. Forskningsresultatene er lovende, men ikke så gode eller så robuste at de begrunner å åpne for KI-støttet eller -automatisert sensur. En gjenganger i litteraturen er at KI-systemer «presser sammen» karakterene til midten av karakterskalaen, med færre karakterer i det nederste og øverste sjiktet. Vi vet heller ikke nok om KI-systemenes evne til å *forklare* hvorfor en besvarelse blir vurdert til en gitt karakter. Underskudd på forklarbarhet gir grunn til å stille enda høyere krav til KI-systemenes evne til å vise faglig skjønn i karaktersetting.
 
-[Side 153]
+Vi behøver også mer kunnskap om ytre effekter av KI-sensur, for eksempel om hvordan det påvirker forholdet mellom student og underviser, studiemotivasjon og vurderingens samsvar med undervisningen. Forsvarligheten av KI-sensur beror også på disse faktorene. Mens KI-sensur i utgangspunktet kan sees på som en fortrengning av en menneske-til-menneske-interaksjon, kan det samtidig gi mer tid til (menneskelig) undervisning og veiledning.
 
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
+I lys av disse grunnene vurderer utvalget at det i dag ikke er faglig, etisk eller juridisk forsvarlig å åpne for KI-sensur, verken som automatisert sensur eller som beslutningsstøtte for sensor. Dette utelukker ikke at KI-systemer kan spille en rolle i sensur i fremtiden. Som beskrevet nedenfor, mener utvalget at KI-systemer i første omgang kan ha verdi som et verktøy for kvalitetssikring av sensur.
 
-tene har vært overkommelige i det store bildet,
-frem til nå. Slik fortsetter det ikke nødvendigvis.
-Kommersielle skytjenester er generelt preget av
-sårbarhet for leverandørens prissetting, i og med
-at det ofte er få konkurrerende tilbydere og at det
-kan være teknisk krevende å bytte løsninger.
-Kombinasjon av å eie egen datainfrastruktur og å
-utnytte modeller med åpen kildekode eller åpne
-vekter, kan gi besparelser på lang sikt, selv om
-datainfrastrukturen koster forholdsvis mye ved
-anskaffelse.
-Langsiktighet og forutsigbarhet
-Forvaltningen av KI-systemer må ha et langsiktig
-perspektiv og bygge på noen stabile rammer og
-prinsipper som felles kravspesifikasjoner, standard avtalevilkår m.m. som tar høyde for løpende
-teknologiutvikling.
-Plattformer, datalagring og regnekraft
-Utvalget mener at eksperimentering, utvikling og
-anvendelse av språkmodellbaserte KI-systemer i
-en utdanningsfaglig sammenheng forutsetter at
-universiteter og høyskoler har tilgang på en sikker plattform som gir tilgang til egne, åpne og
-kommersielle språkmodeller, tilstrekkelig regnekraft og datalagringskapasitet bl.a. for sensitive
-data innenfor sikre og trygge rammer under
-norsk jurisdiksjon. Det må være balanse mellom
-prisnivå og sektorens økonomiske handlingsrom.
-Utvalget forventer at universitets- og høyskolesektorens behov for regnekraft og datalagring vil
-øke i tiden fremover, i takt med den økte betydningen av KI-systemer og teknikker for trening og
-utvikling av KI. Mens forskningens behov for
-regnekraft og datainfrastruktur er nokså godt
-kjent, har vi mindre kunnskap nasjonalt om
-behovene som knytter seg til utdanningsvirksomheten. Å utvikle denne kunnskapen legger grunnlaget for bedre beslutninger om investeringer i
-datainfrastruktur.
+KI-systemers rolle i sensur i fremtiden
 
-8.6
+Utvalget mener at KI-systemenes potensial for sensur vil bli bedre over tid. Kapabilitetsutviklingen vil etter alt å dømme fortsette. Kunnskapsgrunnlaget vi har i dag henger etter teknologiutviklingen: Publiserte studier tar utgangspunkt i modeller som allerede har blitt erstattet av mer kapable modeller. Det er også mulig å videretrene modeller på sensur spesifikt. Gjøres slik videretrening innenfor bestemte fag, vil det kunne gi modeller som er spesielt godt trent for å utøve det faglige skjønnet som sensur typisk krever. Kvaliteten på resultatene man får med KI-sensur vil også avhenge av hvordan systemene blir instruert. For eksempel kan en god sensorveiledning ha mye å si.
 
-Utvalgets vurdering av hvordan
-høyere utdannings behov kan
-møtes på en forsvarlig måte
+På kort til mellomlang sikt vurderer utvalget at KI-systemer kan ha en verdifull rolle som kvalitetssikringsverktøy. Dette innebærer at sensor fastsetter karakterene, og at KI-systemet flagger eventuelle avvik. Så er det sensor selv som vurderer om visse karakterer skal justeres. Dette er det eneste substansielle bruksområdet der bruk av et KI-system til sensur er unntatt fra klassifisering som høyrisikosystem etter KI-forordningen. Krav knyttet til beskyttelse av personopplysninger gjelder fullt ut.
 
-8.6.1
+På lengre sikt kan KI-systemer spille en større rolle i sensur, som beslutningsstøtte, ved å avhjelpe behovet for medsensorer eller, eventuelt, ved automatisering. I utviklingen på dette området er det vesentlig å bevare rettssikkerheten til studentene.
 
-Styring og samarbeid
+Dersom KI-systemene viser seg å bli like gode som menneskelige sensorer, og de kan oppfylle krav til transparens og etterprøvbarhet, er det i teorien mulig å automatisere sensur. Det vil i så fall kreve en særskilt hjemmel i universitets- og høyskoleloven. For at et slikt tiltak skal være forsvarlig, må det ikke gå på bekostning av tilliten til høyere utdanning.
 
-Utvalget legger til grunn at norsk universitets- og
-høyskolesektor har en lang tradisjon med forvaltning av digitale fellestjenester. Sektoren har
-sterke kompetansemiljøer innenfor IT-utvikling i
-Sikt og i flere av de store universitetene. Etable-
+I et større bilde må automatisering av sensur også vurderes opp mot den samlede KI-bruken i høyere utdanning. Et viktig moment er hvilken makt man gir til eksterne teknologileverandører, drevet av andre formål enn universitetene og høyskolene (jf. kapittel 8). Videre, dersom for mange kjerneoppgaver overlates til teknologi, kan det samlet sett uthule verdien av høyere utdanning. Selv om det kan være gode grunner for å automatisere enkeltoppgaver, kan den samlede effekten være problematisk.
 
-151
+Forsøk
 
-Kapittel 8
+Utvalget anbefaler at det gjennomføres forsøk med KI-sensur. Anbefalingen er begrunnet i at vi har et manglende kunnskapsgrunnlag om påliteligheten av KI-sensur og at KI-systemer i prinsippet kan gi betydelige kvalitets- og effektiviseringsgevinster. Med forsøksbasert kunnskap om påliteligheten av KI-sensur kan man bedre avgjøre hva slags rolle KI-systemer kan ha i gjennomføring av sensur, herunder hvorvidt og hvordan KI-systemer kan brukes til kvalitetssikring.
 
-ring og drift av samstyringsmodellen (kap. 8.3.2)
-vitner om vilje til å forplikte egen institusjon og
-ressurser i et samarbeid til beste for sektoren som
-helhet, samtidig som det eksisterer en grense for
-når omfang og ressursbruk på samarbeidsprosesser blir ineffektivt eller til hinder for lokal innovasjon.
-Forvaltningen av KI-systemer må ta høyde for
-en rask teknologiutvikling. Dette innebærer at styrings- og forvaltningsmekanismer ikke kan være
-for statiske eller knyttet til bestemte KI-teknologier, men baseres på prinsipper som tar høyde
-for å håndtere både dagens og fremtidens KI-løsninger. En av de store utfordringene i nær fremtid
-er å finne ut hvordan bruken av agentiske KIsystemer kan rammes inn på en trygg måte, blant
-annet med henblikk på hvilke tilganger de kan gis.
-Det er mange forvaltningsnivåer og myndighetsorganer involvert i forvaltningen av KI-systemer i universitets- og høyskolesektoren. I tillegg
-til institusjonene selv og sentrale myndighetsorganer for høyere utdanning, har også Datatilsynet,
-Nasjonal kommunikasjonsmyndighet (Nkom) og
-Digitaliseringsdirektoratet, herunder KI Norge,
-relevante roller. Klar ansvarsdeling og konstruktivt samspill mellom alle aktørene har betydning
-for forvaltningens kvalitet og effektivitet.
+Slike forsøk må gjennomføres innenfor det juridiske handlingsrommet som er beskrevet ovenfor (jf. kapittel 7.11.1.2). I praksis betyr det å gjennomføre menneskelig sensur som gjeldende vedtak, uten bruk av KI, og så sammenlikne disse med resultatene et (personverntrygt) KI-system kommer frem til. Med en slik innretning ivaretar man både studentenes rettssikkerhet og tilliten til institusjonene, samtidig som man utvikler mer kunnskap.
 
-8.6.2
+Det fremste formålet med slike forsøk er å finne ut hvor pålitelige (reliable) KI-systemer kan være, målt opp mot vurderingene til en eller flere sensorer. Videre er det verdifullt å finne typiske feilkilder ved KI-sensur. Følgende variabler er av særlig interesse:
 
-Utvikling og anskaffelse av KI-systemer
-og KI-relevante ressurser
-En enkel tilnærming til hvordan man kan møte
-høyere utdannings behov for tilgang på KI-systemer, baserer seg på å kjøpe lisenser for kommersielle KI-systemer levert som skytjenester. Da får
-man i praksis alle lagene i den forenklede teknologistabelen – applikasjon, modell og infrastruktur –
-i én samlet pakke (jf. Figur 8.2). En slik tilnærming vil imidlertid gi sektoren lite kontroll over
-teknologien og lite handlingsrom for videreutvikling av KI-modeller og applikasjoner. Det vil i
-praksis innebære å gi tjenesteleverandørene betydelig makt over norsk høyere utdanning, og i tillegg sette oss i dårligere stand til å ivareta de
-andre hensynene som er beskrevet i kapittel 8.5.
-For eksempel vil det være vanskelig å ivareta hensynet til bærekraft om man ikke får målt energiforbruk, fordi modellene driftes fra datasentre vi
-ikke har innsyn i.
-For å ivareta hensynene som er beskrevet i
-kapittel 8.5 er det særlig viktig å kunne drifte
-modeller på egen infrastruktur. Det er med andre
-ord behov for en mer nyansert og differensiert tilnærming enn den som er beskrevet ovenfor. Tilnærmingen utvalget foreslår i det følgende, tar
+- Modellvalg, herunder om modellen er videretrent for formålet
+
+- Instruksjonene som har vært gitt
+
+- Hvilke fag og hva slags oppgaver det blir prøvd på
+
+På lengre sikt kan det utvikles forsøk med automatisert KI-sensur, dersom det foreligger et kunnskapsgrunnlag som tilsier at det er forsvarlig, og det er tillatt etter reglene som da gjelder. Forsøk med automatisert KI-sensur er gjenstand for krav om menneskelig kontroll av sensuren, og en rett for studenten til å kreve manuell kontroll av sensurvedtaket sitt. For å legge til rette for slike eksperimenter, bør rettsgrunnlaget for forsøk utredes nærmere, i tråd med ny forvaltningslov § 11, kommende forskrift om automatisert saksbehandling og KI-loven.
+
+Unngå uregulert sensur med åpne samtaleroboter
+
+Institusjonene har en plikt til å sikre at det ikke foregår skjult eller uregulert KI-sensur. Utvalget viser til at tydelige retningslinjer og opplæring av sensorer er påkrevd for å sikre lovlig sensur. I tillegg anbefaler utvalget at institusjonene inkluderer et forbud mot skjult eller uregulert KI-bruk til sensur i sensoravtalene.
+
+### Bruk av KI-systemer til karakterbegrunnelse
+
+#### Pålitelighet og ønskelighet av å bruke KI-systemer til karakterbegrunnelser
+
+En student har rett til å få en begrunnelse for sensurvedtaket sitt, jf. uhl. § 11-8. Begrunnelsen skal inneholde de generelle prinsippene som er lagt til grunn for sensuren, og vurderingen av studentens prestasjon. Ifølge Prop. 126 L (2022–2023), pkt. 23.11.8, skal «begrunnelsen gjøre studenten i stand til å se sine prestasjoner i lys av målene institusjonen har satt for besvarelsen og gi grunnlag for studenten til å vurdere om det er grunn til å klage på karakteren». Retten til karakterbegrunnelse følger av den generelle retten til begrunnelse av enkeltvedtak, etter forvaltningsloven § 24.[^71]
+
+Hvis en student ber om karakterbegrunnelse, skal den foreligge innen to uker, jf. uhl. § 11-8. Spesielt ved eksamener med mange kandidater kan dette legge et stort press på sensor. Som for sensur, gir språkmodellbaserte KI-systemer hittil ukjente muligheter for utarbeidelse av karakterbegrunnelser.
+
+Fordeler og ulemper ved bruk av KI-systemer til karakterbegrunnelser
+
+Det å bruke KI-systemer til karakterbegrunnelser kan gi flere fordeler:
+
+- *Effektivitet*: Et språkmodellbasert KI-system kan raskt og rimelig generere mange karakterbegrunnelser, og slik sterkt redusere arbeidsmengden for sensorer. Brukes KI-systemer som vurderingsstøtte vil sensorer fortsatt måtte bruke tid på å gjøre egne vurderinger, men trolig mindre. Tidsbesparelsen kan komme studiekvaliteten til gode, f.eks. gjennom mer tid til undervisning eller veiledning. KI-genererte karakterbegrunnelser kan også gjøre at studentene får raskere tilbakemelding.
+
+- *Konsistens*: KI-systemer kan gi mer konsistente begrunnelser gjennom å kalibrere innholdet i et sett med karakterbegrunnelser. Det kan også bidra til at omfanget og detaljgraden i begrunnelsene blir likere.
+
+- *Forklaringsverdi*: På grunn av effektiviteten kan KI-systemer gi grundigere og mer detaljerte forklaringer enn hva menneskelige sensorer i praksis har tid til.
+
+- *Læringsgevinst*: KI-systemer kan peke på konkrete styrker og svakheter i studentens besvarelse, eller gi forslag til forbedring, oppfølgingsspørsmål og nyttige referanser for videre arbeid. KI-systemer kan slik øke læringsgevinstene av karakterbegrunnelser.
+
+Det er også flere ulemper og risikoer ved bruk av KI-systemer til karakterbegrunnelse:
+
+- *Faglig dybde*: Dagens språkmodeller har en varierende evne til å vurdere nyanser i faglig innhold og dybde, kontekst og kreativitet. Dette kan føre til upresise eller lite relevante karakterbegrunnelser, spesielt i åpne oppgaver.
+
+- *Redusert ansvarsfølelse*: Bruk av KI-systemer til karakterbegrunnelser kan føre til redusert ansvarsfølelse hos sensor, eller fjerne ansvaret helt ved automatiserte begrunnelser. Dette kan svekke kvaliteten på karakterbegrunnelsene og ha ringvirkninger for kvaliteten på sensuren.
+
+- *Annen avsender*: Hvis sensor fatter et karaktervedtak og studenten får en KI-generert begrunnelse, så kan grunnene KI-systemet oppgir, avvike fra de grunnene sensor hadde for å sette karakteren. Avviket betyr ikke at grunnene KI-systemet gir er dårlige eller unyttige, men at de ikke nødvendigvis gjenspeiler de faktiske resonnementene til sensor.
+
+  Prosjekt KI til karakterbegrunnelser ved Universitetet i Agder
+
+Universitetet i Agder har utviklet et verktøy for å bruke KI-systemer som hjelpemiddel til karakterbegrunnelser, basert på et pilotprosjekt. Formålet var å undersøke potensialet for økt kvalitet og tidsbesparelse. I piloteringen av prosjektet ble eksamensbesvarelsene lastet inn i et lukket system basert på GPT-4, sammen med eksamensoppgaven og sensorveiledning, for å generere et utkast til en begrunnelse. I neste fase ble også karakteren matet inn. Når KI-systemet har generert et utkast til karakterbegrunnelse, gjennomgår og tilpasser sensor den. Ingen av sensorene som deltok i de første testene rapporterte at de hadde brukt mer tid, og flere hadde brukt mindre tid. KI-systemets utkast ble vurdert av sensorene som relevante og brukbare, men måtte redigeres. En mangel var gode tilbakemeldinger på studentenes kritiske refleksjoner. Universitetet fant også at kvaliteten på KI-systemets utkast gjenspeilet kvaliteten på sensorveiledningen: Verktøyet ga bedre utkast til karakterbegrunnelser under klare instrukser. Alle sensorer som deltok i prosjektet, var positive til å fortsette og videreutvikle systemet. Verktøyet ble satt i drift våren 2026, åpent for alle sensorer ved universitetet.
+
+\[Boks slutt\]
+
+Kvaliteten på verktøyet har mye å si for alle fordelene og ulempene KI-genererte karakterbegrunnelser kan gi. I likhet med sensur, gir teknologiutviklingen et større kvalitetspotensial for KI-baserte karakterbegrunnelser. I tillegg kan modeller videretrenes for formålet, herunder fagspesifikt, noe som høyner potensialet.
+
+#### Juridisk handlingsrom
+
+Etter dagens regler kan sensorer bruke KI-systemer som hjelpemiddel ved egen utarbeidelse av karakterbegrunnelser. For å automatisere karakterbegrunnelse med KI-systemer gir regelverket et avgrenset, men likevel større handlingsrom enn ved automatisering av sensur. Begrensningene og vilkårene er beskrevet nærmere i det følgende.
+
+Sensorkrav
+
+Studenter har rett på karakterbegrunnelse, jf. uhl. § 11-8. Forarbeidene til regelen legger til grunn at karakterbegrunnelsen utarbeides av de(n) sensoren(e) som gjennomførte sensuren. Automatiserte karakterbegrunnelser med KI-systemer er derfor ikke mulig etter dagens regler.[^72] Forvaltningsloven § 25 stiller derimot ikke krav til menneskelig utarbeidelse av begrunnelser.
+
+Krav til karakterbegrunnelser
+
+Begrunnelsen «skal inneholde de generelle prinsippene som er lagt til grunn for sensurvedtaket, og vurderingen av studentens prestasjon» etter uhl. § 11-8 siste ledd. Dermed skal begrunnelsen redegjøre for den konkrete sensurvurderingen, både om innhold og form. Den skal sette studenten i stand til å se sine prestasjoner i lys av læringsmålene til emnet. Hovedformålet med begrunnelsen er at den skal gi studenten grunnlag for å vurdere om den skal klage på karakteren, og dermed bidra til å gjøre vurderingen etterprøvbar (Prop. 126 L (2022–2023), særmerknad til § 11-8). Etter dagens regulering må altså KI-støttede karakterbegrunnelser, på lik linje med sensors egenproduserte begrunnelser, gjengi de reelle vurderingene som lå til grunn for sensuren.
+
+KI-systemers evne til å generere karakterbegrunnelser
+
+Hvorvidt det er juridisk forsvarlig å bruke KI-systemer til å generere automatiserte karakterbegrunnelser avhenger både av hvorvidt gjeldende rett er oppfylt og hva det aktuelle KI-systemet er i stand til. Det rettslige handlingsrommet for automatisering er tett knyttet opp til hva som er teknisk mulig, og dermed avhengig av teknologiutviklingen (jf. kapittel 4.3.2.).
+
+En KI-generert begrunnelse kan gi en indikasjon på hvorfor karakterfastsettingen ble som den ble, men begrunnelsen vil ikke, ontologisk sett, være sensorens. Siden forarbeidene til uhl. § 11-8 legger til grunn at begrunnelsen utarbeides av sensor, kan KI-systemer i dag kun brukes som et hjelpemiddel. Det kreves altså en lovendring dersom det skal være mulig å automatisere karakterbegrunnelser med KI-systemer.
+
+Sett bort fra at den ikke nødvendigvis samsvarer med sensors egne vurderinger, er det et videre spørsmål om en KI-generert karakterbegrunnelse kan innfri de andre kravene til karakterbegrunnelser. Etter uhl. § 11-8 og forarbeidene til regelen må KI-begrunnelsen kunne ivareta juridisk riktige hensyn. Nærmere bestemt må den kunne gi en realistisk og logisk vurdering av studentens prestasjon i samsvar med vurderingskriteriene i sensorveiledningen og den fastsatte karakteren. Selv om det er sensor og ikke KI-systemet som har satt karakteren, kan et tilstrekkelig godt KI-system gi en like god forklaring på hvordan karakteren følger av besvarelsen og vurderingskriteriene. Kravene til individuell vurdering tilsier at det trengs svært gode systemer dersom en helautomatisert løsning skal kunne oppfylle disse kravene.
+
+Merk at KI-systemers evne til å generere karakterbegrunnelser må holdes adskilt fra spørsmål om KI-systemers forklarbarhet og etterprøvbarhet. De juridiske rammene for bruk av KI-systemer og automatisert saksbehandling inneholder egne krav til datadrevne systemers forklarbarhet (jf. kapittel 4.3.4).[^73] Forklarbarheten til et KI-system handler om hvorvidt vi eller KI-systemet selv kan forklare hvordan gitte utdata blir skapt på grunnlag av gitte inndata. Anvendt på karakterbegrunnelser handler dette om hvordan innholdet i karakterbegrunnelsen ble skapt av KI-systemet på grunnlag av dataene som ble gitt til systemet. I praksis kan det være at disse to – en forklaring på en begrunnelse og begrunnelsen i seg selv – glir over i hverandre, men de må likevel her skilles fordi de dreier seg om ulike juridiske krav.
+
+Automatiserte karakterbegrunnelser
+
+En automatisert karakterbegrunnelse utgjør potensielt en automatisert individuell avgjørelse etter GDPR art. 22. Begrepet «avgjørelse» er i denne konteksten bredere enn «enkeltvedtak»: Det omfatter både avgjørelser med rettsvirkning og avgjørelser som «på tilsvarende måte *i betydelig grad påvirker* vedkommende», for eksempel at avgjørelsen «betydelig påvirker den berørtes situasjon, atferd eller valg» (European Data Protection Board, 2018, s. 22, utvalgets oversettelse). Denne definisjonen medfører at prosessledende handlinger som ikke er enkeltvedtak, kan være «avgjørelser» (se kapittel 4.3.4.).
+
+Hovedargumentet *mot* at karakterbegrunnelser utgjør en avgjørelse etter GDPR art. 22, er at dagens karakterbegrunnelse gis etter at karakteren er fastsatt. Gis karakterbegrunnelsen av et KI-system, er den frikoblet fra sensors oppfatning og påvirker dermed ikke karakterfastsettelsen. Hovedargumentet *for* er at den skal sette studenten i stand til å vurdere om det er grunnlag til å påklage karaktervedtaket, som kan føre til at karakteren settes opp eller ned. I tillegg skal en begrunnelse gjøre det mulig å ettergå vurderingene i sensuren. Dersom det er utfordrende å begrunne karakteren, kan det være tegn på at sensuren bør justeres. I så måte påvirker begrunnelsen studentens rettigheter, og kan falle under GDPR art. 22.[^74]
+
+Utvalget legger til grunn at karakterbegrunnelser oppnår terskelen om å «i betydelig grad» kunne påvirke sensurvedtaket gjennom studentens klageadgang. Derfor bør det tas høyde for at automatiserte karakterbegrunnelser er omfattet av GDPR art. 22s definisjon av «avgjørelser».[^75] Dette innebærer at automatiserte karakterbegrunnelser vil kreve en særlig lovhjemmel etter ny forvaltningslov § 11 tredje ledd. Gjøres det, gir ny forvaltningslov § 12 studenten rett til en nærmest umiddelbar forklaring, til å fremme sine synspunkter om begrunnelsen, samt rett til å be om en manuell kontroll. Dette kan for eksempel være relevant dersom KI-begrunnelsen fremstår feil eller misvisende.[^76]
+
+Merk at bruk av KI-systemer som hjelpemiddel til utarbeidelse av karakterbegrunnelser ikke er omfattet av kravene om automatiserte avgjørelser etter GDPR art. 22 og ny forvaltningslov §§ 11 til 13, da disse kun gjelder ved automatisering.
+
+Forsøk med automatiserte karakterbegrunnelser
+
+Universitets- og høyskoleloven § 17-1 gjør det mulig å søke departementet om tidsavgrensede unntak fra andre bestemmelser i universitets- og høyskoleloven, for å kunne gjennomføre tidsavgrensede pedagogiske og organisatoriske forsøk. Denne hjemmelen kan gjøre det mulig å få unntak fra sensorkravet som ligger til grunn for uhl. § 11-8 (se ovenfor).
+
+Det er imidlertid uklart om et slikt unntak kan gis, gitt hvordan automatisert saksbehandling er regulert av ny forvaltningslov § 11 jf. GDPR art. 22. Ny forvaltningslov § 11 andre ledd fastsetter at en avgjørelse ikke kan treffes automatisert dersom det rettslige grunnlaget som avgjørelsen bygger på, er til hinder for det. Bestemmelsens tredje ledd krever at det foreligger en særlig hjemmel for å fatte automatiserte avgjørelser omfattet av GDPR art. 22. Denne hjemmelen kan gis i forskrift. Handlingsrommet avhenger blant annet av hvorvidt karakterbegrunnelser er å regne som avgjørelser etter GDPR art. 22 (se ovenfor).
+
+Karakterbegrunnelser og høyrisiko KI-systemer
+
+Et annet spørsmål er hvorvidt KI-genererte karakterbegrunnelser, samt KI-systemer som utarbeider forslag til sensor, utgjør et høyrisikosystem etter KI-forordningen. Der de ovennevnte reglene i GDPR art. 22 om automatiserte avgjørelser skal vurderes i forhold til *effekten* bruk av KI-systemer har (rettsvirkning), er KI-forordningens høyrisikoklassifisering *formål*sbasert. Det betyr at den omfatter alle KI-systemer som har som formål å brukes til å evaluere læringsutbytte, inkludert systemer for tilbakemeldinger og evaluering i en summativ vurderingskontekst (EU-kommisjonen, 2026d, avsnitt 220–225 med eksempler). Dermed faller KI-systemer ment for karakterbegrunnelser inn under høyrisikokategorien.[^77] Ved bruk av KI-systemer som hjelpemiddel til karakterbegrunnelser, er det er imidlertid noe usikkert hvorvidt KI-forordningens krav til høyrisikosystemer gjelder. Dette medfører at KI-forordningens krav til høyrisikosystemer må oppfylles også for KI-begrunnelser, herunder systemkravene til transparens, forklarbarhet og etterprøvbarhet, og kravet om menneskelig kontroll (se Boks 4.3). KI-systemet må være utformet slik at det skal generere logger, med et egnet sporbarhetsnivå (KI-forordningen art. 12 nr. 2, jf. art. 26 nr. 6).[^78] Institusjonen (idriftsetter) må også føre menneskelig tilsyn (KI-forordningen art. 26 nr. 2).
+
+Videre gjelder hensynene til personvern og opphavsrett (jf. kapittel 7.11.1.2).[^79]
+
+#### Utvalgets vurdering
+
+Utvalget har vurdert hvorvidt KI-systemer egner seg til å generere automatiserte karakterbegrunnelser eller til å bistå sensorer med å utarbeide utkast til karakterbegrunnelser. I vurderingen legger utvalget vekt på at et av karakterbegrunnelsenes hovedformål er å sette studenten i stand til å vurdere om hen burde påklage karakteren eller ikke.
+
+Utarbeidelsen av karakterbegrunnelser er en tidkrevende oppgave for sensorer om den skal bli gjort godt; og den skal utføres innenfor en to-ukers frist. Dette er spesielt utfordrende i emner med mange studenter. Som en konsekvens er kvaliteten på karakterbegrunnelser variabel. Når den er god, kan det være fordi sensor har brukt mer tid enn hva som er bærekraftig.
+
+Andelen studenter som ber om karakterbegrunnelser økte etter at det ble teknisk enkelt å sende forespørsel. Studenter ønsker både å forstå karakteren de har fått og om de bør klage eller ikke. Flere studenter ønsker også tilbakemelding for å øke eget læringsutbytte.
+
+Utvalget mener dagens system for karakterbegrunnelser ikke fungerer godt, der sensorer blir tvunget til å velge mellom bærekraftig tidsbruk og det å gi gode, meningsfulle begrunnelser av komplekse, skjønnsmessige vurderinger. Det at karakterbegrunnelser gis etterskuddsvis, på forespørsel, betyr at momentene som gis i karakterbegrunnelsen ikke nødvendigvis er identiske med de sensoren vektla da karakteren ble fastsatt. Samtidig ville det betydd at uforholdsmessig mye ressurser gikk til karakterbegrunnelser, dersom de ble gitt samtidig med vedtaket, for alle studenter.
+
+Utprøvinger har vist at KI-systemer i mange fag kan utarbeide karakterbegrunnelser som gir studenter en grundig forklaring av karakteren ved å vurdere eksamensbesvarelsen opp mot oppgaven og sensorveiledningen, eventuelt supplert av sensors notater. Dette er noe studenter i utgangspunktet selv kan be et KI-system om, men en slik praksis gir dem ingen kvalitetssikring.
+
+Utvalget vurderer at det er mulig å utvikle KI-systemer som i de fleste fag vil kunne gi tilfredsstillende automatiserte begrunnelser av studentenes karakterer. Forutsetningene for dette er at modellene er tilstrekkelig gode, at systemet som brukes har en egnet innretning og at det gis tilstrekkelig klare og presise sensorveiledninger. KI-systemer kan da gi detaljerte begrunnelser som anvender vurderingskriteriene i sensorveiledningen på studentens besvarelse. Det kan gi studenten et tilstrekkelig godt grunnlag for å vurdere om hen skal påklage sensuren. Med hensyn til målet om at karakterbegrunnelsen skal gi studenten en bedre forståelse av egen prestasjon, kan et KI-system gi mer detaljerte tilbakemeldinger enn hva en menneskelig sensor i de fleste tilfeller kan ta seg tid til. Videre kan det bidra til mer konsistent kvalitet mellom karakterbegrunnelser.
+
+Dersom man får utviklet gode systemer for KI-genererte karakterbegrunnelser, forblir det problematisk at begrunnelsen har en annen avsender enn den som satte karakteren. Et KI-system vil ikke med noen form for sikkerhet kunne gjengi de momentene som sensor la vekt på da karakteren ble fastsatt. Dette er problematisk fordi det unntar sensor fra å forsvare vedtaket hen har truffet overfor dem vedtaket gjelder.
+
+Til tross for dette kan en KI-generert karakterbegrunnelse likevel «gjøre studenten i stand til å se sine prestasjoner i lys av målene institusjonen har satt for besvarelsen, og gi grunnlag for studenten til å vurdere om det er grunn til å klage på karakteren.» (Prop. 126 L (2022–2023), pkt. 23.11.8).
+
+Selv om KI-systemet er en annen avsender enn den som har fastsatt karakteren, kan studentene få karakterbegrunnelser av høy nok kvalitet og med større detaljgrad. Utvalget mener at KI-genererte karakterbegrunnelser vil kunne oppfylle de viktigste funksjonene til karakterbegrunnelser, i tillegg til å gi en betydelig effektiviseringsgevinst.
+
+På grunnlag av dette gir utvalget en betinget anbefaling om å åpne for automatiserte karakterbegrunnelser. Anbefalingen er betinget i den betydning at utvalget mener kunnskapsgrunnlaget først må bli bedre enn det er i dag. For å åpne opp for automatiserte karakterbegrunnelser med KI-systemer, bør studenter bli satt i tilnærmet like gode stand til å vurdere om de har grunn til å klage på karakteren, som de hadde vært med sensors egen karakterbegrunnelse.
+
+Å gjøre automatisering mulig krever en endring av sensorkravet som ligger til grunn for uhl. § 11-8. Reglene bør åpne institusjonenes handlingsrom, altså bør reglene legge til rette for at karakterbegrunnelser kan gis både manuelt og automatisert. Så sant karakterbegrunnelser er å regne som «avgjørelser» etter GDPR art. 22, vil det å åpne for automatiserte karakterbegrunnelser også kreve en særlig hjemmel (ny forvaltningslov § 11 tredje ledd).
+
+Større, selvstendige arbeider som masteroppgaver, og andre emner med stort omfang, krever omfattende studentarbeid og ofte veiledning. For disse mener utvalget at det er rimelig å beholde et sensorkrav. Reglene bør også ta høyde for at ikke alle typer arbeider kan vurderes av tilgjengelige KI-systemer. I dag vil for eksempel flere muntlige, praktiske og utøvende eksamener falle i denne kategorien. I tråd med dette kan muligheten for automatiserte karakterbegrunnelser også avgrenses fra bestemte oppgaveformater.
+
+Det vil være nødvendig å først gjennomføre utbredt testing av KI-systemer for begrunnelser, utover det som er gjort per i dag. Det kan gjøres gjennom ulike typer forsøk. Det er mulig å gjøre forsøk med KI-genererte karakterbegrunnelser som kan hentes ut, uten at man dermed fratar studentene retten til å få sensors egen karakterbegrunnelse. Slike forsøk kan gi informasjon om hva som skjer med mengden begrunnelseskrav og klagesaker når studentene får tilgang på KI-genererte karakterbegrunnelser. Forsøkene kan også suppleres med undersøkelser av hvor godt studentene opplever at KI-genererte karakterbegrunnelser fungerer sammenliknet med sensors. Slike forsøk vil imidlertid ikke kunne gi full informasjon om hvordan automatiserte karakterbegrunnelser vil fungere i praksis. Det er derfor ønskelig å åpne for tidsavgrensede forsøk med automatiserte karakterbegrunnelser.
+
+Utvalget anbefaler sentrale myndigheter å legge til rette for at det kan gjennomføres forsøk med automatiserte karakterbegrunnelser. Det betyr blant annet å avklare hvorvidt karakterbegrunnelser er å regne som avgjørelser etter GDPR art. 22 og ved behov få på plass nødvendige hjemler i lov eller forskrift. Hvis det er forenlig med kravene i ny forvaltningslov, bør Kunnskapsdepartementet kunne innvilge søknader om forsøk med automatiserte karakterbegrunnelser. Den kommende KI-loven vil også kunne gi muligheter for forsøk (KI-forordningen art. 57–61).
+
+Gjennom slike forsøk kan man også vinne erfaring med de juridiske kravene til KI-genererte karakterbegrunnelser. Dette regnes som høyrisiko etter KI-forordningen, noe som blant annet innebærer et krav om menneskelig kontroll. KI-systemet som anvendes må også være et lukket system med kontroll på dataene. Utvalget legger til grunn at automatisering medfører rettighetsskranker for studentene etter ny forvaltningslov §§ 11 til 13, som kan være med å styrke tillitten. Med KI-begrunnelsen skal det følge med en automatisert forklaring om hvordan KI-systemet kom fram til begrunnelsen, studentene har rett til å be om en manuell kontroll av sensor, og rett til å fremme sine synspunkter.
+
+Som et alternativ har utvalget vurdert om tilsvarende fordeler kan oppnås ved å bruke KI-systemer som et hjelpemiddel og en beslutningsstøtte for sensor. En slik løsning vil ikke gi den samme effektiviseringsgevinsten som automatiserte karakterbegrunnelser. En annen ulempe med KI-systemer som brukes til å lage forslag til sensor, er at sensor kan godkjenne et plausibelt utkast til karakterbegrunnelse som ikke nødvendigvis er sensors gjengivelse, noe som vil være vanskelig å oppdage. Det kan argumenteres for at KI-forslag til sensorbegrunnelser er etisk mer utfordrende enn automatiserte KI-begrunnelser: Det taler for automatisering at det ikke maskerer hva som er bidraget til sensor og hva som er bidraget til et KI-system.
+
+Regelverket for automatisert saksbehandling i ny forvaltningslov er under utvikling, og Justis- og beredskapsdepartementet skal foreslå nærmere regler i forskrift. Å automatisere begrunnelser uten å automatisere enkeltvedtak kan være en nærliggende løsning som kan effektivisere flere saksbehandlingsprosesser. Utvalget vil derfor anbefale sentrale myndigheter å ta høyde for denne muligheten.
+
+## Anbefalinger
+
+Utvalget anbefaler universiteter og høyskoler å
+
+- sørge for at fagmiljøene gjør regelmessige, KI-bevisste vurderinger av studietilbudenes vurderingsaktiviteter
+
+- gjøre større bruk av kontrollerte eksamensformer
+
+- supplere selvstendige arbeider og andre ikke-kontrollerte eksamener med en kontrollert eksamensdel. Institusjonene bør da gjøre en samlet vurdering av hvilket læringsutbytte kandidaten har oppnådd.
+
+- rendyrke det formative formålet med arbeidskrav
+
+- utnytte mulighetene KI-systemer gir for læringsfremmende tilbakemeldinger på studentenes arbeid, som et supplement til underviseres tilbakemeldinger
+
+- gjøre den muntlige delen av kombinasjonseksamener etterprøvbar for å sikre klagerett
+
+- gjøre forsøk med KI-systemer til ikke-gjeldende karaktersetting, parallelt med menneskelig sensur som gjeldende vedtak, for å utvikle kunnskap om hvilken rolle KI-systemer kan ha i sensur
+
+- inkludere et forbud mot skjult eller uregulert bruk av KI-systemer til sensur i sensoravtaler
+
+- gjøre forsøk med KI-genererte karakterbegrunnelser som et supplement til karakterbegrunnelser utarbeidet av sensor, for å undersøke hvor godt KI-genererte karakterbegrunnelser kan ivareta hensikten med karakterbegrunnelser
+
+Utvalget anbefaler sentrale myndigheter å
+
+- følge med på utbredelsen av korte hjemmeeksamener og vurdere strengere regulering eller sterkere styring dersom ikke andelen avtar vesentlig
+
+- sørge for bedre tilgang til statistikk om vurderingsformer, i samråd med institusjonene
+
+- gjennomgå lovens bestemmelser om klage og sensur ved kombinasjonseksamener, herunder endre universitets- og høyskoleloven § 11-11 fjerde ledd
+
+- legge til rette for at det kan gjennomføres tidsavgrensede forsøk med automatiserte karakterbegrunnelser ved hjelp av KI-systemer
+
+- sørge for at forskriftsreglene som blir utviklet om automatisert saksbehandling, med hjemmel i ny forvaltningslov, tar høyde for muligheten for å automatisere begrunnelser uavhengig av vedtak
+
+- lage en hjemmel for automatiserte karakterbegrunnelser i tråd med gjeldende regler for automatisert saksbehandling, på den betingelse at det kan fremstilles et kunnskapsgrunnlag som viser at KI-genererte karakterbegrunnelser kan sette studentene i tilnærmet like god stand til å vurdere om de skal klage på et sensurvedtak som karakterbegrunnelser utviklet av sensor selv

@@ -1,947 +1,228 @@
-# NOU 2026: 14, del 5 av 18 (side 55–65)
+# NOU 2026: 14, del 5 av 20
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2026/ac335adc-nou-2026-14.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2026-14/id3191187/
 - Original-PDF: https://www.regjeringen.no/contentassets/31691eb451e941e2b75fdc346978628f/no/pdfs/nou202620260014000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 20 figurer, 57 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-18, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 55]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-man faktisk er, kan ha flere negative følger, som å
-forsterke bekreftelsesfeller.
-En beslektet bekymring er at KI-systemer kan
-fremme det som omtales som kognitiv overgivelse
-– at brukeren i for stor grad overlater tenkning,
-vurdering og problemløsing til systemet (Shaw &
-Nave, 2026). Én oppfatning er at det kan henge
-sammen med hvordan KI-systemene utformes og
-måten de svarer på – om de legger til rette for dialog og kritisk vurdering av svarene de gir, eller
-om de bare gjør hele jobben for deg, som autonome KI-agenter (jf. kap. 3.4.4) (Mollick, 2026).
-Spørsmål som står igjen er hva disse effektene
-kan bety for tenkningen vår, følelsen av eierskap
-til det vi lager og forholdet vårt til egne vurderinger og dømmekraft.
-
-4.2.8
-
-Makt, offentlighet, påvirkning
-og idémangfold
-Digital teknologi er over tid blitt et stadig tydeligere maktmiddel, i takt med den omfattende
-digitaliseringen av samfunnets kritiske infrastruktur. KI forsterker denne tendensen ytterligere. Et
-fåtall globale aktører dominerer og legger i stor
-grad premissene for utviklingen (Sajadieh et al.,
-2026). Teknologien de kontrollerer har stor innvirkning på hverdagsliv, arbeidsplasser, utdanningsinstitusjoner, offentlig forvaltning og samfunnsliv. Den styrer informasjonsflyt og legger
-rammer for menneskelig samhandling, offentlig
-samtale og kritisk debatt. For universiteter og
-høyskoler berører det kjernen i dannelsesoppdraget. Hvem som kontrollerer tilgangen til kunnskap og rammene den formidles i, har avgjørende
-betydning. Normer og verdier som bygges inn i
-systemene, kan påvirke forskning, kunnskapsutvikling, faglig uavhengighet og akademisk
-debatt.
-KI påvirker kommunikasjon og informasjonsdeling, og dermed vilkårene for demokratisk deltakelse, offentlig samtale og kildekritikk. Algoritmene kan styre vår oppmerksomhet, fremheve
-noen kilder foran andre, moderere og personalisere innholdet vi ser, og favorisere følelsesutbrudd og engasjement fremfor langsomme analyser. Det har konsekvenser for hvilke perspektiver som får mest plass i debatten, oppfatninger av
-sannhet og måten mennesker møter uenighet på.
-Generative KI-systemer kan også brukes til
-bevisst manipulering ved å produsere desinformasjon i stor skala, og til målrettede påvirkningsforsøk mot bestemte grupper eller enkeltpersoner.
-Vanskeligheter med å skille mellom KI-generert
-og ekte bildemateriale, gjør faktabasert rapporte-
-
-53
-
-Kapittel 4
-
-ring komplisert. Det kan svekke grunnlaget for en
-felles virkelighetsoppfatning, forsterke konflikter
-og forstyrre diplomatisk arbeid. Bruk av KI-systemer til direkte påvirkning av demokratiske valg er
-påvist i flere land (Ekspertgruppen for kunstig
-intelligens og valg, 2025).
-Høyere utdanning spiller en sentral rolle i å
-utvikle og forsvare demokratiet. KI gir både
-muligheter og utfordringer for å utvikle demokratisk kompetanse. Som læringsstøtte kan teknologien gi tilgang til bredere perspektiver gjennom å
-klargjøre fremmede kontekster og oversette kulturelle referanser (Costello et al., 2024). På den
-annen side kan teknologien endre hvordan og
-hvor dypt studentene går inn i komplekse og
-utfordrende argumentasjoner som kan utvikle
-deres interkulturelle og demokratiske forståelse.
-Det kan etter hvert svekke evnen til å se saker fra
-flere sider.
-Prinsippet om akademisk frihet innebærer å
-fritt kunne bestemme hva man vil forske på og
-hvordan, frihet til å formidle resultatene av forskningen og frihet til å legge opp sin undervisning
-(NOU 2022: 2). Det forutsetter blant annet tilgang
-til etablert vitenskapelig kunnskap, en ubegrenset
-frihet til å dele og formidle kunnskap og forskningsresultater og en åpen dialog med studenter
-og fagfeller. Integrering av bestemte KI-systemer i
-den akademiske virksomheten har potensiale til å
-forstyrre eller forvrenge denne tilgangen, formidlingen og debatten.
-Teknologien er ikke verdinøytral, men formet
-av datagrunnlaget den bygger på og konteksten
-den er utviklet i, og dette farger resultatene som
-kommer ut (Rettberg, 2024; Tao et al., 2024).
-Moderne søkemotorer benytter en rekke KI-teknikker for å forstå søk, vurdere og rangere resultater, filtrere bort spam og irrelevante treff, tolke
-bilder og videoer, og for å persontilpasse anbefalinger. I økende grad bruker de også generative
-KI-systemer for å presentere sammendrag eller
-svar. KI-modeller har dermed sterk påvirkning på
-hvilke kilder som blir synlige, hvilke spørsmål
-som fremstår relevante, og hvilke faglige tradisjoner som videreføres.
-Om studenter og undervisere i stor grad støtter seg på de samme systemene, kan det føre til
-standardisering av språk og argumentasjon,
-måten informasjon kobles sammen og analyseres
-på, og hvordan kunnskap formidles. Det kan på
-sikt utfordre det faglige mangfoldet.
-Akademisk frihet forutsetter også at studenter
-og ansatte kan utforske ideer, stille spørsmål og
-fremme kontroversielle eller upopulære synspunkter uten frykt for urimelige konsekvenser.
-
-[Side 56]
-
-54
-
-Kapittel 4
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-Digitale produkter og systemer som kan misbrukes til overvåkning, lagring, sammenstilling og
-analyse av meningsytringer og diskusjoner, slik
-de for eksempel foregår i forelesninger eller kollokviegrupper, kan føre til selvsensur og redusert
-vilje til å prøve ut nye ideer eller utfordre etablerte
-oppfatninger. Slike nedkjølingseffekter kan bli
-sterkere dersom kroppsnær teknologi som smartbriller blir mer utbredt. Samme teknologi kan på
-den annen side bli et uunnværlig hjelpemiddel for
-noen grupper, for eksempel blinde og svaksynte,
-og styrke deres deltakelse i det akademiske fellesskapet.
-
-4.2.9 Digital suverenitet
-Bevisstheten om samfunnets og institusjonenes
-sårbarhet overfor den teknologiske maktstrukturen er økende. Avhengigheten ble tydelig demonstrert i august 2025 da USA innførte sanksjoner
-mot dommere og aktorer i Den internasjonale
-straffedomstolen ICC, som reaksjon på at domstolen hadde utstedt en arrestordre på Israels
-statsminister (Sandven, 2026). I oktober 2026 utvidet USA sanksjonene mot domstolen (Heggland
-et al., 2026). Denne type politiske represalier synliggjør den digitale avhengigheten både Europa
-og andre deler av verden har til USA, og innebærer i seg selv et demokratisk problem. Enkeltpersoner, bedrifter, organisasjoner, institusjoner
-eller stater som kommer på kant med noen som
-sitter på en slik makt, risikerer å bli utsatt for det
-samme.
-Amerikanske myndigheters kontroll over viktig digital infrastruktur ble også åpenbar i juni
-2026, da de brått innførte strenge eksportrestriksjoner på Anthropics nyeste språkmodeller.
-Restriksjonene ble opphevet et par uker senere,
-men bidro til å understreke behovet for å redusere avhengigheten til amerikanske teknologiselskaper (MarketScale Newsroom, 2026).
-Digital suverenitet er et vidt begrep som brukes om staters og institusjoners evne til å ha kontroll over egne data, digitale infrastrukturer og teknologiske valg. Digital suverenitet kan vurderes på
-ulike nivåer, som for eksempel europeisk, nasjonalt, sektorielt, institusjonelt og ned til enkeltindivider.
-Forretningsmodellene til kommersielle KIleverandører bygger ofte på lite transparent innsamling av data og lukkede kildekoder. Dette står
-i spenning med åpenhetsidealene til universiteter
-og høyskoler, som skal tilgjengeliggjøre kunnskap
-som et felles gode.
-
-Dette reiser spørsmål om hvordan universitets- og høyskolesektoren kan sikre akademisk frihet, verdigrunnlag, etisk forsvarlig bruk, stabil tilgang til KI-systemer og langsiktig forutsigbarhet i
-et mer spent geopolitisk landskap.
-
-4.2.9.1 Avhengighet, innelåsning og sårbarhet
-Utvikling og drift av avanserte språkmodellbaserte KI-systemer er konsentrert hos et begrenset antall teknologiselskaper, primært lokalisert i
-USA, men også i Kina. Teknologien inngår i en
-bredere internasjonal konkurranse om økonomisk og strategisk dominans. Dette utgjør en
-geopolitisk kontekst der tilgang til, kontroll over
-og regulering av KI blir et strategisk instrument
-på linje med annen kritisk infrastruktur. For universitets- og høyskolesektoren innebærer dette
-at institusjonene kan bli avhengige av teknologier, infrastrukturer og forretningsmodeller som
-er underlagt andre staters lovgivning, verdimessige prioriteringer og sikkerhetspolitiske
-vurderinger.
-4.2.9.2 Datasikkerhet
-Universitets- og høyskolesektorens forvaltning av
-store datamengder gjør den utsatt for komplekse
-trusler, herunder målrettede cyberangrep fra så
-vel kriminelle grupper som statlige aktører. Nesten all bruk av KI-systemer innebærer anvendelse
-av store datamengder med påfølgende utfordringer for informasjonssikkerhet og personvern. Ved
-bruk av skytjenester kan data bli lagret i andre
-land og under andre lands jurisdiksjoner. Dette
-reiser spørsmål om hvem som har kontroll over
-og tilgang til dataene, og om de kan misbrukes,
-for eksempel til trening av KI-modeller uten samtykke.
-4.2.9.3 Muligheter for verdiskaping
-Ferdigutviklede KI-løsninger levert av store teknologiselskaper gir umiddelbare fordeler i form
-av tilgang til avanserte kapabiliteter og reduserte
-utviklingskostnader. Denne tilgjengeligheten kan
-svekke insitamentene for å utvikle institusjonenes
-egen forsknings- og utviklingskapasitet, kompetansebygging, innovasjon og verdiskaping. Bruk
-av kommersielle KI-tjenester kan dermed redusere KI-teknologiens potensial for også å kunne
-realiseres som lokal innovasjon bl.a. gjennom
-samspill mellom universitets- og høyskolesektoren og næringslivet.
-
-[Side 57]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-4.2.10 Konklusjon
-Gjennomgangen viser at de etiske og strategiske
-problemstillingene ved utvikling og bruk av KI ligger på flere nivåer. Noen problemstillinger gjelder
-systemene selv: De er vanskelige å forstå og etterprøve, de kan forfølge andre mål enn de tiltenkte,
-og de kan videreføre skjevheter og gi uriktige
-svar. Andre gjelder grunnlaget systemene bygger
-på, som bruken av personopplysninger og åndsverk, forbruket av energi, vann og mineraler, og
-arbeidet som utføres. En tredje gruppe gjelder
-virkningene på mennesker og fellesskap: tillit og
-relasjoner i læringsmiljøet, sosial ulikhet, avhengighet og en overdreven tro på egen kompetanse.
-Den fjerde gjelder samfunnet: maktkonsentrasjon,
-vilkårene for offentlig samtale og akademisk frihet, og avhengighet av et fåtall utenlandske leverandører.
-Disse problemstillingene er ikke nødvendigvis
-argumenter mot å ta i bruk KI i høyere utdanning.
-Men de viser noe av hva som må til for at det skal
-være forsvarlig. Forutsetningene kan endre seg
-over tid. Flere av utfordringene har også en indre
-spenning. Teknologien som kan forsterke skjevheter, kan også gjøre skjevhetene lettere å oppdage. Systemene som kan svekke læring, kan
-også gi studenter tilbakemelding og støtte de
-ellers ikke ville fått. Prinsippene for pålitelig KI,
-som dette kapittelet tok utgangspunkt i, gir en
-ramme for å veie slike hensyn mot hverandre.
-Prinsippene selv kan ikke alltid oppfylles fullt ut
-samtidig, og avveiningene må gjøres i lys av alternativene. De juridiske rammene som gjennomgås
-i det følgende, setter grensene for dette handlingsrommet.
-
-4.3
-
-Juridiske rammer
-
-Ved utvikling og bruk av KI-systemer er det
-mange forskjellige juridiske rammer å ta hensyn
-til. De fleste er grunnet i europeisk regelverk.
-Den norske forvaltningsloven står sentralt ved
-bruk av KI-systemer til vedtak. Rettskildene har
-ulike formål og pliktsubjekter – noe som medfører
-at de ikke samhandler som et velfungerende puslespill. I tillegg er det store utviklinger på hvert og
-ett av de relevante rettsområdene. KI er en ny teknologi som krever nye tolkninger og nye regler.
-Dette betyr at de juridiske rammene både er komplekse og ustabile.
-En juridisk vurdering er nødvendig når en
-institusjon tilbyr sine studenter og ansatte et KIsystem, når systemene brukes til læringsanalyse,
-
-55
-
-Kapittel 4
-
-undervisningsstøtte eller kvalitetsarbeid, eller når
-et KI-system blir brukt som hjelpemiddel til å fatte
-vedtak. Universiteter og høyskoler treffer en
-rekke enkeltvedtak, blant annet om opptak, sensur, annullering av eksamen, utestengelse og skikkethet.
-Noen av de viktigste juridiske rammene for
-bruk av KI-systemer blir beskrevet i det følgende. Beskrivelsene er på et overordnet nivå
-og er ikke ment å være komplette eller detaljerte. Konkrete tolkninger og anvendelser av
-regelverkene blir gitt der hvor de har betydning
-for spørsmålene i utredningen. De senere kapitlene ser nærmere på spesifikke juridiske problemstillinger, særlig innen vurdering (jf. kap. 7)
-og forvaltning av KI-systemer (jf. kap. 8). For
-mange av spørsmålene utvalget tar opp, er rettstilstanden uavklart. Noen anvendelser kan utvalget legge til grunn med høy grad av sikkerhet,
-mens i andre situasjoner vil institusjonenes
-anvendelse av regelverket avhenge av egenskaper ved teknologien som brukes og andre variable forhold. Fremstillingen gjengir rettstilstanden slik den er i dag, og peker på pågående
-endringsprosesser og tolkningsutvikling som
-kan føre til endringer.
-
-4.3.1
-4.3.1.1
-
-Menneskerettigheter
-Europarådets rammekonvensjon om
-kunstig intelligens
-
-Europarådets rammekonvensjon om kunstig intelligens er den første juridisk bindende internasjonale traktaten om KI. Den ble adoptert 17. mai
-2024 av Europarådets ministerkomité. Norge,
-medlemslandene i EU og sytten andre land har
-signert konvensjonen. Den er utviklet som et globalt rammeverk for å sikre at all aktivitet knyttet
-til utvikling, bruk og styring av KI-systemer skjer i
-tråd med menneskerettighetene, demokratiske
-verdier og rettsstatsprinsipper.
-Formålet til rammekonvensjonen er å etablere
-felles prinsipper og forpliktelser for stater, slik at
-KI-systemer ikke undergraver demokratiske prosesser, bidrar til diskriminering eller påfører
-annen skade. Samtidig har den som formål å
-fremme ansvarlig innovasjon.
-Konvensjonen omfatter en rekke grunnleggende prinsipper og krav. Den gir blant annet
-prinsipper om transparens, ansvarlighet, ikke-diskriminering, respekt for menneskelig verdighet
-og trygg innovasjon. Konvensjonen stiller krav
-om risiko- og konsekvensvurderinger for KI-systemer, og den etablerer rettigheter og klageme-
-
-[Side 58]
-
-56
-
-Kapittel 4
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-kanismer for personer som påvirkes av automatiserte beslutningsprosesser. Den adresserer med
-andre ord mange av de etiske og juridiske problemstillingene som KI reiser i høyere utdanning.
-Europarådets rammekonvensjon om KI skaper ikke nye menneskerettigheter, men skal
-bidra til at eksisterende forpliktelser, blant annet
-etter Den europeiske menneskerettighetskonvensjonen (EMK) (jf. kap. 4.3.1.2), etterleves når
-KI-systemer tas i bruk (Stoyanova, 2026).
-Europarådets styringskomité for menneskerettigheter har også utarbeidet en håndbok om
-hvordan EMK får anvendelse på KI i utvalgte
-sektorer, blant annet utdanning (Steering Committee for Human Rights, u.å.).
-Norge har foreløpig ikke ratifisert konvensjonen siden denne er knyttet til arbeidet med en ny
-KI-lov, som skal gjennomføre EUs KI-forordning i
-norsk rett (jf. kap. 4.3.2). I høringsnotatet vurderer Digitaliserings- og forvaltningsdepartementet
-at Norge fullt ut vil oppfylle konvensjonens krav
-når KI-loven er vedtatt (Digitaliserings- og forvaltningsdepartementet, 2025). Departementet viste
-til at konvensjonen er en minstestandard som gir
-statene stor fleksibilitet, og at mange av forpliktelsene allerede er oppfylt gjennom teknologinøytralt regelverk. For offentlig sektor legger departementet til grunn at kravene om klagemulighet
-og informasjon i stor grad følger implisitt av forvaltningsloven og særlovgivningen. (Digitaliserings- og forvaltningsdepartementet, 2025, kap.
-20.2).
-Det er likevel ikke gitt at dette er tilstrekkelig.
-Konvensjonen gjelder all bruk av KI-systemer
-som kan berøre menneskerettigheter, demokrati
-og rettsstat, mens forordningen er et produktsikkerhetsregelverk der de fleste og sterkeste
-kravene er knyttet til nærmere angitte høyrisikosystemer (Stoyanova, 2026). Ifølge et høringsinnspill til regjeringen er KI-forordningens regler
-om klage, forklaring og informasjon snevrere enn
-rammekonvensjonens. I tillegg blir rettighetene i
-offentlig sektor mindre forutsigbare når de må
-utledes av generelle saksbehandlingsregler
-(Arnesen et al., 2025). Det kan føre til et behov for
-å supplere KI-loven med regler i annen lovgivning.
-
-4.3.1.2
-
-Den europeiske
-menneskerettighetskonvensjon
-
-Den europeiske menneskerettighetskonvensjonen (EMK) ble vedtatt av Europarådet i 1950
-og har som formål å beskytte grunnleggende
-menneskerettigheter og friheter. I Norge er EMK
-
-gjennomført gjennom lov 21. mai 1999 om styrking av menneskerettighetenes stilling i norsk
-rett, og har forrang over andre lover ved rettskonflikter (menneskerettsloven). Dersom en anser
-seg krenket av den norske staten i strid med
-EMK, kan en klage til Den europeiske menneskerettighetsdomstolen når nasjonale rettsmidler er
-uttømt.
-EMK art. 8 regulerer retten til privatliv. Den
-europeiske menneskerettighetsdomstolen tolker begrepet om privatliv bredt, slik at det blant
-annet inkluderer digital sporing og omfattende
-behandling av personopplysninger.
-EMK art. 8 fungerer som en overordnet rettighet, mens konkrete rettigheter knyttet til personopplysninger i hovedsak reguleres av personvernforordningen (GDPR), se kapittel 4.3.3.
-Samtidig har Den europeiske menneskerettighetsdomstolen bidratt med relevant rettspraksis. Blant annet har domstolen funnet at videoovervåkning av forelesningssaler ved et universitet
-var et inngrep i de ansattes privatliv («Antović og
-Mirković mot Montenegro», 2017), at vern av
-personopplysninger er en grunnleggende del av
-retten til privatliv («S. og Marper mot Storbritannia», 2008), og at bruk av ansiktsgjenkjenning er
-særlig inngripende («Glukhin mot Russland»,
-2023).
-Også andre rettigheter har betydning for bruk
-av KI-systemer i høyere utdanning. Retten til
-utdanning etter EMK første tilleggsprotokoll art.
-2 gjelder for høyere utdanning, og setter rammer
-for bruk av KI-systemer i opptak, vurdering og
-utestenging. Diskrimineringsforbudet i EMK art.
-14 er relevant når KI-systemer behandler studentgrupper ulikt, for eksempel ved skjevheter i automatisert vurdering. Ytringsfriheten etter EMK
-art. 10 omfatter akademisk frihet og retten til å
-motta informasjon. Den kan i tillegg berøres av
-overvåkning og av systemer som filtrerer eller
-rangerer kilder. Retten til rettferdig rettergang og
-til et effektivt rettsmiddel etter EMK art. 6 og 13
-kan få betydning i fuskesaker der KI-systemer
-brukes som bevis.
-
-4.3.2
-
-KI-forordningen
-
-4.3.2.1 Innledning
-Forordningen om kunstig intelligens, KI-forordningen, ble vedtatt i EU i 2024 og gjort gjeldende
-i EU fra 2. august 2026. Reglene om høyrisikosystemer i utdanning og regulatoriske sandkasser har ennå ikke trådt i kraft, men er planlagt å
-gjøre det fra 2. desember 2027 (EU-kommisjo-
-
-[Side 59]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-nen, 2026e).1 Regjeringen jobber med å gjennomføre KI-forordningen i norsk rett, og en egen
-norsk KI-lov er ventet å bli behandlet i løpet av
-2027.2
-Nasjonal
-kommunikasjonsmyndighet
-(Nkom) blir det nasjonale kontaktpunktet som
-koordinerende markedstilsynsmyndighet.
-
-4.3.2.2
-
-Hva regulerer den?
-
-Formål og type regulering
-Forordningen har som mål å legge til rette for at KI
-blir brukt på en måte som beskytter grunnleggende rettigheter, slik som aspekter ved studentenes utdanning og deres privatliv. Forordningen
-deler KI-systemer inn etter risikonivåer, fra minimal
-risiko til uakseptabel risiko, avhengig av hva systemene er laget eller satt i drift for å gjøre. Risikoklassifiseringen gir opphav til ulike sett med tillatelser
-og forpliktelser, fra ingen reguleringer til forbud.
-KI-forordningen er i utgangspunktet en produktlovgivning som lager et rammeverk for utvikling, markedsføring og bruk av KI-systemer i EUs
-indre marked. Den fastsetter harmoniserte regler
-for transparens, og hvordan KI-systemer kan
-omsettes, settes i drift og anvendes i unionen.
-Videre inneholder forordningen regler om overvåkning, markedsovervåkning, forvaltning og
-håndheving, og den fremmer tiltak som er ment å
-støtte innovasjon.
-KI-systemer og KI-modeller til allmenne formål
-KI-forordningen gjelder i hovedsak for KI-systemer, som er definert som et maskinbasert system
-som er utformet for å fungere med en varierende
-grad av autonomi, og som etter idriftsettelse kan
-vise tilpasningsevne. Et KI-system skal, basert på
-inndata, kunne generere utdata, slik som prediksjoner, innhold, anbefalinger eller beslutninger,
-1
-
-2
-
-KI-forordningens ikrafttredelse den 2. desember 2027
-gjelder høyrisikosystemer innen utdanning etter art. 6 nr. 2
-jf. Vedlegg III (se nedenfor). Et viktig unntak gjelder for
-«operatører av KI-systemer med høy risiko,[…] som er
-brakt i omsetning eller tatt i bruk før 2. august 2026, etter
-art. 111 nr. 2»: for disse får forordningen anvendelse «bare
-dersom det fra og med nevnte dato gjøres betydelige endringer i utformingen av disse systemene». Men for offentlige myndigheter gjelder følgende: «I alle tilfeller skal leverandører og idriftsettere av KI-systemer med høy risiko
-som skal brukes av offentlige myndigheter, treffe de nødvendige tiltakene for å overholde kravene og forpliktelsene
-i denne forordningen innen 2. august 2030.»
-Forslag til gjennomføring av KI-forordningen i norsk rett
-(den såkalte KI-loven) har vært på høring sommeren 2025
-og blir sendt på ny høring høsten 2026, som følge av endringer i KI-forordningen. En lovproposisjon er forventet
-fremmet til Stortinget våren 2027.
-
-57
-
-Kapittel 4
-
-som kan påvirke fysiske eller virtuelle miljøer (KIforordningen art. 3 nr. 1). De KI-systemene som
-ikke oppfyller denne definisjonen, faller utenfor
-forordningens virkeområde.
-I tillegg regulerer forordningen KI-modeller til
-allmenne formål. Store bilde- og språkmodeller
-kan brukes til en uavgrenset mengde formål og
-regnes derfor som KI-modeller til allmenne formål. Slike grunnmodeller kan brukes i KI-systemer med spesifikke formål, for eksempel som
-«hjernen» i en digital undervisningsassistent.
-Hvem KI-forordningen gjelder for
-Forordningen gjelder først og fremst for profesjonelle aktører, slik som leverandører og idriftsettere av KI-systemer, samt importører og distributører. En leverandør utvikler eller får utviklet et
-KI-system eller en KI-modell til allmenne formål,
-og bringer den i omsetning eller tar i bruk KI-systemet under eget navn eller varemerke (KI-forordningen art. 3 nr. 3). For eksempel tar Sikt og UiO
-i bruk ulike KI-modeller for å levere KI-systemer
-under egne navn (Sikt KI og GPT UiO), og blir
-dermed leverandører etter KI-forordningen, med
-de forpliktelser som følger med. Institusjonene
-inntar rollen som idriftsetter når de innenfor sin
-virksomhet bruker et KI-system, som er utviklet
-eller tilpasset av en leverandør.
-Forordningen gjelder ikke for fysiske personer som bruker KI-systemer for ikke-profesjonell aktivitet. Dette betyr at studenter som brukere ikke er pliktsubjekter under KI-forordningen
-når de bruker KI-systemer til studiene sine. De er
-da å regne som sluttbrukere eller «berørte personer». Denne statusen gir studentene flere rettigheter, for eksempel en rett til forklaring dersom
-en beslutning som påvirker dem, er basert på
-utdata fra et høyrisikosystem.
-Unntak, herunder forskning
-Forordningen har to unntak som er særlig viktige for universitets- og høyskolesektoren. Det
-første gjelder utviklingsfasen. Forordningen gjelder i utgangspunktet ikke ved forskning-, testingeller utviklingsaktivitet før et KI-system tas i
-bruk. Men hvis en institusjon tester et KI-system
-under virkelige forhold, gjelder forordningen
-likevel.3
-3
-
-Testing under virkelige forhold foregår i det nøyaktige
-driftsmiljøet hvor systemet skal fungere i det daglige, og
-ikke i et konstruert eller isolert testmiljø, slik som en
-«sandkasse» jf. KI-forordningen art. 57-61.
-
-[Side 60]
-
-58
-
-NOU 2026: 14
-
-Kapittel 4
-
-Kunstig intelligens i høyere utdanning
-
-Det andre gjelder forskningsformålet. KI-forordningen gjelder ikke for KI-systemer eller
--modeller som er spesifikt utviklet og tatt i bruk
-med forskning og vitenskapelig utvikling som
-eneste formål. Hvis et slikt system senere brukes
-til andre formål, for eksempel i undervisning eller
-vurdering, gjelder KI-forordningen fullt ut.
-
-4.3.2.3 Risikobasert tilnærming
-KI-forordningen har en risikobasert tilnærming til
-mangfoldet av systemer som er og vil komme i
-omløp. Den deler KI-systemer inn etter grad av
-risiko for skadelig innvirkning på EUs grunnleggende verdier, og her er utdanning berørt på flere
-nivåer.
-
-Krav til KI-kompetanse
-Leverandører og idriftsettere av KI-systemer må i
-størst mulig grad treffe tiltak for å sikre et tilstrekkelig nivå av KI-kompetanse hos ansatte og andre
-som arbeider på deres vegne. Dette kan være både
-vitenskapelig og administrativt ansatte. Kompetansetilbudet må ta hensyn til målgruppenes kunnskap om teknologi, erfaring og utdanning, samt
-konteksten KI-systemet skal brukes i. Europarådet
-har utarbeidet Guidelines for developing and promoting the human dimension for AI literacy (Europarådet, 2026, jf. EU-kommisjonen, 2025c; UNESCO,
-2024). Studentene skal for eksempel kunne forstå
-hvordan beslutninger påvirker dem når disse er tatt
-med hjelp av et KI-system.
-
-Forbudte KI-systemer med uakseptabel risiko
-KI-systemer som innebærer en uakseptabel
-risiko, er forbudte, jf. KI-forordningen art. 5. For
-høyere utdanning er det spesielt relevant at sosial
-rangering er forbudt, og i utdanningsinstitusjoner
-og på arbeidsplasser er det forbudt å gjenkjenne
-følelser. Det er i tillegg forbudt å klassifisere personer basert på deres sosiale adferd eller personlighetstrekk, samt å lage biometrisk kategorisering for å avlede beskyttede karakteristikker slik
-som rase og politiske meninger.
-
-5LVLNRNODVVLȴVHULQJ
-HWWHUWLOWHQNWIRUP§O
-
-Uakseptabel risiko: forbudt
-Eks. følelsesgjenkjenning
-i utdanningssituasjoner
-
-.UDYRPIDWWHQGH
-Eks. KI-sensur inkl.
-besluttningsstøtte
-
-.UDYWUDQVSDUHQV
-Eks. samtalerobot til
-læringsassistanse
-
-.UDYLNNHUHJXOHUW
-Eks. KI-stavekontroll
-
-Eks. GPT-6 Astra,
-Fable 5.1.
-
-.ΖV\VWHPHU
-Ulike krav for:
-
-Høy risiko
-
-Leverandører:
-bringer i
-omsetning
-
-%HJUHQVHWULVLNR
-
-Idriftsettere:
-DQVND΍HURJ
-tar i bruk
-
-0LQLPDOULVLNR
-
-*UXQQPRGHOOHU
-
-.ΖPRGHOOHUWLO
-DOPHQQHIRUP§O
-
-Figur 4.2 KI-forordningens risikoklassifikasjoner for KI-systemer; og modeller til allmenne formål
-
-[Side 61]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-59
-
-Kapittel 4
-
-Boks 4.3 Krav til KI-systemer med høy risiko
-Høyrisikosystemer må oppfylle krav om blant
-Universiteter og høyskoler skal i tillegg, som
-annet
-idriftsettere av en offentlig tjeneste, gjennom– risikohåndteringssystem etter art. 9, som
-føre en forhåndsvurdering av konsekvenser for
-blant annet skal adressere kjente og forutsiggrunnleggende rettigheter, som bruken av et
-bare risikoer knyttet til systemets bruk
-slikt høyrisikosystem kan medføre (KI-forord– dataforvaltning etter art. 10, med krav til
-ningen art. 27). Konsekvensanalysen forkortes
-datakvalitet og egnethet til treningsdata. KIsom FRIA (fundamental rights impact assesssystemer skal trenes på relevante, represenment) og kan utføres sammen med en vurdering
-tative, feilfrie og komplette data for å reduav personvernkonsekvenser (DPIA eller data
-sere risikoen for skjevheter og diskrimineprotection impact assessment). En slik FRIA skal
-ring.
-gjennomføres før høyrisikosystemet settes i
-– teknisk dokumentasjon etter art. 11, om
-drift. Formålet med en FRIA er at universiteter
-hvordan systemet virker, for å kunne forstå,
-og høyskoler skal identifisere spesifikke risikoer for rettighetene til studenter eller arbeidsverifisere og etterprøve samsvar med kravtakere som sannsynligvis vil bli berørt, og idenene
-tifisere tiltak som skal treffes hvis disse risiko– hendelseslogger etter art. 12 (jf. art. 19 og 26
-ene oppstår.
-nr. 6), for å sikre sporbarhet for å blant annet
-identifisere risikosituasjoner
-1
-Regelen krever klar og forståelig informasjon om syste– at mennesker skal kunne kontrollere systemets funksjoner, kapasiteter og begrensninger, samt
-met etter art. 14, slik at mennesker kan overinformasjon om hvordan KI-beslutninger tas og hvilke
-implikasjoner de kan ha. Dette inkluderer, når det er henvåke, forstå og effektivt overstyre systemet,
-siktsmessig, spesifikasjoner for inndataene eller evenblant annet for å forhindre at diskriminetuell annen relevant informasjon om de trenings-, validerende eller urettmessige utfall blir stående
-rings- og testdatasettene som brukes, tatt i betraktning
-det tiltenkte formålet med høyrisikosystemet. I tillegg
-– nøyaktighet, robusthet og cybersikkerhet
-skal det, dersom det er relevant, foreligge informasjon
-etter art. 15, slik at KI-systemet skal være så
-som gjør det mulig for idriftsettere å tolke utdataene fra
-motstandsdyktig som mulig mot feil, mangler
-høyrisikosystemet og bruke dem på en hensiktsmessig
-måte. Disse kravene er ment å begrense KI-systemers
-eller uoverensstemmelser
-utfordringer knyttet til etterprøvbarhet og transparens.
-– innskjerpede krav til åpenhet og informasjon
-1
-for høyrisikosystemer etter art. 13 og 50
-– rett til forklarbarhet etter art. 86
-
-KI-systemer med høy risiko, inkludert visse KI-systemer
-innen utdanning
-Et KI-system klassifiseres som et høyrisikosystem dersom det kan innebære høy risiko for
-helse, sikkerhet eller grunnleggende rettigheter,
-herunder utdanning. Av særlig relevans for høyere utdanning, regnes et system som høy risiko
-dersom det er beregnet for bruk til opptak til
-utdanning, vurdering av studenter, sensur og fusk
-(KI-deteksjon), se KI-forordningen art. 6 nr. 2, jf.
-vedlegg III nr. 3. Hensikten er å beskytte studenter og søkere.
-Hvis et KI-system klassifiseres som høy
-risiko, må systemet oppfylle en rekke krav, med
-ulike forpliktelser for leverandører og idriftsettere. Høyrisikosystemer skal overholde krav
-til tilstrekkelig robusthet, sikkerhet og nøyaktig-
-
-het (se Boks 4.3). EU-kommisjonen har laget et
-utkast til veileder om klassifisering av høyrisikosystemer, herunder av vilkårene for å bli unntatt
-slik klassifisering (EU-kommisjonen, 2026d).
-Det kan være mulig å få unntak fra klassifisering som høyrisikosystem, men nåløyet er lite.
-KI-systemer som i de nevnte kontekstene brukes
-innenfor utdanning, kan få unntak dersom de
-ikke utgjør en vesentlig risiko for skade på studentenes grunnleggende rettigheter, og ikke i
-vesentlig grad påvirker resultatet av en beslutningsprosess, jf. KI-forordningen art 6 nr. 3. I
-henhold til klassifisering som høyrisikosystem
-har det dermed mye å si om et KI-system kun
-brukes til støtte (som her betyr en rent forberedende oppgave). Et eksempel på dette er å sende
-et brev i opptakssystemet som ikke materielt
-påvirker beslutningen som blir tatt av et men-
-
-[Side 62]
-
-60
-
-Kapittel 4
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-neske, i motsetning til KI-støtte til en beslutning
-om hvorvidt en kandidat blir tatt opp til et studieprogram. Dersom KI-systemet er med på å forberede beslutninger, innebærer det høy risiko.
-Menneskelig involvering i seg selv er ikke tilstrekkelig for å oppfylle de snevre unntaksbestemmelsene (EU-kommisjonen, 2026d). Dersom en leverandør mener at et KI-system innen
-utdanning ikke medfører høy risiko, skal den
-dokumentere risikovurderingen før systemet
-bringes i omsetning eller tas i bruk (KI-forordningen art. 6 nr. 4). På anmodning fra nasjonale
-myndigheter skal leverandøren fremlegge dokumentasjonen for vurderingen.
-KI-systemer med begrenset risiko
-KI-systemer med begrenset risiko er underlagt
-forpliktelser om transparens i KI-forordningen
-art. 50. Dette er KI-systemer som er rettet mot
-direkte interaksjon med fysiske personer. Disse
-skal utvikles på en slik måte at brukeren blir opplyst om at de interagerer med et KI-system.
-
-4.3.2.4 KI-modeller til allmenne formål
-KI-forordningens kapittel V regulerer KI-modeller
-til allmenne formål. Grunnmodeller som OpenAIs
-GPT-6 Astra og Anthropics Fable 5.1. havner i
-denne kategorien, ettersom de kan brukes til et
-vidt spekter av ulike formål. En KI-modell til allmenne formål kan brukes med brukergrensesnitt
-(for eksempel appene ChatGPT eller Claude) eller
-integreres i andre KI-systemer.
-Noen KI-modeller til allmenne formål regnes
-som å ha en «systemisk risiko». Dette gjelder
-modeller som har et stort nedslagsfelt og som er
-utviklet med mye regnekraft, slik som de største,
-kommersielle grunnmodellene. Modellene med
-systemisk risiko må oppfylle tilleggskrav som
-bidrar til å redusere risikonivået. Dette inkluderer
-spesialtilpassede krav til åpenhet, for å begrense
-KI-modellers utfordringer med etterprøvbarhet
-og transparens.
-Universiteter og høyskoler kan gi tilgang til
-slike KI-modeller til sine ansatte og studenter. Det
-er da institusjonenes ansvar å sikre at modellene
-brukes på en trygg og lovlig måte. Dette betyr at
-de bør ha interne retningslinjer for bruk av KI-systemer, sikre at ansatte bruker KI-systemer på lovlig vis, spesielt med hensyn til personvern og opphavsrett, men også ved å unngå praksis som ville
-ført til tilsvarende automatiserte beslutninger. De
-bør også sørge for opplæring slik at ansatte forstår
-når og hvordan KI-systemer kan brukes, samt risi-
-
-koer knyttet til blant annet feilinformasjon, skjevheter og fortrolighet.
-Når universiteter og høyskoler gir studenter
-og ansatte brukerlisenser for kommersielle KIsystemer som bygger på modeller til allmenne formål, gjelder krav som idriftsetter av KI-systemer.
-Dersom de selv utvikler systemer som bygger på
-modeller til allmenne formål, gjelder egne krav
-som leverandør av KI-systemer.
-
-4.3.2.5
-
-Innovasjon, regulatoriske sandkasser
-m.m.
-KI-forordningen åpner også opp for innovasjon.
-For å legge til rette for dette, skal hvert medlemsland minst ha én såkalt regulatorisk sandkasse. Dette er et kontrollert miljø for innovasjon
-som gir muligheten til å utvikle, trene, teste og
-validere KI-systemer i en begrenset tidsperiode,
-før de tas i bruk. Sandkasser kan omfatte testing
-under virkelige forhold, under tilsyn. Formålet
-er å støtte utveksling av beste praksis gjennom
-samarbeid med myndigheter, å fremme innovasjon og konkurranseevne, å bidra til evidensbasert lovgivningsmessig læring og å framskynde adgangen til EU-markedet for KI-systemer. Datatilsynet har hatt flere regulatoriske
-sandkasser knyttet til KI og personvernforordningen, blant annet for NTNU da de skulle innføre Microsoft Copilot (NTNU, 2024) og for
-Politihøgskolen, som handlet om et KI-system
-for å identifisere og forhindre grooming på nettet
-(Datatilsynet, 2024).
-For mer informasjon om hvilken betydning KIforordningen har for norsk høyere utdanning, se
-HK-dirs veileder (HK-dir, 2026a).
-4.3.3 Personvern
-Retten til privatliv og til å bestemme over opplysninger om en selv er vernet gjennom den europeiske menneskerettskonvensjonen (EMK) art. 8
-om retten til respekt for privatliv og familieliv, og
-tilsvarende i Grunnloven § 102.
-Mens EMK og Grunnloven gir personvernet
-en overordnet forankring, inneholder EUs personvernforordning, General Data Protection Regulation (GDPR), et mer detaljert regelverk. Forordningen er gjennomført i norsk rett gjennom personopplysningsloven av 15. juni 2018 nr. 38. Som
-del av rammeverket for å beskytte individers personvern, inneholder GDPR også regler om automatisert saksbehandling (jf. kap. 4.3.4).
-Sentralt i GDPR står begrepet «personopplysning». Dette er «enhver opplysning om en identifi-
-
-[Side 63]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-61
-
-Kapittel 4
-
-Boks 4.4 Sentrale prinsipper i GDPR
-– dataminimering: personopplysninger skal
-GDPR art. 5 fastsetter grunnleggende prinsipvære adekvate, relevante og begrenset til det
-per for behandling av personopplysninger:
-– lovlighet, rettferdighet og åpenhet: personsom er nødvendig for formålene de behandopplysninger skal ha et gyldig rettslig
-les for
-grunnlag (lovlig), ikke brukes på en urime– riktighet: personopplysninger skal være korrekte og om nødvendig oppdaterte
-lig eller uventet måte overfor den det gjelder
-– lagringsbegrensning:
-personopplysninger
-(rettferdig), og den registrerte skal få klar
-skal lagres slik at det ikke er mulig å identifiog forståelig informasjon om behandlingen
-(åpen)
-sere de registrerte i lengre perioder enn det
-– formålsbegrensning:
-personopplysninger
-som er nødvendig for formålene som personopplysningene behandles for
-skal kun samles inn for spesifikke, uttrykke– integritet og konfidensialitet: personopplyslig angitte og berettigede formål og ikke videninger skal behandles på en måte som sikrer
-rebehandles på en måte som er uforenlig
-tilstrekkelig sikkerhet
-med disse formålene
-
-sert eller identifiserbar fysisk person («den registrerte») etter GDPR art. 4 nr. 1 (personvernforordningen).4 I norsk høyere utdanning behandles
-store mengder personopplysninger. Disse omfatter alt fra grunnleggende personopplysninger om
-studenter og ansatte som navn og fødselsnummer,
-til studieadministrative opplysninger som opptaksgrunnlag, eksamensbesvarelser, vurderingsnedtegnelser fra sensor, karakterer, studieprogresjon
-og fravær. Det kan være kameraovervåkning på
-campus og opptak av forelesninger eller eksamener. Noen ganger kan personopplysningene være
-sensitive, slik som helseopplysninger ved behov
-for tilrettelegging.
-GDPR avgjør hvorvidt og hvordan slike personopplysninger kan behandles, og etter hvilke
-sentrale prinsipper (se Boks 4.4). Noen av de
-mest grunnleggende bestemmelsene blir beskrevet i det følgende, med høyere utdanning som
-anvendelseskontekst.
-
-4
-
-EU-kommisjonen har i sitt forslag til Digital Omnibus fra
-november 2025 foreslått å begrense definisjonen til «personopplysninger» i GDPR art. 4 nr.1. Forslaget innebar
-blant annet at opplysningene ikke skal anses som personopplysninger for en bestemt aktør dersom denne aktøren
-ikke kan identifisere personen opplysningene gjelder.
-Dette er en endring fra et absolutt til et mer relativt og
-aktørbasert begrep. Forslaget er møtt med kritikk fra blant
-annet European Data Protection Board i februar 2026.
-Samme måned ble kommisjonens endringsforslag fjernet i
-Rådets kompromissutkast om den digitale omnibus, slik at
-det virker veldig lite sannsynlig at definisjonen til «personopplysninger» kommer til å bli innskrenket.
-
-Behandlingsgrunnlag
-Etter GDPR art. 6 må all behandling av personopplysninger ha et gyldig behandlingsgrunnlag,
-for eksempel en rettslig forpliktelse eller et samtykke.
-Universiteter og høyskoler kan etter universitets- og høyskoleloven § 2-8 behandle studenters
-personopplysninger når det er nødvendig for å
-utføre deres oppgaver etter loven, slik som for
-eksempel for lagring av eksamenskarakterer. I
-høyere utdanning vil behandlingen ofte være nødvendig for å oppfylle en rettslig forpliktelse.
-Denne generelle hjemmelen er ikke tilstrekkelig for inngripende former for behandling av personopplysninger: Jo mer inngripende behandlingen er, desto klarere og tydeligere må både lovhjemmelen og de tilhørende vilkårene være (personvernforordningen art. 6 nr. 3 jf. fortalepunkt
-41; Prop. 56 LS (2017–2018)). Den enkelte student
-skal kunne forstå hva som behandles, hvorfor, og
-hvordan. Dette gjelder etter utvalgets vurdering
-for eksempel ved tilsyn på digitale hjemmeeksamener, se kapittel 7.4.2.4.
-Studentens samtykke er sjelden egnet som
-behandlingsgrunnlag, ettersom GDPR art. 7 krever at samtykket skal være frivillig, informert og
-uttrykkelig. I et asymmetrisk maktforhold mellom
-en institusjon og student vil et samtykke normalt
-ikke kunne regnes som reelt frivillig, for eksempel når det blir en forutsetning for å gjennomføre
-studiet. Institusjonene må derfor vurdere om de
-har et egnet behandlingsgrunnlag.
-
-[Side 64]
-
-62
-
-NOU 2026: 14
-
-Kapittel 4
-
-Kunstig intelligens i høyere utdanning
-
-Institusjonene må kunne dokumentere at
-deres bruk av KI-systemer er lovlig, nødvendig og
-forholdsmessig. Dette inkluderer krav til innebygd personvern etter GDPR art. 255, kompetanseheving samt aktiv involvering av personvernombudet. Dersom en institusjon kjøper tilgang til en
-KI-modell eller et KI-system fra en leverandør, må
-den som behandlingsansvarlig inngå en databehandleravtale med leverandøren som behandler personopplysninger på deres vegne (GDPR
-art. 24 og 28; jf. Datatilsynet, u.å.-b).
-Sikker bruk av data
-Når universiteter og høyskoler behandler personopplysninger ved hjelp av tredjeparter eller
-ekstern skylagring, øker risikoen for datalekkasjer og ikke-autorisert tilgang. Selv tilsynelatende
-anonymiserte trenings- eller testdata kan ende
-med å bli sporet tilbake til enkeltpersoner, noe
-som innebærer en risiko for re-identifisering (Barberá, 2025, s. 32; Weitzenboeck et al., 2022; Yan et
-al., 2024). Etter GDPR art. 32 plikter institusjonene å sikre et passende sikkerhetsnivå basert
-på risikovurderinger. Når for eksempel studentarbeider lastes opp i eksterne KI-systemer, kan
-det innebære overføring av personopplysninger til
-tredjeland eller kommersielle aktører. Etter
-GDPR kapittel V krever slik overføring særskilt
-rettslig grunnlag og tilstrekkelige garantier.6 Lukkede systemer med kontroll over datalagring kan
-redusere risikoen.7
-Personvernkonsekvensvurdering
-Det kan være krav om at institusjonene gjennomfører en personvernkonsekvensvurdering (DPIA)
-etter GDPR art. 35. Dette er påkrevd når behandlingen sannsynligvis vil medføre høy risiko for de
-registrertes rettigheter og friheter, blant annet
-ved bruk av ny teknologi slik som KI-systemer.
-Dette betyr at terskelen er veldig lav for at det er
-påbudt å utarbeide en DPIA ved bruk av KI. En
-DPIA skal beskrive formålet med behandlingen av
-5
-
-6
-
-7
-
-Kravet om innebygd personvern etter GDPR art. 25 innebærer blant annet at den behandlingsansvarlige skal gjennomføre egnede tekniske og organisatoriske tiltak, f.eks.
-pseudonymisering eller dataminimering.
-Dersom dataene behandles på servere utenfor EØS, må
-institusjonen kunne vise til gyldig overføringsgrunnlag
-(GDPR art. 44–49), f.eks. EU-kommisjonens adekvansbeslutning eller standardavtaler.
-Ved skylagring må institusjonen oppfylle krav til databehandleravtale etter GDPR art. 28, informasjonssikkerhet
-etter GDPR art. 32 og eventuelt tredjelandsoverføring etter
-GDPR kap. V.
-
-personopplysninger, omfang og nødvendighet;
-risikoen for studentenes rettigheter; og tiltakene
-for å redusere risikoen, slik som dataminimering
-og sikkerhet.
-Grunnleggende spenninger mellom KI og personvern
-På grunn av egenskaper ved teknologien setter KI
-personvernet og kravene i GDPR under press på
-flere områder. Mens GDPR legger til grunn at
-minst mulig personopplysninger skal innhentes
-og at man skal ha kontroll over dataene, trenger
-KI-systemer store mengder treningsdata for å fungere best mulig. I tillegg kan personopplysninger
-bli delt ved bruk av systemene. Dataminimeringsprinsippet (GDPR art. 5 nr. 1 bokstav c) står dermed i spenning med en grunnleggende forutsetning for å utvikle KI-systemer.
-I tillegg skal personopplysninger samles inn
-for spesifikke, uttrykkelig angitte og berettigede
-formål etter formålbegrensingsprinsippet (GDPR
-art. 5 nr. 1 bokstav b). KI-systemer kan i utgangspunktet brukes til behandling av personopplysninger, men gjenbruk av personopplysninger til analyser utenfor formålet eller trening av KI-systemer
-forutsetter et utvidet formål og behandlingsgrunnlag.8
-Videre har den registrerte rett til innsyn, retting og sletting av personopplysningene sine. De
-statistiske mønstrene som modellen består av, gir
-imidlertid lite grunnlag for å se hva slags personopplysninger modellen sitter på. Når en modell
-først er trent, er det heller ikke noen enkel måte å
-slette personopplysningene som implisitt er bygget inn i modellen. Prinsippet om lagringsbegrensning står dermed også i spenning med hvordan KI-systemene blir utviklet.
-Til tross for disse iboende spenningene, legger KI-forordningen i art. 2 og fortalepunkt 10 til
-grunn at GDPR gjelder fullt ut for KI-systemer og
--modeller. Regelverkene er altså komplementære:
-mens GDPR i hovedsak regulerer individers personvern og rettigheter i møte med KI-systemer, er
-KI-forordningen en produktlovgivning som regulerer hvilke produkter som kan settes i drift og
-under hvilke forutsetninger (jf. kap. 4.3.2). Samtidig fastsetter KI-forordningen risikoreduserende
-tiltak som kan begrense visse personvernutfordringer. I forslaget til EUs digitale omnibus er det
-i tillegg foreslått endringer i GDPR, blant annet
-for å få kravene til å stemme bedre overens med
-8
-
-Avhengig av den konkrete konteksten kan det vurderes om
-personopplysninger kan behandles for et annet formål jf.
-GDPR art. 6 nr. 4.
-
-[Side 65]
-
-NOU 2026: 14
-Kunstig intelligens i høyere utdanning
-
-KI-forordningen og støtte KI-utvikling (EU-kommisjonen, 2026c).9 For konkrete anvendelser av
-GDPR i KI-kontekster viser utvalget til Datatilsynets regulatoriske sandkasser og rådgivende uttalelser (Datatilsynet, u.å.-a)
-
-4.3.4 Forvaltningsrett
-Den norske forvaltningsloven (1967) kommer til
-anvendelse når KI-systemer brukes i saksbehandlingen, for eksempel ved karaktersetting (et
-enkeltvedtak) eller karakterbegrunnelser. For
-lovens anvendelse på disse områdene viser utvalget til kapittel 7. Andre eksempler er institusjonenes enkeltvedtak om opptak, annullering av eksamen, utestengelse og skikkethet.
-Stortinget vedtok en ny forvaltningslov i juni
-2025, som er forventet å tre i kraft i 2027 (forvaltningsloven, 2025). I denne gjennomgangen viser
-utvalget til ny forvaltningslov.
-Riktighet
-Dersom KI-systemer brukes som beslutningsstøtte eller til å fatte beslutninger, er det særlig
-viktig å sikre at kravene til saklighet og likebehandling oppfylles.10
-Utredningsplikten i ny forvaltningslov § 44 stiller krav om forsvarlig utredning og riktige avgjørelser, ettersom «[f]orvaltningsorganet skal sørge
-for at saken er forsvarlig utredet før det fatter vedtak». Dersom et KI-system skal brukes (som
-støtte) til å fatte et forvaltningsvedtak, innebærer
-dette høye krav til systemets kvalitet, med henblikk på hva slags vedtak som skal fattes og på
-hvilket grunnlag. Riktighet av utdata er også
-avhengig av datakvalitet, noe som følger av GDPR
-art. 5 nr. 1 bokstav d: personopplysninger som
-brukes i beslutningsprosesser, skal være korrekte
-og oppdaterte. I tillegg søker KI-forordningen å
-begrense skjevheter i treningsdata og diskriminering gjennom krav til datakvalitet og egnethet til
-9
-
-Forslaget inneholder blant annet en innsnevret definisjon
-av personopplysninger (avvist av EUs medlemsland i
-Rådet), endringer i reglene om automatisert saksbehandling etter GDPR art. 22, et unntak for særlige kategorier
-personopplysninger i KI-kontekst og ved biometrisk autentisering. Forslaget er ikke ferdigbehandlet i EU. For en
-grundig gjennomgang av forslaget, se European Data Protection Board (2026).
-10
-Kravet til saklighet og likebehandling er grunnleggende
-ulovfestede forvaltningsrettslige prinsipper. De innebærer
-at forvaltningen må basere sine vurderinger på relevante
-og forsvarlige hensyn, og at like tilfeller skal behandles likt.
-Prinsippene utgjør en sentral rettssikkerhetsgaranti når KIsystemer brukes i saksbehandling.
-
-63
-
-Kapittel 4
-
-treningsdata som skal være relevante, representative, feilfrie og komplette (se Boks 4.3).
-Krav om åpenhet og begrunnelser
-Dersom KI-systemer skal brukes til å fatte enkeltvedtak i offentlig forvaltning, må det fremdeles
-være mulig å begrunne vedtaket i tråd med retten
-til begrunnelse etter ny forvaltningslov §§ 56 og
-57. En slik begrunnelse skal blant annet nevne
-hvilke faktiske omstendigheter som har hatt
-betydning for sakens utfall, og hvilke hensyn forvaltningsorganet særlig har lagt vekt på i sin vurdering. Begrunnelsen skal blant annet sette mottakeren i stand til å vurdere om vedtaket bør
-påklages.
-Svekket eller manglende transparens i KI-systemer kan skape utfordringer for retten til å imøtegå det forvaltningsrettslige grunnlaget for et
-vedtak og den demokratiske legitimiteten til
-offentlige avgjørelser. Dersom mottakere av et
-vedtak ikke kan forstå eller etterprøve de vurderingene som ligger bak, kan det svekke både den
-enkeltes rettssikkerhet og tilliten til myndighetsutøvere. KI-systemers underskudd på transparens
-og etterprøvbarhet utfordrer dermed de grunnleggende rettssikkerhetsprinsippene som forvaltningsretten bygger på. Samtidig kan bruk av KIsystemer føre til bedre klarspråk i begrunnelser
-og økt detaljeringsnivå, og i denne sammenhengen et økt forståelsesnivå.
-Det er også andre regelverk som setter rammer for når og hvordan man kan bruke KI-systemer, med henblikk på transparens og etterprøvbarhet. KI-forordningen inneholder blant annet
-et generelt krav om åpenhet, et innskjerpet åpenhetskrav for høyrisikosystemer og en rett til forklaring på individuelle avgjørelser av høyrisikosystemer (se Boks 4.3).11 Åpenhet er også regulert som et prinsipp i GDPR art. 5 nr. 1 bokstav
-a.12 Dette innebærer at den registrerte skal
-kunne forstå at sine personopplysninger behandles, hvorfor, hvordan og av hvem (GDPR art. 12–
-14).
-Nye regler om automatisert saksbehandling
-Den nye forvaltningsloven inneholder regler om
-automatisert saksbehandling. Disse er eksplisitt
-11
-
-12
-
-KI-forordningens krav til høyrisikosystemer om dokumentasjon og transparans byr på et godt grunnlag for å øke
-transparens, se Olsen et al. (2024, s.11).
-Se Power & Pastor (2024) for en sammenlikning av transparenskrav i GDPR og KI-forordningen.
+## Grunnleggende problemstillinger
+
+Universiteter og høyskoler er samfunnsinstitusjoner med et særlig ansvar for å utvikle, kvalitetssikre, forvalte og formidle kunnskap som et offentlig gode. Det fordrer etiske refleksjoner over teknologiens positive og negative effekter både på samfunns- og individnivå, som går ut over rene kost-/nyttevurderinger og juridiske avklaringer. Utfordringene spenner fra overordnede spørsmål om maktforhold, bærekraft og demokratiske verdier, til vurderinger av teknologiens pålitelighet, bruk av personopplysninger og åndsverk, og hvordan den påvirker menneskers tenkning, relasjoner og tillitsforhold. Samlet illustrerer disse perspektivene at KI-teknologi griper inn i sentrale verdier utdanningsinstitusjonene er satt til å forvalte.
+
+Menneskeverd og grunnleggende rettigheter står sentralt i diskusjoner om etiske prinsipper for kunstig intelligens, slik det blant annet kommer til uttrykk i EUs *Ethics Guidelines for Trustworthy AI* (EU Commission High-Level Expert Group on Artificial Intelligence, 2019). Disse retningslinjene understreker at KI-systemer skal brukes til gode for menneskeheten og fellesskapet, med mål om å forbedre menneskers velferd og frihet. Med utgangspunkt i internasjonale menneskerettigheter, EU-traktatene og EUs charter om grunnleggende rettigheter, utleder retningslinjene fire etiske prinsipper for pålitelig kunstig intelligens: respekt for menneskers autonomi, forebygging av skade, rettferdighet og forklarbarhet.
+
+Disse prinsippene leder frem til sju grunnleggende krav til pålitelig KI, nemlig menneskelig selvbestemmelse og kontroll; teknisk robusthet og sikkerhet; personvern og dataforvaltning; åpenhet; mangfold, ikke-diskriminering og rettferdighet; samfunnsmessig og miljømessig velferd samt ansvarlighet (EU Commission High-Level Expert Group on Artificial Intelligence, 2019, s. 14, 15–19). Selv om disse retningslinjene har hatt stor innflytelse, har pålitelig KI også blitt definert på andre måter og med andre elementer, og pålitelighet er ikke den eneste måten å ramme inn etisk KI på (Follesdal & Langford, 2026; Li et al., 2023).
+
+Flere av disse forholdene er også tett sammenvevde. For eksempel innebærer prinsippet om menneskelig autonomi at individer som forholder seg til KI-systemer skal kunne opprettholde reell selvbestemmelse og delta i demokratiske prosesser. Det forutsetter at KI-systemer ikke skal undertrykke, tvinge, bedra, manipulere, styre eller føre mennesker. Mennesker må derimot kunne kontrollere og styre arbeidsprosesser der KI inngår, og ha reel mulighet til å forstå, overprøve og avvise systemets forslag. Dette stiller på sin side krav til hvordan systemene fungerer rent teknisk, og hvordan de reguleres, forvaltes og brukes. Dessuten kan det være utfordrende å opprettholde alle sider ved pålitelighet på et høyt nivå samtidig: Bedre forklarbarhet kan gå på bekostning av nøyaktighet, og personvern på bekostning av ikke-diskriminering (Giudici et al., 2024; Hoch et al., 2024).
+
+I dette delkapittelet går vi inn på følgende temaer:
+
+- transparens, etterprøvbarhet og kontroll
+
+- samsvarsproblemet
+
+- formålstjenlig bruk, riktige avgjørelser og likebehandling
+
+- bruk av personopplysninger og åndsverk
+
+- bærekraft: klimautslipp, miljøpåvirkning og global fordeling
+
+- tillit, relasjoner, sosialt fellesskap og sosial ulikhet
+
+- avhengighet, kompetanseillusjon og kognitiv overgivelse
+
+- makt, offentlighet, påvirkning og idémangfold
+
+- digital suverenitet
+
+Temaene er ikke rangert etter viktighet, og noen av dem behandles mer utførlig i senere kapitler. I denne delen er formålet å gi en ramme for noen grunnleggende etiske avveininger UH-institusjonene må gjøre når KI-systemer tas i bruk, i lys av forskningslitteraturen og praksis. Samtidig griper KI-teknologien inn på så mange områder at de samlede etiske problemstillingene er flere og mer omfattende enn utvalget har anledning til å drøfte her.
+
+### Transparens, etterprøvbarhet og kontroll
+
+Å kunne ta ansvar for hvordan et KI-system brukes og resultatene det gir, forutsetter at man har kontroll over systemet. Det henger igjen sammen med hvilken evne man har til å forstå og eventuelt kunne påvirke eller etterprøve resultatene. En rekke internasjonale rammeverk for etisk KI, slik som UNESCOs *Recommendation on the Ethics of Artificial Intelligence* (2022), understreker betydningen av transparens og forklarbarhet for ansvarlig KI-bruk. Det handler ofte om rettssikkerhet, det å kunne utfordre beslutninger og få rettet opp feil, muligheten til å føre tilsyn, å kunne stille beslutningstakere til ansvar og om tillit til systemene.
+
+Et kjennetegn ved mange av dagens KI-systemer er at det kan være vanskelig å forstå hvordan de kommer frem til et gitt resultat. Maskinlæringsteknikker avdekker mønstre i store datamengder (se kap. 3), inkludert mønstre som ikke lar seg beskrive eller etterprøve av mennesker på en intuitiv måte. Årsaken er at modellene bygger på store sett av numeriske parametere som er justert ved bruk av komplekse algoritmer og et stort antall beregninger (Bellas et al., 2025). Dersom vi dessuten ikke har innblikk i hvilke data systemene er trent på og hvordan de har vært trent, blir systemene desto mindre transparente.
+
+Dermed kan systemene fungere som «svarte bokser», på to ulike måter:
+
+- For kommersielle KI-systemer ser vi hvilke data som går inn og hva som kommer ut, men ikke hva som skjer med dataene underveis.
+
+- Om vi har tilgang til selve modellen, kan vi inspisere alle operasjonene som utføres på inndataene i prosessen som fører til modellens svar. Dette er likevel ikke det samme som å kunne *forstå* *hva operasjonene representerer*.
+
+Vår mulighet til å forstå KI-systemer og deres atferd beskrives gjerne med begrepsparet «tolkbarhet» og «forklarbarhet» (Arrieta et al., 2020). Et KI-systems *tolkbarhet* dreier seg om i hvilken grad det er mulig for oss å forstå hvordan det virker eller tar beslutninger; dets indre logikk. Et KI-systems *forklarbarhet* dreier seg om hvor godt vi i interaksjon med systemet kan få forklaringer på resultatene systemet gir som utdata. Slik begrepene brukes her, er tolkbarhet en passiv egenskap man kan stadfeste ved å studere selve modellen, mens forklarbarhet er noe som aktivt må frembringes, enten av systemet selv eller ved hjelp av egne forklaringsmetoder (Arrieta et al., 2020). Forklarbarhet kan for eksempel oppnås gjennom at systemet gir forklaringer på hvert enkelt resultat det produserer (se Boks 4.1).
+
+Om en modell er så kompleks at det praktisk talt er umulig å få en god forståelse av hvordan ulike typer inndata gir ulike typer utdata, har det lav tolkbarhet. For eksempel er det ikke gitt hvordan svaret på spørsmålet «hvorfor svarte språkmodellen at denne oppgaven står til stryk?» skal produseres. Skal det være en gjenfortelling av de mange milliarder regneoperasjonene foretatt av språkmodellen, som rent mekanistisk var det som førte til utfallet? Det kan likevel være mulig at systemet rundt bygges med en funksjonalitet for å gi forklaringer på modellens atferd og hvorfor bestemte resultater blir til. Et helt system kan altså være forklarbart, selv om KI-modellen ikke er direkte tolkbar. Slike forklaringer gjenspeiler imidlertid ikke nødvendigvis hvordan systemet faktisk kom frem til resultatet.
+
+Svarte og hvite bokser
+
+I hvilken grad man har mulighet til å inspisere en maskinlæringsmodell og forstå hva som foregår på innsiden, er en nøkkelfaktor for hva modellen kan brukes til og hvordan resultatene kan brukes.
+
+- Hvit boks-algoritmer er maskinlæringsmodeller der alle steg i beslutningsprosessen er synlige og tolkbare. Ingenting er skjult, og resultatene kan enkelt etterprøves. Beslutningstrær, regelbaserte systemer og regresjonsmodeller er typiske eksempler. Slike systemer kan være viktige innen finans, helsevesen og til juridisk bruk.
+
+- Svart boks-algoritmer karakteriseres av høy kompleksitet og lav tolkbarhet. Beslutninger er skjult under flere lag av beregninger som ikke er direkte tolkbare. Empirisk ser vi at statistiske modeller med lav tolkbarhet ofte har høyere prediktiv ytelse, grunnet flere parametere og muligheten til å modellere komplekse sammenhenger. Nevrale nettverk, som utgjør ryggraden i moderne kunstig intelligens, er et typisk eksempel.
+
+Hybride tilnærminger tar sikte på å kombinere tolkbarhet og ytelse. Det kan gjøres på flere måter. Etter å ha trent en kompleks modell, kan man lage en enklere, mer tolkbar modell, en slags skygge som tilnærmer seg oppførselen til den originale modellen. Den vil ikke være like nøyaktig, men kan gi en bedre forståelse av hva som foregår under panseret.
+
+Forklarbar KI (*Explainable AI* eller *XAI*) er en annen tilnærming, som tar sikte på å gjøre også de mest komplekse modellene mer tolkbare, uten å ofre for mye ytelse. Verktøy som LIME og SHAP endrer ikke selve modellen, men viser hvilke variabler som bidrar sterkest til det endelige resultatet. Slik kan det bli enklere for mennesker å forstå modellens atferd. For å forstå hva som foregår på innsiden av modellen er mer avanserte tilnærminger nødvendige, som mekanistiske tolkninger (*mechanistic interpretability*).
+
+Kilde: Yadav (2024)
+
+\[Boks slutt\]
+
+Forklaring av hvorfor KI-modeller gir svarene de gir er et kun delvis løst forskningsspørsmål, og denne statusen gjør det vanskelig å kreve eller tilby etterprøvbarhet av KI-resultater. Dette har store konsekvenser for vurderinger knyttet til kontroll og ansvar. Manglende etterprøvbarhet kan begrense hva det er ønskelig eller forsvarlig å bruke systemene til, og hvordan.
+
+Gjennom 2026 har det blitt utviklet flere og mer kapable agentiske KI-systemer (jf. kap. 3). KI-agenter kan i større grad jobbe på egenhånd for å løse en oppgave, uten å involvere brukeren i hvert steg underveis. For agenter gjelder forklarbarhet ikke lenger bare ett enkelt svar, men en hel kjede av planer, verktøybruk og delbeslutninger (Chan et al., 2024). Det agenten har gjort, kan som regel spores i logger, mens hvorfor den valgte som den gjorde, er langt vanskeligere å få en pålitelig forklaring på. Jo mer komplekse og selvgående KI-systemene blir, desto større blir utfordringene knyttet til transparens, etterprøvbarhet og kontroll.
+
+### Samsvarsproblemet
+
+En KI-modell er i bunn og grunn et svært komplekst regnestykke, der det som kommer ut avhenger av det vi legger inn, og av hvordan modellen er satt sammen. Hvordan kan vi sikre at modellen oppfører seg i tråd med våre verdier, intensjoner og mål? Denne grunnleggende utfordringen kalles samsvarsproblemet (*the alignment problem*) (Christian, 2020; Teknologirådet, 2026). Samsvarsproblemet knytter seg både til skjevhet (jf. kap. 4.2.3), misforståtte mål og kompleksiteten i modellene.
+
+Dersom utviklere eller brukere gir KI-modellen mål eller instruksjoner som ikke er tilstrekkelig dekkende for det man ønsker å oppnå, kan KI-modellen innrette atferden sin mot feil mål eller utnytte spuriøse korrelasjoner, altså statistiske sammenhenger uten en logisk eller kausal forbindelse. Slik kan en modell for eksempel legge større vekt på å overbevise mennesker om at den har rett enn på å faktisk gi korrekt informasjon, for å oppnå et mål om brukertilfredshet. Utilstrekkelige målformuleringer kan også gi opphav til modeller som tar snarveier eller manipulerer miljøet sitt heller enn å løse den faktiske oppgaven. Det kan være at et KI-system oppnår mål det er trent eller instruert for, gjennom å bryte mange av de målene vi har, men som vi ikke har trent eller instruert systemet for. Hvordan formulere mål for KI-modeller som unngår slik ikke-samsvarende (*misaligned*) atferd og ivaretar alle interesser, er et uløst forskningsspørsmål.
+
+Misforståtte mål kan også være resultat av mer komplekse forhold i måten modellene bygges og trenes på. Teknikker som brukes til optimalisering kan innebære at modellen setter seg delmål eller stedfortredende mål som ikke nødvendigvis samsvarer med de overordnede målene (Bengio et al., 2026). Slike forhold, ofte omtalt som *mesa-optimalisering*, kan være vanskelige å undersøke.
+
+En konsekvens av dette er at KI-utviklere ikke fullt ut kan forutsi eller kontrollere atferden til den ferdige modellen i enhver gitt situasjon. Dermed er det en risiko for at KI-modellen utviser uventet eller skadelig atferd, enten som følge av hvordan målene er programmert, eller fordi systemet misforstår eller feiltolker målene det instrueres til å følge. Dette kan ha store konsekvenser knyttet til sikkerhet, pålitelighet og menneskelig kontroll.
+
+### Formålstjenlig bruk, riktige avgjørelser og likebehandling
+
+En KI-modell er trent opp på et utvalg av data, som sammen med målformuleringer og treningsprosessen danner grunnlaget for hvordan det behandler ny informasjon. Det medfører at systemet kan videreføre historiske skjevheter, belønne feil kriterier eller gi uforutsigbare resultater i nye situasjoner (Barocas et al., 2023). Dette kan føre til feilaktige vurderinger og vedtak når KI-systemer benyttes i beslutningsprosesser.
+
+Utfordringene er mange: Systemet kan basere seg på unøyaktige, ufullstendige, irrelevante eller uriktige data; det kan indirekte spore trekk som ikke skal ha betydning for vedtaket; det kan videreføre og forsterke systematiske skjevheter; det kan «hallusinere»; det kan brukes til andre formål enn det er trent for; og det kan introdusere nye former for forskjellsbehandling som er vanskelige å identifisere eller etterprøve. Dette kan føre til spørsmål om i hvilken grad et KI-system – og måten det tas i bruk på – kan ivareta idealer om rettferdighet, saklighet og likebehandling. Offentlig sektor har ifølge Likestillings- og diskrimineringsombudet et særlig ansvar for å sikre at maskinlæringssystemer som utvikles eller tas i bruk, fremmer likestilling og forebygger diskriminering (Strand, 2024).
+
+Samtidig er det ikke gitt at menneskelige vurderinger alltid ivaretar disse idealene bedre enn et KI-system. Også mennesker gjør feil, forskjellsbehandler og er inkonsekvente (Kahneman et al., 2021). Spørsmålet er ikke om mennesker eller maskiner i seg selv er mer pålitelige, men om beslutningsprosessen samlet sett er forsvarlig, rettferdig og etterprøvbar (Zerilli et al., 2019).
+
+#### Skjevhet
+
+Skjevhet, eller bias, er en kjent utfordring for databaserte modeller, inkludert maskinlæringsmodeller, og henger sammen med hvilke data modellen er trent på og hvilke justeringer utviklerne har gjort underveis. Historiske data er ikke nødvendigvis representative for nåsituasjonen modellen brukes på. Hvis datagrunnlaget for en modell gjenspeiler en systematisk forskjellsbehandling, vil modellen kunne videreføre og forsterke denne forskjellsbehandlingen. Skjevheter kan også skyldes at datagrunnlaget i sin helhet ikke er representativt, som når en språkmodell hovedsakelig er trent opp på vestlige, engelskspråklige datakilder, eller når en modell for ansiktsgjenkjenning er trent opp på bilder av bare én etnisk gruppe. Data kan være skjevfordelt mot bestemte interesser, ideologier eller synspunkter. Skjevheter kan også være resultat av en bevisst manipulering av datagrunnlaget. Videre kan de som utvikler modellen, tilsiktet eller utilsiktet, forårsake eller forsterke skjevheter i måten de veileder og finjusterer modellen på underveis i treningen.
+
+Skjevhet i vurdering
+
+Skal man trene opp en KI-modell til å vurdere studentbesvarelser, vil det være hensiktsmessig å trene den på tidligere besvarelser og vurderinger av dem. I slike tilfeller må man – både i utvikling og ved bruk av systemet – være oppmerksom på at enkelte trekk ved studentbesvarelsene historisk sett kan ha blitt underpremiert eller overpremiert. Sensorer kan ha gjort skjeve vurderinger av bestemte sosiale grupper – eksempelvis gjennom tekstmarkører som studentenes navn eller skrivestil. Dette er i så fall mønstre som kan gjenoppstå i modellens fremtidige vurderinger.
+
+Et annet eksempel er at KI-modeller kan ha språklige skjevheter og forskjellsbehandle studenter med andre morsmål, i en utdanningskontekst som kan være flerspråklig og internasjonal (Bulut et al., 2024; Ripoll Y Schmitz & Sonnleitner, 2025). Skjevheter i data som påvirker anbefalinger eller fører til unøyaktig sensur kan resultere i uforholdsmessige konsekvenser for visse studentgrupper (Bulut et al., 2024).
+
+I verste fall kan treningsmaterialet inneholde diskriminerende mønstre eller brudd på forbudet mot diskriminering, som systemet dermed risikerer å reprodusere (Strand, 2024) (jf. kap. 4.3.5).
+
+\[Boks slutt\]
+
+#### Hallusinering
+
+Responsen fra KI-systemer som bygger på store språkmodeller er basert på sannsynlighet for hvilke ord som følger hverandre. Nyere modeller resonnerer i flere steg og kan bruke verktøy som nettsøk til å kontrollere opplysninger. De kan likevel fortsatt gi svar som er språklig korrekte og overbevisende, men innholdsmessig uriktige. Dette omtales ofte med begrepet «hallusinering» og er et åpenbart problem hvis man benytter en samtalerobot til å finne faktaopplysninger eller kildehenvisninger til bruk i akademiske tekster. I tester hvor samtaleroboter får i oppgave å oppsummere spesifikke nyhetsartikler, lager modellene til store selskaper som Google og OpenAI oppdiktet informasjon i 3 prosent av tilfellene eller mer (Vectara, 2026). Når modellene skal svare på krevende faktaspørsmål, er andelen langt høyere (Sajadieh et al., 2026). Resonnering i flere steg har ikke løst problemet: Andelen feil har økt med de nyere resonnerende modellene (Vectara, 2026). Slike feil kan undergrave tilliten til systemene (Yan et al., 2024).
+
+For i størst mulig grad å unngå hallusinering, krever KI-forordningen nøyaktighet, forebygging av feil, et kvalitetsstyringssystem og menneskelig tilsyn (Schuster et al., 2025) (jf. kap. 4.3.2).
+
+### Bruk av personopplysninger og åndsverk
+
+#### Personopplysninger
+
+Personopplysninger er enhver opplysning om en identifiserbar fysisk person. Bruk av slike opplysninger er strengt regulert gjennom det europeiske personvernregelverket GDPR (jf. kap. 4.3.3). Personvern handler om maktforhold, tillit, valgfrihet og trygghet fra misbruk og overvåkning. Opplysninger samlet inn for ett formål kan være attraktive for bruk til et annet. Læringsdata er et illustrerende eksempel: Digitale læringsplattformer, eksamenssystemer, plagiatkontroll, videoløsninger, samtaleroboter og adaptive læringsverktøy kan samlet gi et detaljert bilde av studenters aktivitet, språk, progresjon, faglige usikkerhet og behov for støtte. Innsamling av slike data kan brukes til bedre oppfølging og tilrettelegging, men kan også oppleves som overvåkning og føre til selvsensur og redusert psykologisk trygghet (NOU 2023: 19). Spørsmålet er ikke bare om behandlingen er lovlig, men om den er nødvendig, forholdsmessig og forenlig med et godt læringsmiljø.
+
+Generativ KI kan forsterke denne typen utfordringer, både ved å legge til rette for at studentene avgir flere personopplysninger til systemene, og gjennom muligheten teknologien gir for å sammenstille, bearbeide og utnytte disse opplysningene.
+
+#### Åndsverk
+
+Åndsverk er resultater av menneskelig tankevirksomhet. Det kan typisk være litterære verk, filmer, musikkstykker eller kunstverk, men også avisartikler, podkaster, TV-innslag, akademiske tekster eller programmeringskode. Opphavsrett er retten til å kontrollere bruken av et åndsverk. Opphavsrettens etiske kjerne er anerkjennelse, kontroll over eget åndsverk, mulighet til inntekt og bærekraftige vilkår for skapende, vitenskapelig og journalistisk virksomhet.
+
+Generative KI-modeller er trent på store mengder tekst, bilder, lyd, video og kode som kan være beskyttet av opphavsrett, uten at utviklerne nødvendigvis har innhentet samtykke. Det reiser både etiske og juridiske spørsmål og har ført til søksmål i flere land (Dornis et al., 2026; op de Beeck, 2026). Som følge av treningen kan disse åndsverkene inngå i KI-systemer som senere konkurrerer med eller erstatter kreativt menneskelig arbeid. Da oppstår det spørsmål om hvem som får ta del i verdiskapingen, og om KI-modellenes bruk av åndsverk undergraver de samme kreative miljøene som treningen er avhengig av.
+
+Problemstillingen knytter seg også til prinsipper om akademisk redelighet, som tilsier anerkjennelse av andres vitenskapelige arbeid som grunnlag for nye funn, metoder og slutninger (se kap. 5 for eksempler). Videre kan den reise bekymringer om balansen mellom innovasjon og rettferdighet. En KI-modell kan være til fordel for samfunnet ved å gi tilgang til kunnskap fra en stor mengde vitenskapelig litteratur. Samtidig kan denne kunnskapen bygge på åndsverk fra opphavere som ikke har gitt tillatelse til eller mottatt kompensasjon for bruken. Selv om norske universiteter og høyskoler ikke nødvendigvis er juridisk forhindret fra å bruke slike modeller (jf. kap. 4.3.6), kan det være etisk problematisk å bruke produkter som er basert på krenkelse av andres rettigheter. Det kan alminneliggjøre plagiering og undergrave akademisk integritet (Farrokhnia et al., 2024).
+
+Det er mulig, om enn krevende, å bygge språkmodeller uten å komme i konflikt med opphavsrett. Nasjonalbiblioteket inngikk i desember 2025 en kollektiv avtale om bruk av innhold fra norske aviser til trening av norske og samiske språkmodeller (Nasjonalbiblioteket, 2025). Lignende arbeid pågår i andre europeiske land. I Nederland er språkmodellen GPT-NL trent utelukkende på materiale der opphavsretten er avklart (GPT-NL, u.å.).
+
+Andre spørsmål om opphavsrett oppstår når en bruker instruerer et KI-system til å generere nytt innhold. Det kan være uklart om resultatet er tilstrekkelig menneskeskapt til å få vern som åndsverk, hvem som eventuelt har rettigheter til det og om resultatet krenker andres opphavsrett. Dette er relevant når studenter og ansatte bruker KI-generert tekst, bilder, kode eller lyd i oppgaver, undervisning, forskning og formidling. Utfordringen er også institusjonell. Blant annet kan undervisningsmateriell, lærebøker og andre læreressurser, oppgaver og studentbesvarelser være opphavsrettslig beskyttet. Det er ikke gitt at materialet som er tilgjengelig internt i en læringsplattform kan brukes til trening av KI-modeller eller lastes opp til kommersielle KI-tjenester.
+
+### Bærekraft: klimautslipp, miljøpåvirkning og global fordeling
+
+Infrastrukturen og de globalene forsyningskjedene som kreves for å kunne utvikle, trene og kjøre KI-modeller, er omfattende. Databrikker laget av sjeldne mineraler, servere som fyller svære datasentre, vannbaserte kjølesystemer, fiberkabler og ikke minst behovet for store mengder elektrisk kraft gir både miljømessige og sosiale kostnader.
+
+Treningen av de mest komplekse modellene krever store mengder energi. Særlig med utviklingen av resonnerende modeller og agentiske systemer er bruken av KI-systemer blitt stadig mer energikrevende. Bruken av KI-systemer står i dag for vesentlig mer av den totale energikostnaden enn utviklingen av modeller. Mens rundt 380 millioner mennesker brukte dedikerte KI-systemer i 2025, øker antallet brukere dramatisk når funksjoner som Google-søk inkluderes. Med rundt 14–16 milliarder daglige søk, og KI-teknologi dypt integrert i funksjonaliteten, gjør Google alene mer enn en milliard mennesker til KI-brukere hver dag. Ifølge en rapport fra FN-organisasjonen United Nations University (UNU) utgjør den kontinuerlige bruken av KI-modellene rundt 80 til 90 prosent av det totale energiforbruket knyttet til KI (Aczel et al., 2026). Forbruket per forespørsel varierer stort og styres av mange faktorer: type oppgave, kompleksitet, modellstørrelse, kontekstvindu, lengden på instruksen, lengden på utdata og andre innstillinger.
+
+Beregnet global effektkapasitet for KI
+
+Grafen viser hvor mye strøm som ville gått med til å kjøre alle verdens KI-brikker levert av de største produsentene, på maksimal effekt. Den viser altså ikke det faktiske forbruket. Effektkapasiteten er beregnet utfra antall solgte brikker av ulike typer og deres oppgitte effektbehov (*thermal design power* – TDP). En faktor på rundt 2,5 er brukt for å ta høyde for ytterligere strømbehov til servere, kjøling og infrastruktur i datasentrene.
+
+Kilder: Edelman et al. (2026). Tilpasset og oversatt fra originalen. Lisens: CC BY. Norske tall fra NVE.
+
+Selv om forbedringer i maskin- og programvare kan gjøre treningen av nye modeller mer effektiv, oppveies dette ifølge forskningsinstituttet Epoch AI av en dramatisk økning i modellstørrelser, som gir mer kapable modeller og dermed større etterspørsel (Ostrovsky, u.å.).
+
+Datasentre spiller en rolle i nesten alle aspekter av et moderne hverdagsliv, fra videostrømming og nettspill til sosiale medier, netthandel og skytjenester. De er også ryggraden i KI-infrastrukturen. KI-bruk sto for rundt 20 prosent av datasentrenes strømforbruk i 2025 og er beregnet å øke til 40 prosent i 2030 (Aczel et al., 2026). Det vil i så fall kunne utgjøre 378 TWh – nesten tre ganger Norges årlige strømforbruk.
+
+Rapporten fra UNU fremhever at miljøvirkningene ikke bare avhenger av hvor mye elektrisitet modellene bruker, men også av hvor energien kommer fra. Hvordan kraften er produsert, har stor betydning for karbonutslipp, vannforbruk og hvor mye areal som berøres. Fordelingen mellom disse tre formene for miljøavtrykk varierer fra en energikilde til en annen. Derfor er det ikke tilstrekkelig å bruke bare ett mål på bærekraft, og det er ikke gitt at datasentre som bruker fornybar energi dermed kan regnes som «grønne», «rene» eller «bærekraftige» (Aczel et al., 2026).
+
+Beregnet ut fra globale gjennomsnitt vil KIs andel av det anslåtte energiforbruket til datasentrene i 2030 utgjøre et karbonfotavtrykk på 158 millioner tonn – tre og en halv gang Norges samlede klimagassutslipp i 2025. Vannfotavtrykket vil være på 3 700 milliarder liter, som tilsvarer det årlige vannbehovet til mer enn 500 millioner mennesker i Afrika sør for Sahara. Arealfotavtrykket vil utgjøre 5 744 km<sup>2</sup>, omtrent som Akershus fylke.
+
+KIs materielle fotavtrykk omfatter også maskinvare. Databrikker, servere, batterier og andre komponenter lages av kritiske mineraler og sjeldne jordarter. Utvinning av slike materialer er energiintensiv og miljøskadelig, og kan foregå under helsefarlige arbeidsforhold i land med dårlig økonomi og svake sosiale rettigheter. Når komponentene ikke er brukelige lenger, utgjør de farlig elektronisk avfall. I 2030 kan det elektroniske avfallet fra KI-infrastruktur komme opp i 2,5 millioner tonn hvert år, tilsvarende 250 Eiffeltårn (Aczel et al., 2026).
+
+Dette angår også global ulikhet, siden belastningene som følger av gruvedrift, kraftproduksjon, datasenterutbygging og elektronisk avfall, ofte går sterkest ut over utsatte grupper i de fattigste delene av verden. KI-systemenes fotavtrykk omfatter dessuten menneskelig arbeid med data. Treningsdata må renses, merkes og kvalitetssikres, og skadelig innhold må sorteres ut. Mye av dette arbeidet for de store språkmodellene utføres av dataarbeidere i lavinntektsland, med lav lønn, kortvarige oppdrag og svakt arbeidsrettslig vern (Gray & Suri, 2019; Muldoon et al., 2024). Gruppene i det globale sør som bærer disse og andre belastninger er gjerne de som i minst grad får ta del i gevinstene den nye teknologien bringer med seg i det globale nord.
+
+### Tillit, relasjoner, sosialt fellesskap og sosial ulikhet
+
+Nye teknologier virker inn på mennesker og samfunn, slik det har vist seg gjennom hele menneskets historie. Teknologien påvirker hvordan vi agerer, hvilke muligheter vi ser, valgene vi gjør og hvordan vi forholder oss til hverandre. Utviklingen og utbredelsen av generativ KI bringer nye dimensjoner inn i dette. Der massemedier, informasjons- og kommunikasjonsteknologier inntil nylig først og fremst har *mediert* menneskelig kommunikasjon, har KI-systemer i større grad potensiale til å etterlikne og *erstatte* menneskelig kommunikasjon. Det kan skje helt åpenlyst, eller i det skjulte.
+
+Usikkerheten som dermed oppstår kan ha stor innvirkning på mellommenneskelige relasjoner, men også på forholdet til institusjoner, virksomheter og myndigheter. Det berører fundamentale spørsmål om tillit, ansvarlighet og gjensidige forpliktelser – i ytterste konsekvens, samfunnskontrakten. Mennesker forholder seg ikke til maskiner på samme måte som de forholder seg til hverandre. En rapport om KI-bruk ved Massachusetts Institute of Technology advarer om negative reaksjoner fra studenter som etter å ha lagt tid og innsats i en innleveringsoppgave, opplever at den eneste tilbakemeldingen de får er fra en maskin. Det kan oppfattes som dobbeltmoral og en nedprioritering av undervisning (Massachusetts Institute of Technology, 2026) (se også kap. 6.4.3 og 6.4.4).
+
+Samtidig utgjør menneskeliggjøringen (antropomorfiseringen) av teknologien en egen utfordring. Ved å omtale KI-systemer som partnere, kolleger eller eksperter, kan man tilsløre at systemene ikke har ansvar, intensjoner, forståelse eller faglig dømmekraft. Dette kan bidra til uforsvarlig bruk av KI-løsninger, slik Østfold AI Hub advarer mot i sitt innspill til utvalget.
+
+Menneskelig kontakt og samspill ligger i kjernen av utdanningssystemet. Høyere utdanning handler om å utvikle faglig forståelse, dømmekraft, ansvarlighet, språk og identitet gjennom deltakelse i et faglig og sosialt fellesskap. Utdanningen skal ivareta langsomme, relasjonelle og kritiske læringsformer som ikke uten videre lar seg automatisere eller kommersialisere. Det utelukker ikke at KI-systemer kan støtte læring, men stiller krav til refleksjon omkring hva slags bruk som styrker studentenes selvstendighet, læring og deltakelse, og hva som kan svekke den.
+
+For noen vil KI-systemer først og fremst være frigjørende støtteverktøy som kan gi tilpasset læring, bedre inkludering og tilgjengelighet, og mindre tid brukt på rutineoppgaver. For andre kan den samme utviklingen fremstå som en trussel mot selvstendig læring, menneskelig kontakt og faglig modning. Kapittel 6 går nærmere inn på de ulike effektene bruk av KI-systemer kan ha på læring og læringsmiljø.
+
+KI-teknologien har også konsekvenser for sosial ulikhet ved at ikke alle mennesker har de samme forutsetninger for å bruke KI-systemer på en selvstendig, kritisk og læringsfremmende måte. Her virker en rekke selvforsterkende mekanismer inn gjennom det som i samfunnsvitenskapen ofte kalles Matteus-prinsippet: De som har mest fra før, får mest ut av nye muligheter, slik at forskjellene øker over tid (Merton, 1968). Dette gjelder i stor grad studenter som entrer høyere utdanning med ulike kulturelle, økonomiske, sosiale og intellektuelle ressurser, og derigjennom har ulike forutsetninger for å ta i bruk KI-systemer på fruktbare måter.
+
+### Avhengighet, kompetanseillusjon og kognitiv overgivelse
+
+Nyere forskning og pågående debatt tematiserer de psykologiske effektene av å bruke generative KI-systemer. Kooli et al. (2025) beskriver en form for avhengighet som kan følge av at generativ KI tilbyr positiv forsterkning, eskapisme, personifisering og en følelsesmessig tilknytning som illuderer et gjensidig forhold. Som andre former for avhengighet kan tilstanden gi en rekke negative følger både kognitivt, følelsesmessig og sosialt, og den kan være vanskelig å komme ut av. Det som særlig skiller KI-avhengighet fra andre typer digital avhengighet, og som kan forsterke de psykologiske effektene, er at generativ KI tilbyr noe mer enn passiv underholdning – den skaper noe sammen med brukeren.
+
+Når man får bedre prestasjoner av å ta i bruk KI-systemer, kan det styrke selvtilliten. Fernandes et al. (2026) finner at denne effekten kan gi en overdreven tro på egne evner, en tro på at prestasjonene er enda bedre enn de faktisk er. Forskerne sammenlikner resultatene med Dunning-Kruger-effekten, som går ut på at de med lavest kompetanse på et område overvurderer seg selv mest, mens de med høyest kompetanse vurderer seg selv mer treffsikkert. Med KI-bruk finner de at denne effekten elimineres, i den forstand at *alle* brukerne beveger seg mot overdreven selvtillit. En slik illusjon av at man er mer kompetent enn man faktisk er, kan ha flere negative følger, som å forsterke bekreftelsesfeller.
+
+En beslektet bekymring er at KI-systemer kan fremme det som omtales som kognitiv overgivelse – at brukeren i for stor grad overlater tenkning, vurdering og problemløsing til systemet (Shaw & Nave, 2026). Én oppfatning er at det kan henge sammen med hvordan KI-systemene utformes og måten de svarer på – om de legger til rette for dialog og kritisk vurdering av svarene de gir, eller om de bare gjør hele jobben for deg, som autonome KI-agenter (jf. kap. 3.4.4) (Mollick, 2026).
+
+Spørsmål som står igjen er hva disse effektene kan bety for tenkningen vår, følelsen av eierskap til det vi lager og forholdet vårt til egne vurderinger og dømmekraft.
+
+### Makt, offentlighet, påvirkning og idémangfold
+
+Digital teknologi er over tid blitt et stadig tydeligere maktmiddel, i takt med den omfattende digitaliseringen av samfunnets kritiske infrastruktur. KI forsterker denne tendensen ytterligere. Et fåtall globale aktører dominerer og legger i stor grad premissene for utviklingen (Sajadieh et al., 2026). Teknologien de kontrollerer har stor innvirkning på hverdagsliv, arbeidsplasser, utdanningsinstitusjoner, offentlig forvaltning og samfunnsliv. Den styrer informasjonsflyt og legger rammer for menneskelig samhandling, offentlig samtale og kritisk debatt. For universiteter og høyskoler berører det kjernen i dannelsesoppdraget. Hvem som kontrollerer tilgangen til kunnskap og rammene den formidles i, har avgjørende betydning. Normer og verdier som bygges inn i systemene, kan påvirke forskning, kunnskapsutvikling, faglig uavhengighet og akademisk debatt.
+
+KI påvirker kommunikasjon og informasjonsdeling, og dermed vilkårene for demokratisk deltakelse, offentlig samtale og kildekritikk. Algoritmene kan styre vår oppmerksomhet, fremheve noen kilder foran andre, moderere og personalisere innholdet vi ser, og favorisere følelsesutbrudd og engasjement fremfor langsomme analyser. Det har konsekvenser for hvilke perspektiver som får mest plass i debatten, oppfatninger av sannhet og måten mennesker møter uenighet på. Generative KI-systemer kan også brukes til bevisst manipulering ved å produsere desinformasjon i stor skala, og til målrettede påvirkningsforsøk mot bestemte grupper eller enkeltpersoner. Vanskeligheter med å skille mellom KI-generert og ekte bildemateriale, gjør faktabasert rapportering komplisert. Det kan svekke grunnlaget for en felles virkelighetsoppfatning, forsterke konflikter og forstyrre diplomatisk arbeid. Bruk av KI-systemer til direkte påvirkning av demokratiske valg er påvist i flere land (Ekspertgruppen for kunstig intelligens og valg, 2025).
+
+Høyere utdanning spiller en sentral rolle i å utvikle og forsvare demokratiet. KI gir både muligheter og utfordringer for å utvikle demokratisk kompetanse. Som læringsstøtte kan teknologien gi tilgang til bredere perspektiver gjennom å klargjøre fremmede kontekster og oversette kulturelle referanser (Costello et al., 2024). På den annen side kan teknologien endre hvordan og hvor dypt studentene går inn i komplekse og utfordrende argumentasjoner som kan utvikle deres interkulturelle og demokratiske forståelse. Det kan etter hvert svekke evnen til å se saker fra flere sider.
+
+Prinsippet om akademisk frihet innebærer å fritt kunne bestemme hva man vil forske på og hvordan, frihet til å formidle resultatene av forskningen og frihet til å legge opp sin undervisning (NOU 2022: 2). Det forutsetter blant annet tilgang til etablert vitenskapelig kunnskap, en ubegrenset frihet til å dele og formidle kunnskap og forskningsresultater og en åpen dialog med studenter og fagfeller. Integrering av bestemte KI-systemer i den akademiske virksomheten har potensiale til å forstyrre eller forvrenge denne tilgangen, formidlingen og debatten.
+
+Teknologien er ikke verdinøytral, men formet av datagrunnlaget den bygger på og konteksten den er utviklet i, og dette farger resultatene som kommer ut (Rettberg, 2024; Tao et al., 2024). Moderne søkemotorer benytter en rekke KI-teknikker for å forstå søk, vurdere og rangere resultater, filtrere bort spam og irrelevante treff, tolke bilder og videoer, og for å persontilpasse anbefalinger. I økende grad bruker de også generative KI-systemer for å presentere sammendrag eller svar. KI-modeller har dermed sterk påvirkning på hvilke kilder som blir synlige, hvilke spørsmål som fremstår relevante, og hvilke faglige tradisjoner som videreføres.
+
+Om studenter og undervisere i stor grad støtter seg på de samme systemene, kan det føre til standardisering av språk og argumentasjon, måten informasjon kobles sammen og analyseres på, og hvordan kunnskap formidles. Det kan på sikt utfordre det faglige mangfoldet.
+
+Akademisk frihet forutsetter også at studenter og ansatte kan utforske ideer, stille spørsmål og fremme kontroversielle eller upopulære synspunkter uten frykt for urimelige konsekvenser. Digitale produkter og systemer som kan misbrukes til overvåkning, lagring, sammenstilling og analyse av meningsytringer og diskusjoner, slik de for eksempel foregår i forelesninger eller kollokviegrupper, kan føre til selvsensur og redusert vilje til å prøve ut nye ideer eller utfordre etablerte oppfatninger. Slike nedkjølingseffekter kan bli sterkere dersom kroppsnær teknologi som smartbriller blir mer utbredt. Samme teknologi kan på den annen side bli et uunnværlig hjelpemiddel for noen grupper, for eksempel blinde og svaksynte, og styrke deres deltakelse i det akademiske fellesskapet.
+
+### Digital suverenitet
+
+Bevisstheten om samfunnets og institusjonenes sårbarhet overfor den teknologiske maktstrukturen er økende. Avhengigheten ble tydelig demonstrert i august 2025 da USA innførte sanksjoner mot dommere og aktorer i Den internasjonale straffedomstolen ICC, som reaksjon på at domstolen hadde utstedt en arrestordre på Israels statsminister (Sandven, 2026). I oktober 2026 utvidet USA sanksjonene mot domstolen (Heggland et al., 2026). Denne type politiske represalier synliggjør den digitale avhengigheten både Europa og andre deler av verden har til USA, og innebærer i seg selv et demokratisk problem. Enkeltpersoner, bedrifter, organisasjoner, institusjoner eller stater som kommer på kant med noen som sitter på en slik makt, risikerer å bli utsatt for det samme.
+
+Amerikanske myndigheters kontroll over viktig digital infrastruktur ble også åpenbar i juni 2026, da de brått innførte strenge eksportrestriksjoner på Anthropics nyeste språkmodeller. Restriksjonene ble opphevet et par uker senere, men bidro til å understreke behovet for å redusere avhengigheten til amerikanske teknologiselskaper (MarketScale Newsroom, 2026).
+
+Digital suverenitet er et vidt begrep som brukes om staters og institusjoners evne til å ha kontroll over egne data, digitale infrastrukturer og teknologiske valg. Digital suverenitet kan vurderes på ulike nivåer, som for eksempel europeisk, nasjonalt, sektorielt, institusjonelt og ned til enkeltindivider.
+
+Forretningsmodellene til kommersielle KI-leverandører bygger ofte på lite transparent innsamling av data og lukkede kildekoder. Dette står i spenning med åpenhetsidealene til universiteter og høyskoler, som skal tilgjengeliggjøre kunnskap som et felles gode.
+
+Dette reiser spørsmål om hvordan universitets- og høyskolesektoren kan sikre akademisk frihet, verdigrunnlag, etisk forsvarlig bruk, stabil tilgang til KI-systemer og langsiktig forutsigbarhet i et mer spent geopolitisk landskap.
+
+#### Avhengighet, innelåsning og sårbarhet
+
+Utvikling og drift av avanserte språkmodellbaserte KI-systemer er konsentrert hos et begrenset antall teknologiselskaper, primært lokalisert i USA, men også i Kina. Teknologien inngår i en bredere internasjonal konkurranse om økonomisk og strategisk dominans. Dette utgjør en geopolitisk kontekst der tilgang til, kontroll over og regulering av KI blir et strategisk instrument på linje med annen kritisk infrastruktur. For universitets- og høyskolesektoren innebærer dette at institusjonene kan bli avhengige av teknologier, infrastrukturer og forretningsmodeller som er underlagt andre staters lovgivning, verdimessige prioriteringer og sikkerhetspolitiske vurderinger.
+
+#### Datasikkerhet
+
+Universitets- og høyskolesektorens forvaltning av store datamengder gjør den utsatt for komplekse trusler, herunder målrettede cyberangrep fra så vel kriminelle grupper som statlige aktører. Nesten all bruk av KI-systemer innebærer anvendelse av store datamengder med påfølgende utfordringer for informasjonssikkerhet og personvern. Ved bruk av skytjenester kan data bli lagret i andre land og under andre lands jurisdiksjoner. Dette reiser spørsmål om hvem som har kontroll over og tilgang til dataene, og om de kan misbrukes, for eksempel til trening av KI-modeller uten samtykke.
+
+#### Muligheter for verdiskaping
+
+Ferdigutviklede KI-løsninger levert av store teknologiselskaper gir umiddelbare fordeler i form av tilgang til avanserte kapabiliteter og reduserte utviklingskostnader. Denne tilgjengeligheten kan svekke insitamentene for å utvikle institusjonenes egen forsknings- og utviklingskapasitet, kompetansebygging, innovasjon og verdiskaping. Bruk av kommersielle KI-tjenester kan dermed redusere KI-teknologiens potensial for også å kunne realiseres som lokal innovasjon bl.a. gjennom samspill mellom universitets- og høyskolesektoren og næringslivet.
+
+### Konklusjon
+
+Gjennomgangen viser at de etiske og strategiske problemstillingene ved utvikling og bruk av KI ligger på flere nivåer. Noen problemstillinger gjelder systemene selv: De er vanskelige å forstå og etterprøve, de kan forfølge andre mål enn de tiltenkte, og de kan videreføre skjevheter og gi uriktige svar. Andre gjelder grunnlaget systemene bygger på, som bruken av personopplysninger og åndsverk, forbruket av energi, vann og mineraler, og arbeidet som utføres. En tredje gruppe gjelder virkningene på mennesker og fellesskap: tillit og relasjoner i læringsmiljøet, sosial ulikhet, avhengighet og en overdreven tro på egen kompetanse. Den fjerde gjelder samfunnet: maktkonsentrasjon, vilkårene for offentlig samtale og akademisk frihet, og avhengighet av et fåtall utenlandske leverandører.
+
+Disse problemstillingene er ikke nødvendigvis argumenter mot å ta i bruk KI i høyere utdanning. Men de viser noe av hva som må til for at det skal være forsvarlig. Forutsetningene kan endre seg over tid. Flere av utfordringene har også en indre spenning. Teknologien som kan forsterke skjevheter, kan også gjøre skjevhetene lettere å oppdage. Systemene som kan svekke læring, kan også gi studenter tilbakemelding og støtte de ellers ikke ville fått. Prinsippene for pålitelig KI, som dette kapittelet tok utgangspunkt i, gir en ramme for å veie slike hensyn mot hverandre. Prinsippene selv kan ikke alltid oppfylles fullt ut samtidig, og avveiningene må gjøres i lys av alternativene. De juridiske rammene som gjennomgås i det følgende, setter grensene for dette handlingsrommet.
