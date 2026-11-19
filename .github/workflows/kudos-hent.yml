@@ -38,6 +38,7 @@ on:
 permissions:
   contents: write
   issues: write
+  actions: write
 
 concurrency:
   group: kudos
@@ -102,3 +103,13 @@ jobs:
           tekst="$(sed -n '/uten kortnavn/,$p' "$r")"
           nr=$(gh issue list --state open --search "in:title \"$tittel\"" --json number -q '.[0].number')
           if [ -n "$nr" ]; then gh issue edit "$nr" --body "$tekst"; else gh issue create --title "$tittel" --body "$tekst"; fi
+
+      # Filer som venter i innboksen på at dokumentet skal komme i Kudos, leses inn nå.
+      - name: Les inn filer som venter i innboksen
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git pull -q origin "${GITHUB_REF_NAME}"
+          ls innboks | grep -qviE '^(README|rapport)\.md$' || exit 0
+          gh workflow run innboks.yml --ref "${GITHUB_REF_NAME}"

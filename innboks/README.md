@@ -4,6 +4,8 @@ Legg en Word-fil (`.docx`), epub, ODT, RTF (også zip-fila med RTF som regjering
 
 **Filnavn.** Behold navnet filen har fra regjeringen.no, for eksempel `nou202520250001_kdddddocx.docx`. Det følger navnet på PDF-filen, så jobben finner riktig dokument. Har filen et annet navn, gi den tittelen i basen (for eksempel `NOU 2019 2.docx`) eller id-en: de åtte tegnene foran tittelen i filnavnet under `dokumenter/`.
 
+**Nye dokumenter.** Er dokumentet ikke i basen ennå, og filen har navnet fra regjeringen.no, legges det til automatisk: jobben henter det fra Kudos og leser så inn filen. Har ikke Kudos fått dokumentet ennå (det tar ofte noen dager), blir filen liggende med «venter» i `rapport.md` og leses inn etter den ukentlige hentingen.
+
 **Kontroll.** Ordtallet sammenlignes med PDF-teksten. Avviker det mye (under 70 eller over 150 prosent), leses filen ikke inn, fordi det kan være feil fil. Er den riktig, kjør jobben «Les inn filer fra innboksen» for hånd med «tving».
 
 **Resultat** står i `rapport.md` i denne mappen. Filer som ikke ble lest inn, blir liggende her.

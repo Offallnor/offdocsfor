@@ -7,8 +7,13 @@ i dokumenter/, eller hele KU-id-en) eller på tittelen (for eksempel «NOU 2019 
 «Meld. St. 14 (2022–2023).epub»). Teksten gjøres om med pandoc, med tabeller. Ordtallet kontrolleres
 mot PDF-teksten, så en feil fil ikke erstatter riktig dokument. Toppen av dokumentfilen med lenkene
 beholdes. Filer som er lest inn, slettes fra innboksen. Resultatet står i innboks/rapport.md.
+
+Er dokumentet ikke i basen, men filnavnet er fra regjeringen.no (nou2026 2026 0014, prp…, stm…), legges
+det til under «ta_med» i dokumenter.json, og innboks-nye.txt lages. Jobben henter det da fra Kudos og
+kjører innboksen på nytt. Har ikke Kudos fått dokumentet ennå, blir filen liggende til neste ukentlige
+henting.
 """
-import csv, os, re, subprocess, sys, tempfile, time, zipfile
+import csv, json, os, re, subprocess, sys, tempfile, time, zipfile
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import deling  # noqa: E402
@@ -60,6 +65,37 @@ def finn(navn, rader):
     return None, "fant ikke dokumentet; gi filen samme navn som tittelen (for eksempel «NOU 2019 2.docx») eller id-en"
 
 
+def tittel_fra_filnavn(navn):
+    """(type, tittel i ta_med) fra filnavnet på regjeringen.no, eller None."""
+    m = re.match(r"(nou|prp|stm)(\d{4})(\d{4})(\d{4})", os.path.splitext(navn)[0].lower())
+    if not m:
+        return None
+    art, a1, a2, nr = m.group(1), m.group(2), m.group(3), int(m.group(4))
+    if art == "nou":
+        return "NOU", f"NOU {a1}: {nr}"
+    if art == "stm":
+        return "Melding til Stortinget", f"Meld. St. {nr} ({a1}–{a2})"
+    return "Proposisjon til Stortinget", f"Prop. {nr} * ({a1}–{a2})"   # bokstaven (L, S, LS) står ikke i filnavnet
+
+
+def legg_til(navn):
+    """Legger dokumentet fra filnavnet til i ta_med. Returnerer tittelen og om den sto der fra før."""
+    fra_navn = tittel_fra_filnavn(navn)
+    if not fra_navn:
+        return None, False
+    t, tittel = fra_navn
+    p = os.path.join(ROT, "dokumenter.json")
+    tekst = open(p, encoding="utf-8").read()
+    oppsett = json.loads(tekst)
+    ta_med = oppsett["typer"].setdefault(t, {}).setdefault("ta_med", [])
+    if tittel in ta_med:
+        return tittel, True
+    ta_med.append(tittel)
+    with open(p, "w", encoding="utf-8") as f:
+        f.write(json.dumps(oppsett, ensure_ascii=False, indent=2) + ("\n" if tekst.endswith("\n") else ""))
+    return tittel, False
+
+
 def til_tekst(sti, fra):
     if fra == "zip":   # eldre dokumenter på regjeringen.no: RTF i zip (…/rtfz/…rtfz.zip)
         with zipfile.ZipFile(sti) as z, tempfile.TemporaryDirectory() as d:
@@ -95,12 +131,20 @@ def main():
     if not filer:
         print("Ingen filer i innboksen")
         return 0
-    rapport, lest = [], 0
+    rapport, lest, nye = [], 0, []
     for navn in filer:
         sti = os.path.join(INNBOKS, navn)
         r, grunn = finn(navn, rader)
         if not r:
-            rapport.append(f"- **{navn}**: ikke lest inn – {grunn}.")
+            tittel, fra_for = legg_til(navn)
+            if tittel and fra_for:
+                rapport.append(f"- **{navn}**: venter – «{tittel}» er ikke kommet i Kudos ennå. "
+                               "Filen leses inn etter den ukentlige hentingen når dokumentet er kommet.")
+            elif tittel:
+                nye.append(tittel)
+                rapport.append(f"- **{navn}**: venter – «{tittel}» er lagt til blant dokumentene som hentes fra Kudos.")
+            else:
+                rapport.append(f"- **{navn}**: ikke lest inn – {grunn}.")
             continue
         try:
             tekst = til_tekst(sti, FORMATER[os.path.splitext(navn)[1].lower()])
@@ -132,6 +176,9 @@ def main():
         f.write(f"# Siste kjøring av innboksen ({time.strftime('%Y-%m-%d %H:%M')})\n\n" + "\n".join(rapport) + "\n")
     with open(os.path.join(ROT, "innboks-melding.txt"), "w", encoding="utf-8") as f:
         f.write(f"Innboks: {lest} dokumenter lest inn, {len(filer) - lest} ikke\n")
+    if nye:
+        with open(os.path.join(ROT, "innboks-nye.txt"), "w", encoding="utf-8") as f:
+            f.write("\n".join(nye) + "\n")
     print("\n".join(rapport))
     return 0
 

@@ -9,7 +9,7 @@ tittel, år, eiere, utførere og lenker øverst. dokumenter.tsv er oversikten ov
 Dokumenter som er lagret fra før, hentes ikke på nytt. --diagnose skriver ut hva eksporten
 inneholder for de valgte typene, uten å lagre noe.
 """
-import csv, gzip, io, json, os, re, subprocess, sys, tempfile, time, unicodedata, urllib.request
+import csv, fnmatch, gzip, io, json, os, re, subprocess, sys, tempfile, time, unicodedata, urllib.request
 from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -260,6 +260,12 @@ def main():
                 t_ = (r.get("title") or "").strip()
                 if t_ in set(o.get("ta_med", [])):
                     return t_
+                # Innboksen legger inn «Prop. 33 * (2025–2026)» når bokstaven ikke står i filnavnet.
+                # Tankestrek og bindestrek regnes som like.
+                n_ = t_.replace("-", "–")
+                treff = next((s for s in o.get("ta_med", []) if fnmatch.fnmatchcase(n_, s.replace("-", "–"))), None)
+                if treff:
+                    return treff
                 return next((s for s in o.get("ta_med_start", []) if t_.lower().startswith(s.lower())), None)
             mine = [r for r in mine if nokkel(r)]
             # Samme tittel kan stå flere ganger (engelsk utgave, kopi uten sammendrag): behold én,

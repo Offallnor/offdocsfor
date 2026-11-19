@@ -31,6 +31,18 @@ jobs:
         run: sudo apt-get install -y -qq pandoc >/dev/null
       - name: Les inn
         run: python3 -I verktoy/innboks.py ${{ inputs.tving && '--tving' || '' }}
+      # Dokumenter som ikke var i basen, er lagt til i dokumenter.json (innboks-nye.txt):
+      # hent dem fra Kudos og les inn på nytt.
+      - name: Hent nye dokumenter fra Kudos
+        run: |
+          [ -f innboks-nye.txt ] || exit 0
+          cat innboks-nye.txt
+          rm innboks-nye.txt
+          sudo apt-get install -y -qq poppler-utils >/dev/null
+          python3 -I verktoy/kudos_hent.py --maks 20
+          rm -f kudos-rapport.txt
+          python3 -I verktoy/innboks.py ${{ inputs.tving && '--tving' || '' }}
+          rm -f innboks-nye.txt
       - name: Lagre
         run: |
           melding="$RUNNER_TEMP/melding.txt"
